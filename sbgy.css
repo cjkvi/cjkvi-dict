@@ -1,0 +1,30 @@
+table {
+        width: 100%; border-style: solid; border-top-width: 1px; border-bottom-width: 1px; border-left-width: 0; border-right-width: 0;
+}
+.head {
+        font-size: 200%;
+}
+.cancel_head {
+        font-size: 200%; text-decoration: underline overline line-through;
+}
+.cancel {
+        text-decoration: underline overline line-through;
+}
+.fanqie {
+        font-size: 80%; color: #101010; width:10%; text-align:right; vertical-align: bottom; background-color: #f0f0f0;
+}
+table {
+        width: 100%; border-style: solid; border-top-width: 1px; border-bottom-width: 1px; border-left-width: 0; border-right-width: 0;
+}
+.head {
+        font-size: 200%;
+}
+.cancel_head {
+        font-size: 200%; text-decoration: underline overline line-through;
+}
+.cancel {
+        text-decoration: underline overline line-through;
+}
+.fanqie {
+        font-size: 80%; color: #101010; width:10%; text-align:right; vertical-align: bottom; background-color: #f0f0f0;
+}

@@ -1,0 +1,94 @@
+# 六書音均表Schema
+# $Id: lsyj.rnc,v 1.1 2009/05/05 01:50:52 kawabata Exp $
+
+# book structure
+start = element book {
+  attribute title {text},
+  preface+,
+  catalogs,
+  preface+,
+  table+
+}
+
+preface = element preface {
+  element preface_title {text_note}?,
+  content
+}
+
+catalogs = element catalogs {
+  element catalogtitle {text},
+  element author {text_note},
+  element catalog {
+    attribute href {text},
+    text }+,
+  element word_num {text}
+}
+
+table = element table {
+  attribute id {xsd:ID},
+  element tabletitle {text},
+  element prevue {text_note}?,
+  (seventeen_parts | tone_parts | sorts | parts),
+  (midtitle | content)*,
+  element word_num {text},
+  element endtable {text_note}
+}
+
+seventeen_parts = element seventeen_parts {
+  element seventeen_part {
+    attribute id {xsd:ID},
+    element partname {text},
+    element fourtune {
+      attribute tune {text},
+      element rhythmic_entry {text}+
+    }+
+  }+
+}
+
+tone_parts = element tone_parts {
+  element tone_part {
+    attribute id {xsd:ID}?,
+    element partname {text_note},
+    element partial_tone {text_note}+,
+    element explanation {text}?
+  }+
+}
+
+sorts = element sorts {
+  element sort {
+    attribute id {xsd:ID}?,
+    element sortname {text},
+    element part_entry {text_note}+
+  }+
+}
+
+parts = element parts {
+  element part {
+    attribute id {xsd:ID}?,
+    element partname {text_note},
+    element verses {
+      (verse | sectsign)+, letter
+    }+,
+    element rhyme {
+      element rhymetitle {text_note},
+      (word | sectsign)+
+    }*
+  }+
+}
+
+verse = element verse {text2, note}
+
+word = element word {text_note}
+
+sectsign = element sectsign {text_note}
+
+letter = element letter {text}
+
+# text structure
+content = element content {text_note}
+midtitle = element midtitle {text}
+text_note = mixed { note* }
+note = element note { text2 }
+text2 = mixed {(origin_tune | synactic_tune)*}
+origin_tune = element origin_tune {text}
+synactic_tune = element synactic_tune {text}

@@ -1,0 +1,26 @@
+# 部分韻目Schema
+# $Id$
+
+# book structure
+start = element book {
+  attribute title {text},
+  preface,
+  rhyme+,
+  endtitle
+}
+
+preface = element preface {
+  text_note
+}
+
+rhyme = element rhyme {
+  element rhythmic_entry {text},
+  element wordhead {text,note}+
+}
+
+endtitle = element endtitle {
+  text_note
+}
+
+text_note = mixed { note* }
+note = element note { text }

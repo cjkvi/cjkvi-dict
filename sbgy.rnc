@@ -1,0 +1,116 @@
+# 校正宋本廣韻 Schema
+#   $Id: sbgy.rnc,v 1.1 2009/05/05 01:50:52 kawabata Exp $
+
+# Book Structure
+
+start = element book {
+  attribute title {text},
+  preface+,
+  old_preface,
+  volume+,	# five volumes
+  appendix,
+  element postscript {text}
+}
+
+preface = element preface {
+  element preface_title {text},
+  element content {text}
+}
+
+old_preface = element old_preface {
+  element preface_file {text},
+  element sect {
+    mixed {
+      element word_head {
+        word,
+        element fanqie {text}
+      }*
+    }}+
+}
+
+volume = element volume {
+  attribute id {xsd:ID},
+  element volume_title {text},
+  element catalog {
+    element rhythmic_entry {
+      element fanqie {text},
+      text,
+      element note {text}?
+    }+
+  },
+  element rhyme {
+    attribute id {xsd:ID}?,
+    element rhyme_num {text},
+    element voice_part {
+      attribute id {xsd:ID}?,
+      attribute ipa {text},
+      attribute onyomi {text},
+      word_head, (word_head | added_word)*
+    }+
+  }+,
+  element end_volume {text},
+  accession?
+}
+
+accession = element accession {
+  element accession_title {text},
+  element word_head {
+    word,
+    element fanqie {text2}
+  }+
+}
+
+appendix = element appendix {
+  (
+    element appendix_title {text},
+    element content {
+      mixed {element note {text2}*}
+    }+
+  )+,
+  element debate {
+    element debate_title {text},
+    element four_tone {
+      element qingzhuo {
+        element qingzhuo_title {
+          text,
+          element note {text}?
+        },
+        (word_head | added_word)+
+      }+
+    }+
+  }
+}
+
+# Text Structure
+# `fanqie' can appear either outside or inside of original_text section.
+text2 = mixed {
+  element fanqie {mixed {text2}}? &
+  (
+    element added_text {text} |
+    element original_text {
+      text2,
+      ( element rewrite_text {text2} | 
+        element check_note {text})
+    }
+  )*
+}
+
+word = mixed {
+  element original_word {
+    text,
+    ( element rewrite_word {text} |
+      element headnote {text} )
+  }?
+}
+
+word_head = element word_head {
+  attribute id {xsd:ID}?,
+  word,
+  element note {text2}
+}
+
+added_word = element added_word {
+  attribute id {xsd:ID}?,
+  word,
+  element added_note {text2}
+}

@@ -1,0 +1,6 @@
+table {
+        width: 100%; border-style: solid; border-top-width: 1px; border-bottom-width: 1px; border-left-width: 0; border-right-width: 0;
+}
+td.wordhead {
+        width: 20%; vertical-align:top; font-size:400%;
+}

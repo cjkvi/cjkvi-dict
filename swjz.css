@@ -1,0 +1,22 @@
+table {
+  border-style: solid; 
+  border-top-width: 1px; 
+  border-bottom-width: 1px; 
+  border-left-width: 0; 
+  border-right-width: 0;
+  width: 100%;
+}
+td.wordhead {
+  font-size: 400%;
+}
+td.body {
+  width: 80%;
+  vertical-align:top;
+}
+.explanation {
+  font-size: 200%;
+}
+.part_wordnum {
+  width: 100%; 
+  background-color: yellow;
+}
