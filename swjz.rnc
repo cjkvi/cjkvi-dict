@@ -1,0 +1,93 @@
+# 説文解字注 Schema
+#   $Id: swjz.rnc,v 1.2 2010/02/17 16:01:47 kawabata Exp $
+
+start = element book {volumes, attribute title {text}}
+
+volumes = element volumes {
+  preface,
+  element catalogs {
+    element catalogtitle {text},
+    (element volume_num {text}, 
+      element chaptertitle {attribute href {text}, text}+)+,
+    element endcatalogtitle {text_note}
+  },
+  chapter+,
+  chapter2+,
+  preface
+}
+
+preface = element preface {
+  (element prefacetitle {text}, 
+   element content {text_note} )+
+}
+
+# for volume 1-14
+chapter = element chapter {
+  element chaptertitle {attribute id {xsd:ID}, text_note},
+  author,
+  (shuowen+, part_wordnum?)+,
+  element volume_wordnum {text_note}?,
+  endchapter
+}
+
+# for volume 15
+chapter2 = element chapter {
+  element chaptertitle {attribute id {xsd:ID}, text_note},
+  author,
+  element shuowen {
+    text_note2,
+    element section {
+      element section_num {text},
+      element part_word {
+        element wordhead {pict_text},
+        text_note?
+      }+
+    }*
+  },
+  endchapter
+}
+
+pict_text = ( 
+  text |
+  element img {attribute src {text}, text}
+)
+
+shuowen = element shuowen {
+  (element wordhead {
+    attribute id {text}?, 
+    attribute img {text}?, 
+    pict_text
+  },
+    text_note2?)+
+}
+
+part_wordnum = element part_wordnum {
+  text_note
+}
+
+endchapter = (
+  author* &
+  element endchapter {text_note}? &
+  element addenda {
+    element addenda_title {text}?,
+    text_note2
+  }? &
+  element publishdate {text}?
+)
+
+author = element author {text_note}
+
+text_note  = mixed {duan_note*}
+
+text_note2 = ( (duan_note, (explanation, duan_note)*, explanation?)
+           | (explanation, (duan_note, explanation)*, duan_note?))
+
+explanation = element explanation {common_text}
+
+duan_note = element duan_note {mixed {common_text, note*}}
+
+note = element note {common_text}
+
+common_text = mixed {seal_script*}
+
+seal_script = element seal_script {text}
