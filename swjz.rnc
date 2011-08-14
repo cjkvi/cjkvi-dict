@@ -1,5 +1,5 @@
 # 説文解字注 Schema
-#   $Id: swjz.rnc,v 1.2 2010/02/17 16:01:47 kawabata Exp $
+#   $Id: swjz.rnc,v 1.3 2011/05/23 13:59:05 kawabata Exp $
 
 start = element book {volumes, attribute title {text}}
 
