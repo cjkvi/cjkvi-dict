@@ -1,13 +1,9 @@
 <?xml version="1.0"?>
-<!--
-本データは日本学術振興会科学研究費・基盤研究C「次世代古典文献データベー
-ス構築の基礎的研究」（平成14〜16年度、課題番号：14510494、研究代表者：
-村越貴代美）による成果の一部である。
--->
+<!--本データは日本学術振興会科学研究費・基盤研究C「次世代古典文献データベース構築の基礎的研究」（平成14〜16年度、課題番号：14510494、研究代表者：村越貴代美）による成果の一部である。-->
 <?xml-stylesheet href="lsyj.xsl" type="text/xsl"?>
 <book title="六書音均表">
 	<preface>
-		<content>韵書始萌芽於魏李登聲類。積三百餘年。至隋陸灋言切韵。梗槩之㳒乃具。然皆就其時之語言音讀。參校異同。定其遠近洪細。往往有意求密。而用意太過。强生區别。至如虞夏商周之文。六書之假𠎥諧聲。詩之比音協句。以成歌樂。茫乎未之考也。唐初因灋言𢰅本爲𨕖舉士人作律詩之用。視二百六韵中字數多者限以獨用。字數少者合比近兩韵或三韵同用。苟計字多寡而已。宋吳棫作韵補。於韵目下始有古通某、古轉聲通某之云。其分合最爲疎舛。鄭庠<!--⿸广⺸-->作古音辨。僅分陽支先虞尤覃六部。近崑山顧炎武㪅析東陽耕蒸而四。析魚歌而二。故𠛱十部。吾郡老儒江愼修永於眞已下十四韵、㑴已下九韵。各析而二。蕭宵肴豪及尤矦幽亦爲二。故𠛱十三部。古音之學以漸加𧨢如是。前九年段君若膺語余曰。支佳一部也。脂微齊皆灰一部也。之咍一部也。漢人猶未嘗淆𠎥通用。晉宋而後乃少有出入。迄乎唐之功令。支注脂之同用。佳注皆同用。灰注咍同用。於是古之截然爲三者䍐有知之。余聞而偉其所學之精。好古有灼見卓識。又言眞臻先與𧭺文殷魂𤶨爲二。尤幽與矦爲二。得十七部。今官於蜀地且數年。政事之餘優而成是書。曰六書音均表。凡爲表者五。𢰅述之意、表各有序說。旣𧨢之矣。其書始名詩經韵譜、羣經韵譜。嘉定錢學士曉徵爲之序。兹易其體𠊖。且增以新知十七部。葢如舊也。余昔感於其言五支六脂七之有分。癸巳春寓居浙東。取顧氏詩本音章辨句析。而諷誦乎經文。歎始爲之之不易。後來加𧨢者之信足以補其未逮。顧氏轉矦韵入虞。江氏轉虞韵字入矦。此江優於顧。然顧氏藥鐸有分。而江氏不分。此顧優於江。若夫五支異於六脂。猶淸異於眞也。七之又異於支脂。猶蒸又異於淸眞也。寔千有餘年莫之或省者。一旦理解。按諸三百篇劃然。豈非稽古大快事歟。時余畧記入聲之說。未暇卒業。今樂覩是書之成也。不惟字得其古人音讀。抑又多通其古義。許叔重之論假𠎥曰。本無其字。依聲託事。夫六經字多假𠎥。音聲失而假𠎥之意何以得。訓詁音聲、相爲表裏。訓詁明、六經乃可明。後儒語言文字未知。而輕憑臆解以誣聖亂經。吾懼焉。段君又有詩經小學、書經小學、說文考證、十七部古韵表等書。將繼是而出。視逃其難相與鑿空者、於治經孰得孰失也。乾隆丁酉孟春月。休寧戴震序。</content>
+		<content>韵書始萌芽於魏李登聲類。積三百餘年。至隋陸灋言切韵。梗槩之㳒乃具。然皆就其時之語言音讀。參校異同。定其遠近洪細。往往有意求密。而用意太過。强生區別。至如虞夏商周之文。六書之假𠎥諧聲。詩之比音協句。以成歌樂。茫乎未之考也。唐初因灋言𢰅本爲𨕖舉士人作律詩之用。視二百六韵中字數多者限以獨用。字數少者合比近兩韵或三韵同用。苟計字多寡而已。宋吳棫作韵補。於韵目下始有古通某、古轉聲通某之云。其分合最爲疎舛。鄭庠<!--⿸广⺸-->作古音辨。僅分陽支先虞尤覃六部。近崑山顧炎武㪅析東陽耕蒸而四。析魚歌而二。故𠛱十部。吾郡老儒江愼修永於眞已下十四韵、㑴已下九韵。各析而二。蕭宵肴豪及尤矦幽亦爲二。故𠛱十三部。古音之學以漸加𧨢如是。前九年段君若膺語余曰。支佳一部也。脂微齊皆灰一部也。之咍一部也。漢人猶未嘗淆𠎥通用。晉宋而後乃少有出入。迄乎唐之功令。支注脂之同用。佳注皆同用。灰注咍同用。於是古之截然爲三者䍐有知之。余聞而偉其所學之精。好古有灼見卓識。又言眞臻先與𧭺文殷魂𤶨爲二。尤幽與矦爲二。得十七部。今官於蜀地且數年。政事之餘優而成是書。曰六書音均表。凡爲表者五。𢰅述之意、表各有序說。旣𧨢之矣。其書始名詩經韵譜、羣經韵譜。嘉定錢學士曉徵爲之序。兹易其體𠊖。且增以新知十七部。葢如舊也。余昔感於其言五支六脂七之有分。癸巳春寓居浙東。取顧氏詩本音章辨句析。而諷誦乎經文。歎始爲之之不易。後來加𧨢者之信足以補其未逮。顧氏轉矦韵入虞。江氏轉虞韵字入矦。此江優於顧。然顧氏藥鐸有分。而江氏不分。此顧優於江。若夫五支異於六脂。猶淸異於眞也。七之又異於支脂。猶蒸又異於淸眞也。寔千有餘年莫之或省者。一旦理解。按諸三百篇劃然。豈非稽古大快事歟。時余畧記入聲之說。未暇卒業。今樂覩是書之成也。不惟字得其古人音讀。抑又多通其古義。許叔重之論假𠎥曰。本無其字。依聲託事。夫六經字多假𠎥。音聲失而假𠎥之意何以得。訓詁音聲、相爲表裏。訓詁明、六經乃可明。後儒語言文字未知。而輕憑臆解以誣聖亂經。吾懼焉。段君又有詩經小學、書經小學、說文考證、十七部古韵表等書。將繼是而出。視逃其難相與鑿空者、於治經孰得孰失也。乾隆丁酉孟春月。休寧戴震序。</content>
 	</preface>
 	<preface>
 		<content>予友金壇段君若膺六書音均表旣成。有問於予者曰。是書何以作。讀之將何用也。曰是書爲古音而作也。古今語言不同。古音不明。不獨三代秦漢有韵之文不能以讀。其無韵之文假𠎥轉注音義不能知。立乎今日而譯三代秦漢之音。是書爲之舌人也。曰鄭氏庠、陳氏第、顧氏炎武、江氏永之書何如。曰鄭氏諸人之書善矣。或分所當合。或合所當分。得是書而義始僃也。曰今官韵依劉淵之一百十七部。而顧氏、江氏及是書依陸氏灋言二百六部之舊。何也。曰必依二百六部之舊、而後可由今韵以推古韵也。如支脂之分爲三。尤與矦、元與魂𤶨、各分爲二。皆與三百篇合。而一百十七部者厺之遠也。曰是書何以於顧氏十部、江氏十三部之後確然定爲十七部也。曰詩三百篇之韵確有是十七部。而顧氏、江氏分析未僃。其平入分配多未審。是書上溯三百篇。下沿廣韵。廣韵分爲數韵、而三百篇合爲一韵者則爲一部。三百篇在此部、而廣韵𨔵入於他部。是爲古今音轉移不同。是書弟一表及弟四表、古本音之義也。然則一韵而廣韵析爲數韵者、何也。曰音之變也。冬鍾之侈而爲東。支脂之之侈而爲佳皆咍。耕淸之斂而爲靑。眞之斂而爲先。十七部皆有是也。弟二表何以作也。曰今韵於同一諧聲之偏㫄、而互見諸部。古音則同此諧聲、卽爲同部故古音可審形而定也。曰以古之本音正後人合韵協音之說之非矣。而仍言合韵、何也。曰古與今異部、是爲古本音。如丘謀尤古在之咍部、而今在尤幽部。曹荍茅滔古在尤幽部、而今在蕭宵肴豪部。是也。古與古異部而合用之、是爲古合韵。如母字古在之咍部、詩凡十七見、而蝃蝀協雨。興字古𡉄蒸登部、詩凡五見、而大明協林心。是也。知其分而後知其合。知其合而後愈知其分。凡三百篇及三代秦漢之音、硏求其所合。又因所合之多寡遠近及異平同入之處、而得其次弟。此十七部先後所由定。而弟三表及弟四表古合韵之義也。曰古四聲與今四聲不同、何也。曰古今部分之轉移不同若是。其四聲之轉移不同猶是也。其言表、何也。曰㬥諸外以示人也。是太史公十表之義也。其言音均、何也。曰古言均、今言韵也。韵韻皆不見於說文。而韵字則見於薛尙功所載曾矦鐘銘是也。其冠以六書、何也。曰知此而古指事象形諧聲會意之文舉得其部分。得其音韵。知此而古假𠎥轉注舉可通。故曰六書音均表也。然則讀之而苦其難、何也。曰於今韵則依廣韵部分。於字書則宗說文解字。於古音則竆三百篇及羣經有韵之文。於言古音之書則考顧氏音學五書、江氏古韵標準。以三百篇及周秦所用正漢魏以後轉移之音。而歷代音韵沿革源流以見。而陸氏部分之故以見。而顧氏、江氏之未協者以見。彼吳氏棫、楊氏愼、毛氏奇齡之書無論矣。問者曰。有是哉。遂書之以爲釋例。乾隆丁酉五月。南匯吳省欽沖之甫。</content>
@@ -28,11 +24,11 @@
 	</preface>
 	<preface>
 		<preface_title>戴東原先生來書</preface_title>
-		<content>大箸辨别五支六脂七之。如淸眞蒸三韵之不相通。能發自唐以來講韵者所未發。今春將古韵考訂一番。斷從此說爲確論。然𡙕管欲作序者屢。而苦於心不精。姑俟稍安閒爲之。目近極緐𢹎也。癸巳十月卅日。震頓首。</content>
+		<content>大箸辨別五支六脂七之。如淸眞蒸三韵之不相通。能發自唐以來講韵者所未發。今春將古韵考訂一番。斷從此說爲確論。然𡙕管欲作序者屢。而苦於心不精。姑俟稍安閒爲之。目近極緐𢹎也。癸巳十月卅日。震頓首。</content>
 	</preface>
 	<preface>
 		<preface_title>寄戴東原先生書<note>乙未十月</note></preface_title>
-		<content>玉裁自幼學爲詩。卽好聲音文字之學。甲戌、乙亥閒。從同邑蔡丈一帆遊。始知古韵大略。庚辰入都門。得顧亭林音學五書讀之。驚怖其考據之博。癸未遊於先生之門。觀所爲江愼修行略。又知有古韵標準一書與顧氏少異。然實未能㴱知之也。丁亥自都門歸。憶古韵標準所稱元寒桓刪山先仙七韵與眞𧭫臻文欣魂𤶨七韵、三百篇內分用。不如顧亭林、李天生所云自眞至仙古爲一韵之說。與舍弟玉成取毛詩細繹之。果信。又細繹之。眞臻二韵與𧭫文欣魂𤶨五韵、三百篇內分用。而江氏有未盡也。蕭宵肴豪與尤矦幽分用矣。又細繹之。則矦與尤幽三百篇內分用。而江氏有未盡也。支脂之微齊佳皆灰咍九韵自來言古韵者合爲一韵。及細繹之。則支佳爲一韵。脂微齊皆灰爲一韵。之咍爲一韵。而顧氏、江氏均未之知也。又細繹其平入之分配。正二家之踳駁。迻書詩經所用字。區别爲十七部。旣攷其出入、而得其本音。又𧨢其斂侈。而識其音變。又察其髙下遲速。而知四聲古今不同。又觀其會通。而知協音合韵自古而有。於諧聲推測其條理。於假𠎥轉注黙會其指歸。薶縕千年。一旦軒露。成詩經韵譜、羣經韵譜各一帙。己丑再至都門。程蕺園舍人賞之。苐其書𥳑略。無注釋。不可讀。是年冬寓法源寺側之蓮蕐<!--⿱艹-->菴。鍵戸燒石炭。從邵二雲孝廉𠎥書。竟爲注釋。每一部畢。孝廉輒取寫其福。至庚寅二月書成。錢辛楣<!--⿰木睂-->學士以爲鑿破混沌。爲作序。三月銓授貴州玉屏縣。壬辰四月三入都。時先生館於洪素人戸部之居。以是書請益。先生云。體裁尙未盡善。玉裁旋奉命發四川𠋫補。八月至蜀。後署理富順及南溪縣事。又辦理化林坪部務。王師申討金酋。儲偫輓輸。無敢稍懈怠。然每處分公事畢。漏下三鼓。輒篝鐙改竄是書以爲常。今年夏六月。偕同官朱雲駿入報銷局。興趣略同。暇益濳心商訂。九月書成。爲表五。一曰今韵古分十七部表。别其方位也。二曰古十七部諧聲表。定其物色也。三曰古十七部合用類分表。洽其恉趣也。四曰詩經韵分十七部表。臚其美富也。五曰羣經韵分十七部表。資其參證也。改名曰六書音均表。均卽古韵字也。鶡冠子曰。五聲不同均。成公綏曰。音均不恆。陶者以鈞作器。樂者以均審音。十七部爲音均。音均明而六書明。六書明而古經傳無不可通。玉裁之爲是書。葢將使學者循是以知假𠎥轉注。而於古經傳無疑義。而恐非好學㴱思尠能心知其意也。抑先生曾言尤矦兩韵可無用分。玉裁攷周秦漢初之文。矦與尤相近、而必獨用。先生又言十七部次弟不能㴱曉。支脂之析爲三部、能發自唐以來講韵者所未發。但何以不𠛱於一處。而以之弟一、脂弟十五、支弟十六。玉裁按十七部次弟出於自然。非有穿鑿。取弟三表細繹之。可知也。之咍音與蕭尤近。亦與蒸近。脂微齊皆灰音與𧭺文元寒近。支佳音與歌戈近。實韵理分劈之大耑。先生又言顧亭林平仄通押之說未爲非。所定四聲、似㪅張大甚。玉裁按今四聲不同古。猶古部分不同今。抽繹遺經雅記。𢀩可自信其非妄。以上三者皆不敢爲苟同之論。惟求硏審音韵之眞而巳。夫𨟍璞爾雅、注於烏尤。宋祁唐書、修於益州。玉裁入蜀數年。幸適有成書。而所爲詩經小學、書經小學說文考證、古韵十七部表諸書。亦漸次將成。今輒先寫六書音均表一部。寄呈座右。願先生爲之序。而糾其疵謬。則幸甚幸甚。玉裁頓首。</content>
+		<content>玉裁自幼學爲詩。卽好聲音文字之學。甲戌、乙亥閒。從同邑蔡丈一帆遊。始知古韵大略。庚辰入都門。得顧亭林音學五書讀之。驚怖其考據之博。癸未遊於先生之門。觀所爲江愼修行略。又知有古韵標準一書與顧氏少異。然實未能㴱知之也。丁亥自都門歸。憶古韵標準所稱元寒桓刪山先仙七韵與眞𧭫臻文欣魂𤶨七韵、三百篇內分用。不如顧亭林、李天生所云自眞至仙古爲一韵之說。與舍弟玉成取毛詩細繹之。果信。又細繹之。眞臻二韵與𧭫文欣魂𤶨五韵、三百篇內分用。而江氏有未盡也。蕭宵肴豪與尤矦幽分用矣。又細繹之。則矦與尤幽三百篇內分用。而江氏有未盡也。支脂之微齊佳皆灰咍九韵自來言古韵者合爲一韵。及細繹之。則支佳爲一韵。脂微齊皆灰爲一韵。之咍爲一韵。而顧氏、江氏均未之知也。又細繹其平入之分配。正二家之踳駁。迻書詩經所用字。區別爲十七部。旣攷其出入、而得其本音。又𧨢其斂侈。而識其音變。又察其髙下遲速。而知四聲古今不同。又觀其會通。而知協音合韵自古而有。於諧聲推測其條理。於假𠎥轉注黙會其指歸。薶縕千年。一旦軒露。成詩經韵譜、羣經韵譜各一帙。己丑再至都門。程蕺園舍人賞之。苐其書𥳑略。無注釋。不可讀。是年冬寓法源寺側之蓮蕐<!--⿱艹-->菴。鍵戸燒石炭。從邵二雲孝廉𠎥書。竟爲注釋。每一部畢。孝廉輒取寫其福。至庚寅二月書成。錢辛楣<!--⿰木睂-->學士以爲鑿破混沌。爲作序。三月銓授貴州玉屏縣。壬辰四月三入都。時先生館於洪素人戸部之居。以是書請益。先生云。體裁尙未盡善。玉裁旋奉命發四川𠋫補。八月至蜀。後署理富順及南溪縣事。又辦理化林坪部務。王師申討金酋。儲偫輓輸。無敢稍懈怠。然每處分公事畢。漏下三鼓。輒篝鐙改竄是書以爲常。今年夏六月。偕同官朱雲駿入報銷局。興趣略同。暇益濳心商訂。九月書成。爲表五。一曰今韵古分十七部表。別其方位也。二曰古十七部諧聲表。定其物色也。三曰古十七部合用類分表。洽其恉趣也。四曰詩經韵分十七部表。臚其美富也。五曰羣經韵分十七部表。資其參證也。改名曰六書音均表。均卽古韵字也。鶡冠子曰。五聲不同均。成公綏曰。音均不恆。陶者以鈞作器。樂者以均審音。十七部爲音均。音均明而六書明。六書明而古經傳無不可通。玉裁之爲是書。葢將使學者循是以知假𠎥轉注。而於古經傳無疑義。而恐非好學㴱思尠能心知其意也。抑先生曾言尤矦兩韵可無用分。玉裁攷周秦漢初之文。矦與尤相近、而必獨用。先生又言十七部次弟不能㴱曉。支脂之析爲三部、能發自唐以來講韵者所未發。但何以不𠛱於一處。而以之弟一、脂弟十五、支弟十六。玉裁按十七部次弟出於自然。非有穿鑿。取弟三表細繹之。可知也。之咍音與蕭尤近。亦與蒸近。脂微齊皆灰音與𧭺文元寒近。支佳音與歌戈近。實韵理分劈之大耑。先生又言顧亭林平仄通押之說未爲非。所定四聲、似㪅張大甚。玉裁按今四聲不同古。猶古部分不同今。抽繹遺經雅記。𢀩可自信其非妄。以上三者皆不敢爲苟同之論。惟求硏審音韵之眞而巳。夫𨟍璞爾雅、注於烏尤。宋祁唐書、修於益州。玉裁入蜀數年。幸適有成書。而所爲詩經小學、書經小學說文考證、古韵十七部表諸書。亦漸次將成。今輒先寫六書音均表一部。寄呈座右。願先生爲之序。而糾其疵謬。則幸甚幸甚。玉裁頓首。</content>
 	</preface>
 	<table id="t1">
 		<tabletitle>今韵古分十七部表　　　　六書音均表一</tabletitle>
@@ -416,26 +412,24 @@
 		</seventeen_parts>
 		<midtitle>弟一部弟十五部弟十六部分用說</midtitle>
 		<content>廣韵上平七之十六咍、上聲六止十五海、厺聲七志十九代、入聲二十四職二十五德爲古韵弟一部。上平六脂八微十二齊十四皆十五灰、上聲五旨七㞑十一薺十三駭十四賄、厺聲六至八未十二霽十三祭十四泰十六怪十七夬十八隊二十廢、入聲六術八物九迄十月十一𣳚十二曷十三末十四黠十五鎋十七薛爲古韵弟十五部。上平五支十三佳、上聲四紙十二蟹、厺聲五寘十五卦、入聲二十陌二十一麥二十二㫺二十三錫爲古韵弟十六部。</content>
-		<content>五支、六脂、七之三韵自唐人功令同用。鮮有知其當分者矣。今試取詩經韵表弟一部、弟十五部、弟十六部觀之。其分用乃截然。且自三百篇外。凡羣經有韵之文及楚騷諸子秦漢六朝詞章所用。皆分别謹嚴。隨舉一章數句無不可證。或有二韵連用而不辨爲分用者。如詩相鼠二章齒止俟、弟一部也。三章體禮死、弟十五部也。魚麗二章鱧旨、弟十五部也。三章鯉有、弟一部也。板五章懠毗迷尸屎葵資師、弟十五部也。六章箎圭攜、弟十六部也。孟子引齊人言雖有智慧二句、弟十五部也。雖有鎡基二句、弟一部也。屈原賦寧與騏驥抗軶二句、弟十六部也。寧與黃鵠比翼二句、弟一部也。秦琅邪臺刻石自維卄六年至莫不得意凡二十四句。以始紀子理士海事富志字載意韵、弟一部也。自應時動事至莫不如畫凡十二句。以帝地懈辟易畫韵、弟十六部也。倘以相鼠齒與禮死成文、魚麗鯉與旨爲韵。則自亂其例而非韵。玉裁讀坊本詩經竹竿二章泉源在左。淇水在右。女子有行。遠父母兄弟。每疑右爲古韵弟一部字。弟爲弟十五部字。二字古鮮合用。及考唐石經、宋本集傳、明國子監注疏本皆作遠兄弟父母。而後其疑豁然。三部自唐以前分别最嚴。葢如眞文之與庚靑與㑴。稍知韵理者皆知其不合用也。自唐初功令不察。支脂之同用。佳皆同用。灰咍同用。而古之畫爲三部始湮𣳚不傳。迄今千一百餘年。言韵者莫有見及此者矣。</content>
-		<content>古七之字多轉入於尤韵中。而五支六脂則無有。此三部分别之大槩也。</content>
+		<content>五支、六脂、七之三韵自唐人功令同用。鮮有知其當分者矣。今試取詩經韵表弟一部、弟十五部、弟十六部觀之。其分用乃截然。且自三百篇外。凡羣經有韵之文及楚騷諸子秦漢六朝詞章所用。皆分別謹嚴。隨舉一章數句無不可證。或有二韵連用而不辨爲分用者。如詩相鼠二章齒止俟、弟一部也。三章體禮死、弟十五部也。魚麗二章鱧旨、弟十五部也。三章鯉有、弟一部也。板五章懠毗迷尸屎葵資師、弟十五部也。六章箎圭攜、弟十六部也。孟子引齊人言雖有智慧二句、弟十五部也。雖有鎡基二句、弟一部也。屈原賦寧與騏驥抗軶二句、弟十六部也。寧與黃鵠比翼二句、弟一部也。秦琅邪臺刻石自維卄六年至莫不得意凡二十四句。以始紀子理士海事富志字載意韵、弟一部也。自應時動事至莫不如畫凡十二句。以帝地懈辟易畫韵、弟十六部也。倘以相鼠齒與禮死成文、魚麗鯉與旨爲韵。則自亂其例而非韵。玉裁讀坊本詩經竹竿二章泉源在左。淇水在右。女子有行。遠父母兄弟。每疑右爲古韵弟一部字。弟爲弟十五部字。二字古鮮合用。及考唐石經、宋本集傳、明國子監注疏本皆作遠兄弟父母。而後其疑豁然。三部自唐以前分別最嚴。葢如眞文之與庚靑與㑴。稍知韵理者皆知其不合用也。自唐初功令不察。支脂之同用。佳皆同用。灰咍同用。而古之畫爲三部始湮𣳚不傳。迄今千一百餘年。言韵者莫有見及此者矣。</content>
+		<content>古七之字多轉入於尤韵中。而五支六脂則無有。此三部分別之大槩也。</content>
 		<content>職德爲弟一部之入聲。術物迄月𣳚曷末黠鎋薛爲弟十五部之入聲。陌麥㫺錫爲弟十六部之入聲。顧氏於三部平聲旣合爲一。故入聲亦合爲一。古分用甚嚴。卽唐初功令陌麥㫺同用、錫獨用、職得同用。亦未若平韵之掍合五支六脂七之爲一矣。</content>
 		<midtitle>弟二部弟三部分用說</midtitle>
 		<content>下平三蕭四宵五肴六豪、上聲二十九篠三十小三十一巧三十二晧、厺聲三十四嘯三十五笑三十六效三十七號爲古韻弟二部。十八尤二十幽、上聲四十四有四十六黝、厺聲四十九宥五十一幼、入聲一屋二沃三燭四覺爲古韵弟三部。詩經及周秦文字分用畫然。顧氏誤合爲一部。江氏古韵標準旣正之矣。</content>
-		<content>顧氏於平聲合二部爲一。故弟二部之字轉入於弟三部入聲者、不能分别而箋識之也。</content>
+		<content>顧氏於平聲合二部爲一。故弟二部之字轉入於弟三部入聲者、不能分別而箋識之也。</content>
 		<content>弟三部之入聲、顧氏割其半入魚模韵。如屋讀烏、獨讀𨑒之類。皆漢後之轉音。非古本音。卽以侯合魚之誤也。</content>
 		<midtitle>弟三部弟四部弟五部分用說</midtitle>
-		<content>下平十九矦、上聲四十五厚、厺聲五十𠋫爲古韵弟四部。上平九魚十虞十一模、上聲八語九麌十姥。厺聲九御十遇十一暮、入聲十八藥十九鐸爲古韵弟五部。詩經及周秦文字分用畫然。顧氏誤合矦於魚爲一部。江氏又誤合矦於尤爲一部。皆攷之未精。顧氏合矦於魚、其所引據皆漢後轉音。非古本音也。矦古音近尤、而别於尤。近尤、故入音同尤。别於尤、故合諸尤者亦非也。</content>
-		<content>弟二弟三弟四弟五部、漢以後多四部合用。不甚區分。要在三百篇故較然畫一。載馳之驅矦、不連下文悠曹憂爲一韵。山有蓲之蓲榆婁驅愉、不連下章栲杻埽考保爲一韵。南山有臺之枸楰耇後、不連上章栲杻壽茂爲一韵。左氏傳專之渝攘公之羭<!--⿰⺸俞-->、不與下文蕕臭爲一韵。此弟四部之别於弟三部也。株林之駒株、不與馬野爲一韵。板之渝驅、不與怒豫爲一韵。史記甌寠滿溝、不與汙邪滿車爲一韵。此弟四部之别於弟五部也。</content>
-		<content>古弟二部之字多轉入於屋覺藥鐸韵中。弟三部之字多轉入於蕭宵肴豪韵中。弟四部之字多轉入於虞韵中。弟五部平聲之字多轉入於麻韵中。入聲之字多轉入於陌麥㫺韵中。此四部分别之大槩也。</content>
+		<content>下平十九矦、上聲四十五厚、厺聲五十𠋫爲古韵弟四部。上平九魚十虞十一模、上聲八語九麌十姥。厺聲九御十遇十一暮、入聲十八藥十九鐸爲古韵弟五部。詩經及周秦文字分用畫然。顧氏誤合矦於魚爲一部。江氏又誤合矦於尤爲一部。皆攷之未精。顧氏合矦於魚、其所引據皆漢後轉音。非古本音也。矦古音近尤、而別於尤。近尤、故入音同尤。別於尤、故合諸尤者亦非也。</content>
+		<content>弟二弟三弟四弟五部、漢以後多四部合用。不甚區分。要在三百篇故較然畫一。載馳之驅矦、不連下文悠曹憂爲一韵。山有蓲之蓲榆婁驅愉、不連下章栲杻埽考保爲一韵。南山有臺之枸楰耇後、不連上章栲杻壽茂爲一韵。左氏傳專之渝攘公之羭<!--⿰⺸俞-->、不與下文蕕臭爲一韵。此弟四部之別於弟三部也。株林之駒株、不與馬野爲一韵。板之渝驅、不與怒豫爲一韵。史記甌寠滿溝、不與汙邪滿車爲一韵。此弟四部之別於弟五部也。</content>
+		<content>古弟二部之字多轉入於屋覺藥鐸韵中。弟三部之字多轉入於蕭宵肴豪韵中。弟四部之字多轉入於虞韵中。弟五部平聲之字多轉入於麻韵中。入聲之字多轉入於陌麥㫺韵中。此四部分別之大槩也。</content>
 		<content>左氏傳鸜鵒童謠。首二句鵒辱及末二句鵒哭、弟三部也。羽野馬、弟五部也。跦矦襦、弟四部也。巢遙勞驕、弟二部也。一謠而可識四部之分矣。</content>
 		<midtitle>弟五部弟十六部入聲分用說</midtitle>
 		<content>弟五部入聲與弟十六部入聲、周秦漢人分用。㬜宋而下多以弟五部入聲之字韵入於弟十六部。鄭氏合藥陌錫爲一部。未爲審矣。</content>
 		<midtitle>弟六部獨用說</midtitle>
-		<content>下平十六蒸十七登、上聲四十二拯四十三等、厺聲四十七證四十八嶝爲古韵弟六部。自古獨用無異辭。鄭庠<!--⿸广⺸-->合諸庚靑爲一部。其說甚疏。而南宋劉淵併證嶝入徑韵。元陰時夫併拯等入迥韵。爲唐功令所未議合。而以臆見誤合之者。
-</content>
+		<content>下平十六蒸十七登、上聲四十二拯四十三等、厺聲四十七證四十八嶝爲古韵弟六部。自古獨用無異辭。鄭庠<!--⿸广⺸-->合諸庚靑爲一部。其說甚疏。而南宋劉淵併證嶝入徑韵。元陰時夫併拯等入迥韵。爲唐功令所未議合。而以臆見誤合之者。</content>
 		<midtitle>弟七部弟八部分用說</midtitle>
-		<content>下平二十一㑴二十四鹽二十五添、上聲四十七𡪢五十琰五十一忝、厺聲五十二沁五十五𧰚五十六㮇、入聲二十六緝二十九葉三十怗爲古韵弟七部。下平二十二覃二十三談二十六咸二十七銜二十八嚴二十九凡、上聲四十八感四十九敢五十二豏五十三檻五十四儼五十五范、厺聲五十三勘五十四闞五十七陷五十八鑑五十九釅六十梵、入聲二十七合二十八盇三十一洽三十二狎三十三業三十四乏爲古韵弟八部。
-<note>廣韵平上厺入末四韵、其次弟本如是。唐功令鹽添同用、咸銜同用、嚴凡同用。上聲琰忝同用、豏檻同用、儼范同用。厺聲𧰚㮇同用、陷鑑同用、釅范同用。入聲葉怗同用、洽狎同用、業乏同用。宋景德四年。崇文院上校定切韵五卷。明年大中祥<!--⿰示⺸-->符元年。勅<!--⿰朿力-->改名大宋重修廣韵。同用獨用皆仍唐舊。粤三十一年爲景祐四年。修禮部韵略。以賈昌朝請。韵窄者凡十三處許令附近通用。葢合嚴於鹽添、合凡於咸銜、合儼於琰忝、合范於豏檻、合釅於𧰚㮇、合梵於陷鑑、合業於葉怗、合乏於洽狎、并合欣於文、合隱於吻、合焮於問、合迄於物、又合廢於隊代。爲十有三處。今廣韵上厺聲末四韵各本改同禮部韵略及集韵。與平入聲齟齬。此係禮部韵略頒行後。檢廣韵者依新例塗改。遂相沿舛謬。幸其參𢀩不治。尙可稽尋。𧨢見聲韵攷。</note>詩三百篇分用畫然。漢以後乃多合用。非三百篇卽合用也。顧氏合而一之。江氏旣正之矣。</content>
+		<content>下平二十一㑴二十四鹽二十五添、上聲四十七𡪢五十琰五十一忝、厺聲五十二沁五十五𧰚五十六㮇、入聲二十六緝二十九葉三十怗爲古韵弟七部。下平二十二覃二十三談二十六咸二十七銜二十八嚴二十九凡、上聲四十八感四十九敢五十二豏五十三檻五十四儼五十五范、厺聲五十三勘五十四闞五十七陷五十八鑑五十九釅六十梵、入聲二十七合二十八盇三十一洽三十二狎三十三業三十四乏爲古韵弟八部。<note>廣韵平上厺入末四韵、其次弟本如是。唐功令鹽添同用、咸銜同用、嚴凡同用。上聲琰忝同用、豏檻同用、儼范同用。厺聲𧰚㮇同用、陷鑑同用、釅范同用。入聲葉怗同用、洽狎同用、業乏同用。宋景德四年。崇文院上校定切韵五卷。明年大中祥<!--⿰示⺸-->符元年。勅<!--⿰朿力-->改名大宋重修廣韵。同用獨用皆仍唐舊。粤三十一年爲景祐四年。修禮部韵略。以賈昌朝請。韵窄者凡十三處許令附近通用。葢合嚴於鹽添、合凡於咸銜、合儼於琰忝、合范於豏檻、合釅於𧰚㮇、合梵於陷鑑、合業於葉怗、合乏於洽狎、并合欣於文、合隱於吻、合焮於問、合迄於物、又合廢於隊代。爲十有三處。今廣韵上厺聲末四韵各本改同禮部韵略及集韵。與平入聲齟齬。此係禮部韵略頒行後。檢廣韵者依新例塗改。遂相沿舛謬。幸其參𢀩不治。尙可稽尋。𧨢見聲韵攷。</note>詩三百篇分用畫然。漢以後乃多合用。非三百篇卽合用也。顧氏合而一之。江氏旣正之矣。</content>
 		<midtitle>弟九部獨用說</midtitle>
 		<content>上平一東二冬三鍾四江、上聲一董二腫三講、厺聲一送二宋三用四絳爲古韵弟九部。古獨用無異辭。江韵音轉近陽韵。古音同東韵也。鄭庠<!--⿸广⺸-->以東冬江陽庚靑蒸合爲一部。其說疏矣。</content>
 		<midtitle>弟十部獨用說</midtitle>
@@ -443,7 +437,7 @@
 		<midtitle>弟十一部獨用說</midtitle>
 		<content>下平十二庚十三耕十四淸十五靑、上聲三十八梗三十九耿四十靜四十一迥、厺聲四十三映四十四諍四十五勁四十六徑爲古韵弟十一部。古獨用無異辭。</content>
 		<midtitle>弟十二部弟十三部弟十四部分用說</midtitle>
-		<content>上平十七眞十九臻、下平一先、上聲十六軫二十七銑、厺聲二十一震三十二霰<!--⿱雨𢿱-->、入聲五質七櫛十六㞕爲古韵弟十二部。十八𧭺二十文二十一欣二十三魂二十四𤶨、上聲十七準十八吻十九隱二十一混二十二𢓼、厺聲二十二𥤁二十三問二十四焮二十六慁二十七恨爲古韵弟十三部。二十二元二十五寒二十六桓二十七刪二十八山、下平二仙、上聲二十阮二十三旱二十四緩二十五潸二十六產二十八獮、厺聲二十五願二十八翰二十九換三十諫三十一襉三十三線爲古韵弟十四部。三百篇及羣經、屈賦分用畫然。漢以後用韵過寛。三部合用。鄭？乃以眞文元寒刪先爲一部。顧氏不能𣸧考。亦合眞以下十四韵爲一部。僅可以論漢魏閒之古韵。而不可以論三百篇之韵也。江氏考三百篇。辨元寒桓刪山仙之獨爲一部矣。而眞臻一部與𧭺文欣魂庠<!--⿸广⺸-->一部分用。尙有未審。讀詩經韵表而後見古韵分别之嚴。唐虞時明明上天、爛然星陳、日月灮蕐<!--⿱艹-->、宏予一人、弟十二部也。南風之薫兮、可以解吾民之慍兮、弟十三部也。卿雲爛兮、禮縵縵兮、日月灮蕐<!--⿱艹-->、旦復旦兮、弟十四部也。三部之分不始於三百篇矣。</content>
+		<content>上平十七眞十九臻、下平一先、上聲十六軫二十七銑、厺聲二十一震三十二霰<!--⿱雨𢿱-->、入聲五質七櫛十六㞕爲古韵弟十二部。十八𧭺二十文二十一欣二十三魂二十四𤶨、上聲十七準十八吻十九隱二十一混二十二𢓼、厺聲二十二𥤁二十三問二十四焮二十六慁二十七恨爲古韵弟十三部。二十二元二十五寒二十六桓二十七刪二十八山、下平二仙、上聲二十阮二十三旱二十四緩二十五潸二十六產二十八獮、厺聲二十五願二十八翰二十九換三十諫三十一襉三十三線爲古韵弟十四部。三百篇及羣經、屈賦分用畫然。漢以後用韵過寛。三部合用。鄭？乃以眞文元寒刪先爲一部。顧氏不能𣸧考。亦合眞以下十四韵爲一部。僅可以論漢魏閒之古韵。而不可以論三百篇之韵也。江氏考三百篇。辨元寒桓刪山仙之獨爲一部矣。而眞臻一部與𧭺文欣魂庠<!--⿸广⺸-->一部分用。尙有未審。讀詩經韵表而後見古韵分別之嚴。唐虞時明明上天、爛然星陳、日月灮蕐<!--⿱艹-->、宏予一人、弟十二部也。南風之薫兮、可以解吾民之慍兮、弟十三部也。卿雲爛兮、禮縵縵兮、日月灮蕐<!--⿱艹-->、旦復旦兮、弟十四部也。三部之分不始於三百篇矣。</content>
 		<content>弟十二部入聲質櫛韵、漢以後多與弟十五部入聲合用。三百篇分用畫然。如東方之日一章不與二章一韵、都人士三章不與二章一韵、可證。</content>
 		<midtitle>弟十七部獨用說</midtitle>
 		<content>下平七歌八戈九麻、上聲三十三哿三十四果三十五馬、厺聲三十八箇三十九過四十禡爲古韵弟十七部。古獨用無異辭。漢以後多以魚虞之字韵入於歌戈。鄭氏以魚虞歌麻合爲一部。乃漢魏晉之韵。非三百篇之韵也。</content>
@@ -459,16 +453,16 @@
 		<midtitle>今韵同用獨用未允說</midtitle>
 		<content>灋<!--⿰氵⿱廌厺-->言二百六部、綜周秦漢魏至齊梁所積而成典型。源流正變。包括貫通。長孫納言謂爲酌古沿今。無以加者。可稱灋<!--⿰氵⿱廌厺-->言素臣。如支脂之三韵、分之所以存古。類之所以適今。用意精深。後人莫測也。今韵支脂之同用。佳皆同用。灰咍同用。則弟一部弟十五部弟十六部之界蕪。尤矦同用。則弟三部弟四部之略泯。眞𧭺同用。元魂𤶨同用。先仙同用。則弟十二部弟十三部弟十四部之區畫靡漫。入聲質術同用。㞕薛同用。則弟十二部與弟十五部相紛糅矣。唐初功令、葢沿陳隋之習而不師古。然如支與脂之同用。則唐以前上自商頌、下迄隋季未、見有一篇蹈此者。唐之杜甫孰<!--⿰𦎧丮-->精文𨕖及庾信諸家。故所爲近體詩用五支韵者凡二十七首。不襍脂之一字。其意葢以許敬宗所定未善也。若南宋劉淵併證嶝入徑韵。元陰時夫併拯等入迥韵。則弟六部弟十一部之大閑潰決。唐功令所未議合而妄合之。又與平聲齟齬。其不學無術之甚矣。<note>唐以前、支韵必獨用。隨舉篇章。皆足爲證。文𨕖所載不必覼縷。卽如周興嗣千字文。上和下睦、夫唱婦隨巳下用十韵。不襍脂之一字。庾信楊桺歌用二十七韵。不襍脂之一字。唐人之謹守六朝家法者、惟杜甫近體詩。如陪鄭廣文遊何將軍山林萬里戎王子、憶過楊桺渚二首。重過何氏山雨尊仍在一首。九日楊奉先會白水崔明府一首。贈畢四一首。元日寄韋氏妹一首。秦州襍詩唐堯眞自聖一首。過南鄰朱山人水亭一首。過故斛斯校書莊燕入非傍舍一首。送王侍御往東川放生池祖席一首。宴戎州楊使君東樓一首。雲安九日鄭十八𢹂酒陪諸公一首。宿㫺一首。鸚䳇一首。猿一首。從驛次草堂復至東屯茅屋峽內歸田客一首。孟冬一首。和江陵宋大少府暮雨後同諸公及舍弟宴書齋一首。紫宸殿退朝口號一首。秋興昆吾御宿自逶迤一首。傷春鸎入新年語一首。贈崔十三評事公輔一首。偶題一首。同豆盧峯知字韵一首。復愁江上亦秋色一首。解悶憶過瀘戎摘荔枝一首。承聞河北諸道節度入朝歡喜口號絶句漁陽突騎邯鄲兒一首。凡五支韵必獨用。韓愈答崔立之八十二韵亦獨用五支。</note></content>
 		<midtitle>古十七部本音說</midtitle>
-		<content>三百篇音韵、自唐以下不能通。僅以爲協音、以爲合韵、以爲古人韵緩不煩改字而已。自有明三山陳第深識確論。信古本音與今音不同。如鳳鳴高岡而啁噍之喙盡息也。自是顧氏作詩本音。江氏作古韵標準。玉裁保殘守闕。分别古音爲十七部。凡一字而古今異部。以古音爲本音。以今音爲音轉。如尤讀怡、牛讀疑、丘讀欺。必在弟一部而不在弟三部者、古本音也。今音在十八尤者、音轉也。舉此可以隅反矣。</content>
+		<content>三百篇音韵、自唐以下不能通。僅以爲協音、以爲合韵、以爲古人韵緩不煩改字而已。自有明三山陳第深識確論。信古本音與今音不同。如鳳鳴高岡而啁噍之喙盡息也。自是顧氏作詩本音。江氏作古韵標準。玉裁保殘守闕。分別古音爲十七部。凡一字而古今異部。以古音爲本音。以今音爲音轉。如尤讀怡、牛讀疑、丘讀欺。必在弟一部而不在弟三部者、古本音也。今音在十八尤者、音轉也。舉此可以隅反矣。</content>
 		<content>弟一部之韵、音轉入於尤。弟三部尤幽韵、音轉入於蕭宵肴豪。弟四部矦韵、音轉入於虞。弟五部魚虞模韵、音轉入於麻。弟六部蒸韵、音轉入於㑴。弟七部㑴鹽韵、音轉入於覃談咸銜嚴凡。弟二部至弟五部、弟六部至弟八部、音轉皆入於東冬鍾。弟九部東冬鍾韵、音轉入於陽唐。弟十部陽唐韵、音轉入於庚。弟十一部庚耕淸靑韵、音轉入於眞。弟十二部眞先韵、音轉入於文欣魂𤶨。弟十三部文欣魂𤶨韵、音轉入於元寒桓刪山仙。弟十三部弟十四部、音轉皆入於脂微。弟十五部脂微齊皆灰韵、音轉入於支佳。弟十六部支佳韵、音轉入於脂齊歌麻。弟十七部歌戈韵、音轉亦多入於支佳。此音轉之大較也。</content>
-		<content>四江一韵、東冬鍾轉入陽唐之音也。不以其字襍厠之陽唐。而别爲一韵。繫諸一東二冬三鍾之後。别爲一韵、以箸今音也。繫諸一東二冬三鍾之後、以存古音也。長孫納言所謂酌古沿今者是也。其例甚善。而他部又未能準是例。惟二十幽一韵爲尤韵將轉入蕭之音。十九臻一韵爲眞韵將轉入？之音。亦用此例之意。</content>
-		<content>說文而下、字林所載卽多說文所無。苟有合於指事象形形聲會意之㳒。攷文者所不廢也。三百篇後、孔子、贊易。老子言道德五千餘言。用韵卽不必皆同詩。漢代用韵甚寬。離爲十七者、幾不可别識。晉宋而降、迄於梁陳。音轉音變。積習生常。區别旣多。陸韵遂定。皆古今聲音之自然。攷文者不能變今音而一反諸三代也。</content>
+		<content>四江一韵、東冬鍾轉入陽唐之音也。不以其字襍厠之陽唐。而別爲一韵。繫諸一東二冬三鍾之後。別爲一韵、以箸今音也。繫諸一東二冬三鍾之後、以存古音也。長孫納言所謂酌古沿今者是也。其例甚善。而他部又未能準是例。惟二十幽一韵爲尤韵將轉入蕭之音。十九臻一韵爲眞韵將轉入？之音。亦用此例之意。</content>
+		<content>說文而下、字林所載卽多說文所無。苟有合於指事象形形聲會意之㳒。攷文者所不廢也。三百篇後、孔子、贊易。老子言道德五千餘言。用韵卽不必皆同詩。漢代用韵甚寬。離爲十七者、幾不可別識。晉宋而降、迄於梁陳。音轉音變。積習生常。區別旣多。陸韵遂定。皆古今聲音之自然。攷文者不能變今音而一反諸三代也。</content>
 		<midtitle>古十七部音變說</midtitle>
 		<content>古音分十七部矣。今韵平五十有七、上五十有五、厺六十、入三十有四。何分析之過多也。曰音有正變也。音之斂侈必適中。過斂而音變矣。過侈而音變矣。之者、音之正也。咍者、之之變也。<note>如同一台聲。而怡飴在之韵。咍怠在咍海韵。</note>蕭宵者、音之正也。肴豪者、蕭宵之變也。<note>如同一肖聲。而宵消在宵韵。梢旓在肴韵。同一高聲。歊在宵韵。蒿膏在豪韵。</note>尤矦者、音之正也。屋者、音之變也。<note>入聲沃燭爲正音。屋韵過侈爲音變。</note>魚者、音之正也。虞模者、魚之變也。<note>如都古音豬、荼古音舒之類。</note>蒸者、音之正也。登者、蒸之變也。<note>如厺聲韵目。證嶝二字皆登聲。嶝字古音同證。</note>㑴者、音之正也。鹽添者、㑴之變也。<note>如廉古音林。占古音鍼。</note>嚴凡者、音之正也。覃談咸銜者、嚴凡之變也。<note>嚴凡猶弟十四部之元韵。覃談咸銜猶弟十四部之寒桓刪山也。㑴猶弟十二部之眞韵。鹽添猶弟十二部之先韵。</note>冬鍾者、音之正也。東者、冬鍾之變也。<note>鍾爲正音。冬韵稍侈。東韵過侈。</note>陽者、音之正也。唐者、陽之變也。耕淸者、音之正也。庚靑者、耕淸之變也。<note>庚音侈。靑音斂。</note>眞者、音之正也。先者、音之變也。<note>如田古音陳、塡古音塵之類。</note>𧭺文欣者、音之正也。魂𤶨者、𧭺文欣之變也。<note>如魂云聲、雲芸妘沄在文韵。𤶨艮聲、垠齦在欣韵。</note>元者、音之正也。寒桓刪山仙者、元之變也。脂微者、音之正也。齊皆灰者、脂微之變也。支者、音之正也。佳者、支之變也。歌戈者、音之正也。麻者、歌戈之變也。大略古音多斂。今音多侈。之變爲咍。脂變爲皆。支變爲佳。歌變爲麻。眞變爲先。㑴變爲鹽。變之甚者也。其變之微者、亦審音而分析之。音不能無變。變不能無分。明乎古有正而無變。知古音之甚諧矣。</content>
 		<midtitle>古四聲說</midtitle>
 		<content>古四聲不同今韵。猶古本音不同今韵也。攷周秦漢初之文。有平上入而無厺。洎乎魏晉。上入聲多轉而爲厺聲。平聲多轉爲仄聲。於是乎四聲大僃。而與古不侔。有古平而今仄者。有古上入而今厺者。細意搜尋。隨在可得其條理。今學者讀三百篇諸書。以今韵四聲律古人。陸德明、吳棫皆指爲協句。顧炎武之書亦云平仄通押、厺入通押。而不知古四聲不同今。猶古本音部分異今也。明乎古本音不同今韵。又何惑乎古四聲不同今韵哉。如戒之音亟。慶之音羌<!--⿳卝工儿-->。亯饗之音香。至之音質。學者可以類求矣。</content>
 		<content>古平上爲一類。厺入爲一類。上與平一也。厺與入一也。上聲僃於三百篇。厺聲僃於魏晉。<note>或謂四聲起於永明。其說非也。永明文章。沈約、謝朓、王融輩始用四聲以爲新變。五字之中、音韵悉異。一句之內、角徵不同。梁武帝不好焉。而問周捨曰。何謂四聲。捨曰。天子聖哲是也。謂如以此四字成句。是卽行文四聲諧協之旨。非多文如梁武不知平上厺入爲何物。而捨以此四字代平上厺入也。取宋書謝靈運傳論及南史沈約庾肩五陸厥傳、梁書王筠傳讀之自明。</note></content>
-		<content>弟二部平多轉爲入聲。弟十五部入多轉爲厺聲。<note>弟二部樂籥爵綽較虐謔藥鑿沃櫟駮的翟濯翯躍蹻熇藐削溺等字、繹三百篇皆平聲。漢人不皆讀平矣。至弟十五部。古有入聲而無厺聲。隨在可證。如文𨕖所載班固西都賦平原赤勇士厲而下、以厲竄穢蹷折噬殺爲韵。厲竄穢噬讀入聲。左思蜀都賦軌躅八𨔶而下、以𨔶出室術駟瑟恤爲韵。駟讀入聲。吳都賦高門鼎貴而下、以貴傑裔世轍設噎爲韵。貴裔世讀入聲。魏都賦均田畫疇而下、以𠛱翳悅世爲韵。翳世讀入聲。髽首之豪而下、以傑闕設䀿裔髮爲韵。䀿裔讀入聲。郭璞江賦以䲦月聒䎀<!--⿰戉羽-->豁碣爲韵。䲦讀入聲。江淹擬謝㳒曹詩以汭别袂雪爲韵。汭袂讀入聲。擬謝臨川詩以缺設絶澈晣泬蔽汭逝雪穴滅澨說爲韵。䀿蔽汭逝澨讀入聲。灋<!--⿰氵⿱廌厺-->言定韵之前。無厺不可入。至灋<!--⿰氵⿱廌厺-->言定韵以後。而謹守者不知古四聲矣。他部皆準此求之。</note></content>
+		<content>弟二部平多轉爲入聲。弟十五部入多轉爲厺聲。<note>弟二部樂籥爵綽較虐謔藥鑿沃櫟駮的翟濯翯躍蹻熇藐削溺等字、繹三百篇皆平聲。漢人不皆讀平矣。至弟十五部。古有入聲而無厺聲。隨在可證。如文𨕖所載班固西都賦平原赤勇士厲而下、以厲竄穢蹷折噬殺爲韵。厲竄穢噬讀入聲。左思蜀都賦軌躅八𨔶而下、以𨔶出室術駟瑟恤爲韵。駟讀入聲。吳都賦高門鼎貴而下、以貴傑裔世轍設噎爲韵。貴裔世讀入聲。魏都賦均田畫疇而下、以𠛱翳悅世爲韵。翳世讀入聲。髽首之豪而下、以傑闕設䀿裔髮爲韵。䀿裔讀入聲。郭璞江賦以䲦月聒䎀<!--⿰戉羽-->豁碣爲韵。䲦讀入聲。江淹擬謝㳒曹詩以汭別袂雪爲韵。汭袂讀入聲。擬謝臨川詩以缺設絶澈晣泬蔽汭逝雪穴滅澨說爲韵。䀿蔽汭逝澨讀入聲。灋<!--⿰氵⿱廌厺-->言定韵之前。無厺不可入。至灋<!--⿰氵⿱廌厺-->言定韵以後。而謹守者不知古四聲矣。他部皆準此求之。</note></content>
 		<content>古無厺聲之說。或以爲怪。然非好學㴱思不能知也。不明乎古四聲、則於古諧聲不能通。如李陽冰校說文於臬字曰自非聲、徐鉉於裔字曰㕯非聲是也。於古假𠎥轉注尤不能通。如卒於畢郢之郢本程字之假𠎥、顚沛之沛本跋字之假𠎥、而學者䍑知是也。</content>
 		<midtitle>古今不同隨舉可徵說</midtitle>
 		<content>古音聲不同今。隨舉可證。如今人兄榮字讀入東韵。朋棚字讀入東韵。佳字讀入麻韵。母富婦字讀入麌、遇韵。此音轉之徵也。子字不讀卽里切。側字不讀莊力切。此音變之徵也。上韵内之字多讀爲去韵。此四聲異古之徵也。今音不同唐音。卽唐音不同古音之徵也。</content>
@@ -477,7 +471,7 @@
 		<midtitle>古音韵至諧說</midtitle>
 		<content>明乎古本音。則知古人用韵精嚴。無出韵之句矣。明乎音有正變。則知古人咍音同之、先音同眞。本無詰屈聱牙矣。明乎古四聲異今韵。則知平仄通押、厺入通押之說未爲審矣。古文音韵至諧。自唐而後昧茲三者。皆歸之協韵二字。</content>
 		<midtitle>古音義說</midtitle>
-		<content>字義不隨字音爲分别。音轉入於他部。其義同也。音變析爲他韵。其義同也。平轉爲仄聲、上入轉爲厺聲。其義同也。今韵例多爲分别。如登韵之能爲才能。咍韵之能爲三足龞。之韵之台爲台予。咍韵之台爲三台星。六魚之譽爲毁譽。九御之譽爲稱譽。十一暮之惡爲厭惡。十九鐸之惡爲醜惡者。皆拘牽瑣碎。未可以語古音古義。</content>
+		<content>字義不隨字音爲分別。音轉入於他部。其義同也。音變析爲他韵。其義同也。平轉爲仄聲、上入轉爲厺聲。其義同也。今韵例多爲分別。如登韵之能爲才能。咍韵之能爲三足龞。之韵之台爲台予。咍韵之台爲三台星。六魚之譽爲毁譽。九御之譽爲稱譽。十一暮之惡爲厭惡。十九鐸之惡爲醜惡者。皆拘牽瑣碎。未可以語古音古義。</content>
 		<midtitle>古諧聲說</midtitle>
 		<content>一聲可諧萬字。萬字而必同部。同聲必同部。明乎此而部分音變平入之相配。四聲之今古不同。皆可得矣。</content>
 		<content>諧聲之字。半主義。半主聲。凡字書以義爲經。而聲緯之。許叔重之說文解字是也。凡韵書以聲爲經。而義緯之。商周當有其書。而亡佚久矣。字書如張參五經文字。爿部、冓部、𦟀部以聲爲經。是倒置也。韵書如陸灋<!--⿰氵⿱廌厺-->言雖以聲爲經。而同部者蕩析離居矣。</content>
@@ -563,7 +557,7 @@
 				<partial_tone>史聲</partial_tone>
 				<partial_tone>吏聲</partial_tone>
 				<partial_tone>負聲</partial_tone>
-				<partial_tone>𢍁聲<note>與十五部𢍉<!--⿱甶丌-->别。</note></partial_tone>
+				<partial_tone>𢍁聲<note>與十五部𢍉<!--⿱甶丌-->別。</note></partial_tone>
 				<partial_tone>𦁰聲</partial_tone>
 				<partial_tone>戒聲</partial_tone>
 				<partial_tone>婦聲</partial_tone>
@@ -571,16 +565,16 @@
 				<partial_tone>乃聲</partial_tone>
 				<partial_tone>異聲</partial_tone>
 				<partial_tone>北聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𠊊聲</partial_tone>
 				<partial_tone>戠聲</partial_tone>
 				<partial_tone>子聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𠶷聲</partial_tone>
 				<partial_tone>意聲</partial_tone>
 				<partial_tone>再聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𤰈聲</partial_tone>
 				<partial_tone>僃聲</partial_tone>
-				<partial_tone>聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>直聲</partial_tone>
+				<partial_tone>𢛳聲</partial_tone>
 				<partial_tone>圣聲</partial_tone>
 				<partial_tone>弋聲</partial_tone>
 				<partial_tone>則聲</partial_tone>
@@ -601,7 +595,7 @@
 				<partial_tone>塞聲</partial_tone>
 				<partial_tone>仄聲</partial_tone>
 				<partial_tone>夨聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𠬝聲</partial_tone>
 				<partial_tone>服聲</partial_tone>
 				<partial_tone>麥聲</partial_tone>
 				<partial_tone>克聲</partial_tone>
@@ -611,7 +605,7 @@
 				<partial_tone>牧聲</partial_tone>
 				<partial_tone>墨聲</partial_tone>
 				<partial_tone>皕聲</partial_tone>
-				<partial_tone>苟聲<note>與四部苟别。</note></partial_tone>
+				<partial_tone>苟聲<note>與四部苟別。</note></partial_tone>
 				<explanation>右諧聲偏旁見於今韵他部內者、皆從弟一部轉入。</explanation>
 			</tone_part>
 			<tone_part>
@@ -624,10 +618,10 @@
 				<partial_tone>小聲</partial_tone>
 				<partial_tone>丿聲</partial_tone>
 				<partial_tone>少聲</partial_tone>
-				<partial_tone>？聲<note>隸作票。</note></partial_tone>
+				<partial_tone>𤐫聲<note>隸作票。</note></partial_tone>
 				<partial_tone>麃聲</partial_tone>
 				<partial_tone>㬥聲</partial_tone>
-				<partial_tone>？聲<note>二字隸通作暴。</note></partial_tone>
+				<partial_tone>曓聲<note>二字隸通作暴。</note></partial_tone>
 				<partial_tone>大聲</partial_tone>
 				<partial_tone>芺聲</partial_tone>
 				<partial_tone>敖聲</partial_tone>
@@ -649,7 +643,7 @@
 				<partial_tone>要聲</partial_tone>
 				<partial_tone>爻聲</partial_tone>
 				<partial_tone>肴聲</partial_tone>
-				<partial_tone>𡥉聲<note>與三部孝别。</note></partial_tone>
+				<partial_tone>𡥉聲<note>與三部孝別。</note></partial_tone>
 				<partial_tone>敎聲</partial_tone>
 				<partial_tone>丵聲</partial_tone>
 				<partial_tone>糳聲</partial_tone>
@@ -683,7 +677,7 @@
 				<partial_tone>坴聲</partial_tone>
 				<partial_tone>鼀聲</partial_tone>
 				<partial_tone>休聲</partial_tone>
-				<partial_tone>舟聲<note>偏旁石經作？。</note></partial_tone>
+				<partial_tone>舟聲<note>偏旁石經作月。</note></partial_tone>
 				<partial_tone>㥑聲</partial_tone>
 				<partial_tone>憂聲</partial_tone>
 				<partial_tone>汓聲</partial_tone>
@@ -697,9 +691,9 @@
 				<partial_tone>尗聲</partial_tone>
 				<partial_tone>叔聲</partial_tone>
 				<partial_tone>戚聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𪚰<!--⿱龜火-->聲</partial_tone>
 				<partial_tone>秋聲</partial_tone>
-				<partial_tone>夲聲<note>？同。</note></partial_tone>
+				<partial_tone>夲聲<note>𠦂同。</note></partial_tone>
 				<partial_tone>翏聲</partial_tone>
 				<partial_tone>舀聲</partial_tone>
 				<partial_tone>髟聲</partial_tone>
@@ -715,8 +709,8 @@
 				<partial_tone>匋聲</partial_tone>
 				<partial_tone>焦聲</partial_tone>
 				<partial_tone>𥼚聲</partial_tone>
-				<partial_tone>聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𢏚聲</partial_tone>
+				<partial_tone>𠷎聲</partial_tone>
 				<partial_tone>壽聲</partial_tone>
 				<partial_tone>孚聲</partial_tone>
 				<partial_tone>𢆶聲</partial_tone>
@@ -727,7 +721,7 @@
 				<partial_tone>叜聲<note>叟同。</note></partial_tone>
 				<partial_tone>牢聲</partial_tone>
 				<partial_tone>爪聲</partial_tone>
-				<partial_tone>叉聲<note>古文爪。</note></partial_tone>
+				<partial_tone>㕚聲<note>古文爪。</note></partial_tone>
 				<partial_tone>蚤聲</partial_tone>
 				<partial_tone>丩聲</partial_tone>
 				<partial_tone>收聲</partial_tone>
@@ -750,12 +744,12 @@
 				<partial_tone>頁聲<note>亦古文𦣻。</note></partial_tone>
 				<partial_tone>道聲</partial_tone>
 				<partial_tone>守聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𠤏聲</partial_tone>
 				<partial_tone>𨸏聲<note>隸作阜。</note></partial_tone>
 				<partial_tone>𢌳聲</partial_tone>
 				<partial_tone>缶聲</partial_tone>
 				<partial_tone>由聲</partial_tone>
-				<partial_tone>？聲<note>？憞字。與八部冘、十二部穴别。</note></partial_tone>
+				<partial_tone>宂聲<note>宂憞字。與八部冘、十二部穴別。</note></partial_tone>
 				<partial_tone>戊聲</partial_tone>
 				<partial_tone>丑聲</partial_tone>
 				<partial_tone>丂聲</partial_tone>
@@ -797,11 +791,11 @@
 				<partial_tone>吿聲</partial_tone>
 				<partial_tone>育聲</partial_tone>
 				<partial_tone>毒聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𡍬聲</partial_tone>
+				<partial_tone>𧷗聲</partial_tone>
 				<partial_tone>辱聲</partial_tone>
 				<partial_tone>蓐聲</partial_tone>
-				<partial_tone>？聲<note>古文夙。</note></partial_tone>
+				<partial_tone>𠈇聲<note>古文夙。</note></partial_tone>
 				<partial_tone>曲聲</partial_tone>
 				<partial_tone>玉聲</partial_tone>
 				<partial_tone>奥聲</partial_tone>
@@ -814,14 +808,14 @@
 				<partial_tone>𥻆聲</partial_tone>
 				<partial_tone>逐聲</partial_tone>
 				<partial_tone>菐聲</partial_tone>
-				<partial_tone>豖聲<note>與十五部豕别。</note></partial_tone>
+				<partial_tone>豖聲<note>與十五部豕別。</note></partial_tone>
 				<partial_tone>⺊聲</partial_tone>
 				<partial_tone>攴聲<note>隸作攵。</note></partial_tone>
 				<partial_tone>局聲</partial_tone>
-				<partial_tone>夙聲<note>說文作？。</note></partial_tone>
+				<partial_tone>夙聲<note>說文作𡖊。</note></partial_tone>
 				<partial_tone>鹿聲</partial_tone>
 				<partial_tone>㣎聲</partial_tone>
-				<partial_tone>？聲<note>隸作孰。</note></partial_tone>
+				<partial_tone>𦏧<!--⿰𦎧丮-->聲<note>隸作孰。</note></partial_tone>
 				<partial_tone>禿聲</partial_tone>
 				<partial_tone>目聲</partial_tone>
 				<explanation>右諧聲偏旁見於今韵他部內者、皆從弟三部轉入。</explanation>
@@ -838,7 +832,7 @@
 				<partial_tone>區聲</partial_tone>
 				<partial_tone>蓲聲</partial_tone>
 				<partial_tone>矦聲</partial_tone>
-				<partial_tone>几聲<note>與十五部几别。</note></partial_tone>
+				<partial_tone>几聲<note>與十五部几別。</note></partial_tone>
 				<partial_tone>殳聲</partial_tone>
 				<partial_tone>需聲</partial_tone>
 				<partial_tone>須聲</partial_tone>
@@ -846,7 +840,7 @@
 				<partial_tone>芻聲</partial_tone>
 				<partial_tone>后聲</partial_tone>
 				<partial_tone>取聲</partial_tone>
-				<partial_tone>冣聲<note>與十五部最别。</note></partial_tone>
+				<partial_tone>冣聲<note>與十五部最別。</note></partial_tone>
 				<partial_tone>聚聲</partial_tone>
 				<partial_tone>後聲</partial_tone>
 				<partial_tone>臾聲</partial_tone>
@@ -858,7 +852,7 @@
 				<partial_tone>府聲</partial_tone>
 				<partial_tone>𧺆聲</partial_tone>
 				<partial_tone>奏聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>丶<!--丨-->聲</partial_tone>
 				<partial_tone>主聲</partial_tone>
 				<partial_tone>斗聲</partial_tone>
 				<partial_tone>冓聲</partial_tone>
@@ -868,7 +862,7 @@
 				<partial_tone>寇聲</partial_tone>
 				<partial_tone>晝聲</partial_tone>
 				<partial_tone>部聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𠁁聲</partial_tone>
 				<partial_tone>斲聲</partial_tone>
 				<explanation>右諧聲偏旁見於今韵他部內者、皆從弟四部轉入。</explanation>
 			</tone_part>
@@ -880,7 +874,7 @@
 				<partial_tone>奢聲</partial_tone>
 				<partial_tone>父聲</partial_tone>
 				<partial_tone>甫聲</partial_tone>
-				<partial_tone>尃聲<note>與十四都專别。</note></partial_tone>
+				<partial_tone>尃聲<note>與十四都專別。</note></partial_tone>
 				<partial_tone>浦聲</partial_tone>
 				<partial_tone>亏聲<note>隸作于。</note></partial_tone>
 				<partial_tone>𠌶聲</partial_tone>
@@ -890,7 +884,7 @@
 				<partial_tone>瓠聲</partial_tone>
 				<partial_tone>夫聲</partial_tone>
 				<partial_tone>牙聲</partial_tone>
-				<partial_tone>叚聲<note>與十四部段别。</note></partial_tone>
+				<partial_tone>叚聲<note>與十四部段別。</note></partial_tone>
 				<partial_tone>豭聲</partial_tone>
 				<partial_tone>家聲</partial_tone>
 				<partial_tone>車聲</partial_tone>
@@ -908,7 +902,7 @@
 				<partial_tone>路聲</partial_tone>
 				<partial_tone>瓜聲</partial_tone>
 				<partial_tone>烏聲</partial_tone>
-				<partial_tone>於聲<note>古文烏。</note></partial_tone>
+				<partial_tone>於聲<note>古文烏<!--？-->。</note></partial_tone>
 				<partial_tone>与聲</partial_tone>
 				<partial_tone>與聲</partial_tone>
 				<partial_tone>卸聲</partial_tone>
@@ -927,7 +921,7 @@
 				<partial_tone>素聲</partial_tone>
 				<partial_tone>䀠聲</partial_tone>
 				<partial_tone>瞿聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>襾聲</partial_tone>
 				<partial_tone>賈聲</partial_tone>
 				<partial_tone>𦱤聲<note>俗作暮。</note></partial_tone>
 				<partial_tone>庶聲</partial_tone>
@@ -948,7 +942,7 @@
 				<partial_tone>毋聲</partial_tone>
 				<partial_tone>巫聲</partial_tone>
 				<partial_tone>石聲</partial_tone>
-				<partial_tone>？聲<note>與三部足别。</note></partial_tone>
+				<partial_tone>𤴔聲<note>與三部足別。</note></partial_tone>
 				<partial_tone>馬聲</partial_tone>
 				<partial_tone>呂聲</partial_tone>
 				<partial_tone>鹵聲</partial_tone>
@@ -956,7 +950,7 @@
 				<partial_tone>女聲</partial_tone>
 				<partial_tone>処聲</partial_tone>
 				<partial_tone>羽聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𠑹聲</partial_tone>
 				<partial_tone>雨聲</partial_tone>
 				<partial_tone>五聲</partial_tone>
 				<partial_tone>吾聲</partial_tone>
@@ -978,27 +972,27 @@
 				<partial_tone>蒦聲</partial_tone>
 				<partial_tone>旅聲</partial_tone>
 				<partial_tone>寡聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>㚔聲</partial_tone>
 				<partial_tone>蠱聲</partial_tone>
 				<partial_tone>若聲</partial_tone>
 				<partial_tone>魯聲</partial_tone>
 				<partial_tone>豦聲</partial_tone>
 				<partial_tone>屰聲</partial_tone>
-				<partial_tone>㡿聲<note>隸作？。俗作斥。</note></partial_tone>
+				<partial_tone>㡿聲<note>隸作⿸𠂆干。俗作斥。</note></partial_tone>
 				<partial_tone>朔聲</partial_tone>
 				<partial_tone>凵聲</partial_tone>
 				<partial_tone>兔聲</partial_tone>
 				<partial_tone>斝聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𥇡聲</partial_tone>
 				<partial_tone>擇聲</partial_tone>
 				<partial_tone>谷聲<note>與三部谷不同。</note></partial_tone>
 				<partial_tone>卻聲</partial_tone>
-				<partial_tone>？聲<note>與十三部？別。</note></partial_tone>
-				<partial_tone>？聲<note>隸作郭。</note></partial_tone>
-				<partial_tone>？聲<note>隸作戟。</note></partial_tone>
+				<partial_tone>𩫏聲<note>與十三部？別。</note></partial_tone>
+				<partial_tone>𨟍聲<note>隸作郭。</note></partial_tone>
+				<partial_tone>𢧢聲<note>隸作戟。</note></partial_tone>
 				<partial_tone>乇聲</partial_tone>
 				<partial_tone>㫺聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𦔡聲</partial_tone>
 				<partial_tone>靃聲</partial_tone>
 				<partial_tone>炙聲</partial_tone>
 				<partial_tone>白聲</partial_tone>
@@ -1021,12 +1015,12 @@
 				<partname>弟六部<note>陸韵平聲蒸登、上聲拯等厺聲證嶝。</note></partname>
 				<partial_tone>瞢聲</partial_tone>
 				<partial_tone>夢聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>蠅<!--⿰虫𪓑-->蠅聲</partial_tone>
 				<partial_tone>朋聲</partial_tone>
 				<partial_tone>弓聲</partial_tone>
 				<partial_tone>曾聲</partial_tone>
 				<partial_tone>𦫵聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𨿳<!--⿸𤕫隹-->聲</partial_tone>
 				<partial_tone>灷聲</partial_tone>
 				<partial_tone>朕聲</partial_tone>
 				<partial_tone>興聲</partial_tone>
@@ -1040,22 +1034,22 @@
 				<partial_tone>兢聲</partial_tone>
 				<partial_tone>厶聲<note>古文厷。</note></partial_tone>
 				<partial_tone>厷聲<note>肱同。</note></partial_tone>
-				<partial_tone>仌聲<note>隸作？。</note></partial_tone>
+				<partial_tone>仌聲<note>隸作冫。</note></partial_tone>
 				<partial_tone>登聲</partial_tone>
-				<partial_tone>豋聲<note>說文作？。</note></partial_tone>
+				<partial_tone>豋聲<note>說文作𢍪。</note></partial_tone>
 				<partial_tone>椉聲</partial_tone>
 				<partial_tone>仍聲</partial_tone>
 				<partial_tone>爯聲</partial_tone>
 				<partial_tone>稱聲</partial_tone>
 				<partial_tone>巹聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𧯷聲</partial_tone>
 				<explanation>右諧聲偏旁見於今韵他部內者、皆從弟六部轉入。</explanation>
 			</tone_part>
 			<tone_part>
 				<partname>弟七部<note>陸韵平聲侵鹽添、上聲𥨊琰忝、厺聲沁豓㮇、入聲緝葉怗。</note></partname>
 				<partial_tone>咸聲</partial_tone>
 				<partial_tone>鹹聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𪉷聲</partial_tone>
 				<partial_tone>林聲</partial_tone>
 				<partial_tone>心聲</partial_tone>
 				<partial_tone>今聲</partial_tone>
@@ -1068,38 +1062,38 @@
 				<partial_tone>風聲</partial_tone>
 				<partial_tone>𢆉聲</partial_tone>
 				<partial_tone>南聲</partial_tone>
-				<partial_tone>㚔聲<note>與十一部幸别</note></partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>㚔聲<note>與十一部幸別</note></partial_tone>
+				<partial_tone>𡙕聲</partial_tone>
 				<partial_tone>男聲</partial_tone>
 				<partial_tone>琴聲</partial_tone>
 				<partial_tone>彡聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𢒫聲</partial_tone>
 				<partial_tone>甚聲</partial_tone>
 				<partial_tone>音聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
-				<partial_tone>兟聲</partial_tone>
-				<partial_tone>㬱聲</partial_tone>
+				<partial_tone>兂聲</partial_tone>
+				<partial_tone>兓聲</partial_tone>
+				<partial_tone>朁聲</partial_tone>
 				<partial_tone>㑴聲</partial_tone>
 				<partial_tone>錦聲</partial_tone>
-				<partial_tone>突聲<note>與十五部突別。</note></partial_tone>
+				<partial_tone>𥥍聲<note>與十五部突別。</note></partial_tone>
 				<partial_tone>壬聲</partial_tone>
 				<partial_tone>任聲</partial_tone>
 				<partial_tone>品聲</partial_tone>
-				<partial_tone>㸒聲<note>與二部䍃别。</note></partial_tone>
+				<partial_tone>㸒聲<note>與二部䍃別。</note></partial_tone>
 				<partial_tone>淫聲</partial_tone>
 				<partial_tone>占聲</partial_tone>
 				<partial_tone>黏聲</partial_tone>
-				<partial_tone>？聲<note>隸作乏。</note></partial_tone>
+				<partial_tone>𣥄聲<note>隸作乏。</note></partial_tone>
 				<partial_tone>三聲</partial_tone>
 				<partial_tone>參聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𢦜聲</partial_tone>
 				<partial_tone>韱聲</partial_tone>
 				<partial_tone>㔾聲<note>說文作𢎘。</note></partial_tone>
 				<partial_tone>氾聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>㐺<!--⿲人人人-->聲</partial_tone>
 				<partial_tone>兼聲</partial_tone>
 				<partial_tone>廉聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>僉<!--⿳亼吅灬-->聲</partial_tone>
 				<partial_tone>閃聲</partial_tone>
 				<partial_tone>㐁聲</partial_tone>
 				<partial_tone>甛聲</partial_tone>
@@ -1108,7 +1102,7 @@
 				<partial_tone>稟聲</partial_tone>
 				<partial_tone>審聲</partial_tone>
 				<partial_tone>弇聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𤡜<!--⿰⿱甘月犬-->聲</partial_tone><!--w1500040-->
 				<partial_tone>厭聲</partial_tone>
 				<partial_tone>咠聲</partial_tone>
 				<partial_tone>戢聲</partial_tone>
@@ -1148,9 +1142,9 @@
 				<partial_tone>剡聲</partial_tone>
 				<partial_tone>熊聲</partial_tone>
 				<partial_tone>焱聲</partial_tone>
-				<partial_tone>？聲<note>籒文敢字。說文作？。</note></partial_tone>
-				<partial_tone>？聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𣪏聲<note>籒文敢字。說文作𠭖<!--⿰⿱小古又-->。</note></partial_tone>
+				<partial_tone>𠪘聲</partial_tone>
+				<partial_tone>𡃫聲</partial_tone>
 				<partial_tone>广聲</partial_tone>
 				<partial_tone>詹聲</partial_tone>
 				<partial_tone>斬聲</partial_tone>
@@ -1169,7 +1163,7 @@
 				<partial_tone>疌聲</partial_tone>
 				<partial_tone>𣋌聲</partial_tone>
 				<partial_tone>巤聲</partial_tone>
-				<partial_tone>耴聲<note>與四部取别。</note></partial_tone>
+				<partial_tone>耴聲<note>與四部取別。</note></partial_tone>
 				<partial_tone>夾聲</partial_tone>
 				<partial_tone>盇聲</partial_tone>
 				<partial_tone>𦐇聲</partial_tone>
@@ -1202,7 +1196,7 @@
 				<partial_tone>甬聲</partial_tone>
 				<partial_tone>庸聲</partial_tone>
 				<partial_tone>从聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𨑹聲</partial_tone>
 				<partial_tone>囱聲</partial_tone>
 				<partial_tone>悤聲</partial_tone>
 				<partial_tone>同聲</partial_tone>
@@ -1214,7 +1208,7 @@
 				<partial_tone>封聲</partial_tone>
 				<partial_tone>容聲</partial_tone>
 				<partial_tone>工聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𢀜聲</partial_tone>
 				<partial_tone>空聲</partial_tone>
 				<partial_tone>送聲</partial_tone>
 				<partial_tone>𠑽聲</partial_tone>
@@ -1230,11 +1224,11 @@
 				<partial_tone>崇聲</partial_tone>
 				<partial_tone>嵩聲</partial_tone>
 				<partial_tone>豐聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>眾<!--⿱罒⿲亻亻人-->聲</partial_tone>
 				<partial_tone>尨聲</partial_tone>
 				<partial_tone>厖聲</partial_tone>
 				<partial_tone>竦聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𠣥<!--冢-->聲</partial_tone>
 				<partial_tone>茸聲</partial_tone>
 				<explanation>右諧聲偏旁見於今韵他部內者、皆從弟九部轉入。</explanation>
 			</tone_part>
@@ -1243,7 +1237,7 @@
 				<partial_tone>王聲</partial_tone>
 				<partial_tone>行聲</partial_tone>
 				<partial_tone>衡聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𡉚聲</partial_tone>
 				<partial_tone>匡聲</partial_tone>
 				<partial_tone>往聲</partial_tone>
 				<partial_tone>㹥聲</partial_tone>
@@ -1252,16 +1246,16 @@
 				<partial_tone>黃聲</partial_tone>
 				<partial_tone>廣聲</partial_tone>
 				<partial_tone>昜聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𥏫聲</partial_tone>
 				<partial_tone>陽聲</partial_tone>
 				<partial_tone>湯聲</partial_tone>
 				<partial_tone>爿聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>臧聲</partial_tone>
 				<partial_tone>將聲</partial_tone>
 				<partial_tone>臧聲</partial_tone>
 				<partial_tone>永聲</partial_tone>
 				<partial_tone>方聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>放<!--⿰方攴-->聲</partial_tone>
 				<partial_tone>旁聲</partial_tone>
 				<partial_tone>皇聲</partial_tone>
 				<partial_tone>亢聲</partial_tone>
@@ -1270,8 +1264,8 @@
 				<partial_tone>京聲</partial_tone>
 				<partial_tone>芉聲</partial_tone>
 				<partial_tone>羕聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
-				<partial_tone>？聲<note>隸作襄。</note></partial_tone>
+				<partial_tone>𤕦聲</partial_tone>
+				<partial_tone>𧞻聲<note>隸作襄。</note></partial_tone>
 				<partial_tone>庚聲</partial_tone>
 				<partial_tone>康聲</partial_tone>
 				<partial_tone>唐聲</partial_tone>
@@ -1303,7 +1297,7 @@
 				<partial_tone>象聲</partial_tone>
 				<partial_tone>皿聲</partial_tone>
 				<partial_tone>孟聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𠨐聲</partial_tone><!--卬聲-->
 				<partial_tone>慶聲</partial_tone>
 				<partial_tone>丙聲</partial_tone>
 				<partial_tone>㪅聲</partial_tone>
@@ -1311,26 +1305,26 @@
 				<partial_tone>商聲</partial_tone>
 				<partial_tone>亡聲</partial_tone>
 				<partial_tone>巟聲</partial_tone>
-				<partial_tone>？聲<note>隸作喪。</note></partial_tone>
+				<partial_tone>𠷔聲<note>隸作喪。</note></partial_tone>
 				<partial_tone>長聲</partial_tone>
-				<partial_tone>？聲<note>隸作良。</note></partial_tone>
+				<partial_tone>𣌣聲<note>隸作良。</note></partial_tone>
 				<partial_tone>量聲</partial_tone>
 				<partial_tone>羹聲</partial_tone>
 				<partial_tone>誩聲</partial_tone>
 				<partial_tone>競聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𪏽聲</partial_tone>
 				<partial_tone>弜聲</partial_tone>
 				<partial_tone>秉聲</partial_tone>
 				<partial_tone>黽聲</partial_tone>
 				<partial_tone>臦聲</partial_tone>
 				<partial_tone>鬯聲</partial_tone>
 				<partial_tone>竝聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>？<!--⿱𠆢儿-->聲</partial_tone>
 				<partial_tone>匚聲</partial_tone>
 				<explanation>右諧聲偏旁見於今韵他部內者、皆從弟十部轉入。</explanation>
 			</tone_part>
 			<tone_part>
-				<partname>弟十一部<note>陸韵平聲庚耕淸靑、上聲？耿靜迥、厺聲映諍勁徑。</note></partname>
+				<partname>弟十一部<note>陸韵平聲庚耕淸靑、上聲𣖀耿靜迥、厺聲映諍勁徑。</note></partname>
 				<partial_tone>熒聲</partial_tone>
 				<partial_tone>丁聲</partial_tone>
 				<partial_tone>成聲</partial_tone>
@@ -1340,42 +1334,42 @@
 				<partial_tone>盈聲</partial_tone>
 				<partial_tone>鳴聲</partial_tone>
 				<partial_tone>殸聲<note>籒文磬。</note></partial_tone>
-				<partial_tone>壬聲<note>與七部壬别。</note></partial_tone>
+				<partial_tone>壬聲<note>與七部壬別。</note></partial_tone>
 				<partial_tone>廷聲</partial_tone>
 				<partial_tone>呈聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𢧄聲</partial_tone>
+				<partial_tone>𢧤聲</partial_tone>
 				<partial_tone>靑聲</partial_tone>
 				<partial_tone>鼎聲</partial_tone>
 				<partial_tone>名聲</partial_tone>
 				<partial_tone>平聲</partial_tone>
 				<partial_tone>寍聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>寧<!--⿱寍丂-->聲</partial_tone>
 				<partial_tone>甯聲</partial_tone>
 				<partial_tone>嬰聲</partial_tone>
 				<partial_tone>甹聲</partial_tone>
 				<partial_tone>敬聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>冖聲</partial_tone>
 				<partial_tone>冥聲</partial_tone>
 				<partial_tone>鼏聲</partial_tone>
 				<partial_tone>爭聲</partial_tone>
 				<partial_tone>頃聲</partial_tone>
 				<partial_tone>幵聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𢆙<!--⿱从幵-->聲</partial_tone>
 				<partial_tone>貞聲</partial_tone>
 				<partial_tone>霝聲</partial_tone>
 				<partial_tone>巠聲</partial_tone>
 				<partial_tone>井聲</partial_tone>
 				<partial_tone>耿聲</partial_tone>
 				<partial_tone>冂聲<note>古文作冋。</note></partial_tone>
-				<partial_tone>？聲</partial_tone>
-				<partial_tone>？聲<note>隸作幸。</note></partial_tone>
+				<partial_tone>𠕪聲</partial_tone><!--鼏聲-->
+				<partial_tone>𡴘聲<note>隸作幸。</note></partial_tone><!--幸聲-->
 				<partial_tone>晶聲</partial_tone>
 				<partial_tone>省聲</partial_tone>
 				<explanation>右諧聲偏旁見於今韵他部內者、皆從弟十一部轉入。</explanation>
 			</tone_part>
 			<tone_part>
-				<partname>弟十二部<note>陸韵平聲眞臻先、上聲軫銑、厺聲震？、入聲質櫛㞕。</note></partname>
+				<partname>弟十二部<note>陸韵平聲眞臻先、上聲軫銑、厺聲震䨷<!--⿱雨𢿱-->、入聲質櫛㞕。</note></partname>
 				<partial_tone>秦聲</partial_tone>
 				<partial_tone>卂聲</partial_tone>
 				<partial_tone>人聲</partial_tone>
@@ -1392,7 +1386,7 @@
 				<partial_tone>𠣤聲</partial_tone>
 				<partial_tone>信聲</partial_tone>
 				<partial_tone>辛聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𣓀聲</partial_tone>
 				<partial_tone>新聲</partial_tone>
 				<partial_tone>令聲</partial_tone>
 				<partial_tone>天聲</partial_tone>
@@ -1401,7 +1395,7 @@
 				<partial_tone>年聲</partial_tone>
 				<partial_tone>因聲</partial_tone>
 				<partial_tone>命聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𦥔聲</partial_tone>
 				<partial_tone>陳聲</partial_tone>
 				<partial_tone>電聲</partial_tone>
 				<partial_tone>仁聲</partial_tone>
@@ -1410,7 +1404,7 @@
 				<partial_tone>佞聲</partial_tone>
 				<partial_tone>勻聲</partial_tone>
 				<partial_tone>訇聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𨳌聲</partial_tone>
 				<partial_tone>閵聲</partial_tone>
 				<partial_tone>進聲</partial_tone>
 				<partial_tone>扁聲</partial_tone>
@@ -1423,7 +1417,7 @@
 				<partial_tone>麤聲</partial_tone>
 				<partial_tone>民聲</partial_tone>
 				<partial_tone>㶳聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𡈋聲</partial_tone><!--本文のどこ？-->
 				<partial_tone>玄聲<note>見一先。</note></partial_tone>
 				<partial_tone>牵聲</partial_tone>
 				<partial_tone>引聲</partial_tone>
@@ -1436,16 +1430,16 @@
 				<partial_tone>必聲</partial_tone>
 				<partial_tone>宓聲</partial_tone>
 				<partial_tone>瑟聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
-				<partial_tone>暜聲<note>从白。與五部暜别。今作替。</note></partial_tone>
+				<partial_tone>𥁑聲</partial_tone>
+				<partial_tone>暜聲<note>从白。與五部暜別。今作替。</note></partial_tone>
 				<partial_tone>實聲</partial_tone>
 				<partial_tone>吉聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𡔹聲</partial_tone><!--壹聲--><!--𪆖:15部-->
 				<partial_tone>頡聲</partial_tone>
 				<partial_tone>質聲</partial_tone>
 				<partial_tone>七聲</partial_tone>
 				<partial_tone>疐聲</partial_tone>
-				<partial_tone>卪聲<note>隸省㸃。</note></partial_tone>
+				<partial_tone>卪聲<note>隸省㸃。</note></partial_tone><!--alt:卩聲-->
 				<partial_tone>卽聲</partial_tone>
 				<partial_tone>節聲</partial_tone>
 				<partial_tone>日聲</partial_tone>
@@ -1462,13 +1456,13 @@
 				<partial_tone>徹聲</partial_tone>
 				<partial_tone>逸聲</partial_tone>
 				<partial_tone>印聲</partial_tone>
-				<partial_tone>？聲<note>隸作抑。</note></partial_tone>
+				<partial_tone>𠨔聲<note>隸作抑。</note></partial_tone><!--alt:抑聲,𢑏聲-->
 				<partial_tone>失聲</partial_tone>
-				<partial_tone>？聲<note>隸作别。</note></partial_tone>
+				<partial_tone>𠛰聲<note>隸作別。</note></partial_tone>
 				<explanation>右諧聲偏旁見於今韵他部內者、皆從弟十二部轉入。</explanation>
 			</tone_part>
 			<tone_part>
-				<partname>弟十三部<note>陸韵平聲？文欣魂瘪、上聲準吻隱混很、厺聲？問焮慁恨。</note></partname>
+				<partname>弟十三部<note>陸韵平聲𧭫文欣魂瘪、上聲準吻隱混很、厺聲𥤁問焮慁恨。</note></partname>
 				<partial_tone>先聲</partial_tone>
 				<partial_tone>辰聲</partial_tone>
 				<partial_tone>䢅聲</partial_tone>
@@ -1482,21 +1476,21 @@
 				<partial_tone>分聲</partial_tone>
 				<partial_tone>釁聲</partial_tone>
 				<partial_tone>虋聲</partial_tone>
-				<partial_tone>？聲<note>今作艮。</note></partial_tone>
+				<partial_tone>𥃩聲<note>今作艮。</note></partial_tone>
 				<partial_tone>西聲</partial_tone>
 				<partial_tone>垔聲</partial_tone>
 				<partial_tone>免聲</partial_tone>
 				<partial_tone>昏聲<note>不从民。</note></partial_tone>
 				<partial_tone>孫聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𢍃聲</partial_tone><!--alt:奔聲-->
 				<partial_tone>賁聲</partial_tone>
 				<partial_tone>君聲</partial_tone>
 				<partial_tone>員聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𥊽聲</partial_tone>
 				<partial_tone>鰥聲</partial_tone>
 				<partial_tone>昆聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
-				<partial_tone>？聲<note>隸作敦。</note></partial_tone>
+				<partial_tone>𦎧聲</partial_tone><!--alt:享聲-->
+				<partial_tone>𣀦聲<note>隸作敦。</note></partial_tone>
 				<partial_tone>璊聲</partial_tone>
 				<partial_tone>川聲</partial_tone>
 				<partial_tone>雲聲</partial_tone>
@@ -1512,7 +1506,7 @@
 				<partial_tone>閔聲</partial_tone>
 				<partial_tone>豩聲</partial_tone>
 				<partial_tone>豳聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>軍聲</partial_tone><!--alt:𠣞聲-->
 				<partial_tone>斤聲</partial_tone>
 				<partial_tone>刃聲</partial_tone>
 				<partial_tone>典聲</partial_tone>
@@ -1528,11 +1522,11 @@
 				<partial_tone>㐱聲</partial_tone>
 				<partial_tone>舛聲</partial_tone>
 				<partial_tone>䑞聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>飧<!--⿰夕𠊊-->聲</partial_tone><!--該当なし？-->
 				<partial_tone>寸聲</partial_tone>
 				<partial_tone>筋聲</partial_tone>
 				<partial_tone>䖵聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𤔌聲</partial_tone>
 				<partial_tone>㥯聲</partial_tone>
 				<partial_tone>隱聲</partial_tone>
 				<partial_tone>𠃊聲</partial_tone>
@@ -1547,9 +1541,9 @@
 				<partial_tone>袁聲</partial_tone>
 				<partial_tone>瞏聲</partial_tone>
 				<partial_tone>釆聲<note>與一部采別。</note></partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𢍏聲</partial_tone>
 				<partial_tone>卷聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𠨎聲</partial_tone>
 				<partial_tone>巺聲</partial_tone>
 				<partial_tone>厂聲</partial_tone>
 				<partial_tone>屵聲</partial_tone>
@@ -1561,20 +1555,20 @@
 				<partial_tone>䇂聲</partial_tone>
 				<partial_tone>言聲</partial_tone>
 				<partial_tone>泉聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>邍聲</partial_tone>
 				<partial_tone>歎聲</partial_tone>
 				<partial_tone>難聲</partial_tone>
-				<partial_tone>？聲<note>原同。</note></partial_tone>
+				<partial_tone>𠫐聲<note>原同。</note></partial_tone><!--alt:原聲-->
 				<partial_tone>䜌聲</partial_tone>
 				<partial_tone>官聲</partial_tone>
 				<partial_tone>㠭聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
-				<partial_tone>㞡聲</partial_tone>
+				<partial_tone>𧝑聲</partial_tone>
+				<partial_tone>㞡聲</partial_tone><!--alt:展聲-->
 				<partial_tone>卵聲</partial_tone>
 				<partial_tone>爰聲</partial_tone>
 				<partial_tone>反聲</partial_tone>
 				<partial_tone>閒聲</partial_tone>
-				<partial_tone>？聲<note>隸作亘。</note></partial_tone>
+				<partial_tone>𠄢聲<note>隸作亘。</note></partial_tone><!--alt:亘聲-->
 				<partial_tone>宣聲</partial_tone>
 				<partial_tone>桓聲</partial_tone>
 				<partial_tone>見聲</partial_tone>
@@ -1583,7 +1577,7 @@
 				<partial_tone>寬聲</partial_tone>
 				<partial_tone>卝聲<note>張參曰。說文以爲古卵字。</note></partial_tone>
 				<partial_tone>𢇂聲</partial_tone>
-				<partial_tone>？聲<note>隸作䙴。</note></partial_tone>
+				<partial_tone>𠨧聲<note>隸作䙴。</note></partial_tone><!--alt:䙴聲-->
 				<partial_tone>夗聲</partial_tone>
 				<partial_tone>宛聲</partial_tone>
 				<partial_tone>𡿨聲<note>篆文作畎。</note></partial_tone>
@@ -1598,7 +1592,7 @@
 				<partial_tone>晏聲</partial_tone>
 				<partial_tone>㫃聲</partial_tone>
 				<partial_tone>倝聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𣦼聲</partial_tone>
 				<partial_tone>亶聲</partial_tone>
 				<partial_tone>曼聲</partial_tone>
 				<partial_tone>柬聲</partial_tone>
@@ -1611,7 +1605,7 @@
 				<partial_tone>奐聲</partial_tone>
 				<partial_tone>夐聲</partial_tone>
 				<partial_tone>肩聲</partial_tone>
-				<partial_tone>弁聲<note>？同。</note></partial_tone>
+				<partial_tone>弁聲<note>㝸同。</note></partial_tone>
 				<partial_tone>毌聲</partial_tone>
 				<partial_tone>貫聲</partial_tone>
 				<partial_tone>番聲</partial_tone>
@@ -1623,7 +1617,7 @@
 				<partial_tone>焉聲</partial_tone>
 				<partial_tone>肰聲</partial_tone>
 				<partial_tone>縣聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>然<!--⿱肰灬-->聲</partial_tone>
 				<partial_tone>元聲</partial_tone>
 				<partial_tone>完聲</partial_tone>
 				<partial_tone>冠聲</partial_tone>
@@ -1633,7 +1627,7 @@
 				<partial_tone>衍聲</partial_tone>
 				<partial_tone>憲聲</partial_tone>
 				<partial_tone>㪔聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𢿨聲</partial_tone><!--alt:𢿱聲-->
 				<partial_tone>潸聲</partial_tone>
 				<partial_tone>棥聲</partial_tone>
 				<partial_tone>樊聲</partial_tone>
@@ -1641,18 +1635,18 @@
 				<partial_tone>鬳聲</partial_tone>
 				<partial_tone>獻聲</partial_tone>
 				<partial_tone>㳄聲<note>與十五部次別。</note></partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>羨<!--⿱⿱艹土㳄-->聲</partial_tone>
 				<partial_tone>䋣聲</partial_tone>
 				<partial_tone>耑聲</partial_tone>
 				<partial_tone>段聲</partial_tone>
 				<partial_tone>燕聲</partial_tone>
 				<partial_tone>丸聲</partial_tone>
 				<partial_tone>虔聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>羴<!--⿱⺸⿰⺸⺸-->聲</partial_tone>
 				<partial_tone>鮮聲</partial_tone>
 				<partial_tone>爨聲</partial_tone>
-				<partial_tone>？聲<note>隸作攀。</note></partial_tone>
-				<partial_tone>？聲<note>隸作寒。</note></partial_tone>
+				<partial_tone>𡴂<!--篆書体-->聲<note>隸作攀。</note></partial_tone>
+				<partial_tone>𡫜聲<note>隸作寒。</note></partial_tone><!--alt:𡫾聲-->
 				<partial_tone>褰聲</partial_tone>
 				<partial_tone>姦聲</partial_tone>
 				<partial_tone>面聲</partial_tone>
@@ -1672,31 +1666,31 @@
 				<partial_tone>犬聲</partial_tone>
 				<partial_tone>刪聲</partial_tone>
 				<partial_tone>片聲</partial_tone>
-				<partial_tone>雋聲<note>與十六部巂别。</note></partial_tone>
+				<partial_tone>雋聲<note>與十六部巂別。</note></partial_tone>
 				<partial_tone>㚘聲</partial_tone>
 				<partial_tone>允聲</partial_tone>
 				<partial_tone>夋聲</partial_tone>
 				<partial_tone>㒼聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
-				<partial_tone>？聲<note>从瓦誤</note></partial_tone>
-				<partial_tone>聲</partial_tone>
+				<partial_tone>𡬳聲</partial_tone><!--？-->
+				<partial_tone>𥀅聲<note>从瓦誤</note></partial_tone><!--㼱/𠭼-->
+				<partial_tone>𣃔聲</partial_tone>
 				<explanation>右諧聲偏旁見於今韵他部內者、皆從弟十四部轉入。</explanation>
 			</tone_part>
 			<tone_part>
-				<partname>弟十五部<note>陸韵平聲脂微齊皆灰、上聲旨？薺駭賄厺聲至未霽祭泰怪夬隊廢入聲術物迄月𣳚曷末黠鎋？。</note></partname>
+				<partname>弟十五部<note>陸韵平聲脂微齊皆灰、上聲旨㞑薺駭賄厺聲至未霽祭泰怪夬隊廢入聲術物迄月𣳚曷末黠鎋𧃎。</note></partname>
 				<partial_tone>妻聲</partial_tone>
 				<partial_tone>飛聲</partial_tone>
 				<partial_tone>皆聲</partial_tone>
 				<partial_tone>𠂤聲</partial_tone>
 				<partial_tone>帥聲</partial_tone>
 				<partial_tone>歸聲</partial_tone>
-				<partial_tone>厶聲<note>與六部厶别。</note></partial_tone>
+				<partial_tone>厶聲<note>與六部厶別。</note></partial_tone>
 				<partial_tone>私聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>夊聲</partial_tone>
 				<partial_tone>衣聲</partial_tone>
 				<partial_tone>鬼聲</partial_tone>
 				<partial_tone>嵬聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>？<!--𦥔一-->聲</partial_tone>
 				<partial_tone>貴聲</partial_tone>
 				<partial_tone>畾聲</partial_tone>
 				<partial_tone>眔聲</partial_tone>
@@ -1704,16 +1698,16 @@
 				<partial_tone>綏聲</partial_tone>
 				<partial_tone>枚聲</partial_tone>
 				<partial_tone>几聲</partial_tone>
-				<partial_tone>𥝌聲<note>與十七部禾别。</note></partial_tone>
-				<partial_tone>聲</partial_tone>
+				<partial_tone>𥝌聲<note>與十七部禾別。</note></partial_tone>
+				<partial_tone>示聲</partial_tone>
 				<partial_tone>視聲</partial_tone>
 				<partial_tone>祁聲</partial_tone>
 				<partial_tone>祋聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𢼸聲</partial_tone>
 				<partial_tone>豈聲</partial_tone>
 				<partial_tone>微聲</partial_tone>
 				<partial_tone>非聲</partial_tone>
-				<partial_tone>囗聲<note>與四部口别。</note></partial_tone>
+				<partial_tone>囗聲<note>與四部口別。</note></partial_tone>
 				<partial_tone>韋聲</partial_tone>
 				<partial_tone>幾聲</partial_tone>
 				<partial_tone>隹聲</partial_tone>
@@ -1726,15 +1720,15 @@
 				<partial_tone>旨聲</partial_tone>
 				<partial_tone>稽聲</partial_tone>
 				<partial_tone>耆聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𠫼聲</partial_tone><!--alt:齊聲-->
+				<partial_tone>㞑聲</partial_tone><!--alt:尾聲-->
 				<partial_tone>犀聲</partial_tone>
 				<partial_tone>虫聲</partial_tone>
 				<partial_tone>屖聲</partial_tone>
 				<partial_tone>睂聲</partial_tone>
 				<partial_tone>畏聲</partial_tone>
 				<partial_tone>希聲</partial_tone>
-				<partial_tone>氐聲<note>與十六部氏别。</note></partial_tone>
+				<partial_tone>氐聲<note>與十六部氏別。</note></partial_tone>
 				<partial_tone>底聲</partial_tone>
 				<partial_tone>厎聲</partial_tone>
 				<partial_tone>奞聲</partial_tone>
@@ -1742,9 +1736,9 @@
 				<partial_tone>夂聲</partial_tone>
 				<partial_tone>師聲</partial_tone>
 				<partial_tone>威聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𤼩聲</partial_tone><!--alt:癸聲-->
 				<partial_tone>比聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𣬉聲</partial_tone>
 				<partial_tone>米聲</partial_tone>
 				<partial_tone>麋聲</partial_tone>
 				<partial_tone>辠聲</partial_tone>
@@ -1752,22 +1746,22 @@
 				<partial_tone>伊聲</partial_tone>
 				<partial_tone>委聲</partial_tone>
 				<partial_tone>回聲</partial_tone>
-				<partial_tone>？聲<note>古文回。</note></partial_tone>
+				<partial_tone>囘聲<note>古文回。</note></partial_tone>
 				<partial_tone>尸聲</partial_tone>
 				<partial_tone>次聲</partial_tone>
 				<partial_tone>戾聲</partial_tone>
 				<partial_tone>利聲</partial_tone>
-				<partial_tone>？聲<note>古文利。</note></partial_tone>
+				<partial_tone>𥝢聲<note>古文利。</note></partial_tone>
 				<partial_tone>黎聲</partial_tone>
 				<partial_tone>毇聲</partial_tone>
 				<partial_tone>毀聲</partial_tone>
 				<partial_tone>尒聲</partial_tone>
 				<partial_tone>爾聲</partial_tone>
 				<partial_tone>镾聲</partial_tone>
-				<partial_tone>豐聲<note>與九部豐别。</note></partial_tone>
+				<partial_tone>豐聲<note>與九部豐別。</note></partial_tone>
 				<partial_tone>𣦸聲</partial_tone>
 				<partial_tone>弟聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𪩲聲</partial_tone>
 				<partial_tone>美聲</partial_tone>
 				<partial_tone>耒聲</partial_tone>
 				<partial_tone>此聲</partial_tone>
@@ -1779,15 +1773,15 @@
 				<partial_tone>𡳐聲</partial_tone>
 				<partial_tone>肄聲</partial_tone>
 				<partial_tone>棄聲</partial_tone>
-				<partial_tone>聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𠦪聲</partial_tone>
+				<partial_tone>𢳎聲</partial_tone>
 				<partial_tone>兌聲</partial_tone>
 				<partial_tone>气聲</partial_tone>
 				<partial_tone>旡聲</partial_tone>
 				<partial_tone>旣聲</partial_tone>
 				<partial_tone>㤅聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𢙴聲</partial_tone><!--alt:愛聲-->
+				<partial_tone>𦞅聲</partial_tone><!--alt:胃聲-->
 				<partial_tone>吠聲</partial_tone>
 				<partial_tone>四聲</partial_tone>
 				<partial_tone>豕聲</partial_tone>
@@ -1797,11 +1791,11 @@
 				<partial_tone>惠聲</partial_tone>
 				<partial_tone>卒聲</partial_tone>
 				<partial_tone>未聲</partial_tone>
-				<partial_tone>市聲<note>與一部市别</note></partial_tone>
+				<partial_tone>巿聲<note>與一部市別</note></partial_tone>
 				<partial_tone>位聲</partial_tone>
 				<partial_tone>率聲</partial_tone>
 				<partial_tone>木聲</partial_tone>
-				<partial_tone>？聲<note>古文作？。</note></partial_tone>
+				<partial_tone>𢓴聲<note>古文作𨓤。</note></partial_tone><!--？-->
 				<partial_tone>出聲</partial_tone>
 				<partial_tone>隶聲</partial_tone>
 				<partial_tone>彗聲</partial_tone>
@@ -1842,25 +1836,25 @@
 				<partial_tone>祭聲</partial_tone>
 				<partial_tone>医聲</partial_tone>
 				<partial_tone>殹聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𡿪聲</partial_tone>
 				<partial_tone>𠛱聲</partial_tone>
 				<partial_tone>大聲</partial_tone>
-				<partial_tone>？聲<note>籒文大。</note></partial_tone>
+				<partial_tone>亣<!--篆書体-->聲<note>籒文大。</note></partial_tone>
 				<partial_tone>癹聲</partial_tone>
 				<partial_tone>發聲</partial_tone>
 				<partial_tone>伐聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𠄌聲</partial_tone>
 				<partial_tone>戉聲</partial_tone>
 				<partial_tone>亅聲</partial_tone>
 				<partial_tone>叕聲</partial_tone>
 				<partial_tone>寽聲</partial_tone>
 				<partial_tone>氒聲</partial_tone>
-				<partial_tone>？聲<note>隸作舌。</note></partial_tone>
+				<partial_tone>𠯑聲<note>隸作舌。</note></partial_tone>
 				<partial_tone>聒聲</partial_tone>
 				<partial_tone>屮聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
-				<partial_tone>嶭聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone>𡶫聲</partial_tone>
+				<partial_tone>辥聲</partial_tone>
+				<partial_tone>𧃎聲</partial_tone>
 				<partial_tone>櫱聲</partial_tone>
 				<partial_tone>𣡌聲</partial_tone>
 				<partial_tone>䡾聲</partial_tone>
@@ -1902,7 +1896,7 @@
 				<partial_tone>勿聲</partial_tone>
 				<partial_tone>㕟聲</partial_tone>
 				<partial_tone>器聲</partial_tone>
-				<partial_tone>𡎐聲<note>與七部？别。</note></partial_tone>
+				<partial_tone>𡎐聲<note>與七部？別。</note></partial_tone>
 				<partial_tone>㡀聲</partial_tone>
 				<partial_tone>敝聲</partial_tone>
 				<partial_tone>彑聲</partial_tone>
@@ -1918,13 +1912,13 @@
 				<partial_tone>甶聲</partial_tone>
 				<partial_tone>？聲<note>从丌。</note></partial_tone>
 				<partial_tone>苜聲</partial_tone>
-				<partial_tone>剌聲<note>與十六部刺别。</note></partial_tone>
+				<partial_tone>剌聲<note>與十六部刺別。</note></partial_tone>
 				<partial_tone>賴聲</partial_tone>
 				<partial_tone>骨聲</partial_tone>
 				<partial_tone>云聲</partial_tone>
 				<partial_tone>突聲</partial_tone>
 				<partial_tone>𠃉聲<note>與十二部乙別。</note></partial_tone>
-				<partial_tone>曰聲<note>與十二部日别。</note></partial_tone>
+				<partial_tone>曰聲<note>與十二部日別。</note></partial_tone>
 				<partial_tone>？聲</partial_tone>
 				<partial_tone>曶聲</partial_tone>
 				<partial_tone>聲</partial_tone>
@@ -1964,7 +1958,7 @@
 				<partial_tone>蠡聲<note>从彖非。</note></partial_tone>
 				<partial_tone>厽聲</partial_tone>
 				<partial_tone>絫聲</partial_tone>
-				<partial_tone>匚聲<note>與十部匸别。</note></partial_tone>
+				<partial_tone>匚聲<note>與十部匸別。</note></partial_tone>
 				<partial_tone>豸聲</partial_tone>
 				<partial_tone>麗聲</partial_tone>
 				<partial_tone>危聲</partial_tone>
@@ -1974,12 +1968,12 @@
 				<partial_tone>益聲</partial_tone>
 				<partial_tone>蠲聲</partial_tone>
 				<partial_tone>帝聲</partial_tone>
-				<partial_tone>啻聲<note>隸作啇。與十部商别。</note></partial_tone>
+				<partial_tone>啻聲<note>隸作啇。與十部商別。</note></partial_tone>
 				<partial_tone>適聲</partial_tone>
 				<partial_tone>易聲</partial_tone>
 				<partial_tone>析聲</partial_tone>
 				<partial_tone>晳聲</partial_tone>
-				<partial_tone>朿聲<note>與三部束别</note></partial_tone>
+				<partial_tone>朿聲<note>與三部束別</note></partial_tone>
 				<partial_tone>策聲</partial_tone>
 				<partial_tone>𨒪聲<note>籒文迹。</note></partial_tone>
 				<partial_tone>？聲<note>隸作責。</note></partial_tone>
@@ -1989,7 +1983,7 @@
 				<partial_tone>𩰲聲</partial_tone>
 				<partial_tone>鷊聲</partial_tone>
 				<partial_tone>？聲</partial_tone>
-				<partial_tone>狊聲<note>與三部臭别。</note></partial_tone>
+				<partial_tone>狊聲<note>與三部臭別。</note></partial_tone>
 				<partial_tone>鶪聲</partial_tone>
 				<partial_tone>解聲</partial_tone>
 				<partial_tone>厄聲</partial_tone>
@@ -2052,7 +2046,7 @@
 				<partial_tone>羆聲</partial_tone>
 				<partial_tone>𠂹聲</partial_tone>
 				<partial_tone>？聲</partial_tone>
-				<partial_tone>𠤎聲<note>與十五部匕别。</note></partial_tone>
+				<partial_tone>𠤎聲<note>與十五部匕別。</note></partial_tone>
 				<partial_tone>化聲</partial_tone>
 				<partial_tone>吹聲</partial_tone>
 				<partial_tone>𠂇聲</partial_tone>
@@ -2148,14 +2142,14 @@
 		<midtitle>弟十七部與弟十六部同入説</midtitle>
 		<content>弟十七部與弟十六部合用最近。其入音同弟十六部。</content>
 		<midtitle>古諧聲偏旁分部互用説</midtitle>
-		<content>諧聲偏旁分别部居。如前表所𠛱矣。閒有不合者。如？字求聲而在弟一部。朝字舟聲而在弟二部。牡字土聲而在弟三部。侮字每聲而在弟四部。股？字殳聲而在弟五部。仍孕字乃聲而在弟六部。參字㐱聲而在弟七部。枼字世聲而在弟八部。送字？聲而在弟九部。彭字彡聲而在弟十部。嬴字羸聲而在弟十一部。矜字今聲而在弟十二部。存字才聲而在弟十三部。憲字害省聲而在弟十四部。𢧵字雀聲而在弟十五部。狄字亦省聲而在弟十六部。𨙻字冄聲而在弟十七部。此類甚多。卽合韵之理也。</content>
+		<content>諧聲偏旁分別部居。如前表所𠛱矣。閒有不合者。如？字求聲而在弟一部。朝字舟聲而在弟二部。牡字土聲而在弟三部。侮字每聲而在弟四部。股？字殳聲而在弟五部。仍孕字乃聲而在弟六部。參字㐱聲而在弟七部。枼字世聲而在弟八部。送字？聲而在弟九部。彭字彡聲而在弟十部。嬴字羸聲而在弟十一部。矜字今聲而在弟十二部。存字才聲而在弟十三部。憲字害省聲而在弟十四部。𢧵字雀聲而在弟十五部。狄字亦省聲而在弟十六部。𨙻字冄聲而在弟十七部。此類甚多。卽合韵之理也。</content>
 		<midtitle>古一字異體説</midtitle>
 		<content>凡一字異體者、卽可徵合韵之條理。以弟十六部言之。鶃或爲鷊。逖古爲逷。兒聲鬲聲狄聲易聲同在本部也。芰或爲茤。鬄或爲髢。舓或爲𦧇。輗或爲？。弛或爲？。支聲易聲兒聲虒聲在十六部。多聲也聲宐聲在十七部。此可見次弟相近合用之理。鷊或爲？、説本相如。速改爲迹、起於李斯。鬲聲朿聲在十六部。赤聲亦聲在弟五部。此可見次弟相遠合用之理。他部皆準此求之。</content>
 		<midtitle>古異部假𠎥轉注説</midtitle>
 		<content>古六書、假𠎥以音爲主。同音相代也。轉注以義爲主。同義互訓也。作字之始。有音而後有字。義不外乎音。故轉注亦主音。假𠎥取諸同部者多。取諸異部者少。轉注取諸同部異部者各半。十七部爲假𠎥轉注之維綱。學者必知十七部之分。然後可以知十七部之合。知其分、知其合。然後可以盡求古經傳之假𠎥轉注而無疑義。<note>異部假𠎥。如常棣𠎥務爲侮、大田𠎥螣爲？、文王有聲𠎥淢爲洫、雨無正𠎥荅爲對之類。異部轉注。如愛隱也、曾重也、蒸塵也之類。</note></content>
 		<content>方言如萌櫱之櫱、秦晉之閒曰肄。水火之火齊言曰？。此同部轉注假𠎥之理也。如關西曰迎、關東曰逆。荆郊之鄙謂淫曰遙。齊魯之閒鮮聲近斯。趙魏之東實寔同聲。此異部合韵之理也。</content>
 		<midtitle>六書説</midtitle>
-		<content>文字起於聲音。六書不外謠俗。六書以象形指事會意爲形。以諧聲轉注假𠎥爲聲。又以象形指事會意諧聲爲形。以轉注假𠎥爲聲。又以象形指事會意諧聲轉注假𠎥爲形。以十七部爲聲。六書猶五音。十七部猶六律。不以六律不能正五音。不以十七部不能分别象形指事會意諧聲四者文字之聲韵鴻殺。而得其轉注假𠎥。故十七部曰音均。均者、匀也。徧也。一部之內其音匀圓如一也。均韵古今字。轉注異字同義。假𠎥異義同字。其源皆在音均。説文解字者、象形指事會意諧聲之書也。爾雅廣雅方言釋名者、轉注假𠎥之書也。陸？言切韵爲音韵之書。然古十七部藏薶未悟。不可以通古經傳之文。今特表而岀之。箸其分合。周秦漢人詁訓之精微。後代反語、雙聲、疉韵、音紐、字母之學。胥一以貫之矣。</content>
+		<content>文字起於聲音。六書不外謠俗。六書以象形指事會意爲形。以諧聲轉注假𠎥爲聲。又以象形指事會意諧聲爲形。以轉注假𠎥爲聲。又以象形指事會意諧聲轉注假𠎥爲形。以十七部爲聲。六書猶五音。十七部猶六律。不以六律不能正五音。不以十七部不能分別象形指事會意諧聲四者文字之聲韵鴻殺。而得其轉注假𠎥。故十七部曰音均。均者、匀也。徧也。一部之內其音匀圓如一也。均韵古今字。轉注異字同義。假𠎥異義同字。其源皆在音均。説文解字者、象形指事會意諧聲之書也。爾雅廣雅方言釋名者、轉注假𠎥之書也。陸？言切韵爲音韵之書。然古十七部藏薶未悟。不可以通古經傳之文。今特表而岀之。箸其分合。周秦漢人詁訓之精微。後代反語、雙聲、疉韵、音紐、字母之學。胥一以貫之矣。</content>
 		<word_num>凡二千七百七十八字</word_num>
 		<endtable>表三終</endtable>
 	</table>
@@ -2704,7 +2698,7 @@
 					<verse>觩𢯱<note>七章。</note></verse>
 					<verse>球旒休絿柔優酋<note>商頌長發四章。</note></verse>
 					<letter>○以上平聲。</letter>
-				</verses>	
+				</verses>
 				<verses>
 					<verse><origin_tune>昴</origin_tune>裯猶<note>召南小星二章。</note></verse>
 					<verse><origin_tune>包</origin_tune>誘<note>野有死麕一章。</note></verse>
@@ -3251,17 +3245,13 @@
 					<verse><origin_tune>碩獲</origin_tune><note>秦駟驖二章。</note></verse>
 					<verse><origin_tune>澤戟作</origin_tune><note>無衣二章。</note></verse>
 					<verse>穫蘀<origin_tune>貉</origin_tune><note>豳七月四章。</note></verse>
-					<verse>駱
-					<origin_tune>若</origin_tune>度<note>小雅皇皇者蕐四章。</note></verse>
+					<verse>駱<origin_tune>若</origin_tune>度<note>小雅皇皇者蕐四章。</note></verse>
 					<verse><origin_tune>奕舄繹</origin_tune><note>車攻四章。</note></verse>
 					<verse><origin_tune>澤作宅</origin_tune><note>鴻雁三章。</note></verse>
-					<verse>蘀
-					<origin_tune>石</origin_tune>䥘<note>鶴鳴一章。</note></verse>
-					<verse>藿
-					<origin_tune>夕客</origin_tune><note>白駒二章。</note></verse>
+					<verse>蘀<origin_tune>石</origin_tune>䥘<note>鶴鳴一章。</note></verse>
+					<verse>藿<origin_tune>夕客</origin_tune><note>白駒二章。</note></verse>
 					<verse>閣橐<note>斯干三章。</note></verse>
-					<verse>惡
-					<origin_tune>懌</origin_tune><note>節南山八章。</note></verse>
+					<verse>惡<origin_tune>懌</origin_tune><note>節南山八章。</note></verse>
 					<verse><origin_tune>作</origin_tune>莫度<origin_tune>獲</origin_tune><note>巧言四章。</note></verse>
 					<verse><origin_tune>？碩炙</origin_tune>莫庶<origin_tune>客</origin_tune>䥘度<origin_tune>獲格作</origin_tune><note>楚茨三章。</note></verse>
 					<verse><origin_tune>碩若</origin_tune><note>大田一章。</note></verse>

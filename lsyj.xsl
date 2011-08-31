@@ -2,116 +2,212 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" 
                 version="1.0">
   <xsl:output method="html"/>
-  <xsl:template match="/">
+
+  <xsl:template match="book">
     <head>
       <title>六書音均表</title>
       <link rel="stylesheet" href="lsyj.css" type="text/css" />
     </head>
-    <body lang="zh">
+    <body>
       <xsl:apply-templates/>
     </body>
   </xsl:template>
 
-  <!-- template for preface -->
   <xsl:template match="preface">
-      <xsl:apply-templates select="preface_title"/>
-      <xsl:apply-templates select="content"/>
-  </xsl:template>
-  <xsl:template match="preface_title">
-      <h2><xsl:apply-templates/></h2>
-  </xsl:template>
-  <xsl:template match="content">
-      <p><xsl:apply-templates/></p>
+    <xsl:apply-templates/>
   </xsl:template>
 
-  <!-- template for catalogs -->
-  <xsl:template match="catalogs">
-    <xsl:apply-templates select="catalogtitle"/>
-    <xsl:apply-templates select="author"/>
-    <xsl:apply-templates select="catalog"/>
-    <xsl:apply-templates select="word_num"/>
-  </xsl:template>
-  <xsl:template match="catalogtitle">
+  <xsl:template match="content">
     <p><xsl:apply-templates/></p>
   </xsl:template>
+
+  <xsl:template match="catalogs">
+    <xsl:apply-templates/>
+  </xsl:template>
+
+  <xsl:template match="catalogtitle">
+    <h2><xsl:apply-templates/></h2>
+  </xsl:template>
+
   <xsl:template match="author">
     <p><xsl:apply-templates/></p>
   </xsl:template>
+
+  <xsl:template match="note">
+    <span style='font-size: 50%'><xsl:apply-templates/></span>
+  </xsl:template>
+
   <xsl:template match="catalog">
-    <p>・
+    <h4>
     <xsl:element name="a">
       <xsl:attribute name="href"><xsl:value-of select="@href"/></xsl:attribute>
       <xsl:apply-templates/>
     </xsl:element>
-    </p>
+    </h4>
   </xsl:template>
-  <xsl:template match="author">
+
+  <xsl:template match="word_num">
     <p><xsl:apply-templates/></p>
   </xsl:template>
 
-  <!-- template for tables -->
-  <xsl:template match="table">
-    <xsl:apply-templates select=
+  <xsl:template match="preface_title">
+    <h3><xsl:apply-templates/></h3>
+  </xsl:template>
 
-      <xsl:element name="td">
-        <xsl:attribute name="class">wordhead</xsl:attribute>
-        <xsl:attribute name="id"><xsl:value-of select="."/></xsl:attribute>
-        <xsl:apply-templates/>
-      </xsl:element>
-      <!--td class="wordhead"><xsl:apply-templates/></td-->
-      <td style="width: 80%; vertical-align:top;">
-        <xsl:variable name="current_head">
-          <xsl:number level="single" count="*"/>
-        </xsl:variable>
-        <xsl:variable name="next_head">
-          <xsl:for-each select="following-sibling::wordhead[1]">
-            <xsl:number level="single" count="*"/>
-          </xsl:for-each>
-        </xsl:variable>
-        <xsl:choose>
-          <xsl:when test="$next_head &gt; 0">
-            <xsl:apply-templates select="../*[(position() &lt; $next_head) and (position() &gt; $current_head)]"/>
-          </xsl:when>
-          <xsl:otherwise>
-            <xsl:apply-templates select="following-sibling::*"/>
-          </xsl:otherwise>
-        </xsl:choose>
-      </td>
+  <xsl:template match="table">
+    <xsl:element name="div">
+      <xsl:attribute name="id"><xsl:value-of select="@id"/></xsl:attribute>
+      <xsl:apply-templates/>
+    </xsl:element>
+  </xsl:template>
+
+  <xsl:template match="tabletitle">
+    <h3><xsl:apply-templates/></h3>
+  </xsl:template>
+
+  <xsl:template match="prevue">
+    <p><xsl:apply-templates/></p>
+  </xsl:template>
+
+  <xsl:template match="seventeen_parts">
+    <table><xsl:apply-templates/></table>
+  </xsl:template>
+
+  <xsl:template match="seventeen_part">
+    <xsl:element name="tr">
+      <xsl:attribute name="id"><xsl:value-of select="@id"/></xsl:attribute>
+      <xsl:apply-templates/>
+    </xsl:element>
+  </xsl:template>
+
+  <xsl:template match="seventeen_part/partname">
+    <th><xsl:apply-templates/></th>
+  </xsl:template>
+
+  <xsl:template match="fourtune">
+    <td><xsl:apply-templates/></td>
+  </xsl:template>
+
+  <xsl:template match="rhythmic_entry">
+    <p><xsl:apply-templates/></p>
+  </xsl:template>
+
+  <xsl:template match="midtitle">
+    <h4><xsl:apply-templates/></h4>
+  </xsl:template>
+
+  <xsl:template match="endtable">
+    <h4><xsl:apply-templates/></h4>
+    <hr/>
+  </xsl:template>
+
+  <xsl:template match="tone_parts">
+    <table>
+      <xsl:apply-templates/>
+    </table>
+  </xsl:template>
+
+  <xsl:template match="tone_part">
+    <xsl:apply-templates select="partname"/>
+    <xsl:for-each select="partial_tone[(position() mod 4) = 1]">
+      <xsl:call-template name="row"/>
+    </xsl:for-each>
+    <xsl:apply-templates select="explanation"/>
+  </xsl:template>
+
+  <xsl:template match="tone_part/partname">
+    <tr><th colspan="4"><xsl:apply-templates/></th></tr>
+  </xsl:template>
+
+  <xsl:template match="tone_part/explanation">
+    <tr><td colspan="4"><xsl:apply-templates/></td></tr>
+  </xsl:template>
+
+  <xsl:template name="row">
+    <tr>
+    <xsl:apply-templates select="."/>
+    <xsl:apply-templates select="following-sibling::partial_tone[position()=1]"/>
+    <xsl:apply-templates select="following-sibling::partial_tone[position()=2]"/>
+    <xsl:apply-templates select="following-sibling::partial_tone[position()=3]"/>
     </tr>
   </xsl:template>
-  <xsl:template match="img">
-    <xsl:element name="img">
-      <xsl:attribute name="src">swjz-img/<xsl:value-of select="@src"/>.png</xsl:attribute>
-      <xsl:attribute name="alt"><xsl:value-of select="."/></xsl:attribute>
-      <xsl:attribute name="width">40%</xsl:attribute>
-    </xsl:element>
-    <font style="font-size:50%;"><xsl:value-of select="."/></font>
+
+  <xsl:template match="partial_tone">
+    <td><xsl:apply-templates/></td>
   </xsl:template>
-  <xsl:template match="explanation">
-    <span style="font-size:200%">
+
+  <xsl:template match="sorts">
+    <table>
       <xsl:apply-templates/>
-    </span>
+    </table>
   </xsl:template>
-  <xsl:template match="duan_note">
+
+  <xsl:template match="sort">
+    <xsl:apply-templates select="sortname"/>
+  </xsl:template>
+
+  <xsl:template match="sortname">
+    <tr>
+      <xsl:element name="td">
+        <xsl:attribute name="rowspan"><xsl:value-of select="count(following-sibling::part_entry)"/></xsl:attribute>
+        <xsl:apply-templates/>
+      </xsl:element>
+      <xsl:apply-templates select="following-sibling::part_entry[position()=1]"/>
+    </tr>
+    <xsl:for-each select="following-sibling::part_entry[position()>1]">
+      <tr><xsl:apply-templates select="."/></tr>
+    </xsl:for-each>
+  </xsl:template>
+
+  <xsl:template match="part_entry">
+    <td><xsl:apply-templates/></td>
+  </xsl:template>
+
+  <!-- table 4 -->
+
+  <xsl:template match="parts">
     <xsl:apply-templates/>
   </xsl:template>
 
-  <!-- template for part_wordnum -->
-  <xsl:template match="part_wordnum">
-    <table style="width: 100%; background-color: yellow;">
-      <tr>
-        <td width="10%"></td>
-        <td width="90%">
-          <xsl:apply-templates mode="normal_text"/>
-        </td>
-      </tr>
-    </table>
+  <xsl:template match="part">
+    <hr/>
+    <xsl:apply-templates/>
   </xsl:template>
-  <xsl:template mode="normal_text" match="text()">
-    <font style="font-size: 200%;"><xsl:value-of select="."/></font>
+
+  <xsl:template match="part/partname">
+    <h4><xsl:apply-templates/></h4>
   </xsl:template>
-  <xsl:template mode="normal_text" match="duan_note">
-    <xsl:value-of select="."/>
+
+  <xsl:template match="verses">
+    <p><xsl:apply-templates/></p>
+  </xsl:template>
+
+  <xsl:template match="verse">
+    <xsl:apply-templates/><br/>
+  </xsl:template>
+
+  <xsl:template match="letter">
+    <xsl:apply-templates/><br/>
+  </xsl:template>
+
+  <xsl:template match="origin_tune">
+    <span style="text-emphasis-style: open sesame; font-weight: bold;"><xsl:apply-templates/></span>
+  </xsl:template>
+
+  <xsl:template match="synactic_tune">
+    <span style="border-style: solid"><xsl:apply-templates/></span>
+  </xsl:template>
+
+  <xsl:template match="rhyme">
+    <p><xsl:apply-templates/></p>
+  </xsl:template>
+
+  <xsl:template match="rhymetitle">
+    <div style="border-style: solid"><xsl:apply-templates/></div>
+  </xsl:template>
+
+  <xsl:template match="word">
+    <xsl:apply-templates/><br/>
   </xsl:template>
 
 </xsl:stylesheet>
