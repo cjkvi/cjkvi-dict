@@ -37,376 +37,376 @@
 			<seventeen_part id="part1">
 				<partname>弟一部</partname>
 				<fourtune tune="平聲">
-					<rhythmic_entry>七之</rhythmic_entry>
-					<rhythmic_entry>十六咍</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#sp07">七之</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#sp16">十六咍</rhythmic_entry>
 				</fourtune>
 				<fourtune tune="上聲">
-					<rhythmic_entry>六止</rhythmic_entry>
-					<rhythmic_entry>十五海</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s06">六止</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s15">十五海</rhythmic_entry>
 				</fourtune>
 				<fourtune tune="去聲">
-					<rhythmic_entry>七志</rhythmic_entry>
-					<rhythmic_entry>十九代</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q07">七志</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q19">十九代</rhythmic_entry>
 				</fourtune>
 				<fourtune tune="入聲">
-					<rhythmic_entry>二十四職</rhythmic_entry>
-					<rhythmic_entry>二十五德</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#r24">二十四職</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#r25">二十五德</rhythmic_entry>
 				</fourtune>
 			</seventeen_part>
 			<seventeen_part id="part2">
 				<partname>弟二部</partname>
 				<fourtune tune="平聲">
-					<rhythmic_entry>三蕭</rhythmic_entry>
-					<rhythmic_entry>四宵</rhythmic_entry>
-					<rhythmic_entry>五肴</rhythmic_entry>
-					<rhythmic_entry>六豪</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#xp03">三蕭</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#xp04">四宵</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#xp05">五肴</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#xp06">六豪</rhythmic_entry>
 				</fourtune>
 				<fourtune tune="上聲">
-					<rhythmic_entry>三十九條</rhythmic_entry>
-					<rhythmic_entry>三十小</rhythmic_entry>
-					<rhythmic_entry>三十一巧</rhythmic_entry>
-					<rhythmic_entry>三十二晧</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s29">二十九篠</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s30">三十小</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s31">三十一巧</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s32">三十二晧</rhythmic_entry>
 				</fourtune>
 				<fourtune tune="去聲">
-					<rhythmic_entry>三十四嘯</rhythmic_entry>
-					<rhythmic_entry>三十五笑</rhythmic_entry>
-					<rhythmic_entry>三十六效</rhythmic_entry>
-					<rhythmic_entry>三十七号</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q34">三十四嘯</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q35">三十五笑</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q36">三十六效</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q37">三十七号</rhythmic_entry>
 				</fourtune>
 			</seventeen_part>
 			<seventeen_part id="part3">
 				<partname>弟三部</partname>
 				<fourtune tune="平聲">
-					<rhythmic_entry>十八尤</rhythmic_entry>
-					<rhythmic_entry>二十幽</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#xp18">十八尤</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#xp20">二十幽</rhythmic_entry>
 				</fourtune>
 				<fourtune tune="上聲">
-					<rhythmic_entry>四十四有</rhythmic_entry>
-					<rhythmic_entry>四十六黝</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s44">四十四有</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s46">四十六黝</rhythmic_entry>
 				</fourtune>
 				<fourtune tune="去聲">
-					<rhythmic_entry>四十九宥</rhythmic_entry>
-					<rhythmic_entry>五十一幼</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q49">四十九宥</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q51">五十一幼</rhythmic_entry>
 				</fourtune>
 				<fourtune tune="入聲">
-					<rhythmic_entry>一屋</rhythmic_entry>
-					<rhythmic_entry>二沃</rhythmic_entry>
-					<rhythmic_entry>三燭</rhythmic_entry>
-					<rhythmic_entry>四覺</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#r01">一屋</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#r02">二沃</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#r03">三燭</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#r04">四覺</rhythmic_entry>
 				</fourtune>
 			</seventeen_part>
 			<seventeen_part id="part4">
 				<partname>弟四部</partname>
 				<fourtune tune="平聲">
-					<rhythmic_entry>十九矦</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#xp19">十九矦</rhythmic_entry>
 				</fourtune>
 				<fourtune tune="上聲">
-					<rhythmic_entry>四十五厚</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s45">四十五厚</rhythmic_entry>
 				</fourtune>
 				<fourtune tune="去聲">
-					<rhythmic_entry>五十𠊱</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q50">五十𠊱</rhythmic_entry>
 				</fourtune>
 			</seventeen_part>
 			<seventeen_part id="part5">
 				<partname>弟五部</partname>
 				<fourtune tune="平聲">
-					<rhythmic_entry>九魚</rhythmic_entry>
-					<rhythmic_entry>十虞</rhythmic_entry>
-					<rhythmic_entry>十一模</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#sp09">九魚</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#sp10">十虞</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#sp11">十一模</rhythmic_entry>
 				</fourtune>
 				<fourtune tune="上聲">
-					<rhythmic_entry>八語</rhythmic_entry>
-					<rhythmic_entry>九麌</rhythmic_entry>
-					<rhythmic_entry>十姥</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s08">八語</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s09">九麌</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s10">十姥</rhythmic_entry>
 				</fourtune>
 				<fourtune tune="去聲">
-					<rhythmic_entry>九御</rhythmic_entry>
-					<rhythmic_entry>十遇</rhythmic_entry>
-					<rhythmic_entry>十一暮</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q09">九御</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q10">十遇</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q11">十一暮</rhythmic_entry>
 				</fourtune>
 				<fourtune tune="入聲">
-					<rhythmic_entry>十八藥</rhythmic_entry>
-					<rhythmic_entry>十九鐸</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#r18">十八藥</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#r19">十九鐸</rhythmic_entry>
 				</fourtune>
 			</seventeen_part>
 			<seventeen_part id="part6">
 				<partname>弟六部</partname>
 				<fourtune tune="平聲">
-					<rhythmic_entry>十六蒸</rhythmic_entry>
-					<rhythmic_entry>十七登</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#xp16">十六蒸</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#xp17">十七登</rhythmic_entry>
 				</fourtune>
 				<fourtune tune="上聲">
-					<rhythmic_entry>四十二拯</rhythmic_entry>
-					<rhythmic_entry>四十三等</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s42">四十二拯</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s43">四十三等</rhythmic_entry>
 				</fourtune>
 				<fourtune tune="去聲">
-					<rhythmic_entry>四十七證</rhythmic_entry>
-					<rhythmic_entry>四十八嶝</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q47">四十七證</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q48">四十八嶝</rhythmic_entry>
 				</fourtune>
 			</seventeen_part>
 			<seventeen_part id="part7">
 				<partname>弟七部</partname>
 				<fourtune tune="平聲">
-					<rhythmic_entry>二十一㑴</rhythmic_entry>
-					<rhythmic_entry>二十四鹽</rhythmic_entry>
-					<rhythmic_entry>二十五添</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#xp21">二十一㑴</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#xp24">二十四鹽</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#xp25">二十五添</rhythmic_entry>
 				</fourtune>
 				<fourtune tune="上聲">
-					<rhythmic_entry>四十七𡪢</rhythmic_entry>
-					<rhythmic_entry>五十琰</rhythmic_entry>
-					<rhythmic_entry>五十一忝</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s47">四十七𡪢</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s50">五十琰</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s51">五十一忝</rhythmic_entry>
 				</fourtune>
 				<fourtune tune="去聲">
-					<rhythmic_entry>五十二沁</rhythmic_entry>
-					<rhythmic_entry>五十五豓</rhythmic_entry>
-					<rhythmic_entry>五十六㮇</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q52">五十二沁</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q55">五十五豓</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q56">五十六㮇</rhythmic_entry>
 				</fourtune>
 				<fourtune tune="入聲">
-					<rhythmic_entry>二十六緝</rhythmic_entry>
-					<rhythmic_entry>二十九葉</rhythmic_entry>
-					<rhythmic_entry>三十怗</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#r26">二十六緝</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#r29">二十九葉</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#r30">三十怗</rhythmic_entry>
 				</fourtune>
 			</seventeen_part>
 			<seventeen_part id="part8">
 				<partname>弟八部</partname>
 				<fourtune tune="平聲">
-					<rhythmic_entry>二十二覃</rhythmic_entry>
-					<rhythmic_entry>二十三談</rhythmic_entry>
-					<rhythmic_entry>二十六咸</rhythmic_entry>
-					<rhythmic_entry>二十七銜</rhythmic_entry>
-					<rhythmic_entry>二十八嚴</rhythmic_entry>
-					<rhythmic_entry>二十九凡</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#xp22">二十二覃</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#xp23">二十三談</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#xp26">二十六咸</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#xp27">二十七銜</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#xp28">二十八嚴</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#xp29">二十九凡</rhythmic_entry>
 				</fourtune>
 				<fourtune tune="上聲">
-					<rhythmic_entry>四十八感</rhythmic_entry>
-					<rhythmic_entry>四十九敢</rhythmic_entry>
-					<rhythmic_entry>五十二豏</rhythmic_entry>
-					<rhythmic_entry>五十三檻</rhythmic_entry>
-					<rhythmic_entry>五十四儼</rhythmic_entry>
-					<rhythmic_entry>五十五范</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s48">四十八感</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s49">四十九敢</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s53">五十二豏</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s54">五十三檻</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s52">五十四儼</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s55">五十五范</rhythmic_entry>
 				</fourtune>
 				<fourtune tune="去聲">
-					<rhythmic_entry>五十三勘</rhythmic_entry>
-					<rhythmic_entry>五十四闞</rhythmic_entry>
-					<rhythmic_entry>五十七陷</rhythmic_entry>
-					<rhythmic_entry>五十八鑑</rhythmic_entry>
-					<rhythmic_entry>五十九釅</rhythmic_entry>
-					<rhythmic_entry>六十梵</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q53">五十三勘</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q54">五十四闞</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q58">五十七陷</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q59">五十八鑑</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q57">五十九釅</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q60">六十梵</rhythmic_entry>
 				</fourtune>
 				<fourtune tune="入聲">
-					<rhythmic_entry>二十七合</rhythmic_entry>
-					<rhythmic_entry>二十八盇</rhythmic_entry>
-					<rhythmic_entry>三十一洽</rhythmic_entry>
-					<rhythmic_entry>三十二狎</rhythmic_entry>
-					<rhythmic_entry>三十三業</rhythmic_entry>
-					<rhythmic_entry>三十四乏</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#r27">二十七合</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#r28">二十八盇</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#r31">三十一洽</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#r32">三十二狎</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#r33">三十三業</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#r34">三十四乏</rhythmic_entry>
 				</fourtune>
 			</seventeen_part>
 			<seventeen_part id="part9">
 				<partname>弟九部</partname>
 				<fourtune tune="平聲">
-					<rhythmic_entry>一東</rhythmic_entry>
-					<rhythmic_entry>二冬</rhythmic_entry>
-					<rhythmic_entry>三鍾</rhythmic_entry>
-					<rhythmic_entry>四江</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#sp01">一東</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#sp02">二冬</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#sp03">三鍾</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#sp04">四江</rhythmic_entry>
 				</fourtune>
 				<fourtune tune="上聲">
-					<rhythmic_entry>一董</rhythmic_entry>
-					<rhythmic_entry>二腫</rhythmic_entry>
-					<rhythmic_entry>三講</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s01">一董</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s02">二腫</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s03">三講</rhythmic_entry>
 				</fourtune>
 				<fourtune tune="去聲">
-					<rhythmic_entry>一送</rhythmic_entry>
-					<rhythmic_entry>二宋</rhythmic_entry>
-					<rhythmic_entry>三用</rhythmic_entry>
-					<rhythmic_entry>四絳</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q01">一送</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q02">二宋</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q03">三用</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q04">四絳</rhythmic_entry>
 				</fourtune>
 			</seventeen_part>
 			<seventeen_part id="part10">
 				<partname>弟十部</partname>
 				<fourtune tune="平聲">
-					<rhythmic_entry>十陽</rhythmic_entry>
-					<rhythmic_entry>十一唐</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#xp10">十陽</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#xp11">十一唐</rhythmic_entry>
 				</fourtune>
 				<fourtune tune="上聲">
-					<rhythmic_entry>三十六養</rhythmic_entry>
-					<rhythmic_entry>三十七蕩</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s36">三十六養</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s37">三十七蕩</rhythmic_entry>
 				</fourtune>
 				<fourtune tune="去聲">
-					<rhythmic_entry>四十一漾<!--⿰冫羕--></rhythmic_entry>
-					<rhythmic_entry>四十二宕</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s41">四十一漾<!--⿰冫羕--></rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q42">四十二宕</rhythmic_entry>
 				</fourtune>
 			</seventeen_part>
 			<seventeen_part id="part11">
 				<partname>弟十一部</partname>
 				<fourtune tune="平聲">
-					<rhythmic_entry>十二庚</rhythmic_entry>
-					<rhythmic_entry>十三耕</rhythmic_entry>
-					<rhythmic_entry>十四淸</rhythmic_entry>
-					<rhythmic_entry>十五靑</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#xp12">十二庚</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#xp13">十三耕</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#xp14">十四淸</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#xp15">十五靑</rhythmic_entry>
 				</fourtune>
 				<fourtune tune="上聲">
-					<rhythmic_entry>三十八梗</rhythmic_entry>
-					<rhythmic_entry>二十九耿</rhythmic_entry>
-					<rhythmic_entry>四十靜</rhythmic_entry>
-					<rhythmic_entry>四十一迥</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s38">三十八梗</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s39">三十九耿</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s40">四十靜</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s41">四十一迥</rhythmic_entry>
 				</fourtune>
 				<fourtune tune="去聲">
-					<rhythmic_entry>四十三映</rhythmic_entry>
-					<rhythmic_entry>四十四諍</rhythmic_entry>
-					<rhythmic_entry>四十五勁</rhythmic_entry>
-					<rhythmic_entry>四十六徑</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q43">四十三映</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q44">四十四諍</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q45">四十五勁</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q46">四十六徑</rhythmic_entry>
 				</fourtune>
 			</seventeen_part>
 			<seventeen_part id="part12">
 				<partname>弟十二部</partname>
 				<fourtune tune="平聲">
-					<rhythmic_entry>十七眞</rhythmic_entry>
-					<rhythmic_entry>十九臻</rhythmic_entry>
-					<rhythmic_entry>一先</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#sp17">十七眞</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#sp19">十九臻</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#xp01">一先</rhythmic_entry>
 				</fourtune>
 				<fourtune tune="上聲">
-					<rhythmic_entry>十六軫</rhythmic_entry>
-					<rhythmic_entry>二十七銑</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s16">十六軫</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s27">二十七銑</rhythmic_entry>
 				</fourtune>
 				<fourtune tune="去聲">
-					<rhythmic_entry>二十一震</rhythmic_entry>
-					<rhythmic_entry>三十二霰<!--⿱雨𢿱--></rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q21">二十一震</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q32">三十二霰<!--⿱雨𢿱--></rhythmic_entry>
 				</fourtune>
 				<fourtune tune="入聲">
-					<rhythmic_entry>五質</rhythmic_entry>
-					<rhythmic_entry>七櫛</rhythmic_entry>
-					<rhythmic_entry>十六㞕</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#r05">五質</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#r07">七櫛</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#r16">十六㞕</rhythmic_entry>
 				</fourtune>
 			</seventeen_part>
 			<seventeen_part id="part13">
 				<partname>弟十三部</partname>
 				<fourtune tune="平聲">
-					<rhythmic_entry>十八𧭺</rhythmic_entry>
-					<rhythmic_entry>二十文</rhythmic_entry>
-					<rhythmic_entry>二十一欣</rhythmic_entry>
-					<rhythmic_entry>二十三魂</rhythmic_entry>
-					<rhythmic_entry>二十四𤶨</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#sp18">十八𧭺</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#sp20">二十文</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#sp21">二十一欣</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#sp23">二十三魂</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#sp24">二十四𤶨</rhythmic_entry>
 				</fourtune>
 				<fourtune tune="上聲">
-					<rhythmic_entry>十七準</rhythmic_entry>
-					<rhythmic_entry>十八吻</rhythmic_entry>
-					<rhythmic_entry>十九隱</rhythmic_entry>
-					<rhythmic_entry>二十一混</rhythmic_entry>
-					<rhythmic_entry>二十二𢓼</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s17">十七準</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s18">十八吻</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s19">十九隱</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s21">二十一混</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s22">二十二𢓼</rhythmic_entry>
 				</fourtune>
 				<fourtune tune="去聲">
-					<rhythmic_entry>二十二𥤁</rhythmic_entry>
-					<rhythmic_entry>二十三問</rhythmic_entry>
-					<rhythmic_entry>二十四焮</rhythmic_entry>
-					<rhythmic_entry>二十六慁</rhythmic_entry>
-					<rhythmic_entry>二十七𢚉</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q22">二十二𥤁</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q23">二十三問</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q24">二十四焮</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q26">二十六慁</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q27">二十七𢚉</rhythmic_entry>
 				</fourtune>
 			</seventeen_part>
 			<seventeen_part id="part14">
 				<partname>弟十四部</partname>
 				<fourtune tune="平聲">
-					<rhythmic_entry>二十二元</rhythmic_entry>
-					<rhythmic_entry>二十五寒</rhythmic_entry>
-					<rhythmic_entry>二十六桓</rhythmic_entry>
-					<rhythmic_entry>二十七刪</rhythmic_entry>
-					<rhythmic_entry>二十八山</rhythmic_entry>
-					<rhythmic_entry>二仙</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#sp22">二十二元</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#sp25">二十五寒</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#sp26">二十六桓</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#sp27">二十七刪</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#sp28">二十八山</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#xp02">二仙</rhythmic_entry>
 				</fourtune>
 				<fourtune tune="上聲">
-					<rhythmic_entry>二十阮</rhythmic_entry>
-					<rhythmic_entry>二十三旱</rhythmic_entry>
-					<rhythmic_entry>二十四緩</rhythmic_entry>
-					<rhythmic_entry>二十五潸</rhythmic_entry>
-					<rhythmic_entry>二十六產</rhythmic_entry>
-					<rhythmic_entry>二十八獮</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s20">二十阮</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s23">二十三旱</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s24">二十四緩</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s25">二十五潸</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s26">二十六產</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s28">二十八獮</rhythmic_entry>
 				</fourtune>
 				<fourtune tune="去聲">
-					<rhythmic_entry>二十五願</rhythmic_entry>
-					<rhythmic_entry>二十八翰</rhythmic_entry>
-					<rhythmic_entry>二十九換</rhythmic_entry>
-					<rhythmic_entry>三十諫</rhythmic_entry>
-					<rhythmic_entry>三十一襉</rhythmic_entry>
-					<rhythmic_entry>三十三線</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q25">二十五願</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q28">二十八翰</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q29">二十九換</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q30">三十諫</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q31">三十一襉</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q33">三十三線</rhythmic_entry>
 				</fourtune>
 			</seventeen_part>
 			<seventeen_part id="part15">
 				<partname>弟十五部</partname>
 				<fourtune tune="平聲">
-					<rhythmic_entry>六脂</rhythmic_entry>
-					<rhythmic_entry>八微</rhythmic_entry>
-					<rhythmic_entry>十二齊</rhythmic_entry>
-					<rhythmic_entry>十四皆</rhythmic_entry>
-					<rhythmic_entry>十五灰</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#sp06">六脂</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#sp08">八微</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#sp12">十二齊</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#sp14">十四皆</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#sp15">十五灰</rhythmic_entry>
 				</fourtune>
 				<fourtune tune="上聲">
-					<rhythmic_entry>五旨</rhythmic_entry>
-					<rhythmic_entry>七㞑</rhythmic_entry>
-					<rhythmic_entry>十一薺</rhythmic_entry>
-					<rhythmic_entry>十三駭</rhythmic_entry>
-					<rhythmic_entry>十四賄</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s05">五旨</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s07">七㞑</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s11">十一薺</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s13">十三駭</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s14">十四賄</rhythmic_entry>
 				</fourtune>
 				<fourtune tune="去聲">
-					<rhythmic_entry>六至</rhythmic_entry>
-					<rhythmic_entry>八未</rhythmic_entry>
-					<rhythmic_entry>十二霽</rhythmic_entry>
-					<rhythmic_entry>十三祭</rhythmic_entry>
-					<rhythmic_entry>十四泰</rhythmic_entry>
-					<rhythmic_entry>十六怪</rhythmic_entry>
-					<rhythmic_entry>十七夬</rhythmic_entry>
-					<rhythmic_entry>十八隊</rhythmic_entry>
-					<rhythmic_entry>二十廢</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q06">六至</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q08">八未</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q12">十二霽</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q13">十三祭</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q14">十四泰</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q16">十六怪</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q17">十七夬</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q18">十八隊</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q20">二十廢</rhythmic_entry>
 				</fourtune>
 				<fourtune tune="入聲">
-					<rhythmic_entry>六術</rhythmic_entry>
-					<rhythmic_entry>八物</rhythmic_entry>
-					<rhythmic_entry>九迄</rhythmic_entry>
-					<rhythmic_entry>十月</rhythmic_entry>
-					<rhythmic_entry>十一𣳚</rhythmic_entry>
-					<rhythmic_entry>十二曷</rhythmic_entry>
-					<rhythmic_entry>十三末</rhythmic_entry>
-					<rhythmic_entry>十四黠</rhythmic_entry>
-					<rhythmic_entry>十五鎋</rhythmic_entry>
-					<rhythmic_entry>十七薛</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#r06">六術</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#r08">八物</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#r09">九迄</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#r10">十月</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#r11">十一𣳚</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#r12">十二曷</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#r13">十三末</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#r14">十四黠</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#r15">十五鎋</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#r17">十七薛</rhythmic_entry>
 				</fourtune>
 			</seventeen_part>
 			<seventeen_part id="part16">
 				<partname>弟十六部</partname>
 				<fourtune tune="平聲">
-					<rhythmic_entry>五支</rhythmic_entry>
-					<rhythmic_entry>十三佳</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#sp05">五支</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#sp13">十三佳</rhythmic_entry>
 				</fourtune>
 				<fourtune tune="上聲">
-					<rhythmic_entry>四紙</rhythmic_entry>
-					<rhythmic_entry>十二蟹</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s04">四紙</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s12">十二蟹</rhythmic_entry>
 				</fourtune>
 				<fourtune tune="去聲">
-					<rhythmic_entry>五寘</rhythmic_entry>
-					<rhythmic_entry>十五卦</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q05">五寘</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q15">十五卦</rhythmic_entry>
 				</fourtune>
 				<fourtune tune="入聲">
-					<rhythmic_entry>二十陌</rhythmic_entry>
-					<rhythmic_entry>二十一麥</rhythmic_entry>
-					<rhythmic_entry>二十二㫺</rhythmic_entry>
-					<rhythmic_entry>二十三錫</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#r20">二十陌</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#r21">二十一麥</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#r22">二十二㫺</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#r23">二十三錫</rhythmic_entry>
 				</fourtune>
 			</seventeen_part>
 			<seventeen_part id="part17">
 				<partname>弟十七部</partname>
 				<fourtune tune="平聲">
-					<rhythmic_entry>七歌</rhythmic_entry>
-					<rhythmic_entry>八戈</rhythmic_entry>
-					<rhythmic_entry>九麻</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#xp07">七歌</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#xp08">八戈</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#xp09">九麻</rhythmic_entry>
 				</fourtune>
 				<fourtune tune="上聲">
-					<rhythmic_entry>三十三哿</rhythmic_entry>
-					<rhythmic_entry>三十四果</rhythmic_entry>
-					<rhythmic_entry>三十五馬</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s33">三十三哿</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s34">三十四果</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#s35">三十五馬</rhythmic_entry>
 				</fourtune>
 				<fourtune tune="去聲">
-					<rhythmic_entry>三十八箇</rhythmic_entry>
-					<rhythmic_entry>三十九過</rhythmic_entry>
-					<rhythmic_entry>四十禡</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q38">三十八箇</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q39">三十九過</rhythmic_entry>
+					<rhythmic_entry href="sbgy.xml#q40">四十禡</rhythmic_entry>
 				</fourtune>
 			</seventeen_part>
 		</seventeen_parts>
@@ -487,1592 +487,1592 @@
 		<prevue>六書之有諧聲。文字之所以日滋也。攷周秦有韵之文。某聲必在某部。至嘖而不可亂。故視其偏㫄以何字爲聲。而知其音在某部。易𥳑而天下之理得也。許叔重作說文解字時未有反語。但云某聲某聲。卽以爲韵書可也。自音有變轉。同一聲而分？於各部各韵。如一某聲而某在厚韵、媒腜在灰韵。一每聲而悔晦在隊韵、敏在軫韵、畮痗在厚韵之類。參？不齊。承學多疑之。要其始則同諧聲者必同部也。三百篇及周秦之文僃矣。輒爲十七部諧聲偏㫄表。補古六𡎐之𢿱逸。類𠛱某聲某聲。分繫於各部。以繩今韵。則本非其部之諧聲而闌入者、憭然可攷矣。</prevue>
 		<tone_parts>
 			<tone_part>
-				<partname>弟一部<note>陸韵平聲之咍、上聲止海、厺聲志代、入聲職德。</note></partname>
-				<partial_tone>絲聲</partial_tone>
-				<partial_tone>台聲</partial_tone>
-				<partial_tone>枲聲</partial_tone>
-				<partial_tone>里聲</partial_tone>
-				<partial_tone>貍聲</partial_tone>
-				<partial_tone>來聲</partial_tone>
-				<partial_tone>思聲</partial_tone>
-				<partial_tone>其聲</partial_tone>
-				<partial_tone>𦣞聲</partial_tone>
-				<partial_tone>龜聲</partial_tone>
-				<partial_tone>𠩺聲</partial_tone>
-				<partial_tone>犛聲</partial_tone>
-				<partial_tone>又聲</partial_tone>
-				<partial_tone>有聲</partial_tone>
-				<partial_tone>尤聲</partial_tone>
-				<partial_tone>右聲</partial_tone>
-				<partial_tone>而聲</partial_tone>
-				<partial_tone>丌聲</partial_tone>
-				<partial_tone>䢋聲<note>與十三部近別。</note></partial_tone>
-				<partial_tone>㞢聲<note>隸作之。</note></partial_tone>
-				<partial_tone>事聲</partial_tone>
-				<partial_tone>蚩聲</partial_tone>
-				<partial_tone>市聲</partial_tone>
-				<partial_tone>某聲</partial_tone>
-				<partial_tone>才聲</partial_tone>
-				<partial_tone>𢦏聲</partial_tone>
-				<partial_tone>在聲</partial_tone>
-				<partial_tone>母聲</partial_tone>
-				<partial_tone>佩聲</partial_tone>
-				<partial_tone>久聲</partial_tone>
-				<partial_tone>臺聲</partial_tone>
-				<partial_tone>式聲</partial_tone>
-				<partial_tone>㠯聲<note>隸作以。</note></partial_tone>
-				<partial_tone>能聲</partial_tone>
-				<partial_tone>矣聲</partial_tone>
-				<partial_tone>疑聲</partial_tone>
-				<partial_tone>亥聲</partial_tone>
-				<partial_tone>郵聲</partial_tone>
-				<partial_tone>牛聲</partial_tone>
-				<partial_tone>茲聲</partial_tone>
-				<partial_tone>玆聲</partial_tone>
-				<partial_tone>畐聲</partial_tone>
-				<partial_tone>富聲</partial_tone>
-				<partial_tone>不聲</partial_tone>
-				<partial_tone>丕聲<note>石經作㔻。</note></partial_tone>
-				<partial_tone>甾聲</partial_tone>
-				<partial_tone>𡿧聲</partial_tone>
-				<partial_tone>甾聲</partial_tone>
-				<partial_tone>辭聲</partial_tone>
-				<partial_tone>司聲</partial_tone>
-				<partial_tone>丘聲</partial_tone>
-				<partial_tone>采聲</partial_tone>
-				<partial_tone>友聲</partial_tone>
-				<partial_tone>否聲</partial_tone>
-				<partial_tone>咅聲</partial_tone>
-				<partial_tone>宰聲</partial_tone>
-				<partial_tone>啚聲</partial_tone>
-				<partial_tone>止聲</partial_tone>
-				<partial_tone>齒聲</partial_tone>
-				<partial_tone>巳聲</partial_tone>
-				<partial_tone>己聲</partial_tone>
-				<partial_tone>耳聲</partial_tone>
-				<partial_tone>士聲</partial_tone>
-				<partial_tone>喜聲</partial_tone>
-				<partial_tone>寺聲</partial_tone>
-				<partial_tone>時聲</partial_tone>
-				<partial_tone>史聲</partial_tone>
-				<partial_tone>吏聲</partial_tone>
-				<partial_tone>負聲</partial_tone>
-				<partial_tone>𢍁聲<note>與十五部𢍉<!--⿱甶丌-->別。</note></partial_tone>
-				<partial_tone>𦁰聲</partial_tone>
-				<partial_tone>戒聲</partial_tone>
-				<partial_tone>婦聲</partial_tone>
-				<partial_tone>舊聲</partial_tone>
-				<partial_tone>乃聲</partial_tone>
-				<partial_tone>異聲</partial_tone>
-				<partial_tone>北聲</partial_tone>
-				<partial_tone>𠊊聲</partial_tone>
-				<partial_tone>戠聲</partial_tone>
-				<partial_tone>子聲</partial_tone>
-				<partial_tone>𠶷聲</partial_tone>
-				<partial_tone>意聲</partial_tone>
-				<partial_tone>再聲</partial_tone>
-				<partial_tone>𤰈聲</partial_tone>
-				<partial_tone>僃聲</partial_tone>
-				<partial_tone>直聲</partial_tone>
-				<partial_tone>𢛳聲</partial_tone>
-				<partial_tone>圣聲</partial_tone>
-				<partial_tone>弋聲</partial_tone>
-				<partial_tone>則聲</partial_tone>
-				<partial_tone>賊聲</partial_tone>
-				<partial_tone>革聲</partial_tone>
-				<partial_tone>或聲</partial_tone>
-				<partial_tone>彧聲</partial_tone>
-				<partial_tone>息聲</partial_tone>
-				<partial_tone>亟聲</partial_tone>
-				<partial_tone>力聲</partial_tone>
-				<partial_tone>阞聲</partial_tone>
-				<partial_tone>棘聲</partial_tone>
-				<partial_tone>𠾂聲</partial_tone>
-				<partial_tone>黑聲</partial_tone>
-				<partial_tone>匿聲</partial_tone>
-				<partial_tone>畟聲</partial_tone>
-				<partial_tone>色聲</partial_tone>
-				<partial_tone>塞聲</partial_tone>
-				<partial_tone>仄聲</partial_tone>
-				<partial_tone>夨聲</partial_tone>
-				<partial_tone>𠬝聲</partial_tone>
-				<partial_tone>服聲</partial_tone>
-				<partial_tone>麥聲</partial_tone>
-				<partial_tone>克聲</partial_tone>
-				<partial_tone>䙷聲</partial_tone>
-				<partial_tone>得聲</partial_tone>
-				<partial_tone>伏聲</partial_tone>
-				<partial_tone>牧聲</partial_tone>
-				<partial_tone>墨聲</partial_tone>
-				<partial_tone>皕聲</partial_tone>
-				<partial_tone>苟聲<note>與四部苟別。</note></partial_tone>
+				<partname href="#part1">弟一部<note>陸韵平聲之咍、上聲止海、厺聲志代、入聲職德。</note></partname>
+				<partial_tone id="絲聲">絲聲</partial_tone>
+				<partial_tone id="台聲">台聲</partial_tone>
+				<partial_tone id="枲聲">枲聲</partial_tone>
+				<partial_tone id="里聲">里聲</partial_tone>
+				<partial_tone id="貍聲">貍聲</partial_tone>
+				<partial_tone id="來聲">來聲</partial_tone>
+				<partial_tone id="思聲">思聲</partial_tone>
+				<partial_tone id="其聲">其聲</partial_tone>
+				<partial_tone id="𦣞聲">𦣞聲</partial_tone>
+				<partial_tone id="龜聲">龜聲</partial_tone>
+				<partial_tone id="𠩺聲">𠩺聲</partial_tone>
+				<partial_tone id="犛聲">犛聲</partial_tone>
+				<partial_tone id="又聲">又聲</partial_tone>
+				<partial_tone id="有聲">有聲</partial_tone>
+				<partial_tone id="尤聲">尤聲</partial_tone>
+				<partial_tone id="右聲">右聲</partial_tone>
+				<partial_tone id="而聲">而聲</partial_tone>
+				<partial_tone id="丌聲">丌聲</partial_tone>
+				<partial_tone id="䢋聲">䢋聲<note>與十三部近別。</note></partial_tone>
+				<partial_tone id="㞢聲">㞢聲<note>隸作之。</note></partial_tone>
+				<partial_tone id="事聲">事聲</partial_tone>
+				<partial_tone id="蚩聲">蚩聲</partial_tone>
+				<partial_tone id="市聲">市聲</partial_tone>
+				<partial_tone id="某聲">某聲</partial_tone>
+				<partial_tone id="才聲">才聲</partial_tone>
+				<partial_tone id="𢦏聲">𢦏聲</partial_tone>
+				<partial_tone id="在聲">在聲</partial_tone>
+				<partial_tone id="母聲">母聲</partial_tone>
+				<partial_tone id="佩聲">佩聲</partial_tone>
+				<partial_tone id="久聲">久聲</partial_tone>
+				<partial_tone id="臺聲">臺聲</partial_tone>
+				<partial_tone id="式聲">式聲</partial_tone>
+				<partial_tone id="㠯聲">㠯聲<note>隸作以。</note></partial_tone>
+				<partial_tone id="能聲">能聲</partial_tone>
+				<partial_tone id="矣聲">矣聲</partial_tone>
+				<partial_tone id="疑聲">疑聲</partial_tone>
+				<partial_tone id="亥聲">亥聲</partial_tone>
+				<partial_tone id="郵聲">郵聲</partial_tone>
+				<partial_tone id="牛聲">牛聲</partial_tone>
+				<partial_tone id="茲聲">茲聲</partial_tone>
+				<partial_tone id="玆聲">玆聲</partial_tone>
+				<partial_tone id="畐聲">畐聲</partial_tone>
+				<partial_tone id="富聲">富聲</partial_tone>
+				<partial_tone id="不聲">不聲</partial_tone>
+				<partial_tone id="丕聲">丕聲<note>石經作㔻。</note></partial_tone>
+				<partial_tone id="甾聲">甾聲</partial_tone>
+				<partial_tone id="𡿧聲">𡿧聲</partial_tone>
+				<partial_tone id="甾聲">甾聲</partial_tone>
+				<partial_tone id="辭聲">辭聲</partial_tone>
+				<partial_tone id="司聲">司聲</partial_tone>
+				<partial_tone id="丘聲">丘聲</partial_tone>
+				<partial_tone id="采聲">采聲</partial_tone>
+				<partial_tone id="友聲">友聲</partial_tone>
+				<partial_tone id="否聲">否聲</partial_tone>
+				<partial_tone id="咅聲">咅聲</partial_tone>
+				<partial_tone id="宰聲">宰聲</partial_tone>
+				<partial_tone id="啚聲">啚聲</partial_tone>
+				<partial_tone id="止聲">止聲</partial_tone>
+				<partial_tone id="齒聲">齒聲</partial_tone>
+				<partial_tone id="巳聲">巳聲</partial_tone>
+				<partial_tone id="己聲">己聲</partial_tone>
+				<partial_tone id="耳聲">耳聲</partial_tone>
+				<partial_tone id="士聲">士聲</partial_tone>
+				<partial_tone id="喜聲">喜聲</partial_tone>
+				<partial_tone id="寺聲">寺聲</partial_tone>
+				<partial_tone id="時聲">時聲</partial_tone>
+				<partial_tone id="史聲">史聲</partial_tone>
+				<partial_tone id="吏聲">吏聲</partial_tone>
+				<partial_tone id="負聲">負聲</partial_tone>
+				<partial_tone id="𢍁聲">𢍁聲<note>與十五部𢍉<!--⿱甶丌-->別。</note></partial_tone>
+				<partial_tone id="𦁰聲">𦁰聲</partial_tone>
+				<partial_tone id="戒聲">戒聲</partial_tone>
+				<partial_tone id="婦聲">婦聲</partial_tone>
+				<partial_tone id="舊聲">舊聲</partial_tone>
+				<partial_tone id="乃聲">乃聲</partial_tone>
+				<partial_tone id="異聲">異聲</partial_tone>
+				<partial_tone id="北聲">北聲</partial_tone>
+				<partial_tone id="𠊊聲">𠊊聲</partial_tone>
+				<partial_tone id="戠聲">戠聲</partial_tone>
+				<partial_tone id="子聲">子聲</partial_tone>
+				<partial_tone id="𠶷聲">𠶷聲</partial_tone>
+				<partial_tone id="意聲">意聲</partial_tone>
+				<partial_tone id="再聲">再聲</partial_tone>
+				<partial_tone id="𤰈聲">𤰈聲</partial_tone>
+				<partial_tone id="僃聲">僃聲</partial_tone>
+				<partial_tone id="直聲">直聲</partial_tone>
+				<partial_tone id="𢛳聲">𢛳聲</partial_tone>
+				<partial_tone id="圣聲">圣聲</partial_tone>
+				<partial_tone id="弋聲">弋聲</partial_tone>
+				<partial_tone id="則聲">則聲</partial_tone>
+				<partial_tone id="賊聲">賊聲</partial_tone>
+				<partial_tone id="革聲">革聲</partial_tone>
+				<partial_tone id="或聲">或聲</partial_tone>
+				<partial_tone id="彧聲">彧聲</partial_tone>
+				<partial_tone id="息聲">息聲</partial_tone>
+				<partial_tone id="亟聲">亟聲</partial_tone>
+				<partial_tone id="力聲">力聲</partial_tone>
+				<partial_tone id="阞聲">阞聲</partial_tone>
+				<partial_tone id="棘聲">棘聲</partial_tone>
+				<partial_tone id="𠾂聲">𠾂聲</partial_tone>
+				<partial_tone id="黑聲">黑聲</partial_tone>
+				<partial_tone id="匿聲">匿聲</partial_tone>
+				<partial_tone id="畟聲">畟聲</partial_tone>
+				<partial_tone id="色聲">色聲</partial_tone>
+				<partial_tone id="塞聲">塞聲</partial_tone>
+				<partial_tone id="仄聲">仄聲</partial_tone>
+				<partial_tone id="夨聲">夨聲</partial_tone>
+				<partial_tone id="𠬝聲">𠬝聲</partial_tone>
+				<partial_tone id="服聲">服聲</partial_tone>
+				<partial_tone id="麥聲">麥聲</partial_tone>
+				<partial_tone id="克聲">克聲</partial_tone>
+				<partial_tone id="䙷聲">䙷聲</partial_tone>
+				<partial_tone id="得聲">得聲</partial_tone>
+				<partial_tone id="伏聲">伏聲</partial_tone>
+				<partial_tone id="牧聲">牧聲</partial_tone>
+				<partial_tone id="墨聲">墨聲</partial_tone>
+				<partial_tone id="皕聲">皕聲</partial_tone>
+				<partial_tone id="苟聲">苟聲<note>與四部苟別。</note></partial_tone>
 				<explanation>右諧聲偏旁見於今韵他部內者、皆從弟一部轉入。</explanation>
 			</tone_part>
 			<tone_part>
-				<partname>弟二部<note>陸韵平聲蕭宵肴豪、上聲篠小巧晧、厺聲嘯笑效号。</note></partname>
-				<partial_tone>毛聲</partial_tone>
-				<partial_tone>樂聲</partial_tone>
-				<partial_tone>喿聲</partial_tone>
-				<partial_tone>澡聲</partial_tone>
-				<partial_tone>尞聲</partial_tone>
-				<partial_tone>小聲</partial_tone>
-				<partial_tone>丿聲</partial_tone>
-				<partial_tone>少聲</partial_tone>
-				<partial_tone>𤐫聲<note>隸作票。</note></partial_tone>
-				<partial_tone>麃聲</partial_tone>
-				<partial_tone>㬥聲</partial_tone>
-				<partial_tone>曓聲<note>二字隸通作暴。</note></partial_tone>
-				<partial_tone>大聲</partial_tone>
-				<partial_tone>芺聲</partial_tone>
-				<partial_tone>敖聲</partial_tone>
-				<partial_tone>卓聲</partial_tone>
-				<partial_tone>勞聲</partial_tone>
-				<partial_tone>龠聲</partial_tone>
-				<partial_tone>翟聲</partial_tone>
-				<partial_tone>爵聲</partial_tone>
-				<partial_tone>交聲</partial_tone>
-				<partial_tone>虐聲</partial_tone>
-				<partial_tone>高聲</partial_tone>
-				<partial_tone>喬聲</partial_tone>
-				<partial_tone>刀聲</partial_tone>
-				<partial_tone>召聲</partial_tone>
-				<partial_tone>到聲</partial_tone>
-				<partial_tone>兆聲</partial_tone>
-				<partial_tone>苗聲</partial_tone>
-				<partial_tone>䍃聲</partial_tone>
-				<partial_tone>要聲</partial_tone>
-				<partial_tone>爻聲</partial_tone>
-				<partial_tone>肴聲</partial_tone>
-				<partial_tone>𡥉聲<note>與三部孝別。</note></partial_tone>
-				<partial_tone>敎聲</partial_tone>
-				<partial_tone>丵聲</partial_tone>
-				<partial_tone>糳聲</partial_tone>
-				<partial_tone>巢聲</partial_tone>
-				<partial_tone>弔聲</partial_tone>
-				<partial_tone>堯聲</partial_tone>
-				<partial_tone>嚻聲</partial_tone>
-				<partial_tone>盜聲</partial_tone>
-				<partial_tone>勺聲</partial_tone>
-				<partial_tone>隺聲</partial_tone>
-				<partial_tone>弱聲</partial_tone>
-				<partial_tone>皃聲</partial_tone>
-				<partial_tone>貌聲</partial_tone>
-				<partial_tone>梟聲</partial_tone>
-				<partial_tone>号聲</partial_tone>
-				<partial_tone>號聲</partial_tone>
-				<partial_tone>了聲</partial_tone>
-				<partial_tone>𠬪聲</partial_tone>
-				<partial_tone>㫐聲</partial_tone>
+				<partname href="#part2">弟二部<note>陸韵平聲蕭宵肴豪、上聲篠小巧晧、厺聲嘯笑效号。</note></partname>
+				<partial_tone id="毛聲">毛聲</partial_tone>
+				<partial_tone id="樂聲">樂聲</partial_tone>
+				<partial_tone id="喿聲">喿聲</partial_tone>
+				<partial_tone id="澡聲">澡聲</partial_tone>
+				<partial_tone id="尞聲">尞聲</partial_tone>
+				<partial_tone id="小聲">小聲</partial_tone>
+				<partial_tone id="丿聲">丿聲</partial_tone>
+				<partial_tone id="少聲">少聲</partial_tone>
+				<partial_tone id="𤐫聲">𤐫聲<note>隸作票。</note></partial_tone>
+				<partial_tone id="麃聲">麃聲</partial_tone>
+				<partial_tone id="㬥聲">㬥聲</partial_tone>
+				<partial_tone id="曓聲">曓聲<note>二字隸通作暴。</note></partial_tone>
+				<partial_tone id="大聲">大聲</partial_tone>
+				<partial_tone id="芺聲">芺聲</partial_tone>
+				<partial_tone id="敖聲">敖聲</partial_tone>
+				<partial_tone id="卓聲">卓聲</partial_tone>
+				<partial_tone id="勞聲">勞聲</partial_tone>
+				<partial_tone id="龠聲">龠聲</partial_tone>
+				<partial_tone id="翟聲">翟聲</partial_tone>
+				<partial_tone id="爵聲">爵聲</partial_tone>
+				<partial_tone id="交聲">交聲</partial_tone>
+				<partial_tone id="虐聲">虐聲</partial_tone>
+				<partial_tone id="高聲">高聲</partial_tone>
+				<partial_tone id="喬聲">喬聲</partial_tone>
+				<partial_tone id="刀聲">刀聲</partial_tone>
+				<partial_tone id="召聲">召聲</partial_tone>
+				<partial_tone id="到聲">到聲</partial_tone>
+				<partial_tone id="兆聲">兆聲</partial_tone>
+				<partial_tone id="苗聲">苗聲</partial_tone>
+				<partial_tone id="䍃聲">䍃聲</partial_tone>
+				<partial_tone id="要聲">要聲</partial_tone>
+				<partial_tone id="爻聲">爻聲</partial_tone>
+				<partial_tone id="肴聲">肴聲</partial_tone>
+				<partial_tone id="𡥉聲">𡥉聲<note>與三部孝別。</note></partial_tone>
+				<partial_tone id="敎聲">敎聲</partial_tone>
+				<partial_tone id="丵聲">丵聲</partial_tone>
+				<partial_tone id="糳聲">糳聲</partial_tone>
+				<partial_tone id="巢聲">巢聲</partial_tone>
+				<partial_tone id="弔聲">弔聲</partial_tone>
+				<partial_tone id="堯聲">堯聲</partial_tone>
+				<partial_tone id="嚻聲">嚻聲</partial_tone>
+				<partial_tone id="盜聲">盜聲</partial_tone>
+				<partial_tone id="勺聲">勺聲</partial_tone>
+				<partial_tone id="隺聲">隺聲</partial_tone>
+				<partial_tone id="弱聲">弱聲</partial_tone>
+				<partial_tone id="皃聲">皃聲</partial_tone>
+				<partial_tone id="貌聲">貌聲</partial_tone>
+				<partial_tone id="梟聲">梟聲</partial_tone>
+				<partial_tone id="号聲">号聲</partial_tone>
+				<partial_tone id="號聲">號聲</partial_tone>
+				<partial_tone id="了聲">了聲</partial_tone>
+				<partial_tone id="𠬪聲">𠬪聲</partial_tone>
+				<partial_tone id="㫐聲">㫐聲</partial_tone>
 				<explanation>右諧聲偏旁見於今韵他部內者、皆從弟二部轉入。</explanation>
 			</tone_part>
 			<tone_part>
-				<partname>弟三部<note>陸韵平聲尤幽、上聲有黝、厺聲宥幼、入聲屋沃燭覺。</note></partname>
-				<partial_tone>九聲</partial_tone>
-				<partial_tone>厹聲</partial_tone>
-				<partial_tone>尻聲</partial_tone>
-				<partial_tone>州聲</partial_tone>
-				<partial_tone>求聲</partial_tone>
-				<partial_tone>流聲</partial_tone>
-				<partial_tone>六聲</partial_tone>
-				<partial_tone>坴聲</partial_tone>
-				<partial_tone>鼀聲</partial_tone>
-				<partial_tone>休聲</partial_tone>
-				<partial_tone>舟聲<note>偏旁石經作月。</note></partial_tone>
-				<partial_tone>㥑聲</partial_tone>
-				<partial_tone>憂聲</partial_tone>
-				<partial_tone>汓聲</partial_tone>
-				<partial_tone>游聲</partial_tone>
-				<partial_tone>𣍘聲</partial_tone>
-				<partial_tone>攸聲</partial_tone>
-				<partial_tone>條聲</partial_tone>
-				<partial_tone>修聲</partial_tone>
-				<partial_tone>㫦聲</partial_tone>
-				<partial_tone>肅聲</partial_tone>
-				<partial_tone>尗聲</partial_tone>
-				<partial_tone>叔聲</partial_tone>
-				<partial_tone>戚聲</partial_tone>
-				<partial_tone>𪚰<!--⿱龜火-->聲</partial_tone>
-				<partial_tone>秋聲</partial_tone>
-				<partial_tone>夲聲<note>𠦂同。</note></partial_tone>
-				<partial_tone>翏聲</partial_tone>
-				<partial_tone>舀聲</partial_tone>
-				<partial_tone>髟聲</partial_tone>
-				<partial_tone>猋聲</partial_tone>
-				<partial_tone>卯聲</partial_tone>
-				<partial_tone>丣聲</partial_tone>
-				<partial_tone>畱聲</partial_tone>
-				<partial_tone>周聲</partial_tone>
-				<partial_tone>矛聲</partial_tone>
-				<partial_tone>柔聲</partial_tone>
-				<partial_tone>敄聲</partial_tone>
-				<partial_tone>包聲</partial_tone>
-				<partial_tone>匋聲</partial_tone>
-				<partial_tone>焦聲</partial_tone>
-				<partial_tone>𥼚聲</partial_tone>
-				<partial_tone>𢏚聲</partial_tone>
-				<partial_tone>𠷎聲</partial_tone>
-				<partial_tone>壽聲</partial_tone>
-				<partial_tone>孚聲</partial_tone>
-				<partial_tone>𢆶聲</partial_tone>
-				<partial_tone>幽聲</partial_tone>
-				<partial_tone>酉聲</partial_tone>
-				<partial_tone>酋聲</partial_tone>
-				<partial_tone>臭聲</partial_tone>
-				<partial_tone>叜聲<note>叟同。</note></partial_tone>
-				<partial_tone>牢聲</partial_tone>
-				<partial_tone>爪聲</partial_tone>
-				<partial_tone>㕚聲<note>古文爪。</note></partial_tone>
-				<partial_tone>蚤聲</partial_tone>
-				<partial_tone>丩聲</partial_tone>
-				<partial_tone>收聲</partial_tone>
-				<partial_tone>囚聲</partial_tone>
-				<partial_tone>秀聲</partial_tone>
-				<partial_tone>𠔼聲</partial_tone>
-				<partial_tone>冃聲</partial_tone>
-				<partial_tone>冒聲</partial_tone>
-				<partial_tone>好聲</partial_tone>
-				<partial_tone>報聲</partial_tone>
-				<partial_tone>手聲</partial_tone>
-				<partial_tone>老聲</partial_tone>
-				<partial_tone>牡聲</partial_tone>
-				<partial_tone>畜聲</partial_tone>
-				<partial_tone>嘼聲</partial_tone>
-				<partial_tone>雔聲</partial_tone>
-				<partial_tone>帚聲</partial_tone>
-				<partial_tone>𩠐聲<note>古文𦣻</note></partial_tone>
-				<partial_tone>𦣻聲</partial_tone>
-				<partial_tone>頁聲<note>亦古文𦣻。</note></partial_tone>
-				<partial_tone>道聲</partial_tone>
-				<partial_tone>守聲</partial_tone>
-				<partial_tone>𠤏聲</partial_tone>
-				<partial_tone>𨸏聲<note>隸作阜。</note></partial_tone>
-				<partial_tone>𢌳聲</partial_tone>
-				<partial_tone>缶聲</partial_tone>
-				<partial_tone>由聲</partial_tone>
-				<partial_tone>宂聲<note>宂憞字。與八部冘、十二部穴別。</note></partial_tone>
-				<partial_tone>戊聲</partial_tone>
-				<partial_tone>丑聲</partial_tone>
-				<partial_tone>丂聲</partial_tone>
-				<partial_tone>考聲</partial_tone>
-				<partial_tone>保聲</partial_tone>
-				<partial_tone>𠍂聲<note>古文保。</note></partial_tone>
+				<partname href="#part3">弟三部<note>陸韵平聲尤幽、上聲有黝、厺聲宥幼、入聲屋沃燭覺。</note></partname>
+				<partial_tone id="九聲">九聲</partial_tone>
+				<partial_tone id="厹聲">厹聲</partial_tone>
+				<partial_tone id="尻聲">尻聲</partial_tone>
+				<partial_tone id="州聲">州聲</partial_tone>
+				<partial_tone id="求聲">求聲</partial_tone>
+				<partial_tone id="流聲">流聲</partial_tone>
+				<partial_tone id="六聲">六聲</partial_tone>
+				<partial_tone id="坴聲">坴聲</partial_tone>
+				<partial_tone id="鼀聲">鼀聲</partial_tone>
+				<partial_tone id="休聲">休聲</partial_tone>
+				<partial_tone id="舟聲">舟聲<note>偏旁石經作月。</note></partial_tone>
+				<partial_tone id="㥑聲">㥑聲</partial_tone>
+				<partial_tone id="憂聲">憂聲</partial_tone>
+				<partial_tone id="汓聲">汓聲</partial_tone>
+				<partial_tone id="游聲">游聲</partial_tone>
+				<partial_tone id="𣍘聲">𣍘聲</partial_tone>
+				<partial_tone id="攸聲">攸聲</partial_tone>
+				<partial_tone id="條聲">條聲</partial_tone>
+				<partial_tone id="修聲">修聲</partial_tone>
+				<partial_tone id="㫦聲">㫦聲</partial_tone>
+				<partial_tone id="肅聲">肅聲</partial_tone>
+				<partial_tone id="尗聲">尗聲</partial_tone>
+				<partial_tone id="叔聲">叔聲</partial_tone>
+				<partial_tone id="戚聲">戚聲</partial_tone>
+				<partial_tone id="𪚰聲">𪚰<!--⿱龜火-->聲</partial_tone>
+				<partial_tone id="秋聲">秋聲</partial_tone>
+				<partial_tone id="夲聲">夲聲<note>𠦂同。</note></partial_tone>
+				<partial_tone id="翏聲">翏聲</partial_tone>
+				<partial_tone id="舀聲">舀聲</partial_tone>
+				<partial_tone id="髟聲">髟聲</partial_tone>
+				<partial_tone id="猋聲">猋聲</partial_tone>
+				<partial_tone id="卯聲">卯聲</partial_tone>
+				<partial_tone id="丣聲">丣聲</partial_tone>
+				<partial_tone id="畱聲">畱聲</partial_tone>
+				<partial_tone id="周聲">周聲</partial_tone>
+				<partial_tone id="矛聲">矛聲</partial_tone>
+				<partial_tone id="柔聲">柔聲</partial_tone>
+				<partial_tone id="敄聲">敄聲</partial_tone>
+				<partial_tone id="包聲">包聲</partial_tone>
+				<partial_tone id="匋聲">匋聲</partial_tone>
+				<partial_tone id="焦聲">焦聲</partial_tone>
+				<partial_tone id="𥼚聲">𥼚聲</partial_tone>
+				<partial_tone id="𢏚聲">𢏚聲</partial_tone>
+				<partial_tone id="𠷎聲">𠷎聲</partial_tone>
+				<partial_tone id="壽聲">壽聲</partial_tone>
+				<partial_tone id="孚聲">孚聲</partial_tone>
+				<partial_tone id="𢆶聲">𢆶聲</partial_tone>
+				<partial_tone id="幽聲">幽聲</partial_tone>
+				<partial_tone id="酉聲">酉聲</partial_tone>
+				<partial_tone id="酋聲">酋聲</partial_tone>
+				<partial_tone id="臭聲">臭聲</partial_tone>
+				<partial_tone id="叜聲">叜聲<note>叟同。</note></partial_tone>
+				<partial_tone id="牢聲">牢聲</partial_tone>
+				<partial_tone id="爪聲">爪聲</partial_tone>
+				<partial_tone id="㕚聲">㕚聲<note>古文爪。</note></partial_tone>
+				<partial_tone id="蚤聲">蚤聲</partial_tone>
+				<partial_tone id="丩聲">丩聲</partial_tone>
+				<partial_tone id="收聲">收聲</partial_tone>
+				<partial_tone id="囚聲">囚聲</partial_tone>
+				<partial_tone id="秀聲">秀聲</partial_tone>
+				<partial_tone id="𠔼聲">𠔼聲</partial_tone>
+				<partial_tone id="冃聲">冃聲</partial_tone>
+				<partial_tone id="冒聲">冒聲</partial_tone>
+				<partial_tone id="好聲">好聲</partial_tone>
+				<partial_tone id="報聲">報聲</partial_tone>
+				<partial_tone id="手聲">手聲</partial_tone>
+				<partial_tone id="老聲">老聲</partial_tone>
+				<partial_tone id="牡聲">牡聲</partial_tone>
+				<partial_tone id="畜聲">畜聲</partial_tone>
+				<partial_tone id="嘼聲">嘼聲</partial_tone>
+				<partial_tone id="雔聲">雔聲</partial_tone>
+				<partial_tone id="帚聲">帚聲</partial_tone>
+				<partial_tone id="𩠐聲">𩠐聲<note>古文𦣻</note></partial_tone>
+				<partial_tone id="𦣻聲">𦣻聲</partial_tone>
+				<partial_tone id="頁聲">頁聲<note>亦古文𦣻。</note></partial_tone>
+				<partial_tone id="道聲">道聲</partial_tone>
+				<partial_tone id="守聲">守聲</partial_tone>
+				<partial_tone id="𠤏聲">𠤏聲</partial_tone>
+				<partial_tone id="𨸏聲">𨸏聲<note>隸作阜。</note></partial_tone>
+				<partial_tone id="𢌳聲">𢌳聲</partial_tone>
+				<partial_tone id="缶聲">缶聲</partial_tone>
+				<partial_tone id="由聲">由聲</partial_tone>
+				<partial_tone id="宂聲">宂聲<note>宂憞字。與八部冘、十二部穴別。</note></partial_tone>
+				<partial_tone id="戊聲">戊聲</partial_tone>
+				<partial_tone id="丑聲">丑聲</partial_tone>
+				<partial_tone id="丂聲">丂聲</partial_tone>
+				<partial_tone id="考聲">考聲</partial_tone>
+				<partial_tone id="保聲">保聲</partial_tone>
+				<partial_tone id="𠍂聲">𠍂聲<note>古文保。</note></partial_tone>
 				<partial_tone>？聲</partial_tone>
-				<partial_tone>劉聲</partial_tone>
-				<partial_tone>肘聲</partial_tone>
-				<partial_tone>受聲</partial_tone>
-				<partial_tone>棗聲</partial_tone>
-				<partial_tone>韭聲</partial_tone>
+				<partial_tone id="劉聲">劉聲</partial_tone>
+				<partial_tone id="肘聲">肘聲</partial_tone>
+				<partial_tone id="受聲">受聲</partial_tone>
+				<partial_tone id="棗聲">棗聲</partial_tone>
+				<partial_tone id="韭聲">韭聲</partial_tone>
 				<partial_tone>？聲<note>隸偏旁改同憂。</note></partial_tone>
-				<partial_tone>臼聲</partial_tone>
-				<partial_tone>咎聲</partial_tone>
-				<partial_tone>艸聲</partial_tone>
-				<partial_tone>草聲<note>俗作皁。</note></partial_tone>
-				<partial_tone>夰聲</partial_tone>
-				<partial_tone>昊聲</partial_tone>
-				<partial_tone>孝聲</partial_tone>
-				<partial_tone>祝聲</partial_tone>
-				<partial_tone>鳥聲</partial_tone>
-				<partial_tone>谷聲</partial_tone>
-				<partial_tone>𧢲聲</partial_tone>
-				<partial_tone>族聲</partial_tone>
-				<partial_tone>屋聲</partial_tone>
-				<partial_tone>獄聲</partial_tone>
-				<partial_tone>哭聲</partial_tone>
-				<partial_tone>足聲</partial_tone>
-				<partial_tone>束聲</partial_tone>
-				<partial_tone>欶聲</partial_tone>
-				<partial_tone>匊聲</partial_tone>
-				<partial_tone>臼聲</partial_tone>
-				<partial_tone>學聲</partial_tone>
-				<partial_tone>竹聲</partial_tone>
-				<partial_tone>𥷤聲</partial_tone>
-				<partial_tone>復聲</partial_tone>
-				<partial_tone>肉聲<note>偏旁石經作月。</note></partial_tone>
-				<partial_tone>吿聲</partial_tone>
-				<partial_tone>育聲</partial_tone>
-				<partial_tone>毒聲</partial_tone>
-				<partial_tone>𡍬聲</partial_tone>
-				<partial_tone>𧷗聲</partial_tone>
-				<partial_tone>辱聲</partial_tone>
-				<partial_tone>蓐聲</partial_tone>
-				<partial_tone>𠈇聲<note>古文夙。</note></partial_tone>
-				<partial_tone>曲聲</partial_tone>
-				<partial_tone>玉聲</partial_tone>
-				<partial_tone>奥聲</partial_tone>
-				<partial_tone>𠮷聲</partial_tone>
-				<partial_tone>𣪊聲</partial_tone>
-				<partial_tone>蜀聲</partial_tone>
-				<partial_tone>木聲</partial_tone>
-				<partial_tone>𤤴聲</partial_tone>
-				<partial_tone>录聲<note>與十四部彖別。</note></partial_tone>
-				<partial_tone>𥻆聲</partial_tone>
-				<partial_tone>逐聲</partial_tone>
-				<partial_tone>菐聲</partial_tone>
-				<partial_tone>豖聲<note>與十五部豕別。</note></partial_tone>
-				<partial_tone>⺊聲</partial_tone>
-				<partial_tone>攴聲<note>隸作攵。</note></partial_tone>
-				<partial_tone>局聲</partial_tone>
-				<partial_tone>夙聲<note>說文作𡖊。</note></partial_tone>
-				<partial_tone>鹿聲</partial_tone>
-				<partial_tone>㣎聲</partial_tone>
-				<partial_tone>𦏧<!--⿰𦎧丮-->聲<note>隸作孰。</note></partial_tone>
-				<partial_tone>禿聲</partial_tone>
-				<partial_tone>目聲</partial_tone>
+				<partial_tone id="臼聲">臼聲</partial_tone>
+				<partial_tone id="咎聲">咎聲</partial_tone>
+				<partial_tone id="艸聲">艸聲</partial_tone>
+				<partial_tone id="草聲">草聲<note>俗作皁。</note></partial_tone>
+				<partial_tone id="夰聲">夰聲</partial_tone>
+				<partial_tone id="昊聲">昊聲</partial_tone>
+				<partial_tone id="孝聲">孝聲</partial_tone>
+				<partial_tone id="祝聲">祝聲</partial_tone>
+				<partial_tone id="鳥聲">鳥聲</partial_tone>
+				<partial_tone id="谷聲">谷聲</partial_tone>
+				<partial_tone id="𧢲聲">𧢲聲</partial_tone>
+				<partial_tone id="族聲">族聲</partial_tone>
+				<partial_tone id="屋聲">屋聲</partial_tone>
+				<partial_tone id="獄聲">獄聲</partial_tone>
+				<partial_tone id="哭聲">哭聲</partial_tone>
+				<partial_tone id="足聲">足聲</partial_tone>
+				<partial_tone id="束聲">束聲</partial_tone>
+				<partial_tone id="欶聲">欶聲</partial_tone>
+				<partial_tone id="匊聲">匊聲</partial_tone>
+				<partial_tone id="臼聲">臼聲</partial_tone>
+				<partial_tone id="學聲">學聲</partial_tone>
+				<partial_tone id="竹聲">竹聲</partial_tone>
+				<partial_tone id="𥷤聲">𥷤聲</partial_tone>
+				<partial_tone id="復聲">復聲</partial_tone>
+				<partial_tone id="肉聲">肉聲<note>偏旁石經作月。</note></partial_tone>
+				<partial_tone id="吿聲">吿聲</partial_tone>
+				<partial_tone id="育聲">育聲</partial_tone>
+				<partial_tone id="毒聲">毒聲</partial_tone>
+				<partial_tone id="𡍬聲">𡍬聲</partial_tone>
+				<partial_tone id="𧷗聲">𧷗聲</partial_tone>
+				<partial_tone id="辱聲">辱聲</partial_tone>
+				<partial_tone id="蓐聲">蓐聲</partial_tone>
+				<partial_tone id="𠈇聲">𠈇聲<note>古文夙。</note></partial_tone>
+				<partial_tone id="曲聲">曲聲</partial_tone>
+				<partial_tone id="玉聲">玉聲</partial_tone>
+				<partial_tone id="奥聲">奥聲</partial_tone>
+				<partial_tone id="𠮷聲">𠮷聲</partial_tone>
+				<partial_tone id="𣪊聲">𣪊聲</partial_tone>
+				<partial_tone id="蜀聲">蜀聲</partial_tone>
+				<partial_tone id="木聲">木聲</partial_tone>
+				<partial_tone id="𤤴聲">𤤴聲</partial_tone>
+				<partial_tone id="录聲">录聲<note>與十四部彖別。</note></partial_tone>
+				<partial_tone id="𥻆聲">𥻆聲</partial_tone>
+				<partial_tone id="逐聲">逐聲</partial_tone>
+				<partial_tone id="菐聲">菐聲</partial_tone>
+				<partial_tone id="豖聲">豖聲<note>與十五部豕別。</note></partial_tone>
+				<partial_tone id="⺊聲">⺊聲</partial_tone>
+				<partial_tone id="攴聲">攴聲<note>隸作攵。</note></partial_tone>
+				<partial_tone id="局聲">局聲</partial_tone>
+				<partial_tone id="夙聲">夙聲<note>說文作𡖊。</note></partial_tone>
+				<partial_tone id="鹿聲">鹿聲</partial_tone>
+				<partial_tone id="㣎聲">㣎聲</partial_tone>
+				<partial_tone id="𦏧聲">𦏧<!--⿰𦎧丮-->聲<note>隸作孰。</note></partial_tone>
+				<partial_tone id="禿聲">禿聲</partial_tone>
+				<partial_tone id="目聲">目聲</partial_tone>
 				<explanation>右諧聲偏旁見於今韵他部內者、皆從弟三部轉入。</explanation>
 			</tone_part>
 			<tone_part>
-				<partname>弟四部<note>陸韵平聲矦、上聲厚、厺聲𠊱。</note></partname>
-				<partial_tone>婁聲</partial_tone>
-				<partial_tone>句聲</partial_tone>
-				<partial_tone>朱聲</partial_tone>
-				<partial_tone>禺聲</partial_tone>
-				<partial_tone>壴聲</partial_tone>
-				<partial_tone>尌聲</partial_tone>
-				<partial_tone>廚聲</partial_tone>
-				<partial_tone>區聲</partial_tone>
-				<partial_tone>蓲聲</partial_tone>
-				<partial_tone>矦聲</partial_tone>
-				<partial_tone>几聲<note>與十五部几別。</note></partial_tone>
-				<partial_tone>殳聲</partial_tone>
-				<partial_tone>需聲</partial_tone>
-				<partial_tone>須聲</partial_tone>
-				<partial_tone>兪聲</partial_tone>
-				<partial_tone>芻聲</partial_tone>
-				<partial_tone>后聲</partial_tone>
-				<partial_tone>取聲</partial_tone>
-				<partial_tone>冣聲<note>與十五部最別。</note></partial_tone>
-				<partial_tone>聚聲</partial_tone>
-				<partial_tone>後聲</partial_tone>
-				<partial_tone>臾聲</partial_tone>
-				<partial_tone>侮聲</partial_tone>
-				<partial_tone>口聲</partial_tone>
-				<partial_tone>𣆪聲</partial_tone>
-				<partial_tone>厚聲</partial_tone>
-				<partial_tone>付聲</partial_tone>
-				<partial_tone>府聲</partial_tone>
-				<partial_tone>𧺆聲</partial_tone>
-				<partial_tone>奏聲</partial_tone>
-				<partial_tone>丶<!--丨-->聲</partial_tone>
-				<partial_tone>主聲</partial_tone>
-				<partial_tone>斗聲</partial_tone>
-				<partial_tone>冓聲</partial_tone>
-				<partial_tone>豆聲</partial_tone>
-				<partial_tone>具聲</partial_tone>
-				<partial_tone>屚聲</partial_tone>
-				<partial_tone>寇聲</partial_tone>
-				<partial_tone>晝聲</partial_tone>
-				<partial_tone>部聲</partial_tone>
-				<partial_tone>𠁁聲</partial_tone>
-				<partial_tone>斲聲</partial_tone>
+				<partname href="#part4">弟四部<note>陸韵平聲矦、上聲厚、厺聲𠊱。</note></partname>
+				<partial_tone id="婁聲">婁聲</partial_tone>
+				<partial_tone id="句聲">句聲</partial_tone>
+				<partial_tone id="朱聲">朱聲</partial_tone>
+				<partial_tone id="禺聲">禺聲</partial_tone>
+				<partial_tone id="壴聲">壴聲</partial_tone>
+				<partial_tone id="尌聲">尌聲</partial_tone>
+				<partial_tone id="廚聲">廚聲</partial_tone>
+				<partial_tone id="區聲">區聲</partial_tone>
+				<partial_tone id="蓲聲">蓲聲</partial_tone>
+				<partial_tone id="矦聲">矦聲</partial_tone>
+				<partial_tone id="几聲">几聲<note>與十五部几別。</note></partial_tone>
+				<partial_tone id="殳聲">殳聲</partial_tone>
+				<partial_tone id="需聲">需聲</partial_tone>
+				<partial_tone id="須聲">須聲</partial_tone>
+				<partial_tone id="兪聲">兪聲</partial_tone>
+				<partial_tone id="芻聲">芻聲</partial_tone>
+				<partial_tone id="后聲">后聲</partial_tone>
+				<partial_tone id="取聲">取聲</partial_tone>
+				<partial_tone id="冣聲">冣聲<note>與十五部最別。</note></partial_tone>
+				<partial_tone id="聚聲">聚聲</partial_tone>
+				<partial_tone id="後聲">後聲</partial_tone>
+				<partial_tone id="臾聲">臾聲</partial_tone>
+				<partial_tone id="侮聲">侮聲</partial_tone>
+				<partial_tone id="口聲">口聲</partial_tone>
+				<partial_tone id="𣆪聲">𣆪聲</partial_tone>
+				<partial_tone id="厚聲">厚聲</partial_tone>
+				<partial_tone id="付聲">付聲</partial_tone>
+				<partial_tone id="府聲">府聲</partial_tone>
+				<partial_tone id="𧺆聲">𧺆聲</partial_tone>
+				<partial_tone id="奏聲">奏聲</partial_tone>
+				<partial_tone id="丶聲">丶<!--丨-->聲</partial_tone>
+				<partial_tone id="主聲">主聲</partial_tone>
+				<partial_tone id="斗聲">斗聲</partial_tone>
+				<partial_tone id="冓聲">冓聲</partial_tone>
+				<partial_tone id="豆聲">豆聲</partial_tone>
+				<partial_tone id="具聲">具聲</partial_tone>
+				<partial_tone id="屚聲">屚聲</partial_tone>
+				<partial_tone id="寇聲">寇聲</partial_tone>
+				<partial_tone id="晝聲">晝聲</partial_tone>
+				<partial_tone id="部聲">部聲</partial_tone>
+				<partial_tone id="𠁁聲">𠁁聲</partial_tone>
+				<partial_tone id="斲聲">斲聲</partial_tone>
 				<explanation>右諧聲偏旁見於今韵他部內者、皆從弟四部轉入。</explanation>
 			</tone_part>
 			<tone_part>
-				<partname>弟五部<note>陸韵平聲魚虞模、上聲語麌姥、厺聲遇御暮、入聲藥鐸。</note></partname>
-				<partial_tone>且聲</partial_tone>
-				<partial_tone>沮聲</partial_tone>
-				<partial_tone>者聲</partial_tone>
-				<partial_tone>奢聲</partial_tone>
-				<partial_tone>父聲</partial_tone>
-				<partial_tone>甫聲</partial_tone>
-				<partial_tone>尃聲<note>與十四都專別。</note></partial_tone>
-				<partial_tone>浦聲</partial_tone>
-				<partial_tone>亏聲<note>隸作于。</note></partial_tone>
-				<partial_tone>𠌶聲</partial_tone>
-				<partial_tone>𦾓聲</partial_tone>
-				<partial_tone>夸聲</partial_tone>
-				<partial_tone>雩聲</partial_tone>
-				<partial_tone>瓠聲</partial_tone>
-				<partial_tone>夫聲</partial_tone>
-				<partial_tone>牙聲</partial_tone>
-				<partial_tone>叚聲<note>與十四部段別。</note></partial_tone>
-				<partial_tone>豭聲</partial_tone>
-				<partial_tone>家聲</partial_tone>
-				<partial_tone>車聲</partial_tone>
-				<partial_tone>巴聲</partial_tone>
-				<partial_tone>吳聲</partial_tone>
-				<partial_tone>䖈聲</partial_tone>
-				<partial_tone>慮聲</partial_tone>
-				<partial_tone>盧聲</partial_tone>
-				<partial_tone>䖒聲</partial_tone>
-				<partial_tone>雐聲</partial_tone>
-				<partial_tone>古聲</partial_tone>
-				<partial_tone>居聲</partial_tone>
-				<partial_tone>各聲</partial_tone>
-				<partial_tone>洛聲</partial_tone>
-				<partial_tone>路聲</partial_tone>
-				<partial_tone>瓜聲</partial_tone>
-				<partial_tone>烏聲</partial_tone>
-				<partial_tone>於聲<note>古文烏<!--？-->。</note></partial_tone>
-				<partial_tone>与聲</partial_tone>
-				<partial_tone>與聲</partial_tone>
-				<partial_tone>卸聲</partial_tone>
-				<partial_tone>御聲</partial_tone>
-				<partial_tone>亦聲</partial_tone>
-				<partial_tone>䠶聲<note>射同。</note></partial_tone>
-				<partial_tone>厺聲</partial_tone>
-				<partial_tone>亞聲</partial_tone>
-				<partial_tone>惡聲</partial_tone>
-				<partial_tone>魚聲</partial_tone>
-				<partial_tone>𩺰聲</partial_tone>
-				<partial_tone>穌聲</partial_tone>
-				<partial_tone>舍聲</partial_tone>
-				<partial_tone>余聲</partial_tone>
-				<partial_tone>涂聲</partial_tone>
-				<partial_tone>素聲</partial_tone>
-				<partial_tone>䀠聲</partial_tone>
-				<partial_tone>瞿聲</partial_tone>
-				<partial_tone>襾聲</partial_tone>
-				<partial_tone>賈聲</partial_tone>
-				<partial_tone>𦱤聲<note>俗作暮。</note></partial_tone>
-				<partial_tone>庶聲</partial_tone>
-				<partial_tone>度聲</partial_tone>
-				<partial_tone>席聲</partial_tone>
-				<partial_tone>麤聲</partial_tone>
-				<partial_tone>巨聲</partial_tone>
-				<partial_tone>榘聲</partial_tone>
-				<partial_tone>壺聲</partial_tone>
-				<partial_tone>奴聲</partial_tone>
-				<partial_tone>舁聲</partial_tone>
-				<partial_tone>圖聲</partial_tone>
-				<partial_tone>乎聲</partial_tone>
-				<partial_tone>乍聲</partial_tone>
-				<partial_tone>土聲</partial_tone>
-				<partial_tone>夕聲</partial_tone>
-				<partial_tone>無聲</partial_tone>
-				<partial_tone>毋聲</partial_tone>
-				<partial_tone>巫聲</partial_tone>
-				<partial_tone>石聲</partial_tone>
-				<partial_tone>𤴔聲<note>與三部足別。</note></partial_tone>
-				<partial_tone>馬聲</partial_tone>
-				<partial_tone>呂聲</partial_tone>
-				<partial_tone>鹵聲</partial_tone>
-				<partial_tone>下聲</partial_tone>
-				<partial_tone>女聲</partial_tone>
-				<partial_tone>処聲</partial_tone>
-				<partial_tone>羽聲</partial_tone>
-				<partial_tone>𠑹聲</partial_tone>
-				<partial_tone>雨聲</partial_tone>
-				<partial_tone>五聲</partial_tone>
-				<partial_tone>吾聲</partial_tone>
-				<partial_tone>予聲</partial_tone>
-				<partial_tone>午聲</partial_tone>
-				<partial_tone>許聲</partial_tone>
-				<partial_tone>戶聲</partial_tone>
-				<partial_tone>雇聲</partial_tone>
-				<partial_tone>武聲</partial_tone>
-				<partial_tone>鼠聲</partial_tone>
-				<partial_tone>黍聲</partial_tone>
-				<partial_tone>禹聲</partial_tone>
-				<partial_tone>鼓聲</partial_tone>
-				<partial_tone>鼔聲</partial_tone>
-				<partial_tone>夏聲</partial_tone>
-				<partial_tone>宁聲</partial_tone>
-				<partial_tone>舄聲</partial_tone>
-				<partial_tone>隻聲</partial_tone>
-				<partial_tone>蒦聲</partial_tone>
-				<partial_tone>旅聲</partial_tone>
-				<partial_tone>寡聲</partial_tone>
-				<partial_tone>㚔聲</partial_tone>
-				<partial_tone>蠱聲</partial_tone>
-				<partial_tone>若聲</partial_tone>
-				<partial_tone>魯聲</partial_tone>
-				<partial_tone>豦聲</partial_tone>
-				<partial_tone>屰聲</partial_tone>
-				<partial_tone>㡿聲<note>隸作⿸𠂆干。俗作斥。</note></partial_tone>
-				<partial_tone>朔聲</partial_tone>
-				<partial_tone>凵聲</partial_tone>
-				<partial_tone>兔聲</partial_tone>
-				<partial_tone>斝聲</partial_tone>
-				<partial_tone>𥇡聲</partial_tone>
-				<partial_tone>擇聲</partial_tone>
-				<partial_tone>谷聲<note>與三部谷不同。</note></partial_tone>
-				<partial_tone>卻聲</partial_tone>
-				<partial_tone>𩫏聲<note>與十三部？別。</note></partial_tone>
-				<partial_tone>𨟍聲<note>隸作郭。</note></partial_tone>
-				<partial_tone>𢧢聲<note>隸作戟。</note></partial_tone>
-				<partial_tone>乇聲</partial_tone>
-				<partial_tone>㫺聲</partial_tone>
-				<partial_tone>𦔡聲</partial_tone>
-				<partial_tone>靃聲</partial_tone>
-				<partial_tone>炙聲</partial_tone>
-				<partial_tone>白聲</partial_tone>
-				<partial_tone>帛聲</partial_tone>
-				<partial_tone>尺聲</partial_tone>
-				<partial_tone>百聲</partial_tone>
-				<partial_tone>赤聲</partial_tone>
-				<partial_tone>赦聲</partial_tone>
-				<partial_tone>赫聲</partial_tone>
-				<partial_tone>咢聲<note>說文作㖾。</note></partial_tone>
-				<partial_tone>壑聲</partial_tone>
-				<partial_tone>𡭴聲</partial_tone>
-				<partial_tone>䨣聲</partial_tone>
-				<partial_tone>霸聲</partial_tone>
-				<partial_tone>叒聲</partial_tone>
-				<partial_tone>辵聲</partial_tone>
+				<partname href="#part5">弟五部<note>陸韵平聲魚虞模、上聲語麌姥、厺聲遇御暮、入聲藥鐸。</note></partname>
+				<partial_tone id="且聲">且聲</partial_tone>
+				<partial_tone id="沮聲">沮聲</partial_tone>
+				<partial_tone id="者聲">者聲</partial_tone>
+				<partial_tone id="奢聲">奢聲</partial_tone>
+				<partial_tone id="父聲">父聲</partial_tone>
+				<partial_tone id="甫聲">甫聲</partial_tone>
+				<partial_tone id="尃聲">尃聲<note>與十四都專別。</note></partial_tone>
+				<partial_tone id="浦聲">浦聲</partial_tone>
+				<partial_tone id="亏聲">亏聲<note>隸作于。</note></partial_tone>
+				<partial_tone id="𠌶聲">𠌶聲</partial_tone>
+				<partial_tone id="𦾓聲">𦾓聲</partial_tone>
+				<partial_tone id="夸聲">夸聲</partial_tone>
+				<partial_tone id="雩聲">雩聲</partial_tone>
+				<partial_tone id="瓠聲">瓠聲</partial_tone>
+				<partial_tone id="夫聲">夫聲</partial_tone>
+				<partial_tone id="牙聲">牙聲</partial_tone>
+				<partial_tone id="叚聲">叚聲<note>與十四部段別。</note></partial_tone>
+				<partial_tone id="豭聲">豭聲</partial_tone>
+				<partial_tone id="家聲">家聲</partial_tone>
+				<partial_tone id="車聲">車聲</partial_tone>
+				<partial_tone id="巴聲">巴聲</partial_tone>
+				<partial_tone id="吳聲">吳聲</partial_tone>
+				<partial_tone id="䖈聲">䖈聲</partial_tone>
+				<partial_tone id="慮聲">慮聲</partial_tone>
+				<partial_tone id="盧聲">盧聲</partial_tone>
+				<partial_tone id="䖒聲">䖒聲</partial_tone>
+				<partial_tone id="雐聲">雐聲</partial_tone>
+				<partial_tone id="古聲">古聲</partial_tone>
+				<partial_tone id="居聲">居聲</partial_tone>
+				<partial_tone id="各聲">各聲</partial_tone>
+				<partial_tone id="洛聲">洛聲</partial_tone>
+				<partial_tone id="路聲">路聲</partial_tone>
+				<partial_tone id="瓜聲">瓜聲</partial_tone>
+				<partial_tone id="烏聲">烏聲</partial_tone>
+				<partial_tone id="於聲">於聲<note>古文烏<!--？-->。</note></partial_tone>
+				<partial_tone id="与聲">与聲</partial_tone>
+				<partial_tone id="與聲">與聲</partial_tone>
+				<partial_tone id="卸聲">卸聲</partial_tone>
+				<partial_tone id="御聲">御聲</partial_tone>
+				<partial_tone id="亦聲">亦聲</partial_tone>
+				<partial_tone id="䠶聲">䠶聲<note>射同。</note></partial_tone>
+				<partial_tone id="厺聲">厺聲</partial_tone>
+				<partial_tone id="亞聲">亞聲</partial_tone>
+				<partial_tone id="惡聲">惡聲</partial_tone>
+				<partial_tone id="魚聲">魚聲</partial_tone>
+				<partial_tone id="𩺰聲">𩺰聲</partial_tone>
+				<partial_tone id="穌聲">穌聲</partial_tone>
+				<partial_tone id="舍聲">舍聲</partial_tone>
+				<partial_tone id="余聲">余聲</partial_tone>
+				<partial_tone id="涂聲">涂聲</partial_tone>
+				<partial_tone id="素聲">素聲</partial_tone>
+				<partial_tone id="䀠聲">䀠聲</partial_tone>
+				<partial_tone id="瞿聲">瞿聲</partial_tone>
+				<partial_tone id="襾聲">襾聲</partial_tone>
+				<partial_tone id="賈聲">賈聲</partial_tone>
+				<partial_tone id="𦱤聲">𦱤聲<note>俗作暮。</note></partial_tone>
+				<partial_tone id="庶聲">庶聲</partial_tone>
+				<partial_tone id="度聲">度聲</partial_tone>
+				<partial_tone id="席聲">席聲</partial_tone>
+				<partial_tone id="麤聲">麤聲</partial_tone>
+				<partial_tone id="巨聲">巨聲</partial_tone>
+				<partial_tone id="榘聲">榘聲</partial_tone>
+				<partial_tone id="壺聲">壺聲</partial_tone>
+				<partial_tone id="奴聲">奴聲</partial_tone>
+				<partial_tone id="舁聲">舁聲</partial_tone>
+				<partial_tone id="圖聲">圖聲</partial_tone>
+				<partial_tone id="乎聲">乎聲</partial_tone>
+				<partial_tone id="乍聲">乍聲</partial_tone>
+				<partial_tone id="土聲">土聲</partial_tone>
+				<partial_tone id="夕聲">夕聲</partial_tone>
+				<partial_tone id="無聲">無聲</partial_tone>
+				<partial_tone id="毋聲">毋聲</partial_tone>
+				<partial_tone id="巫聲">巫聲</partial_tone>
+				<partial_tone id="石聲">石聲</partial_tone>
+				<partial_tone id="𤴔聲">𤴔聲<note>與三部足別。</note></partial_tone>
+				<partial_tone id="馬聲">馬聲</partial_tone>
+				<partial_tone id="呂聲">呂聲</partial_tone>
+				<partial_tone id="鹵聲">鹵聲</partial_tone>
+				<partial_tone id="下聲">下聲</partial_tone>
+				<partial_tone id="女聲">女聲</partial_tone>
+				<partial_tone id="処聲">処聲</partial_tone>
+				<partial_tone id="羽聲">羽聲</partial_tone>
+				<partial_tone id="𠑹聲">𠑹聲</partial_tone>
+				<partial_tone id="雨聲">雨聲</partial_tone>
+				<partial_tone id="五聲">五聲</partial_tone>
+				<partial_tone id="吾聲">吾聲</partial_tone>
+				<partial_tone id="予聲">予聲</partial_tone>
+				<partial_tone id="午聲">午聲</partial_tone>
+				<partial_tone id="許聲">許聲</partial_tone>
+				<partial_tone id="戶聲">戶聲</partial_tone>
+				<partial_tone id="雇聲">雇聲</partial_tone>
+				<partial_tone id="武聲">武聲</partial_tone>
+				<partial_tone id="鼠聲">鼠聲</partial_tone>
+				<partial_tone id="黍聲">黍聲</partial_tone>
+				<partial_tone id="禹聲">禹聲</partial_tone>
+				<partial_tone id="鼓聲">鼓聲</partial_tone>
+				<partial_tone id="鼔聲">鼔聲</partial_tone>
+				<partial_tone id="夏聲">夏聲</partial_tone>
+				<partial_tone id="宁聲">宁聲</partial_tone>
+				<partial_tone id="舄聲">舄聲</partial_tone>
+				<partial_tone id="隻聲">隻聲</partial_tone>
+				<partial_tone id="蒦聲">蒦聲</partial_tone>
+				<partial_tone id="旅聲">旅聲</partial_tone>
+				<partial_tone id="寡聲">寡聲</partial_tone>
+				<partial_tone id="㚔聲">㚔聲</partial_tone>
+				<partial_tone id="蠱聲">蠱聲</partial_tone>
+				<partial_tone id="若聲">若聲</partial_tone>
+				<partial_tone id="魯聲">魯聲</partial_tone>
+				<partial_tone id="豦聲">豦聲</partial_tone>
+				<partial_tone id="屰聲">屰聲</partial_tone>
+				<partial_tone id="㡿聲">㡿聲<note>隸作⿸𠂆干。俗作斥。</note></partial_tone>
+				<partial_tone id="朔聲">朔聲</partial_tone>
+				<partial_tone id="凵聲">凵聲</partial_tone>
+				<partial_tone id="兔聲">兔聲</partial_tone>
+				<partial_tone id="斝聲">斝聲</partial_tone>
+				<partial_tone id="𥇡聲">𥇡聲</partial_tone>
+				<partial_tone id="擇聲">擇聲</partial_tone>
+				<partial_tone id="谷聲">谷聲<note>與三部谷不同。</note></partial_tone>
+				<partial_tone id="卻聲">卻聲</partial_tone>
+				<partial_tone id="𩫏聲">𩫏聲<note>與十三部？別。</note></partial_tone>
+				<partial_tone id="𨟍聲">𨟍聲<note>隸作郭。</note></partial_tone>
+				<partial_tone id="𢧢聲">𢧢聲<note>隸作戟。</note></partial_tone>
+				<partial_tone id="乇聲">乇聲</partial_tone>
+				<partial_tone id="㫺聲">㫺聲</partial_tone>
+				<partial_tone id="𦔡聲">𦔡聲</partial_tone>
+				<partial_tone id="靃聲">靃聲</partial_tone>
+				<partial_tone id="炙聲">炙聲</partial_tone>
+				<partial_tone id="白聲">白聲</partial_tone>
+				<partial_tone id="帛聲">帛聲</partial_tone>
+				<partial_tone id="尺聲">尺聲</partial_tone>
+				<partial_tone id="百聲">百聲</partial_tone>
+				<partial_tone id="赤聲">赤聲</partial_tone>
+				<partial_tone id="赦聲">赦聲</partial_tone>
+				<partial_tone id="赫聲">赫聲</partial_tone>
+				<partial_tone id="咢聲">咢聲<note>說文作㖾。</note></partial_tone>
+				<partial_tone id="壑聲">壑聲</partial_tone>
+				<partial_tone id="𡭴聲">𡭴聲</partial_tone>
+				<partial_tone id="䨣聲">䨣聲</partial_tone>
+				<partial_tone id="霸聲">霸聲</partial_tone>
+				<partial_tone id="叒聲">叒聲</partial_tone>
+				<partial_tone id="辵聲">辵聲</partial_tone>
 				<explanation>右諧聲偏旁見於今韵他部內者、皆從弟五部轉入。</explanation>
 			</tone_part>
 			<tone_part>
-				<partname>弟六部<note>陸韵平聲蒸登、上聲拯等厺聲證嶝。</note></partname>
-				<partial_tone>瞢聲</partial_tone>
-				<partial_tone>夢聲</partial_tone>
-				<partial_tone>蠅<!--⿰虫𪓑-->蠅聲</partial_tone>
-				<partial_tone>朋聲</partial_tone>
-				<partial_tone>弓聲</partial_tone>
-				<partial_tone>曾聲</partial_tone>
-				<partial_tone>𦫵聲</partial_tone>
-				<partial_tone>𨿳<!--⿸𤕫隹-->聲</partial_tone>
-				<partial_tone>灷聲</partial_tone>
-				<partial_tone>朕聲</partial_tone>
-				<partial_tone>興聲</partial_tone>
-				<partial_tone>夌聲</partial_tone>
-				<partial_tone>亙聲<note>與十四部亘別。</note></partial_tone>
-				<partial_tone>恆聲</partial_tone>
-				<partial_tone>丞聲</partial_tone>
-				<partial_tone>烝聲</partial_tone>
-				<partial_tone>承聲</partial_tone>
-				<partial_tone>徵聲</partial_tone>
-				<partial_tone>兢聲</partial_tone>
-				<partial_tone>厶聲<note>古文厷。</note></partial_tone>
-				<partial_tone>厷聲<note>肱同。</note></partial_tone>
-				<partial_tone>仌聲<note>隸作冫。</note></partial_tone>
-				<partial_tone>登聲</partial_tone>
-				<partial_tone>豋聲<note>說文作𢍪。</note></partial_tone>
-				<partial_tone>椉聲</partial_tone>
-				<partial_tone>仍聲</partial_tone>
-				<partial_tone>爯聲</partial_tone>
-				<partial_tone>稱聲</partial_tone>
-				<partial_tone>巹聲</partial_tone>
-				<partial_tone>𧯷聲</partial_tone>
+				<partname href="#part6">弟六部<note>陸韵平聲蒸登、上聲拯等厺聲證嶝。</note></partname>
+				<partial_tone id="瞢聲">瞢聲</partial_tone>
+				<partial_tone id="夢聲">夢聲</partial_tone>
+				<partial_tone id="蠅聲">蠅<!--⿰虫𪓑-->聲</partial_tone>
+				<partial_tone id="朋聲">朋聲</partial_tone>
+				<partial_tone id="弓聲">弓聲</partial_tone>
+				<partial_tone id="曾聲">曾聲</partial_tone>
+				<partial_tone id="𦫵聲">𦫵聲</partial_tone>
+				<partial_tone id="𨿳聲">𨿳<!--⿸𤕫隹-->聲</partial_tone>
+				<partial_tone id="灷聲">灷聲</partial_tone>
+				<partial_tone id="朕聲">朕聲</partial_tone>
+				<partial_tone id="興聲">興聲</partial_tone>
+				<partial_tone id="夌聲">夌聲</partial_tone>
+				<partial_tone id="亙聲">亙聲<note>與十四部亘別。</note></partial_tone>
+				<partial_tone id="恆聲">恆聲</partial_tone>
+				<partial_tone id="丞聲">丞聲</partial_tone>
+				<partial_tone id="烝聲">烝聲</partial_tone>
+				<partial_tone id="承聲">承聲</partial_tone>
+				<partial_tone id="徵聲">徵聲</partial_tone>
+				<partial_tone id="兢聲">兢聲</partial_tone>
+				<partial_tone id="厶聲">厶聲<note>古文厷。</note></partial_tone>
+				<partial_tone id="厷聲">厷聲<note>肱同。</note></partial_tone>
+				<partial_tone id="仌聲">仌聲<note>隸作冫。</note></partial_tone>
+				<partial_tone id="登聲">登聲</partial_tone>
+				<partial_tone id="豋聲">豋聲<note>說文作𢍪。</note></partial_tone>
+				<partial_tone id="椉聲">椉聲</partial_tone>
+				<partial_tone id="仍聲">仍聲</partial_tone>
+				<partial_tone id="爯聲">爯聲</partial_tone>
+				<partial_tone id="稱聲">稱聲</partial_tone>
+				<partial_tone id="巹聲">巹聲</partial_tone>
+				<partial_tone id="𧯷聲">𧯷聲</partial_tone>
 				<explanation>右諧聲偏旁見於今韵他部內者、皆從弟六部轉入。</explanation>
 			</tone_part>
 			<tone_part>
-				<partname>弟七部<note>陸韵平聲侵鹽添、上聲𥨊琰忝、厺聲沁豓㮇、入聲緝葉怗。</note></partname>
-				<partial_tone>咸聲</partial_tone>
-				<partial_tone>鹹聲</partial_tone>
-				<partial_tone>𪉷聲</partial_tone>
-				<partial_tone>林聲</partial_tone>
-				<partial_tone>心聲</partial_tone>
-				<partial_tone>今聲</partial_tone>
-				<partial_tone>念聲</partial_tone>
-				<partial_tone>金聲</partial_tone>
-				<partial_tone>酓聲</partial_tone>
-				<partial_tone>欽聲</partial_tone>
-				<partial_tone>㱃聲</partial_tone>
-				<partial_tone>凡聲</partial_tone>
-				<partial_tone>風聲</partial_tone>
-				<partial_tone>𢆉聲</partial_tone>
-				<partial_tone>南聲</partial_tone>
-				<partial_tone>㚔聲<note>與十一部幸別</note></partial_tone>
-				<partial_tone>𡙕聲</partial_tone>
-				<partial_tone>男聲</partial_tone>
-				<partial_tone>琴聲</partial_tone>
-				<partial_tone>彡聲</partial_tone>
-				<partial_tone>𢒫聲</partial_tone>
-				<partial_tone>甚聲</partial_tone>
-				<partial_tone>音聲</partial_tone>
-				<partial_tone>兂聲</partial_tone>
-				<partial_tone>兓聲</partial_tone>
-				<partial_tone>朁聲</partial_tone>
-				<partial_tone>㑴聲</partial_tone>
-				<partial_tone>錦聲</partial_tone>
-				<partial_tone>𥥍聲<note>與十五部突別。</note></partial_tone>
-				<partial_tone>壬聲</partial_tone>
-				<partial_tone>任聲</partial_tone>
-				<partial_tone>品聲</partial_tone>
-				<partial_tone>㸒聲<note>與二部䍃別。</note></partial_tone>
-				<partial_tone>淫聲</partial_tone>
-				<partial_tone>占聲</partial_tone>
-				<partial_tone>黏聲</partial_tone>
-				<partial_tone>𣥄聲<note>隸作乏。</note></partial_tone>
-				<partial_tone>三聲</partial_tone>
-				<partial_tone>參聲</partial_tone>
-				<partial_tone>𢦜聲</partial_tone>
-				<partial_tone>韱聲</partial_tone>
-				<partial_tone>㔾聲<note>說文作𢎘。</note></partial_tone>
-				<partial_tone>氾聲</partial_tone>
-				<partial_tone>㐺<!--⿲人人人-->聲</partial_tone>
-				<partial_tone>兼聲</partial_tone>
-				<partial_tone>廉聲</partial_tone>
-				<partial_tone>僉<!--⿳亼吅灬-->聲</partial_tone>
-				<partial_tone>閃聲</partial_tone>
-				<partial_tone>㐁聲</partial_tone>
-				<partial_tone>甛聲</partial_tone>
-				<partial_tone>冄聲</partial_tone>
-				<partial_tone>㐭聲</partial_tone>
-				<partial_tone>稟聲</partial_tone>
-				<partial_tone>審聲</partial_tone>
-				<partial_tone>弇聲</partial_tone>
-				<partial_tone>𤡜<!--⿰⿱甘月犬-->聲</partial_tone><!--w1500040-->
-				<partial_tone>厭聲</partial_tone>
-				<partial_tone>咠聲</partial_tone>
-				<partial_tone>戢聲</partial_tone>
-				<partial_tone>及聲</partial_tone>
-				<partial_tone>立聲</partial_tone>
-				<partial_tone>溼聲</partial_tone>
-				<partial_tone>亼聲</partial_tone>
-				<partial_tone>㬎聲</partial_tone>
-				<partial_tone>隰聲</partial_tone>
-				<partial_tone>合聲</partial_tone>
-				<partial_tone>拾聲</partial_tone>
-				<partial_tone>邑聲</partial_tone>
-				<partial_tone>雥聲</partial_tone>
-				<partial_tone>雧聲</partial_tone>
-				<partial_tone>入聲</partial_tone>
-				<partial_tone>十聲</partial_tone>
-				<partial_tone>叶聲</partial_tone>
-				<partial_tone>聶聲</partial_tone>
-				<partial_tone>習聲</partial_tone>
-				<partial_tone>燮聲</partial_tone>
-				<partial_tone>龖聲</partial_tone>
-				<partial_tone>劦聲</partial_tone>
-				<partial_tone>協聲</partial_tone>
-				<partial_tone>𡕢聲</partial_tone>
-				<partial_tone>廿聲</partial_tone>
-				<partial_tone>𠦃聲</partial_tone>
+				<partname href="#part7">弟七部<note>陸韵平聲侵鹽添、上聲𥨊琰忝、厺聲沁豓㮇、入聲緝葉怗。</note></partname>
+				<partial_tone id="咸聲">咸聲</partial_tone>
+				<partial_tone id="鹹聲">鹹聲</partial_tone>
+				<partial_tone id="𪉷聲">𪉷聲</partial_tone>
+				<partial_tone id="林聲">林聲</partial_tone>
+				<partial_tone id="心聲">心聲</partial_tone>
+				<partial_tone id="今聲">今聲</partial_tone>
+				<partial_tone id="念聲">念聲</partial_tone>
+				<partial_tone id="金聲">金聲</partial_tone>
+				<partial_tone id="酓聲">酓聲</partial_tone>
+				<partial_tone id="欽聲">欽聲</partial_tone>
+				<partial_tone id="㱃聲">㱃聲</partial_tone>
+				<partial_tone id="凡聲">凡聲</partial_tone>
+				<partial_tone id="風聲">風聲</partial_tone>
+				<partial_tone id="𢆉聲">𢆉聲</partial_tone>
+				<partial_tone id="南聲">南聲</partial_tone>
+				<partial_tone id="㚔聲">㚔聲<note>與十一部幸別</note></partial_tone>
+				<partial_tone id="𡙕聲">𡙕聲</partial_tone>
+				<partial_tone id="男聲">男聲</partial_tone>
+				<partial_tone id="琴聲">琴聲</partial_tone>
+				<partial_tone id="彡聲">彡聲</partial_tone>
+				<partial_tone id="𢒫聲">𢒫聲</partial_tone>
+				<partial_tone id="甚聲">甚聲</partial_tone>
+				<partial_tone id="音聲">音聲</partial_tone>
+				<partial_tone id="兂聲">兂聲</partial_tone>
+				<partial_tone id="兓聲">兓聲</partial_tone>
+				<partial_tone id="朁聲">朁聲</partial_tone>
+				<partial_tone id="㑴聲">㑴聲</partial_tone>
+				<partial_tone id="錦聲">錦聲</partial_tone>
+				<partial_tone id="𥥍聲">𥥍聲<note>與十五部突別。</note></partial_tone>
+				<partial_tone id="壬聲">壬聲</partial_tone>
+				<partial_tone id="任聲">任聲</partial_tone>
+				<partial_tone id="品聲">品聲</partial_tone>
+				<partial_tone id="㸒聲">㸒聲<note>與二部䍃別。</note></partial_tone>
+				<partial_tone id="淫聲">淫聲</partial_tone>
+				<partial_tone id="占聲">占聲</partial_tone>
+				<partial_tone id="黏聲">黏聲</partial_tone>
+				<partial_tone id="𣥄聲">𣥄聲<note>隸作乏。</note></partial_tone>
+				<partial_tone id="三聲">三聲</partial_tone>
+				<partial_tone id="參聲">參聲</partial_tone>
+				<partial_tone id="𢦜聲">𢦜聲</partial_tone>
+				<partial_tone id="韱聲">韱聲</partial_tone>
+				<partial_tone id="㔾聲">㔾聲<note>說文作𢎘。</note></partial_tone>
+				<partial_tone id="氾聲">氾聲</partial_tone>
+				<partial_tone id="㐺聲">㐺<!--⿲人人人-->聲</partial_tone>
+				<partial_tone id="兼聲">兼聲</partial_tone>
+				<partial_tone id="廉聲">廉聲</partial_tone>
+				<partial_tone id="僉聲">僉<!--⿳亼吅灬-->聲</partial_tone>
+				<partial_tone id="閃聲">閃聲</partial_tone>
+				<partial_tone id="㐁聲">㐁聲</partial_tone>
+				<partial_tone id="甛聲">甛聲</partial_tone>
+				<partial_tone id="冄聲">冄聲</partial_tone>
+				<partial_tone id="㐭聲">㐭聲</partial_tone>
+				<partial_tone id="稟聲">稟聲</partial_tone>
+				<partial_tone id="審聲">審聲</partial_tone>
+				<partial_tone id="弇聲">弇聲</partial_tone>
+				<partial_tone id="𤡜聲">𤡜<!--⿰⿱甘月犬-->聲</partial_tone><!--w1500040-->
+				<partial_tone id="厭聲">厭聲</partial_tone>
+				<partial_tone id="咠聲">咠聲</partial_tone>
+				<partial_tone id="戢聲">戢聲</partial_tone>
+				<partial_tone id="及聲">及聲</partial_tone>
+				<partial_tone id="立聲">立聲</partial_tone>
+				<partial_tone id="溼聲">溼聲</partial_tone>
+				<partial_tone id="亼聲">亼聲</partial_tone>
+				<partial_tone id="㬎聲">㬎聲</partial_tone>
+				<partial_tone id="隰聲">隰聲</partial_tone>
+				<partial_tone id="合聲">合聲</partial_tone>
+				<partial_tone id="拾聲">拾聲</partial_tone>
+				<partial_tone id="邑聲">邑聲</partial_tone>
+				<partial_tone id="雥聲">雥聲</partial_tone>
+				<partial_tone id="雧聲">雧聲</partial_tone>
+				<partial_tone id="入聲">入聲</partial_tone>
+				<partial_tone id="十聲">十聲</partial_tone>
+				<partial_tone id="叶聲">叶聲</partial_tone>
+				<partial_tone id="聶聲">聶聲</partial_tone>
+				<partial_tone id="習聲">習聲</partial_tone>
+				<partial_tone id="燮聲">燮聲</partial_tone>
+				<partial_tone id="龖聲">龖聲</partial_tone>
+				<partial_tone id="劦聲">劦聲</partial_tone>
+				<partial_tone id="協聲">協聲</partial_tone>
+				<partial_tone id="𡕢聲">𡕢聲</partial_tone>
+				<partial_tone id="廿聲">廿聲</partial_tone>
+				<partial_tone id="𠦃聲">𠦃聲</partial_tone>
 				<explanation>右諧聲偏旁見於今韵他部內者、皆從弟七部轉入。</explanation>
 			</tone_part>
 			<tone_part>
-				<partname>弟八部<note>陸韵平聲覃談咸銜嚴凡、上聲感敢豏襤儼范、厺聲勘闞陷鑑釅梵、入聲合盇洽狎業乏。</note></partname>
-				<partial_tone>圅聲</partial_tone>
-				<partial_tone>臽聲</partial_tone>
-				<partial_tone>䘓聲</partial_tone>
-				<partial_tone>監聲</partial_tone>
-				<partial_tone>鹽聲</partial_tone>
-				<partial_tone>炎聲</partial_tone>
-				<partial_tone>剡聲</partial_tone>
-				<partial_tone>熊聲</partial_tone>
-				<partial_tone>焱聲</partial_tone>
-				<partial_tone>𣪏聲<note>籒文敢字。說文作𠭖<!--⿰⿱小古又-->。</note></partial_tone>
-				<partial_tone>𠪘聲</partial_tone>
-				<partial_tone>𡃫聲</partial_tone>
-				<partial_tone>广聲</partial_tone>
-				<partial_tone>詹聲</partial_tone>
-				<partial_tone>斬聲</partial_tone>
-				<partial_tone>毚聲</partial_tone>
-				<partial_tone>甘聲</partial_tone>
-				<partial_tone>奄聲</partial_tone>
-				<partial_tone>竷聲</partial_tone>
-				<partial_tone>欠聲</partial_tone>
-				<partial_tone>冘聲<note>與宂別。古宂在三部。</note></partial_tone>
-				<partial_tone>妾聲</partial_tone>
-				<partial_tone>甲聲</partial_tone>
-				<partial_tone>枼聲</partial_tone>
-				<partial_tone>涉聲</partial_tone>
-				<partial_tone>灋聲</partial_tone>
-				<partial_tone>業聲</partial_tone>
-				<partial_tone>疌聲</partial_tone>
-				<partial_tone>𣋌聲</partial_tone>
-				<partial_tone>巤聲</partial_tone>
-				<partial_tone>耴聲<note>與四部取別。</note></partial_tone>
-				<partial_tone>夾聲</partial_tone>
-				<partial_tone>盇聲</partial_tone>
-				<partial_tone>𦐇聲</partial_tone>
-				<partial_tone>臿聲</partial_tone>
-				<partial_tone>籋聲</partial_tone>
-				<partial_tone>沓聲</partial_tone>
-				<partial_tone>帀聲</partial_tone>
+				<partname href="#part8">弟八部<note>陸韵平聲覃談咸銜嚴凡、上聲感敢豏襤儼范、厺聲勘闞陷鑑釅梵、入聲合盇洽狎業乏。</note></partname>
+				<partial_tone id="圅聲">圅聲</partial_tone>
+				<partial_tone id="臽聲">臽聲</partial_tone>
+				<partial_tone id="䘓聲">䘓聲</partial_tone>
+				<partial_tone id="監聲">監聲</partial_tone>
+				<partial_tone id="鹽聲">鹽聲</partial_tone>
+				<partial_tone id="炎聲">炎聲</partial_tone>
+				<partial_tone id="剡聲">剡聲</partial_tone>
+				<partial_tone id="熊聲">熊聲</partial_tone>
+				<partial_tone id="焱聲">焱聲</partial_tone>
+				<partial_tone id="𣪏聲">𣪏聲<note>籒文敢字。說文作𠭖<!--⿰⿱小古又-->。</note></partial_tone>
+				<partial_tone id="𠪘聲">𠪘聲</partial_tone>
+				<partial_tone id="𡃫聲">𡃫聲</partial_tone>
+				<partial_tone id="广聲">广聲</partial_tone>
+				<partial_tone id="詹聲">詹聲</partial_tone>
+				<partial_tone id="斬聲">斬聲</partial_tone>
+				<partial_tone id="毚聲">毚聲</partial_tone>
+				<partial_tone id="甘聲">甘聲</partial_tone>
+				<partial_tone id="奄聲">奄聲</partial_tone>
+				<partial_tone id="竷聲">竷聲</partial_tone>
+				<partial_tone id="欠聲">欠聲</partial_tone>
+				<partial_tone id="冘聲">冘聲<note>與宂別。古宂在三部。</note></partial_tone>
+				<partial_tone id="妾聲">妾聲</partial_tone>
+				<partial_tone id="甲聲">甲聲</partial_tone>
+				<partial_tone id="枼聲">枼聲</partial_tone>
+				<partial_tone id="涉聲">涉聲</partial_tone>
+				<partial_tone id="灋聲">灋聲</partial_tone>
+				<partial_tone id="業聲">業聲</partial_tone>
+				<partial_tone id="疌聲">疌聲</partial_tone>
+				<partial_tone id="𣋌聲">𣋌聲</partial_tone>
+				<partial_tone id="巤聲">巤聲</partial_tone>
+				<partial_tone id="耴聲">耴聲<note>與四部取別。</note></partial_tone>
+				<partial_tone id="夾聲">夾聲</partial_tone>
+				<partial_tone id="盇聲">盇聲</partial_tone>
+				<partial_tone id="𦐇聲">𦐇聲</partial_tone>
+				<partial_tone id="臿聲">臿聲</partial_tone>
+				<partial_tone id="籋聲">籋聲</partial_tone>
+				<partial_tone id="沓聲">沓聲</partial_tone>
+				<partial_tone id="帀聲">帀聲</partial_tone>
 				<explanation>右諧聲偏旁見於今韵他部內者、皆從弟八部轉入。</explanation>
 			</tone_part>
 			<tone_part>
-				<partname>弟九部<note>陸韵平聲東冬鍾江、上聲董腫講、厺聲送宋用絳。</note></partname>
-				<partial_tone>中聲</partial_tone>
-				<partial_tone>躳聲</partial_tone>
-				<partial_tone>宮聲</partial_tone>
-				<partial_tone>東聲</partial_tone>
-				<partial_tone>重聲</partial_tone>
-				<partial_tone>童聲</partial_tone>
-				<partial_tone>龍聲</partial_tone>
-				<partial_tone>公聲</partial_tone>
-				<partial_tone>蟲聲</partial_tone>
-				<partial_tone>冬聲</partial_tone>
-				<partial_tone>夅聲</partial_tone>
-				<partial_tone>降聲</partial_tone>
-				<partial_tone>隆聲</partial_tone>
-				<partial_tone>丰聲</partial_tone>
-				<partial_tone>奉聲</partial_tone>
-				<partial_tone>夆聲</partial_tone>
-				<partial_tone>逢聲</partial_tone>
-				<partial_tone>用聲</partial_tone>
-				<partial_tone>甬聲</partial_tone>
-				<partial_tone>庸聲</partial_tone>
-				<partial_tone>从聲</partial_tone>
-				<partial_tone>𨑹聲</partial_tone>
-				<partial_tone>囱聲</partial_tone>
-				<partial_tone>悤聲</partial_tone>
-				<partial_tone>同聲</partial_tone>
-				<partial_tone>䢉聲</partial_tone>
-				<partial_tone>邕聲</partial_tone>
-				<partial_tone>雝聲<note>雍同。</note></partial_tone>
-				<partial_tone>宋聲</partial_tone>
-				<partial_tone>戎聲</partial_tone>
-				<partial_tone>封聲</partial_tone>
-				<partial_tone>容聲</partial_tone>
-				<partial_tone>工聲</partial_tone>
-				<partial_tone>𢀜聲</partial_tone>
-				<partial_tone>空聲</partial_tone>
-				<partial_tone>送聲</partial_tone>
-				<partial_tone>𠑽聲</partial_tone>
-				<partial_tone>共聲</partial_tone>
-				<partial_tone>雙聲</partial_tone>
-				<partial_tone>冡聲</partial_tone>
-				<partial_tone>蒙聲</partial_tone>
-				<partial_tone>凶聲</partial_tone>
-				<partial_tone>匈聲</partial_tone>
-				<partial_tone>兇聲</partial_tone>
-				<partial_tone>㚇聲</partial_tone>
-				<partial_tone>宗聲</partial_tone>
-				<partial_tone>崇聲</partial_tone>
-				<partial_tone>嵩聲</partial_tone>
-				<partial_tone>豐聲</partial_tone>
-				<partial_tone>眾<!--⿱罒⿲亻亻人-->聲</partial_tone>
-				<partial_tone>尨聲</partial_tone>
-				<partial_tone>厖聲</partial_tone>
-				<partial_tone>竦聲</partial_tone>
-				<partial_tone>𠣥<!--冢-->聲</partial_tone>
-				<partial_tone>茸聲</partial_tone>
+				<partname href="#part9">弟九部<note>陸韵平聲東冬鍾江、上聲董腫講、厺聲送宋用絳。</note></partname>
+				<partial_tone id="中聲">中聲</partial_tone>
+				<partial_tone id="躳聲">躳聲</partial_tone>
+				<partial_tone id="宮聲">宮聲</partial_tone>
+				<partial_tone id="東聲">東聲</partial_tone>
+				<partial_tone id="重聲">重聲</partial_tone>
+				<partial_tone id="童聲">童聲</partial_tone>
+				<partial_tone id="龍聲">龍聲</partial_tone>
+				<partial_tone id="公聲">公聲</partial_tone>
+				<partial_tone id="蟲聲">蟲聲</partial_tone>
+				<partial_tone id="冬聲">冬聲</partial_tone>
+				<partial_tone id="夅聲">夅聲</partial_tone>
+				<partial_tone id="降聲">降聲</partial_tone>
+				<partial_tone id="隆聲">隆聲</partial_tone>
+				<partial_tone id="丰聲">丰聲</partial_tone>
+				<partial_tone id="奉聲">奉聲</partial_tone>
+				<partial_tone id="夆聲">夆聲</partial_tone>
+				<partial_tone id="逢聲">逢聲</partial_tone>
+				<partial_tone id="用聲">用聲</partial_tone>
+				<partial_tone id="甬聲">甬聲</partial_tone>
+				<partial_tone id="庸聲">庸聲</partial_tone>
+				<partial_tone id="从聲">从聲</partial_tone>
+				<partial_tone id="𨑹聲">𨑹聲</partial_tone>
+				<partial_tone id="囱聲">囱聲</partial_tone>
+				<partial_tone id="悤聲">悤聲</partial_tone>
+				<partial_tone id="同聲">同聲</partial_tone>
+				<partial_tone id="䢉聲">䢉聲</partial_tone>
+				<partial_tone id="邕聲">邕聲</partial_tone>
+				<partial_tone id="雝聲">雝聲<note>雍同。</note></partial_tone>
+				<partial_tone id="宋聲">宋聲</partial_tone>
+				<partial_tone id="戎聲">戎聲</partial_tone>
+				<partial_tone id="封聲">封聲</partial_tone>
+				<partial_tone id="容聲">容聲</partial_tone>
+				<partial_tone id="工聲">工聲</partial_tone>
+				<partial_tone id="𢀜聲">𢀜聲</partial_tone>
+				<partial_tone id="空聲">空聲</partial_tone>
+				<partial_tone id="送聲">送聲</partial_tone>
+				<partial_tone id="𠑽聲">𠑽聲</partial_tone>
+				<partial_tone id="共聲">共聲</partial_tone>
+				<partial_tone id="雙聲">雙聲</partial_tone>
+				<partial_tone id="冡聲">冡聲</partial_tone>
+				<partial_tone id="蒙聲">蒙聲</partial_tone>
+				<partial_tone id="凶聲">凶聲</partial_tone>
+				<partial_tone id="匈聲">匈聲</partial_tone>
+				<partial_tone id="兇聲">兇聲</partial_tone>
+				<partial_tone id="㚇聲">㚇聲</partial_tone>
+				<partial_tone id="宗聲">宗聲</partial_tone>
+				<partial_tone id="崇聲">崇聲</partial_tone>
+				<partial_tone id="嵩聲">嵩聲</partial_tone>
+				<partial_tone id="豐聲">豐聲</partial_tone>
+				<partial_tone id="眾聲">眾<!--⿱罒⿲亻亻人-->聲</partial_tone>
+				<partial_tone id="尨聲">尨聲</partial_tone>
+				<partial_tone id="厖聲">厖聲</partial_tone>
+				<partial_tone id="竦聲">竦聲</partial_tone>
+				<partial_tone id="𠣥聲">𠣥<!--冢-->聲</partial_tone>
+				<partial_tone id="茸聲">茸聲</partial_tone>
 				<explanation>右諧聲偏旁見於今韵他部內者、皆從弟九部轉入。</explanation>
 			</tone_part>
 			<tone_part>
-				<partname>弟十部<note>陸韵平聲陽唐、上聲養蕩、厺聲漾宕。</note></partname>
-				<partial_tone>王聲</partial_tone>
-				<partial_tone>行聲</partial_tone>
-				<partial_tone>衡聲</partial_tone>
-				<partial_tone>𡉚聲</partial_tone>
-				<partial_tone>匡聲</partial_tone>
-				<partial_tone>往聲</partial_tone>
-				<partial_tone>㹥聲</partial_tone>
-				<partial_tone>网聲</partial_tone>
-				<partial_tone>岡聲</partial_tone>
-				<partial_tone>黃聲</partial_tone>
-				<partial_tone>廣聲</partial_tone>
-				<partial_tone>昜聲</partial_tone>
-				<partial_tone>𥏫聲</partial_tone>
-				<partial_tone>陽聲</partial_tone>
-				<partial_tone>湯聲</partial_tone>
-				<partial_tone>爿聲</partial_tone>
-				<partial_tone>臧聲</partial_tone>
-				<partial_tone>將聲</partial_tone>
-				<partial_tone>臧聲</partial_tone>
-				<partial_tone>永聲</partial_tone>
-				<partial_tone>方聲</partial_tone>
-				<partial_tone>放<!--⿰方攴-->聲</partial_tone>
-				<partial_tone>旁聲</partial_tone>
-				<partial_tone>皇聲</partial_tone>
-				<partial_tone>亢聲</partial_tone>
-				<partial_tone>兵聲</partial_tone>
-				<partial_tone>灮聲</partial_tone>
-				<partial_tone>京聲</partial_tone>
-				<partial_tone>芉聲</partial_tone>
-				<partial_tone>羕聲</partial_tone>
-				<partial_tone>𤕦聲</partial_tone>
-				<partial_tone>𧞻聲<note>隸作襄。</note></partial_tone>
-				<partial_tone>庚聲</partial_tone>
-				<partial_tone>康聲</partial_tone>
-				<partial_tone>唐聲</partial_tone>
-				<partial_tone>皀聲</partial_tone>
-				<partial_tone>鄉聲</partial_tone>
-				<partial_tone>卿聲</partial_tone>
-				<partial_tone>上聲</partial_tone>
-				<partial_tone>畺聲</partial_tone>
-				<partial_tone>彊聲</partial_tone>
-				<partial_tone>強聲</partial_tone>
-				<partial_tone>兄聲</partial_tone>
-				<partial_tone>桑聲</partial_tone>
-				<partial_tone>爽聲</partial_tone>
-				<partial_tone>刅聲<note>與十三部刃別。</note></partial_tone>
-				<partial_tone>梁聲</partial_tone>
-				<partial_tone>彭聲</partial_tone>
-				<partial_tone>央聲</partial_tone>
-				<partial_tone>昌聲</partial_tone>
-				<partial_tone>囧聲</partial_tone>
-				<partial_tone>朙聲</partial_tone>
-				<partial_tone>㒳聲</partial_tone>
-				<partial_tone>兩聲</partial_tone>
-				<partial_tone>倉聲</partial_tone>
-				<partial_tone>相聲</partial_tone>
-				<partial_tone>亯聲<note>隸作亨、享。</note></partial_tone>
-				<partial_tone>向聲</partial_tone>
-				<partial_tone>尚聲</partial_tone>
-				<partial_tone>堂聲</partial_tone>
-				<partial_tone>象聲</partial_tone>
-				<partial_tone>皿聲</partial_tone>
-				<partial_tone>孟聲</partial_tone>
-				<partial_tone>𠨐聲</partial_tone><!--卬聲-->
-				<partial_tone>慶聲</partial_tone>
-				<partial_tone>丙聲</partial_tone>
-				<partial_tone>㪅聲</partial_tone>
-				<partial_tone>章聲</partial_tone>
-				<partial_tone>商聲</partial_tone>
-				<partial_tone>亡聲</partial_tone>
-				<partial_tone>巟聲</partial_tone>
-				<partial_tone>𠷔聲<note>隸作喪。</note></partial_tone>
-				<partial_tone>長聲</partial_tone>
-				<partial_tone>𣌣聲<note>隸作良。</note></partial_tone>
-				<partial_tone>量聲</partial_tone>
-				<partial_tone>羹聲</partial_tone>
-				<partial_tone>誩聲</partial_tone>
-				<partial_tone>競聲</partial_tone>
-				<partial_tone>𪏽聲</partial_tone>
-				<partial_tone>弜聲</partial_tone>
-				<partial_tone>秉聲</partial_tone>
-				<partial_tone>黽聲</partial_tone>
-				<partial_tone>臦聲</partial_tone>
-				<partial_tone>鬯聲</partial_tone>
-				<partial_tone>竝聲</partial_tone>
+				<partname href="#part10">弟十部<note>陸韵平聲陽唐、上聲養蕩、厺聲漾宕。</note></partname>
+				<partial_tone id="王聲">王聲</partial_tone>
+				<partial_tone id="行聲">行聲</partial_tone>
+				<partial_tone id="衡聲">衡聲</partial_tone>
+				<partial_tone id="𡉚聲">𡉚聲</partial_tone>
+				<partial_tone id="匡聲">匡聲</partial_tone>
+				<partial_tone id="往聲">往聲</partial_tone>
+				<partial_tone id="㹥聲">㹥聲</partial_tone>
+				<partial_tone id="网聲">网聲</partial_tone>
+				<partial_tone id="岡聲">岡聲</partial_tone>
+				<partial_tone id="黃聲">黃聲</partial_tone>
+				<partial_tone id="廣聲">廣聲</partial_tone>
+				<partial_tone id="昜聲">昜聲</partial_tone>
+				<partial_tone id="𥏫聲">𥏫聲</partial_tone>
+				<partial_tone id="陽聲">陽聲</partial_tone>
+				<partial_tone id="湯聲">湯聲</partial_tone>
+				<partial_tone id="爿聲">爿聲</partial_tone>
+				<partial_tone id="臧聲">臧聲</partial_tone>
+				<partial_tone id="將聲">將聲</partial_tone>
+				<partial_tone id="臧聲">臧聲</partial_tone>
+				<partial_tone id="永聲">永聲</partial_tone>
+				<partial_tone id="方聲">方聲</partial_tone>
+				<partial_tone id="放聲">放<!--⿰方攴-->聲</partial_tone>
+				<partial_tone id="旁聲">旁聲</partial_tone>
+				<partial_tone id="皇聲">皇聲</partial_tone>
+				<partial_tone id="亢聲">亢聲</partial_tone>
+				<partial_tone id="兵聲">兵聲</partial_tone>
+				<partial_tone id="灮聲">灮聲</partial_tone>
+				<partial_tone id="京聲">京聲</partial_tone>
+				<partial_tone id="芉聲">芉聲</partial_tone>
+				<partial_tone id="羕聲">羕聲</partial_tone>
+				<partial_tone id="𤕦聲">𤕦聲</partial_tone>
+				<partial_tone id="𧞻聲">𧞻聲<note>隸作襄。</note></partial_tone>
+				<partial_tone id="庚聲">庚聲</partial_tone>
+				<partial_tone id="康聲">康聲</partial_tone>
+				<partial_tone id="唐聲">唐聲</partial_tone>
+				<partial_tone id="皀聲">皀聲</partial_tone>
+				<partial_tone id="鄉聲">鄉聲</partial_tone>
+				<partial_tone id="卿聲">卿聲</partial_tone>
+				<partial_tone id="上聲">上聲</partial_tone>
+				<partial_tone id="畺聲">畺聲</partial_tone>
+				<partial_tone id="彊聲">彊聲</partial_tone>
+				<partial_tone id="強聲">強聲</partial_tone>
+				<partial_tone id="兄聲">兄聲</partial_tone>
+				<partial_tone id="桑聲">桑聲</partial_tone>
+				<partial_tone id="爽聲">爽聲</partial_tone>
+				<partial_tone id="刅聲">刅聲<note>與十三部刃別。</note></partial_tone>
+				<partial_tone id="梁聲">梁聲</partial_tone>
+				<partial_tone id="彭聲">彭聲</partial_tone>
+				<partial_tone id="央聲">央聲</partial_tone>
+				<partial_tone id="昌聲">昌聲</partial_tone>
+				<partial_tone id="囧聲">囧聲</partial_tone>
+				<partial_tone id="朙聲">朙聲</partial_tone>
+				<partial_tone id="㒳聲">㒳聲</partial_tone>
+				<partial_tone id="兩聲">兩聲</partial_tone>
+				<partial_tone id="倉聲">倉聲</partial_tone>
+				<partial_tone id="相聲">相聲</partial_tone>
+				<partial_tone id="亯聲">亯聲<note>隸作亨、享。</note></partial_tone>
+				<partial_tone id="向聲">向聲</partial_tone>
+				<partial_tone id="尚聲">尚聲</partial_tone>
+				<partial_tone id="堂聲">堂聲</partial_tone>
+				<partial_tone id="象聲">象聲</partial_tone>
+				<partial_tone id="皿聲">皿聲</partial_tone>
+				<partial_tone id="孟聲">孟聲</partial_tone>
+				<partial_tone id="𠨐聲">𠨐聲</partial_tone><!--卬聲-->
+				<partial_tone id="慶聲">慶聲</partial_tone>
+				<partial_tone id="丙聲">丙聲</partial_tone>
+				<partial_tone id="㪅聲">㪅聲</partial_tone>
+				<partial_tone id="章聲">章聲</partial_tone>
+				<partial_tone id="商聲">商聲</partial_tone>
+				<partial_tone id="亡聲">亡聲</partial_tone>
+				<partial_tone id="巟聲">巟聲</partial_tone>
+				<partial_tone id="𠷔聲">𠷔聲<note>隸作喪。</note></partial_tone>
+				<partial_tone id="長聲">長聲</partial_tone>
+				<partial_tone id="𣌣聲">𣌣聲<note>隸作良。</note></partial_tone>
+				<partial_tone id="量聲">量聲</partial_tone>
+				<partial_tone id="羹聲">羹聲</partial_tone>
+				<partial_tone id="誩聲">誩聲</partial_tone>
+				<partial_tone id="競聲">競聲</partial_tone>
+				<partial_tone id="𪏽聲">𪏽聲</partial_tone>
+				<partial_tone id="弜聲">弜聲</partial_tone>
+				<partial_tone id="秉聲">秉聲</partial_tone>
+				<partial_tone id="黽聲">黽聲</partial_tone>
+				<partial_tone id="臦聲">臦聲</partial_tone>
+				<partial_tone id="鬯聲">鬯聲</partial_tone>
+				<partial_tone id="竝聲">竝聲</partial_tone>
 				<partial_tone>？<!--⿱𠆢儿-->聲</partial_tone>
-				<partial_tone>匚聲</partial_tone>
+				<partial_tone id="匚聲">匚聲</partial_tone>
 				<explanation>右諧聲偏旁見於今韵他部內者、皆從弟十部轉入。</explanation>
 			</tone_part>
 			<tone_part>
-				<partname>弟十一部<note>陸韵平聲庚耕淸靑、上聲𣖀耿靜迥、厺聲映諍勁徑。</note></partname>
-				<partial_tone>熒聲</partial_tone>
-				<partial_tone>丁聲</partial_tone>
-				<partial_tone>成聲</partial_tone>
-				<partial_tone>亭聲</partial_tone>
-				<partial_tone>正聲</partial_tone>
-				<partial_tone>生聲</partial_tone>
-				<partial_tone>盈聲</partial_tone>
-				<partial_tone>鳴聲</partial_tone>
-				<partial_tone>殸聲<note>籒文磬。</note></partial_tone>
-				<partial_tone>壬聲<note>與七部壬別。</note></partial_tone>
-				<partial_tone>廷聲</partial_tone>
-				<partial_tone>呈聲</partial_tone>
-				<partial_tone>𢧄聲</partial_tone>
-				<partial_tone>𢧤聲</partial_tone>
-				<partial_tone>靑聲</partial_tone>
-				<partial_tone>鼎聲</partial_tone>
-				<partial_tone>名聲</partial_tone>
-				<partial_tone>平聲</partial_tone>
-				<partial_tone>寍聲</partial_tone>
-				<partial_tone>寧<!--⿱寍丂-->聲</partial_tone>
-				<partial_tone>甯聲</partial_tone>
-				<partial_tone>嬰聲</partial_tone>
-				<partial_tone>甹聲</partial_tone>
-				<partial_tone>敬聲</partial_tone>
-				<partial_tone>冖聲</partial_tone>
-				<partial_tone>冥聲</partial_tone>
-				<partial_tone>鼏聲</partial_tone>
-				<partial_tone>爭聲</partial_tone>
-				<partial_tone>頃聲</partial_tone>
-				<partial_tone>幵聲</partial_tone>
-				<partial_tone>𢆙<!--⿱从幵-->聲</partial_tone>
-				<partial_tone>貞聲</partial_tone>
-				<partial_tone>霝聲</partial_tone>
-				<partial_tone>巠聲</partial_tone>
-				<partial_tone>井聲</partial_tone>
-				<partial_tone>耿聲</partial_tone>
-				<partial_tone>冂聲<note>古文作冋。</note></partial_tone>
-				<partial_tone>𠕪聲</partial_tone><!--鼏聲-->
-				<partial_tone>𡴘聲<note>隸作幸。</note></partial_tone><!--幸聲-->
-				<partial_tone>晶聲</partial_tone>
-				<partial_tone>省聲</partial_tone>
+				<partname href="#part11">弟十一部<note>陸韵平聲庚耕淸靑、上聲𣖀耿靜迥、厺聲映諍勁徑。</note></partname>
+				<partial_tone id="熒聲">熒聲</partial_tone>
+				<partial_tone id="丁聲">丁聲</partial_tone>
+				<partial_tone id="成聲">成聲</partial_tone>
+				<partial_tone id="亭聲">亭聲</partial_tone>
+				<partial_tone id="正聲">正聲</partial_tone>
+				<partial_tone id="生聲">生聲</partial_tone>
+				<partial_tone id="盈聲">盈聲</partial_tone>
+				<partial_tone id="鳴聲">鳴聲</partial_tone>
+				<partial_tone id="殸聲">殸聲<note>籒文磬。</note></partial_tone>
+				<partial_tone id="壬聲">壬聲<note>與七部壬別。</note></partial_tone>
+				<partial_tone id="廷聲">廷聲</partial_tone>
+				<partial_tone id="呈聲">呈聲</partial_tone>
+				<partial_tone id="𢧄聲">𢧄聲</partial_tone>
+				<partial_tone id="𢧤聲">𢧤聲</partial_tone>
+				<partial_tone id="靑聲">靑聲</partial_tone>
+				<partial_tone id="鼎聲">鼎聲</partial_tone>
+				<partial_tone id="名聲">名聲</partial_tone>
+				<partial_tone id="平聲">平聲</partial_tone>
+				<partial_tone id="寍聲">寍聲</partial_tone>
+				<partial_tone id="寧聲">寧<!--⿱寍丂-->聲</partial_tone>
+				<partial_tone id="甯聲">甯聲</partial_tone>
+				<partial_tone id="嬰聲">嬰聲</partial_tone>
+				<partial_tone id="甹聲">甹聲</partial_tone>
+				<partial_tone id="敬聲">敬聲</partial_tone>
+				<partial_tone id="冖聲">冖聲</partial_tone>
+				<partial_tone id="冥聲">冥聲</partial_tone>
+				<partial_tone id="鼏聲">鼏聲</partial_tone>
+				<partial_tone id="爭聲">爭聲</partial_tone>
+				<partial_tone id="頃聲">頃聲</partial_tone>
+				<partial_tone id="幵聲">幵聲</partial_tone>
+				<partial_tone id="𢆙聲">𢆙<!--⿱从幵-->聲</partial_tone>
+				<partial_tone id="貞聲">貞聲</partial_tone>
+				<partial_tone id="霝聲">霝聲</partial_tone>
+				<partial_tone id="巠聲">巠聲</partial_tone>
+				<partial_tone id="井聲">井聲</partial_tone>
+				<partial_tone id="耿聲">耿聲</partial_tone>
+				<partial_tone id="冂聲">冂聲<note>古文作冋。</note></partial_tone>
+				<partial_tone id="𠕪聲">𠕪聲</partial_tone>
+				<partial_tone id="𡴘聲">𡴘聲<note>隸作幸。</note></partial_tone><!--幸聲-->
+				<partial_tone id="晶聲">晶聲</partial_tone>
+				<partial_tone id="省聲">省聲</partial_tone>
 				<explanation>右諧聲偏旁見於今韵他部內者、皆從弟十一部轉入。</explanation>
 			</tone_part>
 			<tone_part>
 				<partname>弟十二部<note>陸韵平聲眞臻先、上聲軫銑、厺聲震䨷<!--⿱雨𢿱-->、入聲質櫛㞕。</note></partname>
-				<partial_tone>秦聲</partial_tone>
-				<partial_tone>卂聲</partial_tone>
-				<partial_tone>人聲</partial_tone>
-				<partial_tone>儿聲<note>古文奇字人。</note></partial_tone>
-				<partial_tone>㷠聲</partial_tone>
-				<partial_tone>瀕聲</partial_tone>
-				<partial_tone>寅聲</partial_tone>
-				<partial_tone>丐聲</partial_tone>
-				<partial_tone>𡧍聲</partial_tone>
-				<partial_tone>賓聲</partial_tone>
-				<partial_tone>𣶒聲</partial_tone>
-				<partial_tone>身聲</partial_tone>
-				<partial_tone>旬聲</partial_tone>
-				<partial_tone>𠣤聲</partial_tone>
-				<partial_tone>信聲</partial_tone>
-				<partial_tone>辛聲</partial_tone>
-				<partial_tone>𣓀聲</partial_tone>
-				<partial_tone>新聲</partial_tone>
-				<partial_tone>令聲</partial_tone>
-				<partial_tone>天聲</partial_tone>
-				<partial_tone>田聲</partial_tone>
-				<partial_tone>千聲</partial_tone>
-				<partial_tone>年聲</partial_tone>
-				<partial_tone>因聲</partial_tone>
-				<partial_tone>命聲</partial_tone>
-				<partial_tone>𦥔聲</partial_tone>
-				<partial_tone>陳聲</partial_tone>
-				<partial_tone>電聲</partial_tone>
-				<partial_tone>仁聲</partial_tone>
-				<partial_tone>眞聲</partial_tone>
-				<partial_tone>顚聲</partial_tone>
-				<partial_tone>佞聲</partial_tone>
-				<partial_tone>勻聲</partial_tone>
-				<partial_tone>訇聲</partial_tone>
-				<partial_tone>𨳌聲</partial_tone>
-				<partial_tone>閵聲</partial_tone>
-				<partial_tone>進聲</partial_tone>
-				<partial_tone>扁聲</partial_tone>
-				<partial_tone>臣聲</partial_tone>
-				<partial_tone>臤聲</partial_tone>
-				<partial_tone>賢聲</partial_tone>
-				<partial_tone>堅聲</partial_tone>
-				<partial_tone>辡聲</partial_tone>
-				<partial_tone>弦聲</partial_tone>
-				<partial_tone>麤聲</partial_tone>
-				<partial_tone>民聲</partial_tone>
-				<partial_tone>㶳聲</partial_tone>
-				<partial_tone>𡈋聲</partial_tone><!--本文のどこ？-->
-				<partial_tone>玄聲<note>見一先。</note></partial_tone>
-				<partial_tone>牵聲</partial_tone>
-				<partial_tone>引聲</partial_tone>
-				<partial_tone>矜聲</partial_tone>
-				<partial_tone>胤聲<note>見二十一震。</note></partial_tone>
-				<partial_tone>八聲</partial_tone>
-				<partial_tone>䏌聲</partial_tone>
-				<partial_tone>穴聲</partial_tone>
-				<partial_tone>匹聲</partial_tone>
-				<partial_tone>必聲</partial_tone>
-				<partial_tone>宓聲</partial_tone>
-				<partial_tone>瑟聲</partial_tone>
-				<partial_tone>𥁑聲</partial_tone>
-				<partial_tone>暜聲<note>从白。與五部暜別。今作替。</note></partial_tone>
-				<partial_tone>實聲</partial_tone>
-				<partial_tone>吉聲</partial_tone>
-				<partial_tone>𡔹聲</partial_tone><!--壹聲--><!--𪆖:15部-->
-				<partial_tone>頡聲</partial_tone>
-				<partial_tone>質聲</partial_tone>
-				<partial_tone>七聲</partial_tone>
-				<partial_tone>疐聲</partial_tone>
-				<partial_tone>卪聲<note>隸省㸃。</note></partial_tone><!--alt:卩聲-->
-				<partial_tone>卽聲</partial_tone>
-				<partial_tone>節聲</partial_tone>
-				<partial_tone>日聲</partial_tone>
-				<partial_tone>疾聲</partial_tone>
-				<partial_tone>㮚聲</partial_tone>
-				<partial_tone>桼聲</partial_tone>
-				<partial_tone>漆聲</partial_tone>
-				<partial_tone>至聲</partial_tone>
-				<partial_tone>室聲</partial_tone>
-				<partial_tone>畢聲</partial_tone>
-				<partial_tone>一聲</partial_tone>
-				<partial_tone>乙聲</partial_tone>
-				<partial_tone>血聲</partial_tone>
-				<partial_tone>徹聲</partial_tone>
-				<partial_tone>逸聲</partial_tone>
-				<partial_tone>印聲</partial_tone>
-				<partial_tone>𠨔聲<note>隸作抑。</note></partial_tone><!--alt:抑聲,𢑏聲-->
-				<partial_tone>失聲</partial_tone>
-				<partial_tone>𠛰聲<note>隸作別。</note></partial_tone>
+				<partial_tone id="秦聲">秦聲</partial_tone>
+				<partial_tone id="卂聲">卂聲</partial_tone>
+				<partial_tone id="人聲">人聲</partial_tone>
+				<partial_tone id="儿聲">儿聲<note>古文奇字人。</note></partial_tone>
+				<partial_tone id="㷠聲">㷠聲</partial_tone>
+				<partial_tone id="瀕聲">瀕聲</partial_tone>
+				<partial_tone id="寅聲">寅聲</partial_tone>
+				<partial_tone id="丐聲">丐聲</partial_tone>
+				<partial_tone id="𡧍聲">𡧍聲</partial_tone>
+				<partial_tone id="賓聲">賓聲</partial_tone>
+				<partial_tone id="𣶒聲">𣶒聲</partial_tone>
+				<partial_tone id="身聲">身聲</partial_tone>
+				<partial_tone id="旬聲">旬聲</partial_tone>
+				<partial_tone id="𠣤聲">𠣤聲</partial_tone>
+				<partial_tone id="信聲">信聲</partial_tone>
+				<partial_tone id="辛聲">辛聲</partial_tone>
+				<partial_tone id="𣓀聲">𣓀聲</partial_tone>
+				<partial_tone id="新聲">新聲</partial_tone>
+				<partial_tone id="令聲">令聲</partial_tone>
+				<partial_tone id="天聲">天聲</partial_tone>
+				<partial_tone id="田聲">田聲</partial_tone>
+				<partial_tone id="千聲">千聲</partial_tone>
+				<partial_tone id="年聲">年聲</partial_tone>
+				<partial_tone id="因聲">因聲</partial_tone>
+				<partial_tone id="命聲">命聲</partial_tone>
+				<partial_tone id="𦥔聲">𦥔聲</partial_tone>
+				<partial_tone id="陳聲">陳聲</partial_tone>
+				<partial_tone id="電聲">電聲</partial_tone>
+				<partial_tone id="仁聲">仁聲</partial_tone>
+				<partial_tone id="眞聲">眞聲</partial_tone>
+				<partial_tone id="顚聲">顚聲</partial_tone>
+				<partial_tone id="佞聲">佞聲</partial_tone>
+				<partial_tone id="勻聲">勻聲</partial_tone>
+				<partial_tone id="訇聲">訇聲</partial_tone>
+				<partial_tone id="𨳌聲">𨳌聲</partial_tone>
+				<partial_tone id="閵聲">閵聲</partial_tone>
+				<partial_tone id="進聲">進聲</partial_tone>
+				<partial_tone id="扁聲">扁聲</partial_tone>
+				<partial_tone id="臣聲">臣聲</partial_tone>
+				<partial_tone id="臤聲">臤聲</partial_tone>
+				<partial_tone id="賢聲">賢聲</partial_tone>
+				<partial_tone id="堅聲">堅聲</partial_tone>
+				<partial_tone id="辡聲">辡聲</partial_tone>
+				<partial_tone id="弦聲">弦聲</partial_tone>
+				<partial_tone id="麤聲">麤聲</partial_tone>
+				<partial_tone id="民聲">民聲</partial_tone>
+				<partial_tone id="㶳聲">㶳聲</partial_tone>
+				<partial_tone id="𡈋聲">𡈋聲</partial_tone>
+				<partial_tone id="玄聲">玄聲<note>見一先。</note></partial_tone>
+				<partial_tone id="牵聲">牵聲</partial_tone>
+				<partial_tone id="引聲">引聲</partial_tone>
+				<partial_tone id="矜聲">矜聲</partial_tone>
+				<partial_tone id="胤聲">胤聲<note>見二十一震。</note></partial_tone>
+				<partial_tone id="八聲">八聲</partial_tone>
+				<partial_tone id="䏌聲">䏌聲</partial_tone>
+				<partial_tone id="穴聲">穴聲</partial_tone>
+				<partial_tone id="匹聲">匹聲</partial_tone>
+				<partial_tone id="必聲">必聲</partial_tone>
+				<partial_tone id="宓聲">宓聲</partial_tone>
+				<partial_tone id="瑟聲">瑟聲</partial_tone>
+				<partial_tone id="𥁑聲">𥁑聲</partial_tone>
+				<partial_tone id="暜聲">暜聲<note>从白。與五部暜別。今作替。</note></partial_tone>
+				<partial_tone id="實聲">實聲</partial_tone>
+				<partial_tone id="吉聲">吉聲</partial_tone>
+				<partial_tone id="𡔹聲">𡔹聲</partial_tone><!--alt:壹聲--><!--𪆖:15部-->
+				<partial_tone id="頡聲">頡聲</partial_tone>
+				<partial_tone id="質聲">質聲</partial_tone>
+				<partial_tone id="七聲">七聲</partial_tone>
+				<partial_tone id="疐聲">疐聲</partial_tone>
+				<partial_tone id="卪聲">卪聲<note>隸省㸃。</note></partial_tone><!--alt:卩聲-->
+				<partial_tone id="卽聲">卽聲</partial_tone>
+				<partial_tone id="節聲">節聲</partial_tone>
+				<partial_tone id="日聲">日聲</partial_tone>
+				<partial_tone id="疾聲">疾聲</partial_tone>
+				<partial_tone id="㮚聲">㮚聲</partial_tone>
+				<partial_tone id="桼聲">桼聲</partial_tone>
+				<partial_tone id="漆聲">漆聲</partial_tone>
+				<partial_tone id="至聲">至聲</partial_tone>
+				<partial_tone id="室聲">室聲</partial_tone>
+				<partial_tone id="畢聲">畢聲</partial_tone>
+				<partial_tone id="一聲">一聲</partial_tone>
+				<partial_tone id="乙聲">乙聲</partial_tone>
+				<partial_tone id="血聲">血聲</partial_tone>
+				<partial_tone id="徹聲">徹聲</partial_tone>
+				<partial_tone id="逸聲">逸聲</partial_tone>
+				<partial_tone id="印聲">印聲</partial_tone>
+				<partial_tone id="𠨔聲">𠨔聲<note>隸作抑。</note></partial_tone><!--alt:抑聲,𢑏聲-->
+				<partial_tone id="失聲">失聲</partial_tone>
+				<partial_tone id="𠛰聲">𠛰聲<note>隸作別。</note></partial_tone>
 				<explanation>右諧聲偏旁見於今韵他部內者、皆從弟十二部轉入。</explanation>
 			</tone_part>
 			<tone_part>
-				<partname>弟十三部<note>陸韵平聲𧭫文欣魂瘪、上聲準吻隱混很、厺聲𥤁問焮慁恨。</note></partname>
-				<partial_tone>先聲</partial_tone>
-				<partial_tone>辰聲</partial_tone>
-				<partial_tone>䢅聲</partial_tone>
-				<partial_tone>脣聲</partial_tone>
-				<partial_tone>囷聲</partial_tone>
-				<partial_tone>麇聲</partial_tone>
-				<partial_tone>屯聲</partial_tone>
-				<partial_tone>春聲</partial_tone>
-				<partial_tone>門聲</partial_tone>
-				<partial_tone>殷聲</partial_tone>
-				<partial_tone>分聲</partial_tone>
-				<partial_tone>釁聲</partial_tone>
-				<partial_tone>虋聲</partial_tone>
-				<partial_tone>𥃩聲<note>今作艮。</note></partial_tone>
-				<partial_tone>西聲</partial_tone>
-				<partial_tone>垔聲</partial_tone>
-				<partial_tone>免聲</partial_tone>
-				<partial_tone>昏聲<note>不从民。</note></partial_tone>
-				<partial_tone>孫聲</partial_tone>
-				<partial_tone>𢍃聲</partial_tone><!--alt:奔聲-->
-				<partial_tone>賁聲</partial_tone>
-				<partial_tone>君聲</partial_tone>
-				<partial_tone>員聲</partial_tone>
-				<partial_tone>𥊽聲</partial_tone>
-				<partial_tone>鰥聲</partial_tone>
-				<partial_tone>昆聲</partial_tone>
-				<partial_tone>𦎧聲</partial_tone><!--alt:享聲-->
-				<partial_tone>𣀦聲<note>隸作敦。</note></partial_tone>
-				<partial_tone>璊聲</partial_tone>
-				<partial_tone>川聲</partial_tone>
-				<partial_tone>雲聲</partial_tone>
-				<partial_tone>云聲</partial_tone>
-				<partial_tone>存聲</partial_tone>
-				<partial_tone>巾聲</partial_tone>
-				<partial_tone>侖聲</partial_tone>
-				<partial_tone>堇聲</partial_tone>
-				<partial_tone>㚃聲</partial_tone>
-				<partial_tone>文聲</partial_tone>
-				<partial_tone>彣聲</partial_tone>
-				<partial_tone>吝聲</partial_tone>
-				<partial_tone>閔聲</partial_tone>
-				<partial_tone>豩聲</partial_tone>
-				<partial_tone>豳聲</partial_tone>
-				<partial_tone>軍聲</partial_tone><!--alt:𠣞聲-->
-				<partial_tone>斤聲</partial_tone>
-				<partial_tone>刃聲</partial_tone>
-				<partial_tone>典聲</partial_tone>
-				<partial_tone>昷聲</partial_tone>
-				<partial_tone>溫聲</partial_tone>
-				<partial_tone>縕聲</partial_tone>
-				<partial_tone>亹聲</partial_tone>
-				<partial_tone>熏聲</partial_tone>
-				<partial_tone>焚聲</partial_tone>
-				<partial_tone>彬聲</partial_tone>
-				<partial_tone>豚聲</partial_tone>
-				<partial_tone>盾聲</partial_tone>
-				<partial_tone>㐱聲</partial_tone>
-				<partial_tone>舛聲</partial_tone>
-				<partial_tone>䑞聲</partial_tone>
-				<partial_tone>飧<!--⿰夕𠊊-->聲</partial_tone><!--該当なし？-->
-				<partial_tone>寸聲</partial_tone>
-				<partial_tone>筋聲</partial_tone>
-				<partial_tone>䖵聲</partial_tone>
-				<partial_tone>𤔌聲</partial_tone>
-				<partial_tone>㥯聲</partial_tone>
-				<partial_tone>隱聲</partial_tone>
-				<partial_tone>𠃊聲</partial_tone>
-				<partial_tone>圂聲</partial_tone>
-				<partial_tone>㯻聲</partial_tone>
+				<partname href="#part13">弟十三部<note>陸韵平聲𧭫文欣魂瘪、上聲準吻隱混很、厺聲𥤁問焮慁恨。</note></partname>
+				<partial_tone id="先聲">先聲</partial_tone>
+				<partial_tone id="辰聲">辰聲</partial_tone>
+				<partial_tone id="䢅聲">䢅聲</partial_tone>
+				<partial_tone id="脣聲">脣聲</partial_tone>
+				<partial_tone id="囷聲">囷聲</partial_tone>
+				<partial_tone id="麇聲">麇聲</partial_tone>
+				<partial_tone id="屯聲">屯聲</partial_tone>
+				<partial_tone id="春聲">春聲</partial_tone>
+				<partial_tone id="門聲">門聲</partial_tone>
+				<partial_tone id="殷聲">殷聲</partial_tone>
+				<partial_tone id="分聲">分聲</partial_tone>
+				<partial_tone id="釁聲">釁聲</partial_tone>
+				<partial_tone id="虋聲">虋聲</partial_tone>
+				<partial_tone id="𥃩聲">𥃩聲<note>今作艮。</note></partial_tone>
+				<partial_tone id="西聲">西聲</partial_tone>
+				<partial_tone id="垔聲">垔聲</partial_tone>
+				<partial_tone id="免聲">免聲</partial_tone>
+				<partial_tone id="昏聲">昏聲<note>不从民。</note></partial_tone>
+				<partial_tone id="孫聲">孫聲</partial_tone>
+				<partial_tone id="𢍃聲">𢍃聲</partial_tone><!--alt:奔聲-->
+				<partial_tone id="賁聲">賁聲</partial_tone>
+				<partial_tone id="君聲">君聲</partial_tone>
+				<partial_tone id="員聲">員聲</partial_tone>
+				<partial_tone id="𥊽聲">𥊽聲</partial_tone>
+				<partial_tone id="鰥聲">鰥聲</partial_tone>
+				<partial_tone id="昆聲">昆聲</partial_tone>
+				<partial_tone id="𦎧聲">𦎧聲</partial_tone><!--alt:享聲-->
+				<partial_tone id="𣀦聲">𣀦聲<note>隸作敦。</note></partial_tone>
+				<partial_tone id="璊聲">璊聲</partial_tone>
+				<partial_tone id="川聲">川聲</partial_tone>
+				<partial_tone id="雲聲">雲聲</partial_tone>
+				<partial_tone id="云聲">云聲</partial_tone>
+				<partial_tone id="存聲">存聲</partial_tone>
+				<partial_tone id="巾聲">巾聲</partial_tone>
+				<partial_tone id="侖聲">侖聲</partial_tone>
+				<partial_tone id="堇聲">堇聲</partial_tone>
+				<partial_tone id="㚃聲">㚃聲</partial_tone>
+				<partial_tone id="文聲">文聲</partial_tone>
+				<partial_tone id="彣聲">彣聲</partial_tone>
+				<partial_tone id="吝聲">吝聲</partial_tone>
+				<partial_tone id="閔聲">閔聲</partial_tone>
+				<partial_tone id="豩聲">豩聲</partial_tone>
+				<partial_tone id="豳聲">豳聲</partial_tone>
+				<partial_tone id="軍聲">軍聲</partial_tone><!--alt:𠣞聲-->
+				<partial_tone id="斤聲">斤聲</partial_tone>
+				<partial_tone id="刃聲">刃聲</partial_tone>
+				<partial_tone id="典聲">典聲</partial_tone>
+				<partial_tone id="昷聲">昷聲</partial_tone>
+				<partial_tone id="溫聲">溫聲</partial_tone>
+				<partial_tone id="縕聲">縕聲</partial_tone>
+				<partial_tone id="亹聲">亹聲</partial_tone>
+				<partial_tone id="熏聲">熏聲</partial_tone>
+				<partial_tone id="焚聲">焚聲</partial_tone>
+				<partial_tone id="彬聲">彬聲</partial_tone>
+				<partial_tone id="豚聲">豚聲</partial_tone>
+				<partial_tone id="盾聲">盾聲</partial_tone>
+				<partial_tone id="㐱聲">㐱聲</partial_tone>
+				<partial_tone id="舛聲">舛聲</partial_tone>
+				<partial_tone id="䑞聲">䑞聲</partial_tone>
+				<partial_tone id="飧聲">飧<!--⿰夕𠊊-->聲</partial_tone><!--alt:𩚏聲-->
+				<partial_tone id="寸聲">寸聲</partial_tone>
+				<partial_tone id="筋聲">筋聲</partial_tone>
+				<partial_tone id="䖵聲">䖵聲</partial_tone>
+				<partial_tone id="𤔌聲">𤔌聲</partial_tone>
+				<partial_tone id="㥯聲">㥯聲</partial_tone>
+				<partial_tone id="隱聲">隱聲</partial_tone>
+				<partial_tone id="𠃊聲">𠃊聲</partial_tone>
+				<partial_tone id="圂聲">圂聲</partial_tone>
+				<partial_tone id="㯻聲">㯻聲</partial_tone>
 				<explanation>右諧聲偏旁見於今韵他部內者、皆從弟十三部轉入。</explanation>
 			</tone_part>
 			<tone_part>
-				<partname>弟十四部<note>陸韵平聲元寒桓刪山仙、上聲阮旱緩潸產獮厺聲願翰換諫襉線。</note></partname>
-				<partial_tone>叀聲</partial_tone>
-				<partial_tone>專聲</partial_tone>
-				<partial_tone>袁聲</partial_tone>
-				<partial_tone>瞏聲</partial_tone>
-				<partial_tone>釆聲<note>與一部采別。</note></partial_tone>
-				<partial_tone>𢍏聲</partial_tone>
-				<partial_tone>卷聲</partial_tone>
-				<partial_tone>𠨎聲</partial_tone>
-				<partial_tone>巺聲</partial_tone>
-				<partial_tone>厂聲</partial_tone>
-				<partial_tone>屵聲</partial_tone>
-				<partial_tone>彥聲</partial_tone>
-				<partial_tone>雁聲</partial_tone>
-				<partial_tone>鴈聲</partial_tone>
-				<partial_tone>旦聲</partial_tone>
-				<partial_tone>半聲</partial_tone>
-				<partial_tone>䇂聲</partial_tone>
-				<partial_tone>言聲</partial_tone>
-				<partial_tone>泉聲</partial_tone>
-				<partial_tone>邍聲</partial_tone>
-				<partial_tone>歎聲</partial_tone>
-				<partial_tone>難聲</partial_tone>
-				<partial_tone>𠫐聲<note>原同。</note></partial_tone><!--alt:原聲-->
-				<partial_tone>䜌聲</partial_tone>
-				<partial_tone>官聲</partial_tone>
-				<partial_tone>㠭聲</partial_tone>
-				<partial_tone>𧝑聲</partial_tone>
-				<partial_tone>㞡聲</partial_tone><!--alt:展聲-->
-				<partial_tone>卵聲</partial_tone>
-				<partial_tone>爰聲</partial_tone>
-				<partial_tone>反聲</partial_tone>
-				<partial_tone>閒聲</partial_tone>
-				<partial_tone>𠄢聲<note>隸作亘。</note></partial_tone><!--alt:亘聲-->
-				<partial_tone>宣聲</partial_tone>
-				<partial_tone>桓聲</partial_tone>
-				<partial_tone>見聲</partial_tone>
-				<partial_tone>連聲</partial_tone>
-				<partial_tone>萈聲</partial_tone>
-				<partial_tone>寬聲</partial_tone>
-				<partial_tone>卝聲<note>張參曰。說文以爲古卵字。</note></partial_tone>
-				<partial_tone>𢇂聲</partial_tone>
-				<partial_tone>𠨧聲<note>隸作䙴。</note></partial_tone><!--alt:䙴聲-->
-				<partial_tone>夗聲</partial_tone>
-				<partial_tone>宛聲</partial_tone>
-				<partial_tone>𡿨聲<note>篆文作畎。</note></partial_tone>
-				<partial_tone>干聲</partial_tone>
-				<partial_tone>岸聲</partial_tone>
-				<partial_tone>旱聲</partial_tone>
-				<partial_tone>䍑聲</partial_tone>
-				<partial_tone>妟聲</partial_tone>
-				<partial_tone>宴聲</partial_tone>
-				<partial_tone>匽聲</partial_tone>
-				<partial_tone>安聲</partial_tone>
-				<partial_tone>晏聲</partial_tone>
-				<partial_tone>㫃聲</partial_tone>
-				<partial_tone>倝聲</partial_tone>
-				<partial_tone>𣦼聲</partial_tone>
-				<partial_tone>亶聲</partial_tone>
-				<partial_tone>曼聲</partial_tone>
-				<partial_tone>柬聲</partial_tone>
-				<partial_tone>闌聲</partial_tone>
-				<partial_tone>蘭聲</partial_tone>
-				<partial_tone>吅聲</partial_tone>
-				<partial_tone>雚聲</partial_tone>
-				<partial_tone>單聲</partial_tone>
-				<partial_tone>患聲</partial_tone>
-				<partial_tone>奐聲</partial_tone>
-				<partial_tone>夐聲</partial_tone>
-				<partial_tone>肩聲</partial_tone>
-				<partial_tone>弁聲<note>㝸同。</note></partial_tone>
-				<partial_tone>毌聲</partial_tone>
-				<partial_tone>貫聲</partial_tone>
-				<partial_tone>番聲</partial_tone>
-				<partial_tone>潘聲</partial_tone>
-				<partial_tone>𤔔聲</partial_tone>
-				<partial_tone>閑聲</partial_tone>
-				<partial_tone>廛聲</partial_tone>
-				<partial_tone>丹聲</partial_tone>
-				<partial_tone>焉聲</partial_tone>
-				<partial_tone>肰聲</partial_tone>
-				<partial_tone>縣聲</partial_tone>
-				<partial_tone>然<!--⿱肰灬-->聲</partial_tone>
-				<partial_tone>元聲</partial_tone>
-				<partial_tone>完聲</partial_tone>
-				<partial_tone>冠聲</partial_tone>
-				<partial_tone>肙聲</partial_tone>
-				<partial_tone>山聲</partial_tone>
-				<partial_tone>戔聲</partial_tone>
-				<partial_tone>衍聲</partial_tone>
-				<partial_tone>憲聲</partial_tone>
-				<partial_tone>㪔聲</partial_tone>
-				<partial_tone>𢿨聲</partial_tone><!--alt:𢿱聲-->
-				<partial_tone>潸聲</partial_tone>
-				<partial_tone>棥聲</partial_tone>
-				<partial_tone>樊聲</partial_tone>
-				<partial_tone>延聲</partial_tone>
-				<partial_tone>鬳聲</partial_tone>
-				<partial_tone>獻聲</partial_tone>
-				<partial_tone>㳄聲<note>與十五部次別。</note></partial_tone>
-				<partial_tone>羨<!--⿱⿱艹土㳄-->聲</partial_tone>
-				<partial_tone>䋣聲</partial_tone>
-				<partial_tone>耑聲</partial_tone>
-				<partial_tone>段聲</partial_tone>
-				<partial_tone>燕聲</partial_tone>
-				<partial_tone>丸聲</partial_tone>
-				<partial_tone>虔聲</partial_tone>
-				<partial_tone>羴<!--⿱⺸⿰⺸⺸-->聲</partial_tone>
-				<partial_tone>鮮聲</partial_tone>
-				<partial_tone>爨聲</partial_tone>
-				<partial_tone>𡴂<!--篆書体-->聲<note>隸作攀。</note></partial_tone>
-				<partial_tone>𡫜聲<note>隸作寒。</note></partial_tone><!--alt:𡫾聲-->
-				<partial_tone>褰聲</partial_tone>
-				<partial_tone>姦聲</partial_tone>
-				<partial_tone>面聲</partial_tone>
-				<partial_tone>般聲</partial_tone>
-				<partial_tone>煩聲</partial_tone>
-				<partial_tone>贊聲</partial_tone>
-				<partial_tone>祘聲</partial_tone>
-				<partial_tone>彖聲</partial_tone>
-				<partial_tone>𥮅聲</partial_tone>
-				<partial_tone>㕣聲<note>與九部公別。</note></partial_tone>
-				<partial_tone>沿聲</partial_tone>
-				<partial_tone>袞聲</partial_tone>
-				<partial_tone>班聲</partial_tone>
-				<partial_tone>建聲</partial_tone>
-				<partial_tone>算聲</partial_tone>
-				<partial_tone>𠦒聲</partial_tone>
-				<partial_tone>犬聲</partial_tone>
-				<partial_tone>刪聲</partial_tone>
-				<partial_tone>片聲</partial_tone>
-				<partial_tone>雋聲<note>與十六部巂別。</note></partial_tone>
-				<partial_tone>㚘聲</partial_tone>
-				<partial_tone>允聲</partial_tone>
-				<partial_tone>夋聲</partial_tone>
-				<partial_tone>㒼聲</partial_tone>
-				<partial_tone>𡬳聲</partial_tone><!--？-->
-				<partial_tone>𥀅聲<note>从瓦誤</note></partial_tone><!--㼱/𠭼-->
-				<partial_tone>𣃔聲</partial_tone>
+				<partname href="#part14">弟十四部<note>陸韵平聲元寒桓刪山仙、上聲阮旱緩潸產獮厺聲願翰換諫襉線。</note></partname>
+				<partial_tone id="叀聲">叀聲</partial_tone>
+				<partial_tone id="專聲">專聲</partial_tone>
+				<partial_tone id="袁聲">袁聲</partial_tone>
+				<partial_tone id="瞏聲">瞏聲</partial_tone>
+				<partial_tone id="釆聲">釆聲<note>與一部采別。</note></partial_tone>
+				<partial_tone id="𢍏聲">𢍏聲</partial_tone>
+				<partial_tone id="卷聲">卷聲</partial_tone>
+				<partial_tone id="𠨎聲">𠨎聲</partial_tone>
+				<partial_tone id="巺聲">巺聲</partial_tone>
+				<partial_tone id="厂聲">厂聲</partial_tone>
+				<partial_tone id="屵聲">屵聲</partial_tone>
+				<partial_tone id="彥聲">彥聲</partial_tone>
+				<partial_tone id="雁聲">雁聲</partial_tone>
+				<partial_tone id="鴈聲">鴈聲</partial_tone>
+				<partial_tone id="旦聲">旦聲</partial_tone>
+				<partial_tone id="半聲">半聲</partial_tone>
+				<partial_tone id="䇂聲">䇂聲</partial_tone>
+				<partial_tone id="言聲">言聲</partial_tone>
+				<partial_tone id="泉聲">泉聲</partial_tone>
+				<partial_tone id="邍聲">邍聲</partial_tone>
+				<partial_tone id="歎聲">歎聲</partial_tone>
+				<partial_tone id="難聲">難聲</partial_tone>
+				<partial_tone id="𠫐聲">𠫐聲<note>原同。</note></partial_tone><!--alt:原聲-->
+				<partial_tone id="䜌聲">䜌聲</partial_tone>
+				<partial_tone id="官聲">官聲</partial_tone>
+				<partial_tone id="㠭聲">㠭聲</partial_tone>
+				<partial_tone id="𧝑聲">𧝑聲</partial_tone>
+				<partial_tone id="㞡聲">㞡聲</partial_tone><!--alt:展聲-->
+				<partial_tone id="卵聲">卵聲</partial_tone>
+				<partial_tone id="爰聲">爰聲</partial_tone>
+				<partial_tone id="反聲">反聲</partial_tone>
+				<partial_tone id="閒聲">閒聲</partial_tone>
+				<partial_tone id="𠄢聲">𠄢聲<note>隸作亘。</note></partial_tone><!--alt:亘聲-->
+				<partial_tone id="宣聲">宣聲</partial_tone>
+				<partial_tone id="桓聲">桓聲</partial_tone>
+				<partial_tone id="見聲">見聲</partial_tone>
+				<partial_tone id="連聲">連聲</partial_tone>
+				<partial_tone id="萈聲">萈聲</partial_tone>
+				<partial_tone id="寬聲">寬聲</partial_tone>
+				<partial_tone id="卝聲">卝聲<note>張參曰。說文以爲古卵字。</note></partial_tone>
+				<partial_tone id="𢇂聲">𢇂聲</partial_tone>
+				<partial_tone id="𠨧聲">𠨧聲<note>隸作䙴。</note></partial_tone><!--alt:䙴聲-->
+				<partial_tone id="夗聲">夗聲</partial_tone>
+				<partial_tone id="宛聲">宛聲</partial_tone>
+				<partial_tone id="𡿨聲">𡿨聲<note>篆文作畎。</note></partial_tone>
+				<partial_tone id="干聲">干聲</partial_tone>
+				<partial_tone id="岸聲">岸聲</partial_tone>
+				<partial_tone id="旱聲">旱聲</partial_tone>
+				<partial_tone id="䍑聲">䍑聲</partial_tone>
+				<partial_tone id="妟聲">妟聲</partial_tone>
+				<partial_tone id="宴聲">宴聲</partial_tone>
+				<partial_tone id="匽聲">匽聲</partial_tone>
+				<partial_tone id="安聲">安聲</partial_tone>
+				<partial_tone id="晏聲">晏聲</partial_tone>
+				<partial_tone id="㫃聲">㫃聲</partial_tone>
+				<partial_tone id="倝聲">倝聲</partial_tone>
+				<partial_tone id="𣦼聲">𣦼聲</partial_tone>
+				<partial_tone id="亶聲">亶聲</partial_tone>
+				<partial_tone id="曼聲">曼聲</partial_tone>
+				<partial_tone id="柬聲">柬聲</partial_tone>
+				<partial_tone id="闌聲">闌聲</partial_tone>
+				<partial_tone id="蘭聲">蘭聲</partial_tone>
+				<partial_tone id="吅聲">吅聲</partial_tone>
+				<partial_tone id="雚聲">雚聲</partial_tone>
+				<partial_tone id="單聲">單聲</partial_tone>
+				<partial_tone id="患聲">患聲</partial_tone>
+				<partial_tone id="奐聲">奐聲</partial_tone>
+				<partial_tone id="夐聲">夐聲</partial_tone>
+				<partial_tone id="肩聲">肩聲</partial_tone>
+				<partial_tone id="弁聲">弁聲<note>㝸同。</note></partial_tone>
+				<partial_tone id="毌聲">毌聲</partial_tone>
+				<partial_tone id="貫聲">貫聲</partial_tone>
+				<partial_tone id="番聲">番聲</partial_tone>
+				<partial_tone id="潘聲">潘聲</partial_tone>
+				<partial_tone id="𤔔聲">𤔔聲</partial_tone>
+				<partial_tone id="閑聲">閑聲</partial_tone>
+				<partial_tone id="廛聲">廛聲</partial_tone>
+				<partial_tone id="丹聲">丹聲</partial_tone>
+				<partial_tone id="焉聲">焉聲</partial_tone>
+				<partial_tone id="肰聲">肰聲</partial_tone>
+				<partial_tone id="縣聲">縣聲</partial_tone>
+				<partial_tone id="然聲">然<!--⿱肰灬-->聲</partial_tone>
+				<partial_tone id="元聲">元聲</partial_tone>
+				<partial_tone id="完聲">完聲</partial_tone>
+				<partial_tone id="冠聲">冠聲</partial_tone>
+				<partial_tone id="肙聲">肙聲</partial_tone>
+				<partial_tone id="山聲">山聲</partial_tone>
+				<partial_tone id="戔聲">戔聲</partial_tone>
+				<partial_tone id="衍聲">衍聲</partial_tone>
+				<partial_tone id="憲聲">憲聲</partial_tone>
+				<partial_tone id="㪔聲">㪔聲</partial_tone>
+				<partial_tone id="𢿨聲">𢿨聲</partial_tone><!--alt:𢿱聲-->
+				<partial_tone id="潸聲">潸聲</partial_tone>
+				<partial_tone id="棥聲">棥聲</partial_tone>
+				<partial_tone id="樊聲">樊聲</partial_tone>
+				<partial_tone id="延聲">延聲</partial_tone>
+				<partial_tone id="鬳聲">鬳聲</partial_tone>
+				<partial_tone id="獻聲">獻聲</partial_tone>
+				<partial_tone id="㳄聲">㳄聲<note>與十五部次別。</note></partial_tone>
+				<partial_tone id="羨聲">羨<!--⿱⿱艹土㳄-->聲</partial_tone>
+				<partial_tone id="䋣聲">䋣聲</partial_tone>
+				<partial_tone id="耑聲">耑聲</partial_tone>
+				<partial_tone id="段聲">段聲</partial_tone>
+				<partial_tone id="燕聲">燕聲</partial_tone>
+				<partial_tone id="丸聲">丸聲</partial_tone>
+				<partial_tone id="虔聲">虔聲</partial_tone>
+				<partial_tone id="羴聲">羴<!--⿱⺸⿰⺸⺸-->聲</partial_tone>
+				<partial_tone id="鮮聲">鮮聲</partial_tone>
+				<partial_tone id="爨聲">爨聲</partial_tone>
+				<partial_tone id="𡴂聲">𡴂<!--篆書体-->聲<note>隸作攀。</note></partial_tone>
+				<partial_tone id="𡫜聲">𡫜聲<note>隸作寒。</note></partial_tone><!--alt:𡫾聲-->
+				<partial_tone id="褰聲">褰聲</partial_tone>
+				<partial_tone id="姦聲">姦聲</partial_tone>
+				<partial_tone id="面聲">面聲</partial_tone>
+				<partial_tone id="般聲">般聲</partial_tone>
+				<partial_tone id="煩聲">煩聲</partial_tone>
+				<partial_tone id="贊聲">贊聲</partial_tone>
+				<partial_tone id="祘聲">祘聲</partial_tone>
+				<partial_tone id="彖聲">彖聲</partial_tone>
+				<partial_tone id="𥮅聲">𥮅聲</partial_tone>
+				<partial_tone id="㕣聲">㕣聲<note>與九部公別。</note></partial_tone>
+				<partial_tone id="沿聲">沿聲</partial_tone>
+				<partial_tone id="袞聲">袞聲</partial_tone>
+				<partial_tone id="班聲">班聲</partial_tone>
+				<partial_tone id="建聲">建聲</partial_tone>
+				<partial_tone id="算聲">算聲</partial_tone>
+				<partial_tone id="𠦒聲">𠦒聲</partial_tone>
+				<partial_tone id="犬聲">犬聲</partial_tone>
+				<partial_tone id="刪聲">刪聲</partial_tone>
+				<partial_tone id="片聲">片聲</partial_tone>
+				<partial_tone id="雋聲">雋聲<note>與十六部巂別。</note></partial_tone>
+				<partial_tone id="㚘聲">㚘聲</partial_tone>
+				<partial_tone id="允聲">允聲</partial_tone>
+				<partial_tone id="夋聲">夋聲</partial_tone>
+				<partial_tone id="㒼聲">㒼聲</partial_tone>
+				<partial_tone id="𡬳聲">𡬳聲</partial_tone><!--？-->
+				<partial_tone id="𥀅聲">𥀅聲<note>从瓦誤</note></partial_tone><!--alt:𠭼聲-->
+				<partial_tone id="𣃔聲">𣃔聲</partial_tone>
 				<explanation>右諧聲偏旁見於今韵他部內者、皆從弟十四部轉入。</explanation>
 			</tone_part>
 			<tone_part>
-				<partname>弟十五部<note>陸韵平聲脂微齊皆灰、上聲旨㞑薺駭賄厺聲至未霽祭泰怪夬隊廢入聲術物迄月𣳚曷末黠鎋𧃎。</note></partname>
-				<partial_tone>妻聲</partial_tone>
-				<partial_tone>飛聲</partial_tone>
-				<partial_tone>皆聲</partial_tone>
-				<partial_tone>𠂤聲</partial_tone>
-				<partial_tone>帥聲</partial_tone>
-				<partial_tone>歸聲</partial_tone>
-				<partial_tone>厶聲<note>與六部厶別。</note></partial_tone>
-				<partial_tone>私聲</partial_tone>
-				<partial_tone>夊聲</partial_tone>
-				<partial_tone>衣聲</partial_tone>
-				<partial_tone>鬼聲</partial_tone>
-				<partial_tone>嵬聲</partial_tone>
-				<partial_tone>？<!--𦥔一-->聲</partial_tone>
-				<partial_tone>貴聲</partial_tone>
-				<partial_tone>畾聲</partial_tone>
-				<partial_tone>眔聲</partial_tone>
-				<partial_tone>褱聲</partial_tone>
-				<partial_tone>綏聲</partial_tone>
-				<partial_tone>枚聲</partial_tone>
-				<partial_tone>几聲</partial_tone>
-				<partial_tone>𥝌聲<note>與十七部禾別。</note></partial_tone>
-				<partial_tone>示聲</partial_tone>
-				<partial_tone>視聲</partial_tone>
-				<partial_tone>祁聲</partial_tone>
-				<partial_tone>祋聲</partial_tone>
-				<partial_tone>𢼸聲</partial_tone>
-				<partial_tone>豈聲</partial_tone>
-				<partial_tone>微聲</partial_tone>
-				<partial_tone>非聲</partial_tone>
-				<partial_tone>囗聲<note>與四部口別。</note></partial_tone>
-				<partial_tone>韋聲</partial_tone>
-				<partial_tone>幾聲</partial_tone>
-				<partial_tone>隹聲</partial_tone>
-				<partial_tone>崔聲</partial_tone>
-				<partial_tone>唯聲</partial_tone>
-				<partial_tone>隼聲<note>同鵻。</note></partial_tone>
-				<partial_tone>夷聲</partial_tone>
-				<partial_tone>匕聲</partial_tone>
-				<partial_tone>尼聲</partial_tone>
-				<partial_tone>旨聲</partial_tone>
-				<partial_tone>稽聲</partial_tone>
-				<partial_tone>耆聲</partial_tone>
-				<partial_tone>𠫼聲</partial_tone><!--alt:齊聲-->
-				<partial_tone>㞑聲</partial_tone><!--alt:尾聲-->
-				<partial_tone>犀聲</partial_tone>
-				<partial_tone>虫聲</partial_tone>
-				<partial_tone>屖聲</partial_tone>
-				<partial_tone>睂聲</partial_tone>
-				<partial_tone>畏聲</partial_tone>
-				<partial_tone>希聲</partial_tone>
-				<partial_tone>氐聲<note>與十六部氏別。</note></partial_tone>
-				<partial_tone>底聲</partial_tone>
-				<partial_tone>厎聲</partial_tone>
-				<partial_tone>奞聲</partial_tone>
-				<partial_tone>黹聲</partial_tone>
-				<partial_tone>夂聲</partial_tone>
-				<partial_tone>師聲</partial_tone>
-				<partial_tone>威聲</partial_tone>
-				<partial_tone>𤼩聲</partial_tone><!--alt:癸聲-->
-				<partial_tone>比聲</partial_tone>
-				<partial_tone>𣬉聲</partial_tone>
-				<partial_tone>米聲</partial_tone>
-				<partial_tone>麋聲</partial_tone>
-				<partial_tone>辠聲</partial_tone>
-				<partial_tone>罪聲</partial_tone>
-				<partial_tone>伊聲</partial_tone>
-				<partial_tone>委聲</partial_tone>
-				<partial_tone>回聲</partial_tone>
-				<partial_tone>囘聲<note>古文回。</note></partial_tone>
-				<partial_tone>尸聲</partial_tone>
-				<partial_tone>次聲</partial_tone>
-				<partial_tone>戾聲</partial_tone>
-				<partial_tone>利聲</partial_tone>
-				<partial_tone>𥝢聲<note>古文利。</note></partial_tone>
-				<partial_tone>黎聲</partial_tone>
-				<partial_tone>毇聲</partial_tone>
-				<partial_tone>毀聲</partial_tone>
-				<partial_tone>尒聲</partial_tone>
-				<partial_tone>爾聲</partial_tone>
-				<partial_tone>镾聲</partial_tone>
-				<partial_tone>豐聲<note>與九部豐別。</note></partial_tone>
-				<partial_tone>𣦸聲</partial_tone>
-				<partial_tone>弟聲</partial_tone>
-				<partial_tone>𪩲聲</partial_tone>
-				<partial_tone>美聲</partial_tone>
-				<partial_tone>耒聲</partial_tone>
-				<partial_tone>此聲</partial_tone>
-				<partial_tone>火聲</partial_tone>
-				<partial_tone>水聲</partial_tone>
-				<partial_tone>矢聲</partial_tone>
-				<partial_tone>兕聲</partial_tone>
-				<partial_tone>二聲</partial_tone>
-				<partial_tone>𡳐聲</partial_tone>
-				<partial_tone>肄聲</partial_tone>
-				<partial_tone>棄聲</partial_tone>
-				<partial_tone>𠦪聲</partial_tone>
-				<partial_tone>𢳎聲</partial_tone>
-				<partial_tone>兌聲</partial_tone>
-				<partial_tone>气聲</partial_tone>
-				<partial_tone>旡聲</partial_tone>
-				<partial_tone>旣聲</partial_tone>
-				<partial_tone>㤅聲</partial_tone>
-				<partial_tone>𢙴聲</partial_tone><!--alt:愛聲-->
-				<partial_tone>𦞅聲</partial_tone><!--alt:胃聲-->
-				<partial_tone>吠聲</partial_tone>
-				<partial_tone>四聲</partial_tone>
-				<partial_tone>豕聲</partial_tone>
-				<partial_tone>㒸聲</partial_tone>
-				<partial_tone>季聲</partial_tone>
-				<partial_tone>𥝩聲</partial_tone>
-				<partial_tone>惠聲</partial_tone>
-				<partial_tone>卒聲</partial_tone>
-				<partial_tone>未聲</partial_tone>
-				<partial_tone>巿聲<note>與一部市別</note></partial_tone>
-				<partial_tone>位聲</partial_tone>
-				<partial_tone>率聲</partial_tone>
-				<partial_tone>木聲</partial_tone>
-				<partial_tone>𢓴聲<note>古文作𨓤。</note></partial_tone><!--？-->
-				<partial_tone>出聲</partial_tone>
-				<partial_tone>隶聲</partial_tone>
-				<partial_tone>彗聲</partial_tone>
-				<partial_tone>慧聲</partial_tone>
-				<partial_tone>凷聲</partial_tone>
-				<partial_tone>尉聲</partial_tone>
-				<partial_tone>犮聲</partial_tone>
-				<partial_tone>𡭊聲</partial_tone>
-				<partial_tone>頪聲</partial_tone>
-				<partial_tone>類聲</partial_tone>
-				<partial_tone>內聲</partial_tone>
-				<partial_tone>孛聲</partial_tone>
-				<partial_tone>貝聲</partial_tone>
-				<partial_tone>乂聲</partial_tone>
-				<partial_tone>砅聲</partial_tone>
-				<partial_tone>蠇聲</partial_tone>
-				<partial_tone>厲聲</partial_tone>
-				<partial_tone>匄聲</partial_tone>
-				<partial_tone>曷聲</partial_tone>
-				<partial_tone>禼聲</partial_tone>
-				<partial_tone>舝聲</partial_tone>
-				<partial_tone>丯聲</partial_tone>
-				<partial_tone>㓞聲</partial_tone>
-				<partial_tone>契聲</partial_tone>
-				<partial_tone>害聲</partial_tone>
-				<partial_tone>折聲</partial_tone>
-				<partial_tone>哲聲</partial_tone>
-				<partial_tone>帶聲</partial_tone>
-				<partial_tone>戌聲</partial_tone>
-				<partial_tone>歲聲</partial_tone>
-				<partial_tone>薉聲</partial_tone>
-				<partial_tone>外聲</partial_tone>
-				<partial_tone>世聲</partial_tone>
-				<partial_tone>貰聲</partial_tone>
-				<partial_tone>欮聲</partial_tone>
-				<partial_tone>厥聲</partial_tone>
-				<partial_tone>烕聲</partial_tone>
-				<partial_tone>祭聲</partial_tone>
-				<partial_tone>医聲</partial_tone>
-				<partial_tone>殹聲</partial_tone>
-				<partial_tone>𡿪聲</partial_tone>
-				<partial_tone>𠛱聲</partial_tone>
-				<partial_tone>大聲</partial_tone>
-				<partial_tone>亣<!--篆書体-->聲<note>籒文大。</note></partial_tone>
-				<partial_tone>癹聲</partial_tone>
-				<partial_tone>發聲</partial_tone>
-				<partial_tone>伐聲</partial_tone>
-				<partial_tone>𠄌聲</partial_tone>
-				<partial_tone>戉聲</partial_tone>
-				<partial_tone>亅聲</partial_tone>
-				<partial_tone>叕聲</partial_tone>
-				<partial_tone>寽聲</partial_tone>
-				<partial_tone>氒聲</partial_tone>
-				<partial_tone>𠯑聲<note>隸作舌。</note></partial_tone>
-				<partial_tone>聒聲</partial_tone>
-				<partial_tone>屮聲</partial_tone>
-				<partial_tone>𡶫聲</partial_tone>
-				<partial_tone>辥聲</partial_tone>
-				<partial_tone>𧃎聲</partial_tone>
-				<partial_tone>櫱聲</partial_tone>
-				<partial_tone>𣡌聲</partial_tone>
-				<partial_tone>䡾聲</partial_tone>
-				<partial_tone>桀聲</partial_tone>
-				<partial_tone>？聲<note>與七部㚔、十一部幸別。</note></partial_tone>
-				<partial_tone>𨔶聲</partial_tone>
-				<partial_tone>月聲</partial_tone>
-				<partial_tone>舌聲<note>口舌字。从干。</note></partial_tone>
-				<partial_tone>最聲</partial_tone>
-				<partial_tone>奪聲</partial_tone>
-				<partial_tone>𢧵聲</partial_tone>
-				<partial_tone>秫聲</partial_tone>
-				<partial_tone>聿聲</partial_tone>
-				<partial_tone>律聲</partial_tone>
-				<partial_tone>弗聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
-				<partial_tone>乞聲</partial_tone>
-				<partial_tone>系聲</partial_tone>
-				<partial_tone>衰聲</partial_tone>
-				<partial_tone>妃聲</partial_tone>
-				<partial_tone>配聲</partial_tone>
-				<partial_tone>肥聲</partial_tone>
-				<partial_tone>兀聲</partial_tone>
-				<partial_tone>自聲</partial_tone>
-				<partial_tone>臬聲</partial_tone>
-				<partial_tone>白聲<note>亦自字、與五部？別。</note></partial_tone>
-				<partial_tone>矞聲</partial_tone>
-				<partial_tone>术聲<note>秫省作术。</note></partial_tone>
-				<partial_tone>曳聲</partial_tone>
-				<partial_tone>？聲<note>隸作制。</note></partial_tone>
-				<partial_tone>鼻聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
-				<partial_tone>祟聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
-				<partial_tone>㝮聲</partial_tone>
-				<partial_tone>竄聲</partial_tone>
-				<partial_tone>末聲</partial_tone>
-				<partial_tone>夬聲</partial_tone>
-				<partial_tone>勿聲</partial_tone>
-				<partial_tone>㕟聲</partial_tone>
-				<partial_tone>器聲</partial_tone>
-				<partial_tone>𡎐聲<note>與七部？別。</note></partial_tone>
-				<partial_tone>㡀聲</partial_tone>
-				<partial_tone>敝聲</partial_tone>
-				<partial_tone>彑聲</partial_tone>
-				<partial_tone>㕯聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
-				<partial_tone>葢聲</partial_tone>
-				<partial_tone>繼聲</partial_tone>
-				<partial_tone>會聲</partial_tone>
-				<partial_tone>巜聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
-				<partial_tone>殺聲</partial_tone>
-				<partial_tone>介聲</partial_tone>
-				<partial_tone>甶聲</partial_tone>
-				<partial_tone>？聲<note>从丌。</note></partial_tone>
-				<partial_tone>苜聲</partial_tone>
-				<partial_tone>剌聲<note>與十六部刺別。</note></partial_tone>
-				<partial_tone>賴聲</partial_tone>
-				<partial_tone>骨聲</partial_tone>
-				<partial_tone>云聲</partial_tone>
-				<partial_tone>突聲</partial_tone>
-				<partial_tone>𠃉聲<note>與十二部乙別。</note></partial_tone>
-				<partial_tone>曰聲<note>與十二部日別。</note></partial_tone>
-				<partial_tone>？聲</partial_tone>
-				<partial_tone>曶聲</partial_tone>
-				<partial_tone>聲</partial_tone>
-				<partial_tone>㓹聲<note>籒文銳。</note></partial_tone>
-				<partial_tone>罽聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
-				<partial_tone>㣇聲</partial_tone>
-				<partial_tone>毳聲</partial_tone>
-				<partial_tone>歺聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partname href="#part15">弟十五部<note>陸韵平聲脂微齊皆灰、上聲旨㞑薺駭賄厺聲至未霽祭泰怪夬隊廢入聲術物迄月𣳚曷末黠鎋𧃎。</note></partname>
+				<partial_tone id="妻聲">妻聲</partial_tone>
+				<partial_tone id="飛聲">飛聲</partial_tone>
+				<partial_tone id="皆聲">皆聲</partial_tone>
+				<partial_tone id="𠂤聲">𠂤聲</partial_tone>
+				<partial_tone id="帥聲">帥聲</partial_tone>
+				<partial_tone id="歸聲">歸聲</partial_tone>
+				<partial_tone id="厶聲">厶聲<note>與六部厶別。</note></partial_tone>
+				<partial_tone id="私聲">私聲</partial_tone>
+				<partial_tone id="夊聲">夊聲</partial_tone>
+				<partial_tone id="衣聲">衣聲</partial_tone>
+				<partial_tone id="鬼聲">鬼聲</partial_tone>
+				<partial_tone id="嵬聲">嵬聲</partial_tone>
+				<partial_tone>？<!--⿱𦥔一-->聲</partial_tone>
+				<partial_tone id="貴聲">貴聲</partial_tone>
+				<partial_tone id="畾聲">畾聲</partial_tone>
+				<partial_tone id="眔聲">眔聲</partial_tone>
+				<partial_tone id="褱聲">褱聲</partial_tone>
+				<partial_tone id="綏聲">綏聲</partial_tone>
+				<partial_tone id="枚聲">枚聲</partial_tone>
+				<partial_tone id="几聲">几聲</partial_tone>
+				<partial_tone id="𥝌聲">𥝌聲<note>與十七部禾別。</note></partial_tone>
+				<partial_tone id="示聲">示聲</partial_tone>
+				<partial_tone id="視聲">視聲</partial_tone>
+				<partial_tone id="祁聲">祁聲</partial_tone>
+				<partial_tone id="祋聲">祋聲</partial_tone>
+				<partial_tone id="𢼸聲">𢼸聲</partial_tone>
+				<partial_tone id="豈聲">豈聲</partial_tone>
+				<partial_tone id="微聲">微聲</partial_tone>
+				<partial_tone id="非聲">非聲</partial_tone>
+				<partial_tone id="囗聲">囗聲<note>與四部口別。</note></partial_tone>
+				<partial_tone id="韋聲">韋聲</partial_tone>
+				<partial_tone id="幾聲">幾聲</partial_tone>
+				<partial_tone id="隹聲">隹聲</partial_tone>
+				<partial_tone id="崔聲">崔聲</partial_tone>
+				<partial_tone id="唯聲">唯聲</partial_tone>
+				<partial_tone id="隼聲">隼聲<note>同鵻。</note></partial_tone>
+				<partial_tone id="夷聲">夷聲</partial_tone>
+				<partial_tone id="匕聲">匕聲</partial_tone>
+				<partial_tone id="尼聲">尼聲</partial_tone>
+				<partial_tone id="旨聲">旨聲</partial_tone>
+				<partial_tone id="稽聲">稽聲</partial_tone>
+				<partial_tone id="耆聲">耆聲</partial_tone>
+				<partial_tone id="𠫼聲">𠫼聲</partial_tone><!--alt:齊聲-->
+				<partial_tone id="㞑聲">㞑聲</partial_tone><!--alt:尾聲-->
+				<partial_tone id="犀聲">犀聲</partial_tone>
+				<partial_tone id="虫聲">虫聲</partial_tone>
+				<partial_tone id="屖聲">屖聲</partial_tone>
+				<partial_tone id="睂聲">睂聲</partial_tone>
+				<partial_tone id="畏聲">畏聲</partial_tone>
+				<partial_tone id="希聲">希聲</partial_tone>
+				<partial_tone id="氐聲">氐聲<note>與十六部氏別。</note></partial_tone>
+				<partial_tone id="底聲">底聲</partial_tone>
+				<partial_tone id="厎聲">厎聲</partial_tone>
+				<partial_tone id="奞聲">奞聲</partial_tone>
+				<partial_tone id="黹聲">黹聲</partial_tone>
+				<partial_tone id="夂聲">夂聲</partial_tone>
+				<partial_tone id="師聲">師聲</partial_tone>
+				<partial_tone id="威聲">威聲</partial_tone>
+				<partial_tone id="𤼩聲">𤼩聲</partial_tone><!--alt:癸聲-->
+				<partial_tone id="比聲">比聲</partial_tone>
+				<partial_tone id="𣬉聲">𣬉聲</partial_tone>
+				<partial_tone id="米聲">米聲</partial_tone>
+				<partial_tone id="麋聲">麋聲</partial_tone>
+				<partial_tone id="辠聲">辠聲</partial_tone>
+				<partial_tone id="罪聲">罪聲</partial_tone>
+				<partial_tone id="伊聲">伊聲</partial_tone>
+				<partial_tone id="委聲">委聲</partial_tone>
+				<partial_tone id="回聲">回聲</partial_tone>
+				<partial_tone id="囘聲">囘聲<note>古文回。</note></partial_tone>
+				<partial_tone id="尸聲">尸聲</partial_tone>
+				<partial_tone id="次聲">次聲</partial_tone>
+				<partial_tone id="戾聲">戾聲</partial_tone>
+				<partial_tone id="利聲">利聲</partial_tone>
+				<partial_tone id="𥝢聲">𥝢聲<note>古文利。</note></partial_tone>
+				<partial_tone id="黎聲">黎聲</partial_tone>
+				<partial_tone id="毇聲">毇聲</partial_tone>
+				<partial_tone id="毀聲">毀聲</partial_tone>
+				<partial_tone id="尒聲">尒聲</partial_tone>
+				<partial_tone id="爾聲">爾聲</partial_tone>
+				<partial_tone id="镾聲">镾聲</partial_tone>
+				<partial_tone id="豐聲">豐聲<note>與九部豐別。</note></partial_tone>
+				<partial_tone id="𣦸聲">𣦸聲</partial_tone>
+				<partial_tone id="弟聲">弟聲</partial_tone>
+				<partial_tone id="𪩲聲">𪩲聲</partial_tone>
+				<partial_tone id="美聲">美聲</partial_tone>
+				<partial_tone id="耒聲">耒聲</partial_tone>
+				<partial_tone id="此聲">此聲</partial_tone>
+				<partial_tone id="火聲">火聲</partial_tone>
+				<partial_tone id="水聲">水聲</partial_tone>
+				<partial_tone id="矢聲">矢聲</partial_tone>
+				<partial_tone id="兕聲">兕聲</partial_tone>
+				<partial_tone id="二聲">二聲</partial_tone>
+				<partial_tone id="𡳐聲">𡳐聲</partial_tone>
+				<partial_tone id="肄聲">肄聲</partial_tone>
+				<partial_tone id="棄聲">棄聲</partial_tone>
+				<partial_tone id="𠦪聲">𠦪聲</partial_tone>
+				<partial_tone id="𢳎聲">𢳎聲</partial_tone>
+				<partial_tone id="兌聲">兌聲</partial_tone>
+				<partial_tone id="气聲">气聲</partial_tone>
+				<partial_tone id="旡聲">旡聲</partial_tone>
+				<partial_tone id="旣聲">旣聲</partial_tone>
+				<partial_tone id="㤅聲">㤅聲</partial_tone>
+				<partial_tone id="𢙴聲">𢙴聲</partial_tone><!--alt:愛聲-->
+				<partial_tone id="𦞅聲">𦞅聲</partial_tone><!--alt:胃聲-->
+				<partial_tone id="吠聲">吠聲</partial_tone>
+				<partial_tone id="四聲">四聲</partial_tone>
+				<partial_tone id="豕聲">豕聲</partial_tone>
+				<partial_tone id="㒸聲">㒸聲</partial_tone>
+				<partial_tone id="季聲">季聲</partial_tone>
+				<partial_tone id="𥝩聲">𥝩聲</partial_tone>
+				<partial_tone id="惠聲">惠聲</partial_tone>
+				<partial_tone id="卒聲">卒聲</partial_tone>
+				<partial_tone id="未聲">未聲</partial_tone>
+				<partial_tone id="巿聲">巿聲<note>與一部市別</note></partial_tone>
+				<partial_tone id="位聲">位聲</partial_tone>
+				<partial_tone id="率聲">率聲</partial_tone>
+				<partial_tone id="木聲">木聲</partial_tone>
+				<partial_tone id="𢓴聲">𢓴聲<note>古文作𨓤。</note></partial_tone>
+				<partial_tone id="出聲">出聲</partial_tone>
+				<partial_tone id="隶聲">隶聲</partial_tone>
+				<partial_tone id="彗聲">彗聲</partial_tone>
+				<partial_tone id="慧聲">慧聲</partial_tone>
+				<partial_tone id="凷聲">凷聲</partial_tone>
+				<partial_tone id="尉聲">尉聲</partial_tone>
+				<partial_tone id="犮聲">犮聲</partial_tone>
+				<partial_tone id="𡭊聲">𡭊聲</partial_tone>
+				<partial_tone id="頪聲">頪聲</partial_tone>
+				<partial_tone id="類聲">類聲</partial_tone>
+				<partial_tone id="內聲">內聲</partial_tone>
+				<partial_tone id="孛聲">孛聲</partial_tone>
+				<partial_tone id="貝聲">貝聲</partial_tone>
+				<partial_tone id="乂聲">乂聲</partial_tone>
+				<partial_tone id="砅聲">砅聲</partial_tone>
+				<partial_tone id="蠇聲">蠇聲</partial_tone>
+				<partial_tone id="厲聲">厲聲</partial_tone>
+				<partial_tone id="匄聲">匄聲</partial_tone>
+				<partial_tone id="曷聲">曷聲</partial_tone>
+				<partial_tone id="禼聲">禼聲</partial_tone>
+				<partial_tone id="舝聲">舝聲</partial_tone>
+				<partial_tone id="丯聲">丯聲</partial_tone>
+				<partial_tone id="㓞聲">㓞聲</partial_tone>
+				<partial_tone id="契聲">契聲</partial_tone>
+				<partial_tone id="害聲">害聲</partial_tone>
+				<partial_tone id="折聲">折聲</partial_tone>
+				<partial_tone id="哲聲">哲聲</partial_tone>
+				<partial_tone id="帶聲">帶聲</partial_tone>
+				<partial_tone id="戌聲">戌聲</partial_tone>
+				<partial_tone id="歲聲">歲聲</partial_tone>
+				<partial_tone id="薉聲">薉聲</partial_tone>
+				<partial_tone id="外聲">外聲</partial_tone>
+				<partial_tone id="世聲">世聲</partial_tone>
+				<partial_tone id="貰聲">貰聲</partial_tone>
+				<partial_tone id="欮聲">欮聲</partial_tone>
+				<partial_tone id="厥聲">厥聲</partial_tone>
+				<partial_tone id="烕聲">烕聲</partial_tone>
+				<partial_tone id="祭聲">祭聲</partial_tone>
+				<partial_tone id="医聲">医聲</partial_tone>
+				<partial_tone id="殹聲">殹聲</partial_tone>
+				<partial_tone id="𡿪聲">𡿪聲</partial_tone>
+				<partial_tone id="𠛱聲">𠛱聲</partial_tone>
+				<partial_tone id="大聲">大聲</partial_tone>
+				<partial_tone id="亣聲">亣<!--篆書体-->聲<note>籒文大。</note></partial_tone>
+				<partial_tone id="癹聲">癹聲</partial_tone>
+				<partial_tone id="發聲">發聲</partial_tone>
+				<partial_tone id="伐聲">伐聲</partial_tone>
+				<partial_tone id="𠄌聲">𠄌聲</partial_tone>
+				<partial_tone id="戉聲">戉聲</partial_tone>
+				<partial_tone id="亅聲">亅聲</partial_tone>
+				<partial_tone id="叕聲">叕聲</partial_tone>
+				<partial_tone id="寽聲">寽聲</partial_tone>
+				<partial_tone id="氒聲">氒聲</partial_tone>
+				<partial_tone id="𠯑聲">𠯑聲<note>隸作舌。</note></partial_tone>
+				<partial_tone id="聒聲">聒聲</partial_tone>
+				<partial_tone id="屮聲">屮聲</partial_tone>
+				<partial_tone id="𡶫聲">𡶫聲</partial_tone>
+				<partial_tone id="辥聲">辥聲</partial_tone>
+				<partial_tone id="𧃎聲">𧃎聲</partial_tone>
+				<partial_tone id="櫱聲">櫱聲</partial_tone>
+				<partial_tone id="𣡌聲">𣡌聲</partial_tone>
+				<partial_tone id="䡾聲">䡾聲</partial_tone>
+				<partial_tone id="桀聲">桀聲</partial_tone>
+				<partial_tone id="羍聲">羍<!--⿱大𦍋-->聲<note>與七部㚔、十一部幸別。</note></partial_tone>
+				<partial_tone id="𨔶聲">𨔶聲</partial_tone>
+				<partial_tone id="月聲">月聲</partial_tone>
+				<partial_tone id="舌聲">舌聲<note>口舌字。从干。</note></partial_tone>
+				<partial_tone id="最聲">最聲</partial_tone>
+				<partial_tone id="奪聲">奪聲</partial_tone>
+				<partial_tone id="𢧵聲">𢧵聲</partial_tone>
+				<partial_tone id="秫聲">秫聲</partial_tone>
+				<partial_tone id="聿聲">聿聲</partial_tone>
+				<partial_tone id="律聲">律聲</partial_tone>
+				<partial_tone id="弗聲">弗聲</partial_tone>
+				<partial_tone>？<!--⿱？又-->聲</partial_tone>
+				<partial_tone id="乞聲">乞聲</partial_tone>
+				<partial_tone id="系聲">系聲</partial_tone>
+				<partial_tone id="衰聲">衰聲</partial_tone>
+				<partial_tone id="妃聲">妃聲</partial_tone>
+				<partial_tone id="配聲">配聲</partial_tone>
+				<partial_tone id="肥聲">肥聲</partial_tone>
+				<partial_tone id="兀聲">兀聲</partial_tone>
+				<partial_tone id="自聲">自聲</partial_tone>
+				<partial_tone id="臬聲">臬聲</partial_tone>
+				<partial_tone id="白聲">白聲<note>亦自字、與五部白別。</note></partial_tone><!--符号区別なし？-->
+				<partial_tone id="矞聲">矞聲</partial_tone>
+				<partial_tone id="术聲">术聲<note>秫省作术。</note></partial_tone>
+				<partial_tone id="曳聲">曳聲</partial_tone>
+				<partial_tone id="𠛐聲">𠛐聲<note>隸作制。</note></partial_tone><!--alt:制聲-->
+				<partial_tone id="鼻聲">鼻聲</partial_tone>
+				<partial_tone>？<!--⿱目？-->聲</partial_tone>
+				<partial_tone id="祟聲">祟聲</partial_tone>
+				<partial_tone id="𠭥聲">𠭥聲</partial_tone>
+				<partial_tone id="㝮聲">㝮聲</partial_tone>
+				<partial_tone id="竄聲">竄聲</partial_tone>
+				<partial_tone id="末聲">末聲</partial_tone>
+				<partial_tone id="夬聲">夬聲</partial_tone>
+				<partial_tone id="勿聲">勿聲</partial_tone>
+				<partial_tone id="㕟聲">㕟聲</partial_tone>
+				<partial_tone id="器聲">器聲</partial_tone>
+				<partial_tone id="𡎐聲">𡎐聲<note>與七部𡙕別。</note></partial_tone>
+				<partial_tone id="㡀聲">㡀聲</partial_tone>
+				<partial_tone id="敝聲">敝聲</partial_tone>
+				<partial_tone id="彑聲">彑聲</partial_tone>
+				<partial_tone id="㕯聲">㕯聲</partial_tone>
+				<partial_tone id="𥷂聲">𥷂聲</partial_tone>
+				<partial_tone id="葢聲">葢聲</partial_tone>
+				<partial_tone id="繼聲">繼聲</partial_tone>
+				<partial_tone id="會聲">會聲</partial_tone>
+				<partial_tone id="巜聲">巜聲</partial_tone>
+				<partial_tone id="𣏂聲">𣏂聲</partial_tone>
+				<partial_tone id="殺聲">殺聲</partial_tone>
+				<partial_tone id="介聲">介聲</partial_tone>
+				<partial_tone id="甶聲">甶聲</partial_tone>
+				<partial_tone id="𢍉聲">𢍉<!--⿱甶丌-->聲<note>从丌。</note></partial_tone>
+				<partial_tone id="苜聲">苜聲</partial_tone>
+				<partial_tone id="剌聲">剌聲<note>與十六部刺別。</note></partial_tone>
+				<partial_tone id="賴聲">賴聲</partial_tone>
+				<partial_tone id="骨聲">骨聲</partial_tone>
+				<partial_tone id="云聲">云聲</partial_tone>
+				<partial_tone id="突聲">突聲</partial_tone>
+				<partial_tone id="𠃉聲">𠃉聲<note>與十二部乙別。</note></partial_tone>
+				<partial_tone id="曰聲">曰聲<note>與十二部日別。</note></partial_tone>
+				<partial_tone id="軌聲">軌<!--⿰車𠃉-->聲</partial_tone>
+				<partial_tone id="曶聲">曶聲</partial_tone>
+				<partial_tone id="𣥠聲">𣥠聲</partial_tone>
+				<partial_tone id="㓹聲">㓹聲<note>籒文銳。</note></partial_tone>
+				<partial_tone id="罽聲">罽聲</partial_tone>
+				<partial_tone id="𩰪聲">𩰪聲</partial_tone>
+				<partial_tone id="㣇聲">㣇聲</partial_tone>
+				<partial_tone id="毳聲">毳聲</partial_tone>
+				<partial_tone id="歺聲">歺聲</partial_tone>
+				<partial_tone id="𢴷聲">𢴷聲</partial_tone>
 				<explanation>右諧聲偏旁見於今韵他部內者、皆從弟十五部轉入。</explanation>
 			</tone_part>
 			<tone_part>
-				<partname>弟十六部<note>陸韵平聲支佳、上聲紙蟹、厺聲寘卦、入聲陌麥㫺錫。</note></partname>
-				<partial_tone>支聲</partial_tone>
-				<partial_tone>巂聲</partial_tone>
-				<partial_tone>知聲</partial_tone>
-				<partial_tone>是聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
-				<partial_tone>斯聲</partial_tone>
-				<partial_tone>乁聲</partial_tone>
-				<partial_tone>氏聲</partial_tone>
-				<partial_tone>祇聲</partial_tone>
-				<partial_tone>疧聲</partial_tone>
-				<partial_tone>𠂆聲</partial_tone>
-				<partial_tone>虒聲</partial_tone>
-				<partial_tone>圭聲</partial_tone>
-				<partial_tone>佳聲</partial_tone>
-				<partial_tone>巵聲</partial_tone>
-				<partial_tone>奚聲</partial_tone>
-				<partial_tone>兒聲</partial_tone>
-				<partial_tone>規聲</partial_tone>
-				<partial_tone>鳺聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
-				<partial_tone>彖聲<note>與十四部彖別。</note></partial_tone>
-				<partial_tone>蠡聲<note>从彖非。</note></partial_tone>
-				<partial_tone>厽聲</partial_tone>
-				<partial_tone>絫聲</partial_tone>
-				<partial_tone>匚聲<note>與十部匸別。</note></partial_tone>
-				<partial_tone>豸聲</partial_tone>
-				<partial_tone>麗聲</partial_tone>
-				<partial_tone>危聲</partial_tone>
-				<partial_tone>兮聲</partial_tone>
-				<partial_tone>只聲</partial_tone>
-				<partial_tone>𢊁聲</partial_tone>
-				<partial_tone>益聲</partial_tone>
-				<partial_tone>蠲聲</partial_tone>
-				<partial_tone>帝聲</partial_tone>
-				<partial_tone>啻聲<note>隸作啇。與十部商別。</note></partial_tone>
-				<partial_tone>適聲</partial_tone>
-				<partial_tone>易聲</partial_tone>
-				<partial_tone>析聲</partial_tone>
-				<partial_tone>晳聲</partial_tone>
-				<partial_tone>朿聲<note>與三部束別</note></partial_tone>
-				<partial_tone>策聲</partial_tone>
-				<partial_tone>𨒪聲<note>籒文迹。</note></partial_tone>
-				<partial_tone>？聲<note>隸作責。</note></partial_tone>
-				<partial_tone>刺聲</partial_tone>
-				<partial_tone>辟聲</partial_tone>
-				<partial_tone>鬲聲</partial_tone>
-				<partial_tone>𩰲聲</partial_tone>
-				<partial_tone>鷊聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
-				<partial_tone>狊聲<note>與三部臭別。</note></partial_tone>
-				<partial_tone>鶪聲</partial_tone>
-				<partial_tone>解聲</partial_tone>
-				<partial_tone>厄聲</partial_tone>
-				<partial_tone>戹聲</partial_tone>
-				<partial_tone>狄聲</partial_tone>
-				<partial_tone>迹聲</partial_tone>
-				<partial_tone>秝聲</partial_tone>
-				<partial_tone>厤聲</partial_tone>
-				<partial_tone>歷聲</partial_tone>
-				<partial_tone>役聲</partial_tone>
-				<partial_tone>鬩聲</partial_tone>
-				<partial_tone>畵聲</partial_tone>
-				<partial_tone>𠂢聲</partial_tone>
-				<partial_tone>派聲</partial_tone>
-				<partial_tone>𠕋聲</partial_tone>
-				<partial_tone>毄聲</partial_tone>
-				<partial_tone>繫聲</partial_tone>
-				<partial_tone>糸聲</partial_tone>
-				<partial_tone>繠聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partname href="#part16">弟十六部<note>陸韵平聲支佳、上聲紙蟹、厺聲寘卦、入聲陌麥㫺錫。</note></partname>
+				<partial_tone id="支聲">支聲</partial_tone>
+				<partial_tone id="巂聲">巂聲</partial_tone>
+				<partial_tone id="知聲">知聲</partial_tone>
+				<partial_tone id="是聲">是聲</partial_tone>
+				<partial_tone id="𣉻聲">𣉻<!--⿱𥎿白-->聲</partial_tone><!--alt:𥏼聲-->
+				<partial_tone id="𤰞聲">𤰞聲</partial_tone><!--alt:卑聲-->
+				<partial_tone id="斯聲">斯聲</partial_tone>
+				<partial_tone id="乁聲">乁聲</partial_tone>
+				<partial_tone id="氏聲">氏聲</partial_tone>
+				<partial_tone id="祇聲">祇聲</partial_tone>
+				<partial_tone id="疧聲">疧聲</partial_tone>
+				<partial_tone id="𠂆聲">𠂆聲</partial_tone>
+				<partial_tone id="虒聲">虒聲</partial_tone>
+				<partial_tone id="圭聲">圭聲</partial_tone>
+				<partial_tone id="佳聲">佳聲</partial_tone>
+				<partial_tone id="巵聲">巵聲</partial_tone>
+				<partial_tone id="奚聲">奚聲</partial_tone>
+				<partial_tone id="兒聲">兒聲</partial_tone>
+				<partial_tone id="規聲">規聲</partial_tone>
+				<partial_tone id="鳺聲">鳺聲</partial_tone>
+				<partial_tone id="𨑭聲">𨑭<!--⿰辵止-->聲</partial_tone><!--alt:徙聲-->
+				<partial_tone id="彖聲">彖聲<note>與十四部彖別。</note></partial_tone>
+				<partial_tone id="蠡聲">蠡聲<note>从彖非。</note></partial_tone>
+				<partial_tone id="厽聲">厽聲</partial_tone>
+				<partial_tone id="絫聲">絫聲</partial_tone>
+				<partial_tone id="匚聲">匚聲<note>與十部匸別。</note></partial_tone>
+				<partial_tone id="豸聲">豸聲</partial_tone>
+				<partial_tone id="麗聲">麗聲</partial_tone>
+				<partial_tone id="危聲">危聲</partial_tone>
+				<partial_tone id="兮聲">兮聲</partial_tone>
+				<partial_tone id="只聲">只聲</partial_tone>
+				<partial_tone id="𢊁聲">𢊁聲</partial_tone>
+				<partial_tone id="益聲">益聲</partial_tone>
+				<partial_tone id="蠲聲">蠲聲</partial_tone>
+				<partial_tone id="帝聲">帝聲</partial_tone>
+				<partial_tone id="啻聲">啻聲<note>隸作啇。與十部商別。</note></partial_tone>
+				<partial_tone id="適聲">適聲</partial_tone>
+				<partial_tone id="易聲">易聲</partial_tone>
+				<partial_tone id="析聲">析聲</partial_tone>
+				<partial_tone id="晳聲">晳聲</partial_tone>
+				<partial_tone id="朿聲">朿聲<note>與三部束別</note></partial_tone>
+				<partial_tone id="策聲">策聲</partial_tone>
+				<partial_tone id="𨒪聲">𨒪聲<note>籒文迹。</note></partial_tone>
+				<partial_tone id="𧵩聲">𧵩聲<note>隸作責。</note></partial_tone>
+				<partial_tone id="刺聲">刺聲</partial_tone>
+				<partial_tone id="辟聲">辟聲</partial_tone>
+				<partial_tone id="鬲聲">鬲聲</partial_tone>
+				<partial_tone id="𩰲聲">𩰲聲</partial_tone>
+				<partial_tone id="鷊聲">鷊聲</partial_tone>
+				<partial_tone id="𦟝聲">𦟝聲</partial_tone><!--alt:脊聲-->
+				<partial_tone id="狊聲">狊聲<note>與三部臭別。</note></partial_tone>
+				<partial_tone id="鶪聲">鶪聲</partial_tone>
+				<partial_tone id="解聲">解聲</partial_tone>
+				<partial_tone id="厄聲">厄聲</partial_tone>
+				<partial_tone id="戹聲">戹聲</partial_tone>
+				<partial_tone id="狄聲">狄聲</partial_tone>
+				<partial_tone id="迹聲">迹聲</partial_tone>
+				<partial_tone id="秝聲">秝聲</partial_tone>
+				<partial_tone id="厤聲">厤聲</partial_tone>
+				<partial_tone id="歷聲">歷聲</partial_tone>
+				<partial_tone id="役聲">役聲</partial_tone>
+				<partial_tone id="鬩聲">鬩聲</partial_tone>
+				<partial_tone id="畵聲">畵聲</partial_tone>
+				<partial_tone id="𠂢聲">𠂢聲</partial_tone>
+				<partial_tone id="派聲">派聲</partial_tone>
+				<partial_tone id="𠕋聲">𠕋聲</partial_tone>
+				<partial_tone id="毄聲">毄聲</partial_tone>
+				<partial_tone id="繫聲">繫聲</partial_tone>
+				<partial_tone id="糸聲">糸聲</partial_tone>
+				<partial_tone id="繠聲">繠聲</partial_tone>
+				<partial_tone id="𧵽聲">𧵽聲</partial_tone><!--alt:買聲-->
 				<explanation>右諧聲偏旁見於今韵他部內者、皆從弟十六部轉入。</explanation>
 			</tone_part>
 			<tone_part>
-				<partname>弟十七部<note>陸韵平聲歌戈麻、上聲哿果馬、厺聲箇過禡。</note></partname>
-				<partial_tone>它聲</partial_tone>
-				<partial_tone>沱聲</partial_tone>
-				<partial_tone>佗聲</partial_tone>
-				<partial_tone>冎聲</partial_tone>
-				<partial_tone>咼聲</partial_tone>
-				<partial_tone>過聲</partial_tone>
-				<partial_tone>哥聲</partial_tone>
-				<partial_tone>爲聲</partial_tone>
-				<partial_tone>皮聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
-				<partial_tone>可聲</partial_tone>
-				<partial_tone>何聲</partial_tone>
-				<partial_tone>离聲</partial_tone>
-				<partial_tone>離聲</partial_tone>
-				<partial_tone>也聲</partial_tone>
-				<partial_tone>地聲</partial_tone>
-				<partial_tone>施聲</partial_tone>
-				<partial_tone>迆聲</partial_tone>
-				<partial_tone>義聲</partial_tone>
-				<partial_tone>儀聲</partial_tone>
-				<partial_tone>羲聲</partial_tone>
-				<partial_tone>加聲</partial_tone>
-				<partial_tone>嘉聲</partial_tone>
-				<partial_tone>多聲</partial_tone>
-				<partial_tone>宐聲</partial_tone>
-				<partial_tone>奇聲</partial_tone>
-				<partial_tone>猗聲</partial_tone>
-				<partial_tone>𢀩聲</partial_tone>
-				<partial_tone>麻聲</partial_tone>
-				<partial_tone>靡聲</partial_tone>
-				<partial_tone>我聲</partial_tone>
-				<partial_tone>羅聲</partial_tone>
-				<partial_tone>罹聲</partial_tone>
-				<partial_tone>詈聲</partial_tone>
-				<partial_tone>罷聲</partial_tone>
-				<partial_tone>羆聲</partial_tone>
-				<partial_tone>𠂹聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
-				<partial_tone>𠤎聲<note>與十五部匕別。</note></partial_tone>
-				<partial_tone>化聲</partial_tone>
-				<partial_tone>吹聲</partial_tone>
-				<partial_tone>𠂇聲</partial_tone>
-				<partial_tone>左聲</partial_tone>
-				<partial_tone>沙聲</partial_tone>
-				<partial_tone>瓦聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
-				<partial_tone>隋聲</partial_tone>
-				<partial_tone>𡐦聲</partial_tone>
-				<partial_tone>䢫聲</partial_tone>
-				<partial_tone>坐聲</partial_tone>
-				<partial_tone>禾聲</partial_tone>
-				<partial_tone>和聲</partial_tone>
-				<partial_tone>龢聲</partial_tone>
-				<partial_tone>果聲</partial_tone>
-				<partial_tone>祼聲</partial_tone>
-				<partial_tone>朵聲</partial_tone>
-				<partial_tone>萑聲</partial_tone>
-				<partial_tone>𧴪聲</partial_tone>
-				<partial_tone>瑣聲</partial_tone>
-				<partial_tone>惢聲</partial_tone>
-				<partial_tone>臥聲</partial_tone>
-				<partial_tone>戈聲</partial_tone>
-				<partial_tone>？聲</partial_tone>
-				<partial_tone>㐄聲</partial_tone>
-				<partial_tone>𩰫聲<note>？同。</note></partial_tone>
+				<partname href="#part17">弟十七部<note>陸韵平聲歌戈麻、上聲哿果馬、厺聲箇過禡。</note></partname>
+				<partial_tone id="它聲">它聲</partial_tone>
+				<partial_tone id="沱聲">沱聲</partial_tone>
+				<partial_tone id="佗聲">佗聲</partial_tone>
+				<partial_tone id="冎聲">冎聲</partial_tone>
+				<partial_tone id="咼聲">咼聲</partial_tone>
+				<partial_tone id="過聲">過聲</partial_tone>
+				<partial_tone id="哥聲">哥聲</partial_tone>
+				<partial_tone id="爲聲">爲聲</partial_tone>
+				<partial_tone id="皮聲">皮聲</partial_tone>
+				<partial_tone id="𠀀聲">𠀀聲</partial_tone>
+				<partial_tone id="可聲">可聲</partial_tone>
+				<partial_tone id="何聲">何聲</partial_tone>
+				<partial_tone id="离聲">离聲</partial_tone>
+				<partial_tone id="離聲">離聲</partial_tone>
+				<partial_tone id="也聲">也聲</partial_tone>
+				<partial_tone id="地聲">地聲</partial_tone>
+				<partial_tone id="施聲">施聲</partial_tone>
+				<partial_tone id="迆聲">迆聲</partial_tone>
+				<partial_tone id="義聲">義聲</partial_tone>
+				<partial_tone id="儀聲">儀聲</partial_tone>
+				<partial_tone id="羲聲">羲聲</partial_tone>
+				<partial_tone id="加聲">加聲</partial_tone>
+				<partial_tone id="嘉聲">嘉聲</partial_tone>
+				<partial_tone id="多聲">多聲</partial_tone>
+				<partial_tone id="宐聲">宐聲</partial_tone>
+				<partial_tone id="奇聲">奇聲</partial_tone>
+				<partial_tone id="猗聲">猗聲</partial_tone>
+				<partial_tone id="𢀩聲">𢀩聲</partial_tone>
+				<partial_tone id="麻聲">麻聲</partial_tone>
+				<partial_tone id="靡聲">靡聲</partial_tone>
+				<partial_tone id="我聲">我聲</partial_tone>
+				<partial_tone id="羅聲">羅聲</partial_tone>
+				<partial_tone id="罹聲">罹聲</partial_tone>
+				<partial_tone id="詈聲">詈聲</partial_tone>
+				<partial_tone id="罷聲">罷聲</partial_tone>
+				<partial_tone id="羆聲">羆聲</partial_tone>
+				<partial_tone id="𠂹聲">𠂹聲</partial_tone>
+				<partial_tone id="𡍮聲">𡍮聲</partial_tone><!--alt:垂聲-->
+				<partial_tone id="𠤎聲">𠤎聲<note>與十五部匕別。</note></partial_tone>
+				<partial_tone id="化聲">化聲</partial_tone>
+				<partial_tone id="吹聲">吹聲</partial_tone>
+				<partial_tone id="𠂇聲">𠂇聲</partial_tone>
+				<partial_tone id="左聲">左聲</partial_tone>
+				<partial_tone id="沙聲">沙聲</partial_tone>
+				<partial_tone id="瓦聲">瓦聲</partial_tone>
+				<partial_tone id="隓聲">隓<!--⿰𨸏𢀡-->聲</partial_tone>
+				<partial_tone id="隋聲">隋聲</partial_tone>
+				<partial_tone id="𡐦聲">𡐦聲</partial_tone>
+				<partial_tone id="䢫聲">䢫聲</partial_tone>
+				<partial_tone id="坐聲">坐聲</partial_tone>
+				<partial_tone id="禾聲">禾聲</partial_tone>
+				<partial_tone id="和聲">和聲</partial_tone>
+				<partial_tone id="龢聲">龢聲</partial_tone>
+				<partial_tone id="果聲">果聲</partial_tone>
+				<partial_tone id="祼聲">祼聲</partial_tone>
+				<partial_tone id="朵聲">朵聲</partial_tone>
+				<partial_tone id="萑聲">萑聲</partial_tone>
+				<partial_tone id="𧴪聲">𧴪聲</partial_tone>
+				<partial_tone id="瑣聲">瑣聲</partial_tone>
+				<partial_tone id="惢聲">惢聲</partial_tone>
+				<partial_tone id="臥聲">臥聲</partial_tone>
+				<partial_tone id="戈聲">戈聲</partial_tone>
+				<partial_tone id="𦟀聲">𦟀聲</partial_tone>
+				<partial_tone id="㐄聲">㐄聲</partial_tone>
+				<partial_tone id="𩰫聲">𩰫聲<note>𩰬同。</note></partial_tone><!--alt:𩰬聲-->
 			</tone_part>
 		</tone_parts>
 		<content>右諧聲偏旁見於今韵他部內者、皆從弟十七部轉入。右十七部諧聲。凡不可知者及疑似不明者、缺之。不以會意淆。不以漢後音韵惑。溯洄沿流。什得其八九矣。</content>
@@ -2158,7 +2158,7 @@
 		<prevue>十七部之分、於詩經及羣經導其源派也。諦觀毛詩用韵。弟一部弟十五部弟十六部之分、弟二弟三弟四弟五部之分、弟十二弟十三弟十四部之分以及入聲之分配皆顯然不辨而自明。孟子曰博學而詳說之。將以反說約也。宋蘇氏之言曰。參伍䥘綜。八面受敵沛然應之。而莫禦焉。顧氏詩本音、江氏古韵標準雖以三百篇爲據依。未取三百篇之文部分而彙譜之也。玉裁紬繹有年。依其類爲之表因其自然。無所矯拂。俾學者讀之。知周秦韵與今韵異。凡與今韵異部者、古本音也。其於古本音有齟齬不合者、古合韵也。本音之謹嚴、如唐宋人守官韵。合韵之通變、如唐宋詩用通韵。不以本音蔑合韵。不以合韵惑本音。三代之韵昭昭矣。凡本音、鑯其字之旁以識之、。凡合韵、規其字之外以識之○。</prevue>
 		<parts>
 			<part>
-				<partname>弟一部<note>陸韵平聲之咍、上聲止海、厺聲志代、入聲職德。</note></partname>
+				<partname href="#part1">弟一部<note>陸韵平聲之咍、上聲止海、厺聲志代、入聲職德。</note></partname>
 				<verses>
 					<verse>絲治<origin_tune>訧</origin_tune><note>邶緑衣三章。</note></verse>
 					<verse><origin_tune>霾</origin_tune>來來思<note>終風二章。</note></verse>
@@ -2526,7 +2526,7 @@
 				</rhyme>
 			</part>
 			<part>
-				<partname>弟二部<note>陸韵平聲蕭宵肴豪、上聲篠小巧晧、厺聲嘯笑效号。</note></partname>
+				<partname href="#part2">弟二部<note>陸韵平聲蕭宵肴豪、上聲篠小巧晧、厺聲嘯笑效号。</note></partname>
 				<verses>
 					<verse>芼<origin_tune>樂</origin_tune><note>周南關雎五章。</note></verse>
 					<verse>藻潦<note>召南采蘋一章。</note></verse>
@@ -2648,7 +2648,7 @@
 				</rhyme>
 			</part>
 			<part>
-				<partname>弟三部<note>陸韵平聲尤幽、上聲有黝、厺聲宥幼、入聲屋沃燭覺。</note></partname>
+				<partname href="#part3">弟三部<note>陸韵平聲尤幽、上聲有黝、厺聲宥幼、入聲屋沃燭覺。</note></partname>
 				<verses>
 					<verse>鳩洲逑<note>周南關雎一章。</note></verse>
 					<verse>流求<note>二章。</note></verse>
@@ -2939,7 +2939,7 @@
 				</rhyme>
 			</part>
 			<part>
-				<partname>弟四部<note>陸韵平聲矦、上聲厚、厺聲𠊱。</note></partname>
+				<partname href="#part4">弟四部<note>陸韵平聲矦、上聲厚、厺聲𠊱。</note></partname>
 				<verses>
 					<verse><origin_tune>蔞駒</origin_tune><note>周南漢廣三章。</note></verse>
 					<verse><origin_tune>姝隅躕</origin_tune><note>邶靜女一章。</note></verse>
@@ -3042,7 +3042,7 @@
 				</rhyme>
 			</part>
 			<part>
-				<partname>弟五部<note>陸韵平聲魚虞模、上聲語麌姥、厺聲遇御暮、入聲藥鐸。</note></partname>
+				<partname href="#part5">弟五部<note>陸韵平聲魚虞模、上聲語麌姥、厺聲遇御暮、入聲藥鐸。</note></partname>
 				<verses>
 					<verse>砠瘏痡盱<note>周南卷耳四章。</note></verse>
 					<verse><origin_tune>蕐家</origin_tune><note>桃夭一章。</note></verse>
@@ -3379,7 +3379,7 @@
 				</rhyme>
 			</part>
 			<part>
-				<partname>弟六部<note>陸韵平聲蒸登、上聲拯等、厺聲證嶝。</note></partname>
+				<partname href="#part6">弟六部<note>陸韵平聲蒸登、上聲拯等、厺聲證嶝。</note></partname>
 				<verses>
 					<verse>薨繩<note>周南螽斯二章。</note></verse>
 					<verse>掤<origin_tune>弓</origin_tune><note>鄭大叔于田三章。</note></verse>
@@ -3427,7 +3427,7 @@
 				</rhyme>
 			</part>
 			<part>
-				<partname>弟七部<note>陸韵平聲侵鹽添、上聲寢琰忝、厺聲沁豓㮇、入聲緝葉怗。</note></partname>
+				<partname href="#part7">弟七部<note>陸韵平聲侵鹽添、上聲寢琰忝、厺聲沁豓㮇、入聲緝葉怗。</note></partname>
 				<verses>
 					<verse><origin_tune>覃覃</origin_tune><note>周南葛覃一、二章。</note></verse>
 					<verse>林心<note>兔𦊨三章。</note></verse>
@@ -3506,7 +3506,7 @@
 				</rhyme>
 			</part>
 			<part>
-				<partname>弟八部<note>陸韵平聲覃談咸銜嚴凡、上聲感敢豏檻儼范、厺聲勘闞陷鑑釅梵、入聲合盇泠狎業乏。</note></partname>
+				<partname href="#part8">弟八部<note>陸韵平聲覃談咸銜嚴凡、上聲感敢豏檻儼范、厺聲勘闞陷鑑釅梵、入聲合盇泠狎業乏。</note></partname>
 				<verses>
 					<verse>檻菼敢<note>王大車一章。</note></verse>
 					<verse>萏儼<origin_tune>枕</origin_tune><note>陳澤陂三章。</note></verse>
@@ -3546,7 +3546,7 @@
 			</rhyme>
 			</part>
 			<part>
-				<partname>弟九部<note>陸韵平聲東冬鍾江、上聲董腫講、厺聲送宋用絳。</note></partname>
+				<partname href="#part9">弟九部<note>陸韵平聲東冬鍾江、上聲董腫講、厺聲送宋用絳。</note></partname>
 				<verses>
 					<verse>中宮<note>召南采蘩二章。</note></verse>
 					<verse>僮公<note>三章。</note></verse>
@@ -3648,7 +3648,7 @@
 				</rhyme>
 			</part>
 			<part>
-				<partname>弟十部<note>陸韵平聲陽唐、上聲養蕩、厺聲漾宕。</note></partname>
+				<partname href="#part10">弟十部<note>陸韵平聲陽唐、上聲養蕩、厺聲漾宕。</note></partname>
 				<verses>
 					<verse>筐<origin_tune>行</origin_tune><note>周南卷耳一章。</note></verse>
 					<verse>岡黄<origin_tune>觥</origin_tune>傷<note>三章。</note></verse>
@@ -3860,7 +3860,7 @@
 				</rhyme>
 			</part>
 			<part>
-				<partname>弟十一部<note>陸韵平聲庚耕淸靑、上聲？耿靜迥、厺聲映諍勁徑。</note></partname>
+				<partname href="#part11">弟十一部<note>陸韵平聲庚耕淸靑、上聲？耿靜迥、厺聲映諍勁徑。</note></partname>
 				<verses>
 					<verse>縈成<note>周南樛木一章。</note></verse>
 					<verse>丁城<note>兔𦊨一章。</note></verse>
@@ -4126,7 +4126,7 @@
 				</rhyme>
 			</part>
 			<part>
-				<partname>弟十三部<note>陸韵平聲？文欣魂痕、上聲準吻隱混很、厺聲？問焮慁恨。</note></partname>
+				<partname href="#part13">弟十三部<note>陸韵平聲？文欣魂痕、上聲準吻隱混很、厺聲？問焮慁恨。</note></partname>
 				<verses>
 					<verse><origin_tune>詵</origin_tune>孫<origin_tune>振</origin_tune><note>周南螽斯一章。</note></verse>
 					<verse><origin_tune>麕</origin_tune>春<note>召南野有死麕一章。</note></verse>
@@ -4219,7 +4219,7 @@
 				</rhyme>
 			</part>
 			<part>
-				<partname>弟十四部<note>陸韵平聲元寒桓刪山仙、上聲阮旱緩澘產獮、厺聲願翰換諫襉線。</note></partname>
+				<partname href="#part14">弟十四部<note>陸韵平聲元寒桓刪山仙、上聲阮旱緩澘產獮、厺聲願翰換諫襉線。</note></partname>
 				<verses>
 					<verse>轉卷選<note>邶柏舟三章。</note></verse>
 					<verse>雁旦泮<note>匏有苦葉三章。</note></verse>
@@ -4342,7 +4342,7 @@
 				</rhyme>
 			</part>
 			<part>
-				<partname>弟十五部<note>陸韵平聲脂微齊皆灰、上聲旨尾薺駭賄、厺聲至未霽祭泰怪夬隊廢、入聲術物迄月𣳚曷末黠鎋薛。</note></partname>
+				<partname href="#part15">弟十五部<note>陸韵平聲脂微齊皆灰、上聲旨尾薺駭賄、厺聲至未霽祭泰怪夬隊廢、入聲術物迄月𣳚曷末黠鎋薛。</note></partname>
 				<verses>
 					<verse>萋飛喈<note>周南葛覃一章。</note></verse>
 					<verse>歸私衣<note>三章。</note></verse>
@@ -4626,7 +4626,7 @@
 				</rhyme>
 			</part>
 			<part>
-				<partname>弟十六部<note>陸韵平聲支佳、上聲紙蟹、厺聲寘卦、入聲陌麥㫺錫。</note></partname>
+				<partname href="#part16">弟十六部<note>陸韵平聲支佳、上聲紙蟹、厺聲寘卦、入聲陌麥㫺錫。</note></partname>
 				<verses>
 					<verse>支<origin_tune>觿觿</origin_tune>知<note>衞芃蘭一章。</note></verse>
 					<verse>斯知<note>陳墓門一章。</note></verse>
@@ -4691,7 +4691,7 @@
 				</rhyme>
 			</part>
 			<part>
-				<partname>弟十七部<note>陸韵平聲歌戈麻、上聲哿果馬、厺聲箇過禡。</note></partname>
+				<partname href="#part17">弟十七部<note>陸韵平聲歌戈麻、上聲哿果馬、厺聲箇過禡。</note></partname>
 				<verses>
 					<verse><origin_tune>皮</origin_tune>紽<origin_tune>蛇</origin_tune><note>召南羔一章。</note></verse>
 					<verse>沱過過歌<note>江有氾三章。</note></verse>
@@ -4819,7 +4819,7 @@
 		<tabletitle>羣經韵分十七部表　　　　六書音均表五</tabletitle>
 		<parts>
 			<part>
-				<partname>弟一部<note>陸韵平聲之咍、上聲止海、厺聲志代、入聲職德。</note></partname>
+				<partname href="#part1">弟一部<note>陸韵平聲之咍、上聲止海、厺聲志代、入聲職德。</note></partname>
 				<verses>
 					<verse>災<origin_tune>牛</origin_tune>災<note>周易上經无妄六三。</note></verse>
 					<verse><origin_tune>龜</origin_tune>頤<note>頤初九。</note></verse>
@@ -5051,7 +5051,7 @@
 				</verses>
 			</part>
 			<part>
-				<partname>弟二部<note>陸韵平聲蕭宵？豪、上聲篠小巧晧、厺聲嘯笑效号。</note></partname>
+				<partname href="#part2">弟二部<note>陸韵平聲蕭宵？豪、上聲篠小巧晧、厺聲嘯笑效号。</note></partname>
 				<verses>
 					<verse>咷𥬇<note>周易上經同人九五。</note></verse>
 					<verse>號𥬇<note>下經萃初六。</note></verse>
@@ -5074,7 +5074,7 @@
 				</verses>
 			</part>
 			<part>
-				<partname>弟三部<note>陸韵平聲尤幽、上聲有黝、厺聲宥幼、入聲屋沃燭覺。</note></partname>
+				<partname href="#part3">弟三部<note>陸韵平聲尤幽、上聲有黝、厺聲宥幼、入聲屋沃燭覺。</note></partname>
 				<verses>
 					<verse>柔憂求<note>周易襍卦傳。</note></verse>
 					<verse>柔憂<note>同上。</note></verse>
@@ -5190,7 +5190,7 @@
 				</verses>
 			</part>
 			<part>
-				<partname>弟四部<note>陸韵平聲矦、上聲厚、厺聲𠊱。</note></partname>
+				<partname href="#part4">弟四部<note>陸韵平聲矦、上聲厚、厺聲𠊱。</note></partname>
 				<verses>
 					<verse><origin_tune>須濡</origin_tune><note>周易上經賁六二、九三。</note></verse>
 					<sectsign>○</sectsign>
@@ -5228,7 +5228,7 @@
 				</verses>
 			</part>
 			<part>
-				<partname>弟五部<note>陸韵平聲魚虞模、上聲語麌姥、厺聲御遇暮、入聲藥鐸。</note></partname>
+				<partname href="#part5">弟五部<note>陸韵平聲魚虞模、上聲語麌姥、厺聲御遇暮、入聲藥鐸。</note></partname>
 				<verses>
 					<verse>輿廬<note>周易上經剥上九。</note></verse>
 					<verse>穫畬<note>无妄六二。</note></verse>
@@ -5430,7 +5430,7 @@
 				</verses>
 			</part>
 			<part>
-				<partname>弟六部<note>陸韵平聲烝登、上聲拯等、厺聲證嶝。</note></partname>
+				<partname href="#part6">弟六部<note>陸韵平聲烝登、上聲拯等、厺聲證嶝。</note></partname>
 				<verses>
 					<verse>陵興<note>周易上經同人九三。</note></verse>
 					<verse>陵孕勝<note>下經漸九五。</note></verse>
@@ -5458,7 +5458,7 @@
 				</verses>
 			</part>
 			<part>
-				<partname>弟七部<note>陸韵平聲侵鹽添、上聲𥨊琰忝、厺聲沁豓㮇、入聲緝葉怗。</note></partname>
+				<partname href="#part7">弟七部<note>陸韵平聲侵鹽添、上聲𥨊琰忝、厺聲沁豓㮇、入聲緝葉怗。</note></partname>
 				<verses>
 					<verse>心金<note>周易繫辭上傳二人同心二句。</note></verse>
 					<sectsign>○</sectsign>
@@ -5479,7 +5479,7 @@
 				</verses>
 			</part>
 			<part>
-				<partname>弟八部<note>陸韵平聲覃談咸銜嚴凡、上聲感敢豏檻儼范、厺聲勘闞陷鑑釅梵入聲合盇洽狎業乏。</note></partname>
+				<partname href="#part8">弟八部<note>陸韵平聲覃談咸銜嚴凡、上聲感敢豏檻儼范、厺聲勘闞陷鑑釅梵入聲合盇洽狎業乏。</note></partname>
 				<verses>
 					<verse>坎窞<note>周易上經坎初六。</note></verse>
 					<verse>坎<origin_tune>枕</origin_tune>窞<note>六三。</note></verse>
@@ -5496,7 +5496,7 @@
 				</verses>
 			</part>
 			<part>
-				<partname>弟九部<note>陸韵平聲東冬鍾江、上聲董腫講、厺聲送宋用絳。</note></partname>
+				<partname href="#part9">弟九部<note>陸韵平聲東冬鍾江、上聲董腫講、厺聲送宋用絳。</note></partname>
 				<verses>
 					<verse>龍用<note>周易上經乾初九。</note></verse>
 					<verse>墉攻<note>同人九四。</note></verse>
@@ -5575,7 +5575,7 @@
 				</verses>
 			</part>
 			<part>
-				<partname>弟十部<note>陸韵平聲陽唐、上聲養蕩、厺聲漾宕。</note></partname>
+				<partname href="#part10">弟十部<note>陸韵平聲陽唐、上聲養蕩、厺聲漾宕。</note></partname>
 				<verses>
 					<verse>囊裳黃<note>周易上經坤六四、六五、上六。</note></verse>
 					<verse>荒亡<origin_tune>行</origin_tune><note>泰九二。</note></verse>
@@ -5755,7 +5755,7 @@
 				</verses>
 			</part>
 			<part>
-				<partname>弟十一部<note>陸韵平聲庚耕淸靑、上聲梗耿靜迥、厺聲映諍勁徑。</note></partname>
+				<partname href="#part11">弟十一部<note>陸韵平聲庚耕淸靑、上聲梗耿靜迥、厺聲映諍勁徑。</note></partname>
 				<verses>
 					<verse>盈<origin_tune>平</origin_tune><note>周易上經坎九五。</note></verse>
 					<verse>井井井井甁<note>下經井。</note></verse>
@@ -5904,7 +5904,7 @@
 				</verses>
 			</part>
 			<part>
-				<partname>弟十三部<note>陸韵平聲？文欣魂痕、上聲準吻隱混狠、厺聲？問焮慁恨。</note></partname>
+				<partname href="#part13">弟十三部<note>陸韵平聲？文欣魂痕、上聲準吻隱混狠、厺聲？問焮慁恨。</note></partname>
 				<verses>
 					<verse>文文<note>周易彖上傳賁。</note></verse>
 					<verse>君羣<note>象上傳否。</note></verse>
@@ -5945,7 +5945,7 @@
 				</verses>
 			</part>
 			<part>
-				<partname>弟十四部<note>陸韵平聲元？桓刪山仙、上聲阮旱緩潸產獮、厺聲願翰換諫襉線。</note></partname>
+				<partname href="#part14">弟十四部<note>陸韵平聲元？桓刪山仙、上聲阮旱緩潸產獮、厺聲願翰換諫襉線。</note></partname>
 				<verses>
 					<verse>邅班<note>周易上經屯六二。</note></verse>
 					<verse>班漣<note>上六。</note></verse>
@@ -6011,7 +6011,7 @@
 				</verses>
 			</part>
 			<part>
-				<partname>弟十五部<note>陸韵平聲脂微齊皆灰、上聲旨尾薺駭賄、厺聲至未霽祭泰怪夬隊廢、入聲術物迄月𣳚曷末黠鎋？。</note></partname>
+				<partname href="#part15">弟十五部<note>陸韵平聲脂微齊皆灰、上聲旨尾薺駭賄、厺聲至未霽祭泰怪夬隊廢、入聲術物迄月𣳚曷末黠鎋？。</note></partname>
 				<verses>
 					<verse>師尸<note>周易上經師六五。</note></verse>
 					<verse>係維<note>隨上六。</note></verse>
@@ -6134,7 +6134,7 @@
 				</verses>
 			</part>
 			<part>
-				<partname>弟十六部<note>陸韵平聲支佳、上聲紙蟹、厺聲窴卦、入聲陌麥㫺錫。</note></partname>
+				<partname href="#part16">弟十六部<note>陸韵平聲支佳、上聲紙蟹、厺聲窴卦、入聲陌麥㫺錫。</note></partname>
 				<verses>
 					<verse><synactic_tune>儀</synactic_tune>卦<note>易繫辭傳易有大極四句。</note></verse>
 					<sectsign>○</sectsign>
@@ -6163,7 +6163,7 @@
 				</verses>
 			</part>
 			<part>
-				<partname>弟十七部<note>陸韵平聲歌戈麻、上聲哿果馬、厺聲箇過禡。</note></partname>
+				<partname href="#part17">弟十七部<note>陸韵平聲歌戈麻、上聲哿果馬、厺聲箇過禡。</note></partname>
 				<verses>
 					<verse><origin_tune>離</origin_tune>歌？<note>周易上經離九三。</note></verse>
 					<verse>沱？<note>六五。</note></verse>

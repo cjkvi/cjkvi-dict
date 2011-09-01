@@ -20,7 +20,8 @@ catalogs = element catalogs {
   element author {text_note},
   element catalog {
     attribute href {text},
-    text }+,
+    text
+  }+,
   element word_num {text}
 }
 
@@ -40,7 +41,10 @@ seventeen_parts = element seventeen_parts {
     element partname {text},
     element fourtune {
       attribute tune {text},
-      element rhythmic_entry {text}+
+      element rhythmic_entry {
+        attribute href {text},
+        text
+      }+
     }+
   }+
 }
@@ -48,7 +52,10 @@ seventeen_parts = element seventeen_parts {
 tone_parts = element tone_parts {
   element tone_part {
     attribute id {xsd:ID}?,
-    element partname {text_note},
+    element partname {
+      attribute href {text},
+      text_note
+    },
     element partial_tone {text_note}+,
     element explanation {text}?
   }+
@@ -65,7 +72,10 @@ sorts = element sorts {
 parts = element parts {
   element part {
     attribute id {xsd:ID}?,
-    element partname {text_note},
+    element partname {
+      attribute href {text},
+      text_note
+    },
     element verses {
       (verse | sectsign)+, letter
     }+,

@@ -89,7 +89,10 @@
   </xsl:template>
 
   <xsl:template match="rhythmic_entry">
-    <p><xsl:apply-templates/></p>
+    <p><xsl:element name="a">
+      <xsl:attribute name="href"><xsl:value-of select="@href"/></xsl:attribute>
+      <xsl:apply-templates/>
+    </xsl:element></p>
   </xsl:template>
 
   <xsl:template match="midtitle">
@@ -116,7 +119,12 @@
   </xsl:template>
 
   <xsl:template match="tone_part/partname">
-    <tr><th colspan="4"><xsl:apply-templates/></th></tr>
+    <tr><th colspan="4">
+      <xsl:element name="a">
+        <xsl:attribute name="href"><xsl:value-of select="@href"/></xsl:attribute>
+        <xsl:apply-templates/>
+      </xsl:element>
+    </th></tr>
   </xsl:template>
 
   <xsl:template match="tone_part/explanation">
@@ -175,7 +183,12 @@
   </xsl:template>
 
   <xsl:template match="part/partname">
-    <h4><xsl:apply-templates/></h4>
+    <h4>
+      <xsl:element name="a">
+        <xsl:attribute name="href"><xsl:value-of select="@href"/></xsl:attribute>
+        <xsl:apply-templates/>
+      </xsl:element>
+    </h4>
   </xsl:template>
 
   <xsl:template match="verses">
@@ -199,11 +212,11 @@
   </xsl:template>
 
   <xsl:template match="rhyme">
-    <p><xsl:apply-templates/></p>
+    <hr/><p><xsl:apply-templates/></p>
   </xsl:template>
 
   <xsl:template match="rhymetitle">
-    <div style="border-style: solid"><xsl:apply-templates/></div>
+    <span style="border-style: solid; font-size: 120%;"><xsl:apply-templates/></span><br/>
   </xsl:template>
 
   <xsl:template match="word">
