@@ -51,12 +51,14 @@ seventeen_parts = element seventeen_parts {
 
 tone_parts = element tone_parts {
   element tone_part {
-    attribute id {xsd:ID}?,
     element partname {
       attribute href {text},
       text_note
     },
-    element partial_tone {text_note}+,
+    element partial_tone {
+      attribute id {xsd:ID}?,
+      text_note
+    }+,
     element explanation {text}?
   }+
 }

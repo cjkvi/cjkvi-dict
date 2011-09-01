@@ -1297,7 +1297,7 @@
 				<partial_tone id="象聲">象聲</partial_tone>
 				<partial_tone id="皿聲">皿聲</partial_tone>
 				<partial_tone id="孟聲">孟聲</partial_tone>
-				<partial_tone id="𠨐聲">𠨐聲</partial_tone><!--卬聲-->
+				<partial_tone id="𠨐聲">𠨐聲</partial_tone><!--alt:卬聲-->
 				<partial_tone id="慶聲">慶聲</partial_tone>
 				<partial_tone id="丙聲">丙聲</partial_tone>
 				<partial_tone id="㪅聲">㪅聲</partial_tone>
@@ -1363,13 +1363,13 @@
 				<partial_tone id="耿聲">耿聲</partial_tone>
 				<partial_tone id="冂聲">冂聲<note>古文作冋。</note></partial_tone>
 				<partial_tone id="𠕪聲">𠕪聲</partial_tone>
-				<partial_tone id="𡴘聲">𡴘聲<note>隸作幸。</note></partial_tone><!--幸聲-->
+				<partial_tone id="𡴘聲">𡴘聲<note>隸作幸。</note></partial_tone><!--alt:幸聲-->
 				<partial_tone id="晶聲">晶聲</partial_tone>
 				<partial_tone id="省聲">省聲</partial_tone>
 				<explanation>右諧聲偏旁見於今韵他部內者、皆從弟十一部轉入。</explanation>
 			</tone_part>
 			<tone_part>
-				<partname>弟十二部<note>陸韵平聲眞臻先、上聲軫銑、厺聲震䨷<!--⿱雨𢿱-->、入聲質櫛㞕。</note></partname>
+				<partname href="#part12">弟十二部<note>陸韵平聲眞臻先、上聲軫銑、厺聲震䨷<!--⿱雨𢿱-->、入聲質櫛㞕。</note></partname>
 				<partial_tone id="秦聲">秦聲</partial_tone>
 				<partial_tone id="卂聲">卂聲</partial_tone>
 				<partial_tone id="人聲">人聲</partial_tone>
@@ -3946,7 +3946,7 @@
 				</rhyme>
 			</part>
 			<part>
-				<partname>弟十二部<note>陸韵平聲眞臻先、上聲軫銑、厺聲震霰、入聲質櫛㞕。</note></partname>
+				<partname href="#part12">弟十二部<note>陸韵平聲眞臻先、上聲軫銑、厺聲震霰、入聲質櫛㞕。</note></partname>
 				<verses>
 					<verse>蓁人<note>周南桃夭三章。</note></verse>
 					<verse>？？？<note>？之趾一、二、三章。</note></verse>
@@ -5840,7 +5840,7 @@
 				</verses>
 			</part>
 			<part>
-				<partname>弟十二部<note>陸韵平聲眞臻先、上聲軫銑、厺聲震？、入聲質櫛㞕。</note></partname>
+				<partname href="#part12">弟十二部<note>陸韵平聲眞臻先、上聲軫銑、厺聲震？、入聲質櫛㞕。</note></partname>
 				<verses>
 					<verse>田人<note>周易上經乾九二。</note></verse>
 					<verse>淵天人<note>九四、九五。</note></verse>
