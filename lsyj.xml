@@ -756,13 +756,13 @@
 				<partial_tone id="考聲">考聲</partial_tone>
 				<partial_tone id="保聲">保聲</partial_tone>
 				<partial_tone id="𠍂聲">𠍂聲<note>古文保。</note></partial_tone>
-				<partial_tone>？聲</partial_tone>
+				<partial_tone id="簋聲">簋聲</partial_tone>
 				<partial_tone id="劉聲">劉聲</partial_tone>
 				<partial_tone id="肘聲">肘聲</partial_tone>
 				<partial_tone id="受聲">受聲</partial_tone>
 				<partial_tone id="棗聲">棗聲</partial_tone>
 				<partial_tone id="韭聲">韭聲</partial_tone>
-				<partial_tone>？聲<note>隸偏旁改同憂。</note></partial_tone>
+				<partial_tone id="夒聲">夒聲<note>隸偏旁改同憂。</note></partial_tone>
 				<partial_tone id="臼聲">臼聲</partial_tone>
 				<partial_tone id="咎聲">咎聲</partial_tone>
 				<partial_tone id="艸聲">艸聲</partial_tone>
@@ -1319,7 +1319,7 @@
 				<partial_tone id="臦聲">臦聲</partial_tone>
 				<partial_tone id="鬯聲">鬯聲</partial_tone>
 				<partial_tone id="竝聲">竝聲</partial_tone>
-				<partial_tone>？<!--⿱𠆢儿-->聲</partial_tone>
+				<partial_tone><!--⿱𠆢儿-->聲</partial_tone>
 				<partial_tone id="匚聲">匚聲</partial_tone>
 				<explanation>右諧聲偏旁見於今韵他部內者、皆從弟十部轉入。</explanation>
 			</tone_part>
@@ -1870,7 +1870,7 @@
 				<partial_tone id="聿聲">聿聲</partial_tone>
 				<partial_tone id="律聲">律聲</partial_tone>
 				<partial_tone id="弗聲">弗聲</partial_tone>
-				<partial_tone>？<!--⿱？又-->聲</partial_tone>
+				<partial_tone id="𠬸聲">𠬸<!--⿱？又-->聲</partial_tone>
 				<partial_tone id="乞聲">乞聲</partial_tone>
 				<partial_tone id="系聲">系聲</partial_tone>
 				<partial_tone id="衰聲">衰聲</partial_tone>

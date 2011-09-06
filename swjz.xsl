@@ -12,35 +12,32 @@
     <xsl:result-document href="{$filename}">
     <xsl:text>
     </xsl:text>
-    <html xmlns="http://www.w3.org/1999/xhtml" lang='zh-tw' xml:lang='zh-tw'><xsl:text>
+    <html xmlns="http://www.w3.org/1999/xhtml"><xsl:text>
     </xsl:text>
     <head><xsl:text>
       </xsl:text>
-      <title><xsl:value-of select="chaptertitle"/></title><xsl:text>
+      <title><xsl:value-of select="chaptertitle/text()"/></title><xsl:text>
       </xsl:text>
       <link rel="stylesheet" href="swjz.css" type="text/css" /><xsl:text>
       </xsl:text>
     </head><xsl:text>
     </xsl:text>
-    <body lang="zh"><xsl:text>
+    <body><xsl:text>
     </xsl:text>
-      <h1><xsl:value-of select="chaptertitle"/></h1><xsl:text>
-      </xsl:text>
-      <xsl:apply-templates select="shuowen|part_wordnum"/>
+      <xsl:apply-templates/>
       </body><xsl:text>
     </xsl:text>
   </html>
   </xsl:result-document>
   </xsl:template>
 
-  <!-- template for shuowen -->
   <xsl:template match="shuowen">
     <table>
       <xsl:apply-templates select="wordhead"/>
       </table><xsl:text>
     </xsl:text>
   </xsl:template>
-  <xsl:template match="wordhead">
+  <xsl:template match="shuowen/wordhead">
     <tr>
       <xsl:element name="td">
         <xsl:attribute name="class">wordhead</xsl:attribute>
@@ -75,12 +72,12 @@
     </xsl:text>
   </xsl:template>
   <xsl:template match="explanation">
-    <span class="explanation">
+    <!--span class="explanation"-->
       <xsl:apply-templates/>
-    </span>
+    <!--/span-->
   </xsl:template>
   <xsl:template match="duan_note">
-    <xsl:apply-templates/>
+    <span class="note"><xsl:apply-templates/></span>
   </xsl:template>
 
   <!-- template for part_wordnum -->
@@ -100,7 +97,48 @@
     <font class="explanation"><xsl:value-of select="."/></font>
   </xsl:template>
   <xsl:template mode="normal_text" match="duan_note">
-    <xsl:value-of select="."/>
+    <span class="note"><xsl:value-of select="."/></span>
+  </xsl:template>
+
+  <!-- misc templates-->
+  <xsl:template match="chaptertitle">
+    <h3><xsl:apply-templates/></h3>
+  </xsl:template>
+
+  <xsl:template match="author">
+    <h4 style='text-align:right'><xsl:apply-templates/></h4>
+  </xsl:template>
+
+  <xsl:template match="publishdate">
+    <h4><xsl:apply-templates/></h4>
+  </xsl:template>
+
+  <xsl:template match="endchapter">
+    <h3><xsl:apply-templates/></h3>
+  </xsl:template>
+
+  <xsl:template match="shuowen2">
+    <p><xsl:apply-templates/></p>
+  </xsl:template>
+
+  <xsl:template match="section">
+    <table><xsl:apply-templates/></table>
+  </xsl:template>
+
+  <xsl:template match="section_num">
+    <tr><th><xsl:apply-templates/></th></tr>
+  </xsl:template>
+
+  <xsl:template match="part_word">
+    <tr><td><xsl:apply-templates/></td></tr>
+  </xsl:template>
+
+  <xsl:template match="part_word/wordhead">
+    <span class="explanation"><xsl:apply-templates/></span>
+  </xsl:template>
+
+  <xsl:template match="volume_wordnum">
+    <p><xsl:apply-templates/></p>
   </xsl:template>
 
 </xsl:stylesheet>

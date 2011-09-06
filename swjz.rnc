@@ -34,18 +34,21 @@ chapter = element chapter {
 chapter2 = element chapter {
   element chaptertitle {attribute id {xsd:ID}, text_note},
   author,
-  element shuowen {
-    text_note2,
-    element section {
-      element section_num {text},
-      element part_word {
-        element wordhead {pict_text},
-        text_note?
-      }+
-    }*
-  },
+  shuowen2,
   endchapter
 }
+
+shuowen2 = element shuowen2 {
+  text_note2,
+  element section {
+    element section_num {text},
+    element part_word {
+      element wordhead {pict_text},
+      text_note?
+    }+
+  }*
+}
+
 
 pict_text = ( 
   text |
