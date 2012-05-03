@@ -1,1513 +1,971 @@
 <?xml version="1.0"?>
 <!--
-本データは日本学術振興会科学研究費・基盤研究C「次世代古典文献データベー
-ス構築の基礎的研究」（平成14〜16年度、課題番号：14510494、研究代表者：
-村越貴代美）による成果の一部である。
+本データは日本学術振興会科学研究費・基盤研究C「次世代古典文献データベース構築の基礎的研究」（平成14〜16年度、課題番号：14510494、研究代表者：村越貴代美）による成果の一部である。
 -->
 <book title="説文部目分韵">
 	<preface>說文五百四十部。始一終亥。分屬十四篇。猝難檢尋。宋李仁甫五音韵諩本。改依陸法言二百六韵編次。較原書易得其部首。今先生依始一終亥成注。復命<note>煥</note>用仁甫法始東終乏爲目。所以便學者也。其或與廣韵小異者。徐鼎臣音切用唐韵。或不與廣韵同。仁甫仍之耳。嘉慶乙亥春三月。長洲陳煥編。</preface>
 	<rhyme>
 		<rhythmic_entry>一東</rhythmic_entry>
-		<wordhead>東<note>德紅切。六上。二。</note>
-		</wordhead>
-		<wordhead>工<note>古紅切。五上。五。</note>
-		</wordhead>
-		<wordhead>豐<note>敷戎切。五上。二十三。</note>
-		</wordhead>
-		<wordhead>風<note>方戎切。十三下。三。</note>
-		</wordhead>
-		<wordhead>蟲<note>弓切。十三下。二。</note>
-		</wordhead>
-		<wordhead>熊<note>羽弓切。十上。十二。</note>
-		</wordhead>
-		<wordhead>弓<note>居戎切。十二下。二十一。</note>
-		</wordhead>
-		<wordhead>宫<note>居戎切。七下。十。</note>
-		</wordhead>
+		<wordhead>東<note>德紅切。六上。二。</note></wordhead>
+		<wordhead>工<note>古紅切。五上。五。</note></wordhead>
+		<wordhead>豐<note>敷戎切。五上。二十三。</note></wordhead>
+		<wordhead>風<note>方戎切。十三下。三。</note></wordhead>
+		<wordhead>蟲<note>弓切。十三下。二。</note></wordhead>
+		<wordhead>熊<note>羽弓切。十上。十二。</note></wordhead>
+		<wordhead>弓<note>居戎切。十二下。二十一。</note></wordhead>
+		<wordhead>宫<note>居戎切。七下。十。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>三鍾</rhythmic_entry>
-		<wordhead>从<note>疾容切。八上。四。</note>
-		</wordhead>
-		<wordhead>龍<note>力鍾切。十一下。十七。</note>
-		</wordhead>
-		<wordhead>凶<note>許容切。七上。三十、止。</note>
-		</wordhead>
+		<wordhead>从<note>疾容切。八上。四。</note></wordhead>
+		<wordhead>龍<note>力鍾切。十一下。十七。</note></wordhead>
+		<wordhead>凶<note>許容切。七上。三十、止。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>四江</rhythmic_entry>
-		<wordhead>囱<note>楚江切。十下。一。</note>
-		</wordhead>
+		<wordhead>囱<note>楚江切。十下。一。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>五支</rhythmic_entry>
-		<wordhead>支<note>章移切。三下。十。</note>
-		</wordhead>
-		<wordhead>卮<note>章移切。九上。十四。</note>
-		</wordhead>
-		<wordhead>𠂹<note>是爲切。六下。八。</note>
-		</wordhead>
-		<wordhead>皮<note>符羈切。三下。二十一。</note>
-		</wordhead>
-		<wordhead>乀<note>弋支切。十二下。六。</note>
-		</wordhead>
-		<wordhead>䖒<note>許羈切。五上。二十四。</note>
-		</wordhead>
-		<wordhead>危<note>魚爲切。九下。七。</note>
-		</wordhead>
+		<wordhead>支<note>章移切。三下。十。</note></wordhead>
+		<wordhead>卮<note>章移切。九上。十四。</note></wordhead>
+		<wordhead>𠂹<note>是爲切。六下。八。</note></wordhead>
+		<wordhead>皮<note>符羈切。三下。二十一。</note></wordhead>
+		<wordhead>乀<note>弋支切。十二下。六。</note></wordhead>
+		<wordhead>䖒<note>許羈切。五上。二十四。</note></wordhead>
+		<wordhead>危<note>魚爲切。九下。七。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>六脂</rhythmic_entry>
-		<wordhead>隹<note>職追切。四上。十二。</note>
-		</wordhead>
-		<wordhead>尸<note>式脂切。八上。十九、止。</note>
-		</wordhead>
-		<wordhead>厶<note>息夷切。九上。二十五。</note>
-		</wordhead>
-		<wordhead>夊<note>楚危切。五下。二十四。</note>
-		</wordhead>
-		<wordhead>奞<note>息遺切。四上。十三。</note>
-		</wordhead>
-		<wordhead>龜<note>居追切。十三下。五。</note>
-		</wordhead>
-		<wordhead>睂<note>武悲切。四上。四。</note>
-		</wordhead>
+		<wordhead>隹<note>職追切。四上。十二。</note></wordhead>
+		<wordhead>尸<note>式脂切。八上。十九、止。</note></wordhead>
+		<wordhead>厶<note>息夷切。九上。二十五。</note></wordhead>
+		<wordhead>夊<note>楚危切。五下。二十四。</note></wordhead>
+		<wordhead>奞<note>息遺切。四上。十三。</note></wordhead>
+		<wordhead>龜<note>居追切。十三下。五。</note></wordhead>
+		<wordhead>睂<note>武悲切。四上。四。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>七之</rhythmic_entry>
-		<wordhead>之<note>止而切。六下。二。</note>
-		</wordhead>
-		<wordhead><note>側詞切。十二下。十九。</note>
-		</wordhead>
-		<wordhead>而<note>如之切。九下。十二。</note>
-		</wordhead>
-		<wordhead>思<note>息茲切。十下。二十三。</note>
-		</wordhead>
-		<wordhead>絲<note>息茲切。十三上。三。</note>
-		</wordhead>
-		<wordhead>司<note>息茲切。九上。十三。</note>
-		</wordhead>
-		<wordhead>𦣞<note>與之切。十二上。十。</note>
-		</wordhead>
-		<wordhead>箕<note>居之切。五上。二。</note>
-		</wordhead>
-		<wordhead>丌<note>居之切。五上。三。</note>
-		</wordhead>
-		<wordhead>犛<note>里之切。二上。六。</note>
-		</wordhead>
+		<wordhead>之<note>止而切。六下。二。</note></wordhead>
+		<wordhead><note>側詞切。十二下。十九。</note></wordhead>
+		<wordhead>而<note>如之切。九下。十二。</note></wordhead>
+		<wordhead>思<note>息茲切。十下。二十三。</note></wordhead>
+		<wordhead>絲<note>息茲切。十三上。三。</note></wordhead>
+		<wordhead>司<note>息茲切。九上。十三。</note></wordhead>
+		<wordhead>𦣞<note>與之切。十二上。十。</note></wordhead>
+		<wordhead>箕<note>居之切。五上。二。</note></wordhead>
+		<wordhead>丌<note>居之切。五上。三。</note></wordhead>
+		<wordhead>犛<note>里之切。二上。六。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>八微</rhythmic_entry>
-		<wordhead>非<note>甫微切。十一下。十九。</note>
-		</wordhead>
-		<wordhead>飛<note>甫微切。十一下。十八。</note>
-		</wordhead>
-		<wordhead>衣<note>於希切。八上。十四。</note>
-		</wordhead>
-		<wordhead>㐆<note>於機切。八上。十三。</note>
-		</wordhead>
-		<wordhead>韋<note>宇非切。五下。二十七。</note>
-		</wordhead>
-		<wordhead>囗<note>羽非切。六下。十七。</note>
-		</wordhead>
+		<wordhead>非<note>甫微切。十一下。十九。</note></wordhead>
+		<wordhead>飛<note>甫微切。十一下。十八。</note></wordhead>
+		<wordhead>衣<note>於希切。八上。十四。</note></wordhead>
+		<wordhead>㐆<note>於機切。八上。十三。</note></wordhead>
+		<wordhead>韋<note>宇非切。五下。二十七。</note></wordhead>
+		<wordhead>囗<note>羽非切。六下。十七。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>九魚</rhythmic_entry>
-		<wordhead>魚<note>語居切。十一下。十四。</note>
-		</wordhead>
-		<wordhead>𩺰<note>語居切。十一下。十五。</note>
-		</wordhead>
-		<wordhead>凵<note>去魚切。五上。二十九。</note>
-		</wordhead>
-		<wordhead>且<note>子余切。十四上。五。</note>
-		</wordhead>
-		<wordhead>疋<note>所菹切。二下。十一。</note>
-		</wordhead>
-		<wordhead>舁<note>以諸切。三上。二十二。</note>
-		</wordhead>
+		<wordhead>魚<note>語居切。十一下。十四。</note></wordhead>
+		<wordhead>𩺰<note>語居切。十一下。十五。</note></wordhead>
+		<wordhead>凵<note>去魚切。五上。二十九。</note></wordhead>
+		<wordhead>且<note>子余切。十四上。五。</note></wordhead>
+		<wordhead>疋<note>所菹切。二下。十一。</note></wordhead>
+		<wordhead>舁<note>以諸切。三上。二十二。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>十虞</rhythmic_entry>
-		<wordhead>亏<note>羽俱切。五上。十六。</note>
-		</wordhead>
-		<wordhead>𠌶<note>況于切。六下。九。</note>
-		</wordhead>
-		<wordhead>夫<note>甫無切。十下。十九。</note>
-		</wordhead>
-		<wordhead>毋<note>武扶切。十二下。二。</note>
-		</wordhead>
-		<wordhead>巫<note>武扶切。五上。七。</note>
-		</wordhead>
-		<wordhead>須<note>相俞切。九上。七。</note>
-		</wordhead>
-		<wordhead>几<note>市朱切。三下。十九。</note>
-		</wordhead>
-		<wordhead>殳<note>市朱切。三下。十七。</note>
-		</wordhead>
+		<wordhead>亏<note>羽俱切。五上。十六。</note></wordhead>
+		<wordhead>𠌶<note>況于切。六下。九。</note></wordhead>
+		<wordhead>夫<note>甫無切。十下。十九。</note></wordhead>
+		<wordhead>毋<note>武扶切。十二下。二。</note></wordhead>
+		<wordhead>巫<note>武扶切。五上。七。</note></wordhead>
+		<wordhead>須<note>相俞切。九上。七。</note></wordhead>
+		<wordhead>几<note>市朱切。三下。十九。</note></wordhead>
+		<wordhead>殳<note>市朱切。三下。十七。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>十一模</rhythmic_entry>
-		<wordhead>麤<note>倉胡切。十上。四。</note>
-		</wordhead>
-		<wordhead>壺<note>戸吳切。十下。十一。</note>
-		</wordhead>
-		<wordhead>虍<note>烏切。五上。二十五。</note>
-		</wordhead>
-		<wordhead>烏<note>哀都切。四上。二十三、止。</note>
-		</wordhead>
+		<wordhead>麤<note>倉胡切。十上。四。</note></wordhead>
+		<wordhead>壺<note>戸吳切。十下。十一。</note></wordhead>
+		<wordhead>虍<note>烏切。五上。二十五。</note></wordhead>
+		<wordhead>烏<note>哀都切。四上。二十三、止。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>十二齊</rhythmic_entry>
-		<wordhead>？<note>徂奚切。七上。十七。</note>
-		</wordhead>
-		<wordhead>西<note>先稽切。十二上。四。</note>
-		</wordhead>
-		<wordhead>𥝌<note>古兮切。六下。十一。</note>
-		</wordhead>
-		<wordhead>稽<note>古兮切。六下。十二。</note>
-		</wordhead>
-		<wordhead>兮<note>胡雞切。五上。十四。</note>
-		</wordhead>
+		<wordhead>？<note>徂奚切。七上。十七。</note></wordhead>
+		<wordhead>西<note>先稽切。十二上。四。</note></wordhead>
+		<wordhead>𥝌<note>古兮切。六下。十一。</note></wordhead>
+		<wordhead>稽<note>古兮切。六下。十二。</note></wordhead>
+		<wordhead>兮<note>胡雞切。五上。十四。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>十四皆</rhythmic_entry>
-		<wordhead>？<note>古懷切。十二上。十二、止。</note>
-		</wordhead>
+		<wordhead>？<note>古懷切。十二上。十二、止。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>十五灰</rhythmic_entry>
-		<wordhead>嵬<note>五灰切。九上。二十六、止。</note>
-		</wordhead>
-		<wordhead>自<note>都回切。十四上。十、止。</note>
-		</wordhead>
-		<wordhead>來<note>洛哀切。五下。二十二。</note>
-		</wordhead>
-		<wordhead>才<note>昨哉切。六上。四、止。</note>
-		</wordhead>
+		<wordhead>嵬<note>五灰切。九上。二十六、止。</note></wordhead>
+		<wordhead>自<note>都回切。十四上。十、止。</note></wordhead>
+		<wordhead>來<note>洛哀切。五下。二十二。</note></wordhead>
+		<wordhead>才<note>昨哉切。六上。四、止。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>十七眞</rhythmic_entry>
-		<wordhead>申<note>失人切。十四下。三十七。</note>
-		</wordhead>
-		<wordhead>身<note>失人切。八上。十二。</note>
-		</wordhead>
-		<wordhead>辰<note>植鄰切。十四下。三十三。</note>
-		</wordhead>
-		<wordhead>䢅<note>食鄰切。三上。二十四。</note>
-		</wordhead>
-		<wordhead>臣<note>植鄰切。三下。十六。</note>
-		</wordhead>
-		<wordhead>人<note>如鄰切。八上。一。</note>
-		</wordhead>
-		<wordhead>儿<note>如鄰切。八下。六。</note>
-		</wordhead>
-		<wordhead>辛<note>息鄰切。十四下。二十二。</note>
-		</wordhead>
-		<wordhead>？<note>符眞切。十一下。二。</note>
-		</wordhead>
-		<wordhead>民<note>彌鄰切。十二下。三。</note>
-		</wordhead>
-		<wordhead>灥<note>詳遵切。十一下。七。</note>
-		</wordhead>
-		<wordhead>寅<note>弋眞切。十四下。三十一。</note>
-		</wordhead>
-		<wordhead>巾<note>居銀切。七下。二十一。</note>
-		</wordhead>
+		<wordhead>申<note>失人切。十四下。三十七。</note></wordhead>
+		<wordhead>身<note>失人切。八上。十二。</note></wordhead>
+		<wordhead>辰<note>植鄰切。十四下。三十三。</note></wordhead>
+		<wordhead>䢅<note>食鄰切。三上。二十四。</note></wordhead>
+		<wordhead>臣<note>植鄰切。三下。十六。</note></wordhead>
+		<wordhead>人<note>如鄰切。八上。一。</note></wordhead>
+		<wordhead>儿<note>如鄰切。八下。六。</note></wordhead>
+		<wordhead>辛<note>息鄰切。十四下。二十二。</note></wordhead>
+		<wordhead>？<note>符眞切。十一下。二。</note></wordhead>
+		<wordhead>民<note>彌鄰切。十二下。三。</note></wordhead>
+		<wordhead>灥<note>詳遵切。十一下。七。</note></wordhead>
+		<wordhead>寅<note>弋眞切。十四下。三十一。</note></wordhead>
+		<wordhead>巾<note>居銀切。七下。二十一。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>十九臻</rhythmic_entry>
-		<wordhead>屾<note>所臻切。九下。二。</note>
-		</wordhead>
+		<wordhead>屾<note>所臻切。九下。二。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>二十文</rhythmic_entry>
-		<wordhead>文<note>無分切。九上。十。</note>
-		</wordhead>
-		<wordhead>彣<note>無分切。九上。九。</note>
-		</wordhead>
-		<wordhead>雲<note>王分切。十一下。十三。</note>
-		</wordhead>
+		<wordhead>文<note>無分切。九上。十。</note></wordhead>
+		<wordhead>彣<note>無分切。九上。九。</note></wordhead>
+		<wordhead>雲<note>王分切。十一下。十三。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>二十一欣</rhythmic_entry>
-		<wordhead>斤<note>舉欣切。十四上。六。</note>
-		</wordhead>
-		<wordhead>筋<note>居銀切。四下。十六。</note>
-		</wordhead>
-		<wordhead>堇<note>巨斤切。十三下。十一。</note>
-		</wordhead>
-		<wordhead>㹜<note>語斤切。十上。九。</note>
-		</wordhead>
+		<wordhead>斤<note>舉欣切。十四上。六。</note></wordhead>
+		<wordhead>筋<note>居銀切。四下。十六。</note></wordhead>
+		<wordhead>堇<note>巨斤切。十三下。十一。</note></wordhead>
+		<wordhead>㹜<note>語斤切。十上。九。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>二十二元</rhythmic_entry>
-		<wordhead>吅<note>況袁切。二上。十。</note>
-		</wordhead>
-		<wordhead>言<note>語軒切。三上。十二。</note>
-		</wordhead>
+		<wordhead>吅<note>況袁切。二上。十。</note></wordhead>
+		<wordhead>言<note>語軒切。三上。十二。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>二十三魂</rhythmic_entry>
-		<wordhead>䖵<note>古䰟切。十三下。一。</note>
-		</wordhead>
-		<wordhead>門<note>莫奔切。十二上。八。</note>
-		</wordhead>
-		<wordhead>豚<note>徒䰟切。九下。十六。</note>
-		</wordhead>
+		<wordhead>䖵<note>古䰟切。十三下。一。</note></wordhead>
+		<wordhead>門<note>莫奔切。十二上。八。</note></wordhead>
+		<wordhead>豚<note>徒䰟切。九下。十六。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>二十五寒</rhythmic_entry>
-		<wordhead>干<note>古寒切。三上。三。</note>
-		</wordhead>
-		<wordhead>𣦻<note>昨干切。四下。十。</note>
-		</wordhead>
-		<wordhead>丹<note>都寒切。五下。一。</note>
-		</wordhead>
+		<wordhead>干<note>古寒切。三上。三。</note></wordhead>
+		<wordhead>𣦻<note>昨干切。四下。十。</note></wordhead>
+		<wordhead>丹<note>都寒切。五下。一。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>二十六桓</rhythmic_entry>
-		<wordhead>丸<note>胡官切。九下。六。</note>
-		</wordhead>
-		<wordhead>？<note>胡官切。四上。十四。</note>
-		</wordhead>
-		<wordhead>？<note>胡官切。十上。七。</note>
-		</wordhead>
-		<wordhead>毌<note>古丸切。七上。十三。</note>
-		</wordhead>
-		<wordhead><note>北潘切。四下。一。</note>
-		</wordhead>
-		<wordhead>耑<note>多官切。七下。五。</note>
-		</wordhead>
+		<wordhead>丸<note>胡官切。九下。六。</note></wordhead>
+		<wordhead>？<note>胡官切。四上。十四。</note></wordhead>
+		<wordhead>？<note>胡官切。十上。七。</note></wordhead>
+		<wordhead>毌<note>古丸切。七上。十三。</note></wordhead>
+		<wordhead><note>北潘切。四下。一。</note></wordhead>
+		<wordhead>耑<note>多官切。七下。五。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>二十七刪</rhythmic_entry>
-		<wordhead>？<note>普班切。三上。十九。</note>
-		</wordhead>
+		<wordhead>？<note>普班切。三上。十九。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>二十八山</rhythmic_entry>
-		<wordhead>山<note>所閒切。九下。一。</note>
-		</wordhead>
-		<wordhead>虤<note>五閑切。五上。二十七。</note>
-		</wordhead>
-		<wordhead>臤<note>苦閑切。三下。十五。</note>
-		</wordhead>
+		<wordhead>山<note>所閒切。九下。一。</note></wordhead>
+		<wordhead>虤<note>五閑切。五上。二十七。</note></wordhead>
+		<wordhead>臤<note>苦閑切。三下。十五。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>一先</rhythmic_entry>
-		<wordhead>先<note>穌前切。八下。十一。</note>
-		</wordhead>
-		<wordhead>田<note>待年切。十三下。十三。</note>
-		</wordhead>
-		<wordhead>幵<note>古賢切。十四上。二。</note>
-		</wordhead>
-		<wordhead>弦<note>胡田切。十二下。二十三。</note>
-		</wordhead>
-		<wordhead>𤣥<note>胡㳙切。四下。六。</note>
-		</wordhead>
+		<wordhead>先<note>穌前切。八下。十一。</note></wordhead>
+		<wordhead>田<note>待年切。十三下。十三。</note></wordhead>
+		<wordhead>幵<note>古賢切。十四上。二。</note></wordhead>
+		<wordhead>弦<note>胡田切。十二下。二十三。</note></wordhead>
+		<wordhead>𤣥<note>胡㳙切。四下。六。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>二仙</rhythmic_entry>
-		<wordhead>㳄<note>敘連切。八下。十七。</note>
-		</wordhead>
-		<wordhead>羴<note>式連切。四上。十八。</note>
-		</wordhead>
-		<wordhead>㢟<note>丑連切。二下。六。</note>
-		</wordhead>
-		<wordhead>䇂<note>去䖍切。三上。十五。</note>
-		</wordhead>
-		<wordhead>宀<note>武延切。七下。九。</note>
-		</wordhead>
-		<wordhead>泉<note>疾緣切。十一下。六。</note>
-		</wordhead>
-		<wordhead>川<note>昌緣切。十一下。五。</note>
-		</wordhead>
-		<wordhead>叀<note>職緣切。四下。五。</note>
-		</wordhead>
-		<wordhead>員<note>王權切。六下。十八。</note>
-		</wordhead>
+		<wordhead>㳄<note>敘連切。八下。十七。</note></wordhead>
+		<wordhead>羴<note>式連切。四上。十八。</note></wordhead>
+		<wordhead>㢟<note>丑連切。二下。六。</note></wordhead>
+		<wordhead>䇂<note>去䖍切。三上。十五。</note></wordhead>
+		<wordhead>宀<note>武延切。七下。九。</note></wordhead>
+		<wordhead>泉<note>疾緣切。十一下。六。</note></wordhead>
+		<wordhead>川<note>昌緣切。十一下。五。</note></wordhead>
+		<wordhead>叀<note>職緣切。四下。五。</note></wordhead>
+		<wordhead>員<note>王權切。六下。十八。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>三蕭</rhythmic_entry>
-		<wordhead>𠧪<note>徒遼切。七上。十六。</note>
-		</wordhead>
-		<wordhead>？<note>古堯切。九上。六。</note>
-		</wordhead>
-		<wordhead>幺<note>於堯切。四下。三。</note>
-		</wordhead>
-		<wordhead>垚<note>吾切。十三下。十。</note>
-		</wordhead>
-		<wordhead>髟<note>必凋切。九上。十一。</note>
-		</wordhead>
+		<wordhead>𠧪<note>徒遼切。七上。十六。</note></wordhead>
+		<wordhead>？<note>古堯切。九上。六。</note></wordhead>
+		<wordhead>幺<note>於堯切。四下。三。</note></wordhead>
+		<wordhead>垚<note>吾切。十三下。十。</note></wordhead>
+		<wordhead>髟<note>必凋切。九上。十一。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>五肴</rhythmic_entry>
-		<wordhead>爻<note>胡茅切。三下。二十七。</note>
-		</wordhead>
-		<wordhead>交<note>古爻切。十下。九。</note>
-		</wordhead>
-		<wordhead>包<note>布交切。九上。二十一。</note>
-		</wordhead>
-		<wordhead>勹<note>布交切。九上。二十。</note>
-		</wordhead>
-		<wordhead>巢<note>鉏交切。六下。十三。</note>
-		</wordhead>
+		<wordhead>爻<note>胡茅切。三下。二十七。</note></wordhead>
+		<wordhead>交<note>古爻切。十下。九。</note></wordhead>
+		<wordhead>包<note>布交切。九上。二十一。</note></wordhead>
+		<wordhead>勹<note>布交切。九上。二十。</note></wordhead>
+		<wordhead>巢<note>鉏交切。六下。十三。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>六豪</rhythmic_entry>
-		<wordhead>高<note>古牢切。五下。十三。</note>
-		</wordhead>
-		<wordhead>毛<note>莫袍切。八上。十七。</note>
-		</wordhead>
-		<wordhead>刀<note>都牢切。四下。十七。</note>
-		</wordhead>
-		<wordhead>夲<note>土刀切。十下。十六。</note>
-		</wordhead>
+		<wordhead>高<note>古牢切。五下。十三。</note></wordhead>
+		<wordhead>毛<note>莫袍切。八上。十七。</note></wordhead>
+		<wordhead>刀<note>都牢切。四下。十七。</note></wordhead>
+		<wordhead>夲<note>土刀切。十下。十六。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>八戈</rhythmic_entry>
-		<wordhead>戈<note>古禾切。十二下。九。</note>
-		</wordhead>
-		<wordhead>禾<note>戸戈切。七上。二十三。</note>
-		</wordhead>
-		<wordhead>多<note>得何切。七上。十二。</note>
-		</wordhead>
-		<wordhead>它<note>託何切。十三下。四。</note>
-		</wordhead>
+		<wordhead>戈<note>古禾切。十二下。九。</note></wordhead>
+		<wordhead>禾<note>戸戈切。七上。二十三。</note></wordhead>
+		<wordhead>多<note>得何切。七上。十二。</note></wordhead>
+		<wordhead>它<note>託何切。十三下。四。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>九麻</rhythmic_entry>
-		<wordhead>麻<note>莫遐切。七下。三。</note>
-		</wordhead>
-		<wordhead>巴<note>伯加切。十四下。二十。</note>
-		</wordhead>
-		<wordhead>奢<note>式車切。十下。十四。</note>
-		</wordhead>
-		<wordhead>車<note>尺遮切。十四上。九。</note>
-		</wordhead>
-		<wordhead>牙<note>五加切。二下。九。</note>
-		</wordhead>
-		<wordhead>𦾓<note>戸𤓰切。六下。十。</note>
-		</wordhead>
-		<wordhead>瓜<note>古華切。七下。七。</note>
-		</wordhead>
+		<wordhead>麻<note>莫遐切。七下。三。</note></wordhead>
+		<wordhead>巴<note>伯加切。十四下。二十。</note></wordhead>
+		<wordhead>奢<note>式車切。十下。十四。</note></wordhead>
+		<wordhead>車<note>尺遮切。十四上。九。</note></wordhead>
+		<wordhead>牙<note>五加切。二下。九。</note></wordhead>
+		<wordhead>𦾓<note>戸𤓰切。六下。十。</note></wordhead>
+		<wordhead>瓜<note>古華切。七下。七。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>十陽</rhythmic_entry>
-		<wordhead>羊<note>與章切。四上。十七。</note>
-		</wordhead>
-		<wordhead>方<note>府良切。八下。五。</note>
-		</wordhead>
-		<wordhead>匚<note>府良切。十二下。十七。</note>
-		</wordhead>
-		<wordhead>亾<note>武方切。十二下。十五。</note>
-		</wordhead>
-		<wordhead>長<note>良切。九上。九。</note>
-		</wordhead>
-		<wordhead>香<note>許良切。七上。二十六。</note>
-		</wordhead>
-		<wordhead>畕<note>居良切。十三下。十四。</note>
-		</wordhead>
-		<wordhead>王<note>雨方切。一上。五。</note>
-		</wordhead>
+		<wordhead>羊<note>與章切。四上。十七。</note></wordhead>
+		<wordhead>方<note>府良切。八下。五。</note></wordhead>
+		<wordhead>匚<note>府良切。十二下。十七。</note></wordhead>
+		<wordhead>亾<note>武方切。十二下。十五。</note></wordhead>
+		<wordhead>長<note>良切。九上。九。</note></wordhead>
+		<wordhead>香<note>許良切。七上。二十六。</note></wordhead>
+		<wordhead>畕<note>居良切。十三下。十四。</note></wordhead>
+		<wordhead>王<note>雨方切。一上。五。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>十一唐</rhythmic_entry>
-		<wordhead>倉<note>七？切。五下。九。</note>
-		</wordhead>
-		<wordhead>亢<note>古郎切。十下。十五。</note>
-		</wordhead>
-		<wordhead>尣<note>烏光切。十下。十。</note>
-		</wordhead>
-		<wordhead>黃<note>乎光切。十三下。十五。</note>
-		</wordhead>
+		<wordhead>倉<note>七？切。五下。九。</note></wordhead>
+		<wordhead>亢<note>古郎切。十下。十五。</note></wordhead>
+		<wordhead>尣<note>烏光切。十下。十。</note></wordhead>
+		<wordhead>黃<note>乎光切。十三下。十五。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>十二庚</rhythmic_entry>
-		<wordhead>庚<note>古行切。十四下。二十一。</note>
-		</wordhead>
-		<wordhead>行<note>戸庚切。二下。七。</note>
-		</wordhead>
-		<wordhead>明<note>武兵切。七上。九。</note>
-		</wordhead>
-		<wordhead>生<note>所庚切。六下。六。</note>
-		</wordhead>
-		<wordhead>京<note>舉卿切。五下。十六。</note>
-		</wordhead>
-		<wordhead>卯<note>去京切。九上。十八。</note>
-		</wordhead>
-		<wordhead>兄<note>許榮切。八下。七。</note>
-		</wordhead>
+		<wordhead>庚<note>古行切。十四下。二十一。</note></wordhead>
+		<wordhead>行<note>戸庚切。二下。七。</note></wordhead>
+		<wordhead>明<note>武兵切。七上。九。</note></wordhead>
+		<wordhead>生<note>所庚切。六下。六。</note></wordhead>
+		<wordhead>京<note>舉卿切。五下。十六。</note></wordhead>
+		<wordhead>卯<note>去京切。九上。十八。</note></wordhead>
+		<wordhead>兄<note>許榮切。八下。七。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>十四淸</rhythmic_entry>
-		<wordhead>晶<note>子盈切。七上。六。</note>
-		</wordhead>
+		<wordhead>晶<note>子盈切。七上。六。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>十五靑</rhythmic_entry>
-		<wordhead>靑<note>蒼經切。五下。二。</note>
-		</wordhead>
-		<wordhead>丁<note>當經切。十四下。十七。</note>
-		</wordhead>
-		<wordhead>冂<note>古熒切。五下。十四。</note>
-		</wordhead>
-		<wordhead>冥<note>莫經切。七上。五。</note>
-		</wordhead>
+		<wordhead>靑<note>蒼經切。五下。二。</note></wordhead>
+		<wordhead>丁<note>當經切。十四下。十七。</note></wordhead>
+		<wordhead>冂<note>古熒切。五下。十四。</note></wordhead>
+		<wordhead>冥<note>莫經切。七上。五。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>十六蒸</rhythmic_entry>
-		<wordhead>仌<note>筆陵切。十一下。十一。</note>
-		</wordhead>
+		<wordhead>仌<note>筆陵切。十一下。十一。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>十七登</rhythmic_entry>
-		<wordhead>能<note>奴登切。十上。十一。</note>
-		</wordhead>
+		<wordhead>能<note>奴登切。十上。十一。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>十八尤</rhythmic_entry>
-		<wordhead>丠<note>去鳩切。八上。七。</note>
-		</wordhead>
-		<wordhead>？<note>巨鳩切。八上。十五。</note>
-		</wordhead>
-		<wordhead>牛<note>語求切。二上。五。</note>
-		</wordhead>
-		<wordhead>酋<note>字秋切。十四下。三十九。</note>
-		</wordhead>
-		<wordhead>舟<note>職流切。八下。四。</note>
-		</wordhead>
+		<wordhead>丠<note>去鳩切。八上。七。</note></wordhead>
+		<wordhead>？<note>巨鳩切。八上。十五。</note></wordhead>
+		<wordhead>牛<note>語求切。二上。五。</note></wordhead>
+		<wordhead>酋<note>字秋切。十四下。三十九。</note></wordhead>
+		<wordhead>舟<note>職流切。八下。四。</note></wordhead>
 		<wordhead>雔<note>市流切。四
-上。二十。</note>
-		</wordhead>
-		<wordhead>矛<note>莫浮切。十四上。八。</note>
-		</wordhead>
-		<wordhead>𢆶<note>於虯切。四下。四。</note>
-		</wordhead>
-		<wordhead>丩<note>居虯切。三上。八。</note>
-		</wordhead>
+上。二十。</note></wordhead>
+		<wordhead>矛<note>莫浮切。十四上。八。</note></wordhead>
+		<wordhead>𢆶<note>於虯切。四下。四。</note></wordhead>
+		<wordhead>丩<note>居虯切。三上。八。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>二十一侵</rhythmic_entry>
-		<wordhead>心<note>息林切。十下。二十四。</note>
-		</wordhead>
-		<wordhead>壬<note>如林切。十四下。二十四。</note>
-		</wordhead>
-		<wordhead>旡<note>側琴切。八下。八。</note>
-		</wordhead>
-		<wordhead>林<note>力尋切。六上。三。</note>
-		</wordhead>
-		<wordhead>音<note>於今切。三上。十四。</note>
-		</wordhead>
-		<wordhead>？<note>魚音切。八上。八。</note>
-		</wordhead>
-		<wordhead>金<note>居音切。十四上。一。</note>
-		</wordhead>
-		<wordhead>琴<note>巨今切。十二下。十三。</note>
-		</wordhead>
+		<wordhead>心<note>息林切。十下。二十四。</note></wordhead>
+		<wordhead>壬<note>如林切。十四下。二十四。</note></wordhead>
+		<wordhead>旡<note>側琴切。八下。八。</note></wordhead>
+		<wordhead>林<note>力尋切。六上。三。</note></wordhead>
+		<wordhead>音<note>於今切。三上。十四。</note></wordhead>
+		<wordhead>？<note>魚音切。八上。八。</note></wordhead>
+		<wordhead>金<note>居音切。十四上。一。</note></wordhead>
+		<wordhead>琴<note>巨今切。十二下。十三。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>二十二覃</rhythmic_entry>
-		<wordhead>男<note>那含切。十三下。十六。</note>
-		</wordhead>
+		<wordhead>男<note>那含切。十三下。十六。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>二十三談</rhythmic_entry>
-		<wordhead>三<note>穌甘切。一上。四。</note>
-		</wordhead>
-		<wordhead>甘<note>古三切。五上。八。</note>
-		</wordhead>
+		<wordhead>三<note>穌甘切。一上。四。</note></wordhead>
+		<wordhead>甘<note>古三切。五上。八。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>二十四鹽</rhythmic_entry>
-		<wordhead>鹽<note>余廉切。十二上。六。</note>
-		</wordhead>
-		<wordhead>炎<note>于廉切。十上。十四。</note>
-		</wordhead>
+		<wordhead>鹽<note>余廉切。十二上。六。</note></wordhead>
+		<wordhead>炎<note>于廉切。十上。十四。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>二十七銜</rhythmic_entry>
-		<wordhead>彡<note>所銜切。九上。八。</note>
-		</wordhead>
+		<wordhead>彡<note>所銜切。九上。八。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>二腫</rhythmic_entry>
-		<wordhead>？<note>居竦切。三上。十八。</note>
-		</wordhead>
+		<wordhead>？<note>居竦切。三上。十八。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>四紙</rhythmic_entry>
-		<wordhead>只<note>諸氏切。三上。五。</note>
-		</wordhead>
-		<wordhead>氏<note>承旨切。十二下。七。</note>
-		</wordhead>
-		<wordhead>豕<note>式視切。九下。十三。</note>
-		</wordhead>
-		<wordhead>是<note>承旨切。二下。二。</note>
-		</wordhead>
-		<wordhead>沝<note>之壘切。十一下。一。</note>
-		</wordhead>
-		<wordhead>此<note>雌氏切。二上。十六、止。</note>
-		</wordhead>
-		<wordhead>惢<note>才規、才絫二切。十下。二十五、止。</note>
-		</wordhead>
-		<wordhead>豸<note>池尒切。九下。十七。</note>
-		</wordhead>
-		<wordhead>㸚<note>力几切。三下。二十八、止。</note>
-		</wordhead>
-		<wordhead>毇<note>許委切。七上。二十八。</note>
-		</wordhead>
+		<wordhead>只<note>諸氏切。三上。五。</note></wordhead>
+		<wordhead>氏<note>承旨切。十二下。七。</note></wordhead>
+		<wordhead>豕<note>式視切。九下。十三。</note></wordhead>
+		<wordhead>是<note>承旨切。二下。二。</note></wordhead>
+		<wordhead>沝<note>之壘切。十一下。一。</note></wordhead>
+		<wordhead>此<note>雌氏切。二上。十六、止。</note></wordhead>
+		<wordhead>惢<note>才規、才絫二切。十下。二十五、止。</note></wordhead>
+		<wordhead>豸<note>池尒切。九下。十七。</note></wordhead>
+		<wordhead>㸚<note>力几切。三下。二十八、止。</note></wordhead>
+		<wordhead>毇<note>許委切。七上。二十八。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>五旨</rhythmic_entry>
-		<wordhead>旨<note>職雉切。五上。十六。</note>
-		</wordhead>
-		<wordhead>矢<note>式視切。五下。十二。</note>
-		</wordhead>
-		<wordhead>水<note>式軌切。十一上。全部。</note>
-		</wordhead>
-		<wordhead>𣦸<note>息姊切。四下。十二。</note>
-		</wordhead>
-		<wordhead>𧰽<note>徐姊切。九下。十八。</note>
-		</wordhead>
-		<wordhead>黹<note>陟几切。七下。二十六、止。</note>
-		</wordhead>
-		<wordhead>夊<note>陟侈切。五下。二十九。</note>
-		</wordhead>
-		<wordhead>𡳐<note>良止切。八下。三。</note>
-		</wordhead>
-		<wordhead>厽<note>力軌切。十四下。三。</note>
-		</wordhead>
-		<wordhead>癸<note>居誄切。十四下。二十五。</note>
-		</wordhead>
-		<wordhead>几<note>居履切。十四上。四。</note>
-		</wordhead>
-		<wordhead><note>卑履切。八上。三。</note>
-		</wordhead>
+		<wordhead>旨<note>職雉切。五上。十六。</note></wordhead>
+		<wordhead>矢<note>式視切。五下。十二。</note></wordhead>
+		<wordhead>水<note>式軌切。十一上。全部。</note></wordhead>
+		<wordhead>𣦸<note>息姊切。四下。十二。</note></wordhead>
+		<wordhead>𧰽<note>徐姊切。九下。十八。</note></wordhead>
+		<wordhead>黹<note>陟几切。七下。二十六、止。</note></wordhead>
+		<wordhead>夊<note>陟侈切。五下。二十九。</note></wordhead>
+		<wordhead>𡳐<note>良止切。八下。三。</note></wordhead>
+		<wordhead>厽<note>力軌切。十四下。三。</note></wordhead>
+		<wordhead>癸<note>居誄切。十四下。二十五。</note></wordhead>
+		<wordhead>几<note>居履切。十四上。四。</note></wordhead>
+		<wordhead><note>卑履切。八上。三。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>六止</rhythmic_entry>
-		<wordhead>止<note>諸巿切。二上。十三。</note>
-		</wordhead>
-		<wordhead>齒<note>昌里切。二下。八。</note>
-		</wordhead>
-		<wordhead>耳<note>而止切。十二上。九。</note>
-		</wordhead>
-		<wordhead>史<note>疏士切。三下。九。</note>
-		</wordhead>
-		<wordhead>士<note>鉏里切。一上。九。</note>
-		</wordhead>
-		<wordhead>子<note>卽里切。十四下。二十六。</note>
-		</wordhead>
-		<wordhead>巳<note>詳里切。十四下。三十四。</note>
-		</wordhead>
-		<wordhead>里<note>良止切。十三下。十二。</note>
-		</wordhead>
-		<wordhead>喜<note>虛里切。十上。十七。</note>
-		</wordhead>
-		<wordhead>己<note>居擬切。十四下。十九。</note>
-		</wordhead>
+		<wordhead>止<note>諸巿切。二上。十三。</note></wordhead>
+		<wordhead>齒<note>昌里切。二下。八。</note></wordhead>
+		<wordhead>耳<note>而止切。十二上。九。</note></wordhead>
+		<wordhead>史<note>疏士切。三下。九。</note></wordhead>
+		<wordhead>士<note>鉏里切。一上。九。</note></wordhead>
+		<wordhead>子<note>卽里切。十四下。二十六。</note></wordhead>
+		<wordhead>巳<note>詳里切。十四下。三十四。</note></wordhead>
+		<wordhead>里<note>良止切。十三下。十二。</note></wordhead>
+		<wordhead>喜<note>虛里切。十上。十七。</note></wordhead>
+		<wordhead>己<note>居擬切。十四下。十九。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>七尾</rhythmic_entry>
-		<wordhead>？<note>無斐切。八下。二。</note>
-		</wordhead>
-		<wordhead>豈<note>墟豨切。五上。二十。</note>
-		</wordhead>
-		<wordhead>虫<note>許偉切。十三上。五、止。</note>
-		</wordhead>
-		<wordhead>鬼<note>居偉切。九上。二十三。</note>
-		</wordhead>
+		<wordhead>？<note>無斐切。八下。二。</note></wordhead>
+		<wordhead>豈<note>墟豨切。五上。二十。</note></wordhead>
+		<wordhead>虫<note>許偉切。十三上。五、止。</note></wordhead>
+		<wordhead>鬼<note>居偉切。九上。二十三。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>八語</rhythmic_entry>
-		<wordhead>鼠<note>書吕切。十上。十。</note>
-		</wordhead>
-		<wordhead>黍<note>舒吕切。七上。二十五。</note>
-		</wordhead>
-		<wordhead>宁<note>吕切。十四下。五。</note>
-		</wordhead>
-		<wordhead>吕<note>力舉切。七下。十一。</note>
-		</wordhead>
-		<wordhead>女<note>尼吕切。十二下。一。</note>
-		</wordhead>
-		<wordhead>予<note>余吕切。四下。七。</note>
-		</wordhead>
+		<wordhead>鼠<note>書吕切。十上。十。</note></wordhead>
+		<wordhead>黍<note>舒吕切。七上。二十五。</note></wordhead>
+		<wordhead>宁<note>吕切。十四下。五。</note></wordhead>
+		<wordhead>吕<note>力舉切。七下。十一。</note></wordhead>
+		<wordhead>女<note>尼吕切。十二下。一。</note></wordhead>
+		<wordhead>予<note>余吕切。四下。七。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>九麌</rhythmic_entry>
-		<wordhead>羽<note>王矩切。四上。十一。</note>
-		</wordhead>
-		<wordhead>雨<note>王矩切。十一下。十二。知庾切。五上。三十二、止。</note>
-		</wordhead>
+		<wordhead>羽<note>王矩切。四上。十一。</note></wordhead>
+		<wordhead>雨<note>王矩切。十一下。十二。知庾切。五上。三十二、止。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>十姥</rhythmic_entry>
-		<wordhead>土<note>它魯切。十三下。九。</note>
-		</wordhead>
-		<wordhead>鹵<note>郎古切。十二上。五。</note>
-		</wordhead>
-		<wordhead>虎<note>呼古切。五上。二十六。</note>
-		</wordhead>
-		<wordhead>古<note>公戸切。三上。九。</note>
-		</wordhead>
-		<wordhead>𡔷<note>工戸切。五上。十九。</note>
-		</wordhead>
-		<wordhead>？<note>公戸切。八下。十。</note>
-		</wordhead>
-		<wordhead>戸<note>侯古切。十二上。七。</note>
-		</wordhead>
-		<wordhead>五<note>疑古切。十四下。八。</note>
-		</wordhead>
-		<wordhead>午<note>疑古切。十四下。三十五。</note>
-		</wordhead>
+		<wordhead>土<note>它魯切。十三下。九。</note></wordhead>
+		<wordhead>鹵<note>郎古切。十二上。五。</note></wordhead>
+		<wordhead>虎<note>呼古切。五上。二十六。</note></wordhead>
+		<wordhead>古<note>公戸切。三上。九。</note></wordhead>
+		<wordhead>𡔷<note>工戸切。五上。十九。</note></wordhead>
+		<wordhead>？<note>公戸切。八下。十。</note></wordhead>
+		<wordhead>戸<note>侯古切。十二上。七。</note></wordhead>
+		<wordhead>五<note>疑古切。十四下。八。</note></wordhead>
+		<wordhead>午<note>疑古切。十四下。三十五。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>十一薺</rhythmic_entry>
-		<wordhead>米<note>莫禮切。七上。二十七。</note>
-		</wordhead>
-		<wordhead>氐<note>丁禮切。十二下。八。</note>
-		</wordhead>
-		<wordhead>豐<note>盧啓切。五上。二十二。</note>
-		</wordhead>
-		<wordhead>？<note>胡禮切。十二下。十六。</note>
-		</wordhead>
+		<wordhead>米<note>莫禮切。七上。二十七。</note></wordhead>
+		<wordhead>氐<note>丁禮切。十二下。八。</note></wordhead>
+		<wordhead>豐<note>盧啓切。五上。二十二。</note></wordhead>
+		<wordhead>？<note>胡禮切。十二下。十六。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>十二蟹</rhythmic_entry>
-		<wordhead><note>宅買切。十上。二。</note>
-		</wordhead>
+		<wordhead><note>宅買切。十上。二。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>十五海</rhythmic_entry>
-		<wordhead>亥<note>胡改切。十四下。四十一、止。</note>
-		</wordhead>
-		<wordhead>乃<note>奴亥切。五上。十一。</note>
-		</wordhead>
+		<wordhead>亥<note>胡改切。十四下。四十一、止。</note></wordhead>
+		<wordhead>乃<note>奴亥切。五上。十一。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>十六軫</rhythmic_entry>
-		<wordhead>廴<note>余忍切。二下。五。</note>
-		</wordhead>
+		<wordhead>廴<note>余忍切。二下。五。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>十九隱</rhythmic_entry>
-		<wordhead>𠃊<note>於堇切。十二下。十四。</note>
-		</wordhead>
+		<wordhead>𠃊<note>於堇切。十二下。十四。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>二十阮</rhythmic_entry>
-		<wordhead>㫃<note>於幰切。七上。四。</note>
-		</wordhead>
+		<wordhead>㫃<note>於幰切。七上。四。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>二十一混</rhythmic_entry>
-		<wordhead>？<note>胡本切。六下。十六。</note>
-		</wordhead>
-		<wordhead>丨<note>古本切。一上。十、止。</note>
-		</wordhead>
+		<wordhead>？<note>胡本切。六下。十六。</note></wordhead>
+		<wordhead>丨<note>古本切。一上。十、止。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>二十三旱</rhythmic_entry>
-		<wordhead>厂<note>呼旱切。九下。五。</note>
-		</wordhead>
+		<wordhead>厂<note>呼旱切。九下。五。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>二十四緩</rhythmic_entry>
-		<wordhead>卵<note>盧管切。十三下。七。</note>
-		</wordhead>
+		<wordhead>卵<note>盧管切。十三下。七。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>二十七銑</rhythmic_entry>
-		<wordhead>丏<note>彌兖切。九上。四。</note>
-		</wordhead>
-		<wordhead>犬<note>苦泫切。十上。八。</note>
-		</wordhead>
-		<wordhead>𡿨<note>姑泫切。十一下。三。</note>
-		</wordhead>
+		<wordhead>丏<note>彌兖切。九上。四。</note></wordhead>
+		<wordhead>犬<note>苦泫切。十上。八。</note></wordhead>
+		<wordhead>𡿨<note>姑泫切。十一下。三。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>二十八獮</rhythmic_entry>
-		<wordhead>？<note>昌兗切。五下。二十五。</note>
-		</wordhead>
-		<wordhead>孨<note>旨兗切。十四下。二十八。</note>
-		</wordhead>
-		<wordhead>？<note>而兗切。三下。二十二。</note>
-		</wordhead>
-		<wordhead>辡<note>平免切。十四下。二十三。</note>
-		</wordhead>
-		<wordhead>㠭<note>知衍切。五上。六。</note>
-		</wordhead>
+		<wordhead>？<note>昌兗切。五下。二十五。</note></wordhead>
+		<wordhead>孨<note>旨兗切。十四下。二十八。</note></wordhead>
+		<wordhead>？<note>而兗切。三下。二十二。</note></wordhead>
+		<wordhead>辡<note>平免切。十四下。二十三。</note></wordhead>
+		<wordhead>㠭<note>知衍切。五上。六。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>二十九篠</rhythmic_entry>
-		<wordhead>鳥<note>都了切。四上。二十二。</note>
-		</wordhead>
-		<wordhead>了<note>盧鳥切。十四下。二十七。</note>
-		</wordhead>
+		<wordhead>鳥<note>都了切。四上。二十二。</note></wordhead>
+		<wordhead>了<note>盧鳥切。十四下。二十七。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>三十小</rhythmic_entry>
-		<wordhead>小<note>私兆切。二上。一。</note>
-		</wordhead>
-		<wordhead>𠬪<note>平小切。四下。九。</note>
-		</wordhead>
+		<wordhead>小<note>私兆切。二上。一。</note></wordhead>
+		<wordhead>𠬪<note>平小切。四下。九。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>三十一巧</rhythmic_entry>
-		<wordhead>卯<note>莫飽切。十四下。三十二。</note>
-		</wordhead>
-		<wordhead>爪<note>側狡切。三下。四。</note>
-		</wordhead>
+		<wordhead>卯<note>莫飽切。十四下。三十二。</note></wordhead>
+		<wordhead>爪<note>側狡切。三下。四。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>三十二晧</rhythmic_entry>
-		<wordhead>丂<note>苦浩切。五上。十二。</note>
-		</wordhead>
-		<wordhead>夰<note>古老切。十下。十七。</note>
-		</wordhead>
-		<wordhead>？<note>於兆切。十下。八。</note>
-		</wordhead>
-		<wordhead>𠔼<note>莫保切。七下。十六。</note>
-		</wordhead>
-		<wordhead>老<note>盧晧切。八上。十六。</note>
-		</wordhead>
-		<wordhead>艸<note>倉老切。一下。二。</note>
-		</wordhead>
+		<wordhead>丂<note>苦浩切。五上。十二。</note></wordhead>
+		<wordhead>夰<note>古老切。十下。十七。</note></wordhead>
+		<wordhead>？<note>於兆切。十下。八。</note></wordhead>
+		<wordhead>𠔼<note>莫保切。七下。十六。</note></wordhead>
+		<wordhead>老<note>盧晧切。八上。十六。</note></wordhead>
+		<wordhead>艸<note>倉老切。一下。二。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>三十三哿</rhythmic_entry>
-		<wordhead>可<note>肯我切。五上。十三。</note>
-		</wordhead>
-		<wordhead>我<note>五可切。十二下。十一。</note>
-		</wordhead>
-		<wordhead>𠂇<note>臧可切。三下。八。</note>
-		</wordhead>
+		<wordhead>可<note>肯我切。五上。十三。</note></wordhead>
+		<wordhead>我<note>五可切。十二下。十一。</note></wordhead>
+		<wordhead>𠂇<note>臧可切。三下。八。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>三十四果</rhythmic_entry>
-		<wordhead>火<note>呼果切。十上。十三。</note>
-		</wordhead>
+		<wordhead>火<note>呼果切。十上。十三。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>三十五馬</rhythmic_entry>
-		<wordhead>馬<note>莫下切。十上。一。</note>
-		</wordhead>
-		<wordhead>冎<note>古瓦切。四下。十三。</note>
-		</wordhead>
-		<wordhead>？<note>工瓦切。四上。十五。</note>
-		</wordhead>
-		<wordhead>瓦<note>五寡切。十二下。二十。</note>
-		</wordhead>
+		<wordhead>馬<note>莫下切。十上。一。</note></wordhead>
+		<wordhead>冎<note>古瓦切。四下。十三。</note></wordhead>
+		<wordhead>？<note>工瓦切。四上。十五。</note></wordhead>
+		<wordhead>瓦<note>五寡切。十二下。二十。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>三十六養</rhythmic_entry>
-		<wordhead>象<note>徐兩切。九下。二十、止。</note>
-		</wordhead>
-		<wordhead>㒳<note>良奬切。七下。十八。</note>
-		</wordhead>
-		<wordhead>弜<note>其兩切。十二下。二十二。</note>
-		</wordhead>
-		<wordhead>亯<note>許兩切。五下。十七。</note>
-		</wordhead>
-		<wordhead>网<note>文紡切。七下。十九。</note>
-		</wordhead>
-		<wordhead>上<note>時掌切。一上。二。</note>
-		</wordhead>
+		<wordhead>象<note>徐兩切。九下。二十、止。</note></wordhead>
+		<wordhead>㒳<note>良奬切。七下。十八。</note></wordhead>
+		<wordhead>弜<note>其兩切。十二下。二十二。</note></wordhead>
+		<wordhead>亯<note>許兩切。五下。十七。</note></wordhead>
+		<wordhead>网<note>文紡切。七下。十九。</note></wordhead>
+		<wordhead>上<note>時掌切。一上。二。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>三十七蕩</rhythmic_entry>
-		<wordhead>茻<note>摸朗切。一下。四、止。</note>
-		</wordhead>
+		<wordhead>茻<note>摸朗切。一下。四、止。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>三十八梗</rhythmic_entry>
-		<wordhead>丙<note>兵永切。十四下。十六。</note>
-		</wordhead>
-		<wordhead>皿<note>武永切。五上。二十八。</note>
-		</wordhead>
-		<wordhead>永<note>于憬切。十一下。八。</note>
-		</wordhead>
-		<wordhead>囧<note>俱永切。七上。十。</note>
-		</wordhead>
+		<wordhead>丙<note>兵永切。十四下。十六。</note></wordhead>
+		<wordhead>皿<note>武永切。五上。二十八。</note></wordhead>
+		<wordhead>永<note>于憬切。十一下。八。</note></wordhead>
+		<wordhead>囧<note>俱永切。七上。十。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>三十九耿</rhythmic_entry>
-		<wordhead>黽<note>莫杏切。十三下。六。</note>
-		</wordhead>
+		<wordhead>黽<note>莫杏切。十三下。六。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>四十靜</rhythmic_entry>
-		<wordhead>丼<note>子郢切。五下。三。</note>
-		</wordhead>
+		<wordhead>丼<note>子郢切。五下。三。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>四十一迥</rhythmic_entry>
-		<wordhead>竝<note>蒲迥切。十下。二十一。</note>
-		</wordhead>
-		<wordhead>鼎<note>都挺切。七上。二十。</note>
-		</wordhead>
-		<wordhead>壬<note>他鼎切。八上。九。</note>
-		</wordhead>
+		<wordhead>竝<note>蒲迥切。十下。二十一。</note></wordhead>
+		<wordhead>鼎<note>都挺切。七上。二十。</note></wordhead>
+		<wordhead>壬<note>他鼎切。八上。九。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>四十四有</rhythmic_entry>
-		<wordhead>有<note>云久切。七上。八。</note>
-		</wordhead>
-		<wordhead>九<note>舉有切。十四下。十一。</note>
-		</wordhead>
-		<wordhead>久<note>舉友切。五下。三十。</note>
-		</wordhead>
-		<wordhead>韭<note>舉友切。七下。六。</note>
-		</wordhead>
-		<wordhead>臼<note>其九切。七上。二十九。</note>
-		</wordhead>
-		<wordhead>酉<note>與久切。十四下。三十八。</note>
-		</wordhead>
-		<wordhead>缶<note>方久切。五下。十一。</note>
-		</wordhead>
-		<wordhead>不<note>方久切。十二上。三。</note>
-		</wordhead>
-		<wordhead>𨸏<note>房久切。十四下。一。</note>
-		</wordhead>
-		<wordhead><note>房久切。十四下。二。</note>
-		</wordhead>
-		<wordhead>𩠐<note>書九切。九上。五。</note>
-		</wordhead>
-		<wordhead>𦣻<note>書九切。九上。二。</note>
-		</wordhead>
-		<wordhead>手<note>書九切。十二上。十一。</note>
-		</wordhead>
-		<wordhead>𠘯<note>人九切。十四下。十二。</note>
-		</wordhead>
-		<wordhead><note>敕久切。十四下。三十。</note>
-		</wordhead>
+		<wordhead>有<note>云久切。七上。八。</note></wordhead>
+		<wordhead>九<note>舉有切。十四下。十一。</note></wordhead>
+		<wordhead>久<note>舉友切。五下。三十。</note></wordhead>
+		<wordhead>韭<note>舉友切。七下。六。</note></wordhead>
+		<wordhead>臼<note>其九切。七上。二十九。</note></wordhead>
+		<wordhead>酉<note>與久切。十四下。三十八。</note></wordhead>
+		<wordhead>缶<note>方久切。五下。十一。</note></wordhead>
+		<wordhead>不<note>方久切。十二上。三。</note></wordhead>
+		<wordhead>𨸏<note>房久切。十四下。一。</note></wordhead>
+		<wordhead><note>房久切。十四下。二。</note></wordhead>
+		<wordhead>𩠐<note>書九切。九上。五。</note></wordhead>
+		<wordhead>𦣻<note>書九切。九上。二。</note></wordhead>
+		<wordhead>手<note>書九切。十二上。十一。</note></wordhead>
+		<wordhead>𠘯<note>人九切。十四下。十二。</note></wordhead>
+		<wordhead><note>敕久切。十四下。三十。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>四十五厚</rhythmic_entry>
-		<wordhead>𣆪<note>胡口切。五下。十八。</note>
-		</wordhead>
-		<wordhead>后<note>胡口切。九上。十二。</note>
-		</wordhead>
-		<wordhead>口<note>苦后切。二上。八。</note>
-		</wordhead>
-		<wordhead>𧺆<note>子苟切。二上。十二。</note>
-		</wordhead>
-		<wordhead>斗<note>當口切。十四上。七。</note>
-		</wordhead>
+		<wordhead>𣆪<note>胡口切。五下。十八。</note></wordhead>
+		<wordhead>后<note>胡口切。九上。十二。</note></wordhead>
+		<wordhead>口<note>苦后切。二上。八。</note></wordhead>
+		<wordhead>𧺆<note>子苟切。二上。十二。</note></wordhead>
+		<wordhead>斗<note>當口切。十四上。七。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>四十七寑</rhythmic_entry>
-		<wordhead>品<note>丕飲切。二下。十二。</note>
-		</wordhead>
-		<wordhead>㐭<note>力甚切。五下。二十。</note>
-		</wordhead>
-		<wordhead>㱃<note>於錦切。八下。十六。</note>
-		</wordhead>
+		<wordhead>品<note>丕飲切。二下。十二。</note></wordhead>
+		<wordhead>㐭<note>力甚切。五下。二十。</note></wordhead>
+		<wordhead>㱃<note>於錦切。八下。十六。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>四十八感</rhythmic_entry>
-		<wordhead>？<note>胡感切。七上。十五。</note>
-		</wordhead>
-		<wordhead>？<note>乎感切。七上。十四。</note>
-		</wordhead>
+		<wordhead>？<note>胡感切。七上。十五。</note></wordhead>
+		<wordhead>？<note>乎感切。七上。十四。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>五十剡</rhythmic_entry>
-		<wordhead>焱<note>以冄切。十下。二。</note>
-		</wordhead>
-		<wordhead>冄<note>而剡切。九下。十一。</note>
-		</wordhead>
-		<wordhead>广<note>魚儉切。九下。四。</note>
-		</wordhead>
+		<wordhead>焱<note>以冄切。十下。二。</note></wordhead>
+		<wordhead>冄<note>而剡切。九下。十一。</note></wordhead>
+		<wordhead>广<note>魚儉切。九下。四。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>五十五范</rhythmic_entry>
-		<wordhead>凵<note>口犯切。二上。九。</note>
-		</wordhead>
+		<wordhead>凵<note>口犯切。二上。九。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>一送</rhythmic_entry>
-		<wordhead>？<note>莫鳳切。七下。十三。</note>
-		</wordhead>
+		<wordhead>？<note>莫鳳切。七下。十三。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>三用</rhythmic_entry>
-		<wordhead>用<note>余訟切。三下。二十六。</note>
-		</wordhead>
-		<wordhead>重<note>柱用切。八上。十。</note>
-		</wordhead>
-		<wordhead>共<note>渠用切。三上。二十。</note>
-		</wordhead>
+		<wordhead>用<note>余訟切。三下。二十六。</note></wordhead>
+		<wordhead>重<note>柱用切。八上。十。</note></wordhead>
+		<wordhead>共<note>渠用切。三上。二十。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>四絳</rhythmic_entry>
-		<wordhead>𨛜<note>胡絳切。六下。二十一、止。</note>
-		</wordhead>
+		<wordhead>𨛜<note>胡絳切。六下。二十一、止。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>五寘</rhythmic_entry>
-		<wordhead>朿<note>七賜切。七上。十八。</note>
-		</wordhead>
+		<wordhead>朿<note>七賜切。七上。十八。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>六至</rhythmic_entry>
-		<wordhead>至<note>脂利切。十二上。三。</note>
-		</wordhead>
-		<wordhead><note>神至切。一上。三。</note>
-		</wordhead>
-		<wordhead>二<note>而至切。十三下。八。</note>
-		</wordhead>
-		<wordhead>四<note>息利切。十四下。四。</note>
-		</wordhead>
-		<wordhead>自<note>疾二切。四上。六。</note>
-		</wordhead>
-		<wordhead>白<note>疾二切。四上。七。</note>
-		</wordhead>
-		<wordhead>㣇<note>芉至切。九下。十四。</note>
-		</wordhead>
-		<wordhead>鼻<note>父二切。四上。八。</note>
-		</wordhead>
-		<wordhead>比<note>毗二切。八上。五。</note>
-		</wordhead>
+		<wordhead>至<note>脂利切。十二上。三。</note></wordhead>
+		<wordhead><note>神至切。一上。三。</note></wordhead>
+		<wordhead>二<note>而至切。十三下。八。</note></wordhead>
+		<wordhead>四<note>息利切。十四下。四。</note></wordhead>
+		<wordhead>自<note>疾二切。四上。六。</note></wordhead>
+		<wordhead>白<note>疾二切。四上。七。</note></wordhead>
+		<wordhead>㣇<note>芉至切。九下。十四。</note></wordhead>
+		<wordhead>鼻<note>父二切。四上。八。</note></wordhead>
+		<wordhead>比<note>毗二切。八上。五。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>七志</rhythmic_entry>
-		<wordhead>異<note>羊吏切。三上。二十一。</note>
-		</wordhead>
+		<wordhead>異<note>羊吏切。三上。二十一。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>八未</rhythmic_entry>
-		<wordhead>未<note>無沸切。十四下。三十六。</note>
-		</wordhead>
-		<wordhead>气<note>去旣切。一上。八。</note>
-		</wordhead>
-		<wordhead>？<note>居未切。八下。十八、止。</note>
-		</wordhead>
+		<wordhead>未<note>無沸切。十四下。三十六。</note></wordhead>
+		<wordhead>气<note>去旣切。一上。八。</note></wordhead>
+		<wordhead>？<note>居未切。八下。十八、止。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>九御</rhythmic_entry>
-		<wordhead>去<note>丘據切。五上。三十。</note>
-		</wordhead>
+		<wordhead>去<note>丘據切。五上。三十。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>十遇</rhythmic_entry>
-		<wordhead>句<note>九遇切。三上。七。</note>
-		</wordhead>
-		<wordhead>䀠<note>九遇切。四上。三。</note>
-		</wordhead>
-		<wordhead>瞿<note>九遇切。四上。十九。</note>
-		</wordhead>
-		<wordhead>壴<note>中句切。五上。十八。</note>
-		</wordhead>
+		<wordhead>句<note>九遇切。三上。七。</note></wordhead>
+		<wordhead>䀠<note>九遇切。四上。三。</note></wordhead>
+		<wordhead>瞿<note>九遇切。四上。十九。</note></wordhead>
+		<wordhead>壴<note>中句切。五上。十八。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>十一暮</rhythmic_entry>
-		<wordhead>步<note>薄故切。二上。十五。</note>
-		</wordhead>
-		<wordhead>？<note>桑故切。十三上。二。</note>
-		</wordhead>
-		<wordhead>兔<note>湯故切。十上。六。</note>
-		</wordhead>
-		<wordhead>瓠<note>胡誤切。七下。八。</note>
-		</wordhead>
+		<wordhead>步<note>薄故切。二上。十五。</note></wordhead>
+		<wordhead>？<note>桑故切。十三上。二。</note></wordhead>
+		<wordhead>兔<note>湯故切。十上。六。</note></wordhead>
+		<wordhead>瓠<note>胡誤切。七下。八。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>十二霽</rhythmic_entry>
-		<wordhead>弟<note>特計切。五下。二十八。</note>
-		</wordhead>
-		<wordhead>系<note>胡計切。十二下。二十四、止。</note>
-		</wordhead>
+		<wordhead>弟<note>特計切。五下。二十八。</note></wordhead>
+		<wordhead>系<note>胡計切。十二下。二十四、止。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>十三祭</rhythmic_entry>
-		<wordhead>毳<note>此芮切。八上。十八。</note>
-		</wordhead>
-		<wordhead>？<note>居例切。九下。十五。</note>
-		</wordhead>
-		<wordhead>厂<note>余制切。十二下。五。</note>
-		</wordhead>
-		<wordhead>㡀<note>毗祭切。七下。二十五。</note>
-		</wordhead>
+		<wordhead>毳<note>此芮切。八上。十八。</note></wordhead>
+		<wordhead>？<note>居例切。九下。十五。</note></wordhead>
+		<wordhead>厂<note>余制切。十二下。五。</note></wordhead>
+		<wordhead>㡀<note>毗祭切。七下。二十五。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>十四泰</rhythmic_entry>
-		<wordhead>大<note>徒葢切。十下。五。</note>
-		</wordhead>
-		<wordhead>貝<note>博葢切。六下。十九。</note>
-		</wordhead>
-		<wordhead>會<note>黃外切。五下。八。</note>
-		</wordhead>
-		<wordhead>巜<note>古外切。十一下。四。</note>
-		</wordhead>
+		<wordhead>大<note>徒葢切。十下。五。</note></wordhead>
+		<wordhead>貝<note>博葢切。六下。十九。</note></wordhead>
+		<wordhead>會<note>黃外切。五下。八。</note></wordhead>
+		<wordhead>巜<note>古外切。十一下。四。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>十五卦</rhythmic_entry>
-		<wordhead>𠂢<note>匹卦切。十一下。九。</note>
-		</wordhead>
-		<wordhead>林<note>匹封切。七下。二。</note>
-		</wordhead>
+		<wordhead>𠂢<note>匹卦切。十一下。九。</note></wordhead>
+		<wordhead>林<note>匹封切。七下。二。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>十六怪</rhythmic_entry>
-		<wordhead>丰<note>古拜切。四下。二十。</note>
-		</wordhead>
+		<wordhead>丰<note>古拜切。四下。二十。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>十八隊</rhythmic_entry>
-		<wordhead>耒<note>盧對切。四下。二十一。</note>
-		</wordhead>
+		<wordhead>耒<note>盧對切。四下。二十一。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>十九代</rhythmic_entry>
-		<wordhead>隶<note>徒耐切。三下。十四。</note>
-		</wordhead>
+		<wordhead>隶<note>徒耐切。三下。十四。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>二十一震</rhythmic_entry>
-		<wordhead>刃<note>而振切。四下。十八。</note>
-		</wordhead>
-		<wordhead>䑞<note>舒閏切。五下。二十六。</note>
-		</wordhead>
-		<wordhead>盾<note>食閏切。四上。五。</note>
-		</wordhead>
-		<wordhead>？<note>匹刃切。七下。一。</note>
-		</wordhead>
-		<wordhead>？<note>息進切。十下。二十二。</note>
-		</wordhead>
-		<wordhead>卂<note>息晉切。十一下。二十、止。</note>
-		</wordhead>
-		<wordhead>寸<note>倉困切。三下。二十。</note>
-		</wordhead>
-		<wordhead>印<note>於刃切。九上。十六。</note>
-		</wordhead>
+		<wordhead>刃<note>而振切。四下。十八。</note></wordhead>
+		<wordhead>䑞<note>舒閏切。五下。二十六。</note></wordhead>
+		<wordhead>盾<note>食閏切。四上。五。</note></wordhead>
+		<wordhead>？<note>匹刃切。七下。一。</note></wordhead>
+		<wordhead>？<note>息進切。十下。二十二。</note></wordhead>
+		<wordhead>卂<note>息晉切。十一下。二十、止。</note></wordhead>
+		<wordhead>寸<note>倉困切。三下。二十。</note></wordhead>
+		<wordhead>印<note>於刃切。九上。十六。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>二十八翰</rhythmic_entry>
-		<wordhead>倝<note>古案切。七上。三。</note>
-		</wordhead>
-		<wordhead>半<note>博幔切。二上。四。</note>
-		</wordhead>
-		<wordhead>爨<note>七亂切。三上。二十五、止。</note>
-		</wordhead>
-		<wordhead>旦<note>得案切。七上。二。</note>
-		</wordhead>
+		<wordhead>倝<note>古案切。七上。三。</note></wordhead>
+		<wordhead>半<note>博幔切。二上。四。</note></wordhead>
+		<wordhead>爨<note>七亂切。三上。二十五、止。</note></wordhead>
+		<wordhead>旦<note>得案切。七上。二。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>三十一襉</rhythmic_entry>
-		<wordhead>采<note>蒲莧切。二上。三。</note>
-		</wordhead>
+		<wordhead>采<note>蒲莧切。二上。三。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>三十二霰</rhythmic_entry>
-		<wordhead>見<note>古甸切。八下。十三。</note>
-		</wordhead>
-		<wordhead>燕<note>於甸切。十一下。十六。</note>
-		</wordhead>
-		<wordhead>片<note>匹見切。七上。十九。</note>
-		</wordhead>
+		<wordhead>見<note>古甸切。八下。十三。</note></wordhead>
+		<wordhead>燕<note>於甸切。十一下。十六。</note></wordhead>
+		<wordhead>片<note>匹見切。七上。十九。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>三十三線</rhythmic_entry>
-		<wordhead>面<note>彌箭切。九上。三。</note>
-		</wordhead>
+		<wordhead>面<note>彌箭切。九上。三。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>三十五𥬇</rhythmic_entry>
-		<wordhead>覞<note>弋𥬇切。八下。十四。</note>
-		</wordhead>
+		<wordhead>覞<note>弋𥬇切。八下。十四。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>三十六效</rhythmic_entry>
-		<wordhead>？<note>古孝切。三下。二十四。</note>
-		</wordhead>
-		<wordhead>皃<note>莫？切。八下。九。</note>
-		</wordhead>
+		<wordhead>？<note>古孝切。三下。二十四。</note></wordhead>
+		<wordhead>皃<note>莫？切。八下。九。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>三十七号</rhythmic_entry>
-		<wordhead>号<note>胡到切。五上。十五。</note>
-		</wordhead>
-		<wordhead>吿<note>古奥切。二上。七。</note>
-		</wordhead>
-		<wordhead>目<note>莫報切。七下。十七。</note>
-		</wordhead>
+		<wordhead>号<note>胡到切。五上。十五。</note></wordhead>
+		<wordhead>吿<note>古奥切。二上。七。</note></wordhead>
+		<wordhead>目<note>莫報切。七下。十七。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>三十八箇</rhythmic_entry>
-		<wordhead>左<note>則箇切。五上。四。</note>
-		</wordhead>
+		<wordhead>左<note>則箇切。五上。四。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>三十九過</rhythmic_entry>
-		<wordhead>臥<note>吾貨切。八上。十一。</note>
-		</wordhead>
+		<wordhead>臥<note>吾貨切。八上。十一。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>四十禡</rhythmic_entry>
-		<wordhead>？<note>呼訝切。七下。二十。</note>
-		</wordhead>
-		<wordhead>亞<note>衣駕切。十四下。七。</note>
-		</wordhead>
-		<wordhead>匕<note>呼跨切。八上。二。</note>
-		</wordhead>
+		<wordhead>？<note>呼訝切。七下。二十。</note></wordhead>
+		<wordhead>亞<note>衣駕切。十四下。七。</note></wordhead>
+		<wordhead>匕<note>呼跨切。八上。二。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>四十一漾</rhythmic_entry>
-		<wordhead>放<note>甫妄切。四下。八。</note>
-		</wordhead>
-		<wordhead>鬯<note>丑諒切。五下。五。</note>
-		</wordhead>
+		<wordhead>放<note>甫妄切。四下。八。</note></wordhead>
+		<wordhead>鬯<note>丑諒切。五下。五。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>四十三映</rhythmic_entry>
-		<wordhead>誩<note>渠慶切。三上。十三。</note>
-		</wordhead>
+		<wordhead>誩<note>渠慶切。三上。十三。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>四十五勁</rhythmic_entry>
-		<wordhead>正<note>之盛切。二下。一。</note>
-		</wordhead>
+		<wordhead>正<note>之盛切。二下。一。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>四十九宥</rhythmic_entry>
-		<wordhead>又<note>于救切。三下。七。</note>
-		</wordhead>
-		<wordhead>嘼<note>許救切。十四下。十三。</note>
-		</wordhead>
+		<wordhead>又<note>于救切。三下。七。</note></wordhead>
+		<wordhead>嘼<note>許救切。十四下。十三。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>五十𠋫</rhythmic_entry>
-		<wordhead>冓<note>古𠋫切。四下。二。</note>
-		</wordhead>
-		<wordhead>戊<note>莫𠋫切。十四下。十八。</note>
-		</wordhead>
-		<wordhead>鬥<note>都豆切。三下。六。</note>
-		</wordhead>
-		<wordhead>豆<note>徒𠋫切。五上。二十一。</note>
-		</wordhead>
+		<wordhead>冓<note>古𠋫切。四下。二。</note></wordhead>
+		<wordhead>戊<note>莫𠋫切。十四下。十八。</note></wordhead>
+		<wordhead>鬥<note>都豆切。三下。六。</note></wordhead>
+		<wordhead>豆<note>徒𠋫切。五上。二十一。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>六十梵</rhythmic_entry>
-		<wordhead>欠<note>去劒切。八下。十五。</note>
-		</wordhead>
+		<wordhead>欠<note>去劒切。八下。十五。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>一屋</rhythmic_entry>
-		<wordhead>哭<note>苦屋切。二上。十一。</note>
-		</wordhead>
-		<wordhead>谷<note>古祿切。十一下。十。</note>
-		</wordhead>
-		<wordhead>卜<note>博木切。三下。二十五。</note>
-		</wordhead>
-		<wordhead>攴<note>普木切。三下。二十三。</note>
-		</wordhead>
-		<wordhead>木<note>莫卜切。六上。一。</note>
-		</wordhead>
-		<wordhead>秃<note>他谷切。八下。十二。</note>
-		</wordhead>
-		<wordhead>彔<note>盧谷切。七上。二十二。</note>
-		</wordhead>
-		<wordhead>鹿<note>盧谷切。十上。三。</note>
-		</wordhead>
-		<wordhead>畗<note>房六切。又芳逼切。五下。十九。</note>
-		</wordhead>
-		<wordhead>目<note>莫六切。四上。二。</note>
-		</wordhead>
-		<wordhead>尗<note>式竹切。七下。四。</note>
-		</wordhead>
-		<wordhead>肉<note>如六切。四下。十五。</note>
-		</wordhead>
-		<wordhead>竹<note>陟玉切。五上。一。</note>
-		</wordhead>
-		<wordhead>六<note>力竹切。十四下。九。</note>
-		</wordhead>
-		<wordhead>臼<note>居玉切。三上。二十三。</note>
-		</wordhead>
-		<wordhead>菐<note>蒲沃切。三上。十七。</note>
-		</wordhead>
+		<wordhead>哭<note>苦屋切。二上。十一。</note></wordhead>
+		<wordhead>谷<note>古祿切。十一下。十。</note></wordhead>
+		<wordhead>卜<note>博木切。三下。二十五。</note></wordhead>
+		<wordhead>攴<note>普木切。三下。二十三。</note></wordhead>
+		<wordhead>木<note>莫卜切。六上。一。</note></wordhead>
+		<wordhead>秃<note>他谷切。八下。十二。</note></wordhead>
+		<wordhead>彔<note>盧谷切。七上。二十二。</note></wordhead>
+		<wordhead>鹿<note>盧谷切。十上。三。</note></wordhead>
+		<wordhead>畗<note>房六切。又芳逼切。五下。十九。</note></wordhead>
+		<wordhead>目<note>莫六切。四上。二。</note></wordhead>
+		<wordhead>尗<note>式竹切。七下。四。</note></wordhead>
+		<wordhead>肉<note>如六切。四下。十五。</note></wordhead>
+		<wordhead>竹<note>陟玉切。五上。一。</note></wordhead>
+		<wordhead>六<note>力竹切。十四下。九。</note></wordhead>
+		<wordhead>臼<note>居玉切。三上。二十三。</note></wordhead>
+		<wordhead>菐<note>蒲沃切。三上。十七。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>三燭</rhythmic_entry>
-		<wordhead>束<note>書玉切。六下。十五。</note>
-		</wordhead>
-		<wordhead>蓐<note>而蜀切。一下。三。</note>
-		</wordhead>
-		<wordhead>足<note>卽玉切。二下。十。</note>
-		</wordhead>
-		<wordhead>？<note>丘玉切。十二下。十八。</note>
-		</wordhead>
-		<wordhead>玉<note>魚欲切。一上。六。</note>
-		</wordhead>
+		<wordhead>束<note>書玉切。六下。十五。</note></wordhead>
+		<wordhead>蓐<note>而蜀切。一下。三。</note></wordhead>
+		<wordhead>足<note>卽玉切。二下。十。</note></wordhead>
+		<wordhead>？<note>丘玉切。十二下。十八。</note></wordhead>
+		<wordhead>玉<note>魚欲切。一上。六。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>四覺</rhythmic_entry>
-		<wordhead><note>古岳切。四下。二十二、止。</note>
-		</wordhead>
-		<wordhead>𤤴<note>古岳切。一上。七。</note>
-		</wordhead>
-		<wordhead>丵<note>士角切。三上。十六。</note>
-		</wordhead>
+		<wordhead><note>古岳切。四下。二十二、止。</note></wordhead>
+		<wordhead>𤤴<note>古岳切。一上。七。</note></wordhead>
+		<wordhead>丵<note>士角切。三上。十六。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>五質</rhythmic_entry>
-		<wordhead>日<note>人質切。七上。一。</note>
-		</wordhead>
-		<wordhead>率<note>所律切。十三上。四。</note>
-		</wordhead>
-		<wordhead>七<note>親吉切。十四下。十。</note>
-		</wordhead>
-		<wordhead>桼<note>親吉切。六下。十四。</note>
-		</wordhead>
-		<wordhead>一<note>於悉切。一上。一。</note>
-		</wordhead>
-		<wordhead>𡔹<note>於悉切。十下。十二。</note>
-		</wordhead>
-		<wordhead>乙<note>於筆切。十四下。十五。</note>
-		</wordhead>
+		<wordhead>日<note>人質切。七上。一。</note></wordhead>
+		<wordhead>率<note>所律切。十三上。四。</note></wordhead>
+		<wordhead>七<note>親吉切。十四下。十。</note></wordhead>
+		<wordhead>桼<note>親吉切。六下。十四。</note></wordhead>
+		<wordhead>一<note>於悉切。一上。一。</note></wordhead>
+		<wordhead>𡔹<note>於悉切。十下。十二。</note></wordhead>
+		<wordhead>乙<note>於筆切。十四下。十五。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>六術</rhythmic_entry>
-		<wordhead>出<note>尺律切。六下。四。</note>
-		</wordhead>
-		<wordhead>戌<note>辛律切。十四下。四十。</note>
-		</wordhead>
-		<wordhead>聿<note>余律切。三下。十二。</note>
-		</wordhead>
+		<wordhead>出<note>尺律切。六下。四。</note></wordhead>
+		<wordhead>戌<note>辛律切。十四下。四十。</note></wordhead>
+		<wordhead>聿<note>余律切。三下。十二。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>八物</rhythmic_entry>
-		<wordhead>勿<note>文弗切。九下。十。</note>
-		</wordhead>
-		<wordhead>甶<note>敷勿切。九上。二十四。</note>
-		</wordhead>
-		<wordhead>巿<note>分勿切。七下。二十二。</note>
-		</wordhead>
+		<wordhead>勿<note>文弗切。九下。十。</note></wordhead>
+		<wordhead>甶<note>敷勿切。九上。二十四。</note></wordhead>
+		<wordhead>巿<note>分勿切。七下。二十二。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>十月</rhythmic_entry>
-		<wordhead>月<note>魚厥切。七上。七。</note>
-		</wordhead>
-		<wordhead>戉<note>王伐切。十二下。十。</note>
-		</wordhead>
-		<wordhead>曰<note>王伐切。五上。十。</note>
-		</wordhead>
-		<wordhead>𥄎<note>火劣切。四上。一。</note>
-		</wordhead>
-		<wordhead>亅<note>衢月切。十二下。十二。</note>
-		</wordhead>
+		<wordhead>月<note>魚厥切。七上。七。</note></wordhead>
+		<wordhead>戉<note>王伐切。十二下。十。</note></wordhead>
+		<wordhead>曰<note>王伐切。五上。十。</note></wordhead>
+		<wordhead>𥄎<note>火劣切。四上。一。</note></wordhead>
+		<wordhead>亅<note>衢月切。十二下。十二。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>十一𣳚</rhythmic_entry>
-		<wordhead>？<note>他骨切。十四下。二十九。</note>
-		</wordhead>
-		<wordhead>骨<note>古忽切。四下。十四。</note>
-		</wordhead>
+		<wordhead>？<note>他骨切。十四下。二十九。</note></wordhead>
+		<wordhead>骨<note>古忽切。四下。十四。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>十二曷</rhythmic_entry>
-		<wordhead>屵<note>五葛切。九下。三。</note>
-		</wordhead>
-		<wordhead>？<note>五割切。四下。十一。</note>
-		</wordhead>
-		<wordhead>穴<note>他達切。十下。十八。</note>
-		</wordhead>
+		<wordhead>屵<note>五葛切。九下。三。</note></wordhead>
+		<wordhead>？<note>五割切。四下。十一。</note></wordhead>
+		<wordhead>穴<note>他達切。十下。十八。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>十三末</rhythmic_entry>
-		<wordhead><note>北末切。二上。十四。</note>
-		</wordhead>
-		<wordhead>木<note>暜活切。六下。五。</note>
-		</wordhead>
+		<wordhead><note>北末切。二上。十四。</note></wordhead>
+		<wordhead>木<note>暜活切。六下。五。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>十四黠</rhythmic_entry>
-		<wordhead>㓞<note>恪八切。四下。十九。</note>
-		</wordhead>
-		<wordhead>𠃉<note>烏轄切。十二上。一。</note>
-		</wordhead>
-		<wordhead>八<note>博拔切。二上。二。</note>
-		</wordhead>
-		<wordhead>殺<note>所八切。三下。十八。</note>
-		</wordhead>
-		<wordhead>㕯<note>女滑切。三上。六。</note>
-		</wordhead>
+		<wordhead>㓞<note>恪八切。四下。十九。</note></wordhead>
+		<wordhead>𠃉<note>烏轄切。十二上。一。</note></wordhead>
+		<wordhead>八<note>博拔切。二上。二。</note></wordhead>
+		<wordhead>殺<note>所八切。三下。十八。</note></wordhead>
+		<wordhead>㕯<note>女滑切。三上。六。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>十六屑</rhythmic_entry>
-		<wordhead>卪<note>子結切。九上。十五。</note>
-		</wordhead>
-		<wordhead>？<note>徒結切。又讀若末。四上。十六。</note>
-		</wordhead>
-		<wordhead>頁<note>胡結切。九上。一。</note>
-		</wordhead>
-		<wordhead>穴<note>胡決切。七下。十二。</note>
-		</wordhead>
-		<wordhead>血<note>呼訣切。五上。三十一。</note>
-		</wordhead>
-		<wordhead>丿<note>匹蔑切。又房密切。十二下。四。</note>
-		</wordhead>
+		<wordhead>卪<note>子結切。九上。十五。</note></wordhead>
+		<wordhead>？<note>徒結切。又讀若末。四上。十六。</note></wordhead>
+		<wordhead>頁<note>胡結切。九上。一。</note></wordhead>
+		<wordhead>穴<note>胡決切。七下。十二。</note></wordhead>
+		<wordhead>血<note>呼訣切。五上。三十一。</note></wordhead>
+		<wordhead>丿<note>匹蔑切。又房密切。十二下。四。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>十七薛</rhythmic_entry>
-		<wordhead>舌<note>食𠛱切。三上。二。</note>
-		</wordhead>
-		<wordhead><note>丑𠛱切。一下。一。</note>
-		</wordhead>
-		<wordhead>叕<note>陟劣切。十四下。六。</note>
-		</wordhead>
-		<wordhead>桀<note>渠𠛱切。五下。三十一、止。</note>
-		</wordhead>
+		<wordhead>舌<note>食𠛱切。三上。二。</note></wordhead>
+		<wordhead><note>丑𠛱切。一下。一。</note></wordhead>
+		<wordhead>叕<note>陟劣切。十四下。六。</note></wordhead>
+		<wordhead>桀<note>渠𠛱切。五下。三十一、止。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>十八藥</rhythmic_entry>
-		<wordhead>龠<note>以灼切。二下。十三。</note>
-		</wordhead>
-		<wordhead>勺<note>之若切。十四上。三。</note>
-		</wordhead>
-		<wordhead>叒<note>而灼切。六下。一。</note>
-		</wordhead>
-		<wordhead>辵<note>丑略切。二下。三。</note>
-		</wordhead>
-		<wordhead>㲋<note>丑略切。十上。五。</note>
-		</wordhead>
-		<wordhead>谷<note>其虐切。三上。四。</note>
-		</wordhead>
+		<wordhead>龠<note>以灼切。二下。十三。</note></wordhead>
+		<wordhead>勺<note>之若切。十四上。三。</note></wordhead>
+		<wordhead>叒<note>而灼切。六下。一。</note></wordhead>
+		<wordhead>辵<note>丑略切。二下。三。</note></wordhead>
+		<wordhead>㲋<note>丑略切。十上。五。</note></wordhead>
+		<wordhead>谷<note>其虐切。三上。四。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>十九鐸</rhythmic_entry>
-		<wordhead>？<note>古博切。五下。十五。</note>
-		</wordhead>
+		<wordhead>？<note>古博切。五下。十五。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>二十陌</rhythmic_entry>
-		<wordhead>白<note>旁陌切。七下。二十四。</note>
-		</wordhead>
-		<wordhead>帛<note>旁陌切。七下。二十三。</note>
-		</wordhead>
-		<wordhead>乇<note>陟格切。六下。七。</note>
-		</wordhead>
-		<wordhead>？<note>几劇切。三下。五。</note>
-		</wordhead>
+		<wordhead>白<note>旁陌切。七下。二十四。</note></wordhead>
+		<wordhead>帛<note>旁陌切。七下。二十三。</note></wordhead>
+		<wordhead>乇<note>陟格切。六下。七。</note></wordhead>
+		<wordhead>？<note>几劇切。三下。五。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>二十一麥</rhythmic_entry>
-		<wordhead>麥<note>莫切。五下。二十三。</note>
-		</wordhead>
-		<wordhead><note>楚革切。二下。十四、止。</note>
-		</wordhead>
-		<wordhead>？<note>女戹切。七下。十四。</note>
-		</wordhead>
-		<wordhead>革<note>古覈切。三十。一。</note>
-		</wordhead>
-		<wordhead>畫<note>胡麥切。三下。十三。</note>
-		</wordhead>
+		<wordhead>麥<note>莫切。五下。二十三。</note></wordhead>
+		<wordhead><note>楚革切。二下。十四、止。</note></wordhead>
+		<wordhead>？<note>女戹切。七下。十四。</note></wordhead>
+		<wordhead>革<note>古覈切。三十。一。</note></wordhead>
+		<wordhead>畫<note>胡麥切。三下。十三。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>二十二昔</rhythmic_entry>
-		<wordhead>夕<note>祥易切。七上。十一。</note>
-		</wordhead>
-		<wordhead>尺<note>昌石切。八下。一。</note>
-		</wordhead>
-		<wordhead>赤<note>昌石切。十下。四。</note>
-		</wordhead>
-		<wordhead>炙<note>之石切。十下。三。</note>
-		</wordhead>
-		<wordhead>石<note>常隻切。九下。八。</note>
-		</wordhead>
-		<wordhead>彳<note>丑亦切。二下。四。</note>
-		</wordhead>
-		<wordhead>亦<note>羊益切。十下。六。</note>
-		</wordhead>
-		<wordhead>易<note>羊益切。九下。十九。</note>
-		</wordhead>
-		<wordhead>辟<note>必益切。九上。十九。</note>
-		</wordhead>
+		<wordhead>夕<note>祥易切。七上。十一。</note></wordhead>
+		<wordhead>尺<note>昌石切。八下。一。</note></wordhead>
+		<wordhead>赤<note>昌石切。十下。四。</note></wordhead>
+		<wordhead>炙<note>之石切。十下。三。</note></wordhead>
+		<wordhead>石<note>常隻切。九下。八。</note></wordhead>
+		<wordhead>彳<note>丑亦切。二下。四。</note></wordhead>
+		<wordhead>亦<note>羊益切。十下。六。</note></wordhead>
+		<wordhead>易<note>羊益切。九下。十九。</note></wordhead>
+		<wordhead>辟<note>必益切。九上。十九。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>二十三錫</rhythmic_entry>
-		<wordhead>糸<note>莫狄切。十三上。一。</note>
-		</wordhead>
-		<wordhead>冖<note>莫狄切。七下。十五。</note>
-		</wordhead>
-		<wordhead>秝<note>郎擊切。七上。二十四。</note>
-		</wordhead>
-		<wordhead>鬲<note>郎激切。三下。二。</note>
-		</wordhead>
-		<wordhead>䰜<note>郎激切。三下。三。</note>
-		</wordhead>
+		<wordhead>糸<note>莫狄切。十三上。一。</note></wordhead>
+		<wordhead>冖<note>莫狄切。七下。十五。</note></wordhead>
+		<wordhead>秝<note>郎擊切。七上。二十四。</note></wordhead>
+		<wordhead>鬲<note>郎激切。三下。二。</note></wordhead>
+		<wordhead>䰜<note>郎激切。三下。三。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>二十四職</rhythmic_entry>
-		<wordhead>？<note>乘力切。五下。六。</note>
-		</wordhead>
-		<wordhead>夨<note>阻力切。十下。七。</note>
-		</wordhead>
-		<wordhead>色<note>所力切。九上。十七。</note>
-		</wordhead>
-		<wordhead>嗇<note>所力切。五下。二十一。</note>
-		</wordhead>
-		<wordhead>力<note>林切。十三下。十七。</note>
-		</wordhead>
-		<wordhead>？<note>己力切。九上。二十二。</note>
-		</wordhead>
-		<wordhead>皕<note>彼力切。四上。九。</note>
-		</wordhead>
+		<wordhead>？<note>乘力切。五下。六。</note></wordhead>
+		<wordhead>夨<note>阻力切。十下。七。</note></wordhead>
+		<wordhead>色<note>所力切。九上。十七。</note></wordhead>
+		<wordhead>嗇<note>所力切。五下。二十一。</note></wordhead>
+		<wordhead>力<note>林切。十三下。十七。</note></wordhead>
+		<wordhead>？<note>己力切。九上。二十二。</note></wordhead>
+		<wordhead>皕<note>彼力切。四上。九。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>二十五德</rhythmic_entry>
-		<wordhead>北<note>博墨切。八上。六。</note>
-		</wordhead>
-		<wordhead>黑<note>呼北切。十上。十五、止。</note>
-		</wordhead>
-		<wordhead>克<note>苦得切。七上。二十一。</note>
-		</wordhead>
+		<wordhead>北<note>博墨切。八上。六。</note></wordhead>
+		<wordhead>黑<note>呼北切。十上。十五、止。</note></wordhead>
+		<wordhead>克<note>苦得切。七上。二十一。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>二十六緝</rhythmic_entry>
-		<wordhead>習<note>似入切。四上。十。</note>
-		</wordhead>
-		<wordhead>？<note>秦入切。五下。七。</note>
-		</wordhead>
-		<wordhead>十<note>是執切。三上。十。</note>
-		</wordhead>
-		<wordhead>入<note>人汁切。五下。十。</note>
-		</wordhead>
-		<wordhead>㗊<note>阻力切。三上。一。</note>
-		</wordhead>
-		<wordhead>立<note>力及切。十下。二十。</note>
-		</wordhead>
-		<wordhead>邑<note>於汲切。六下。二十。</note>
-		</wordhead>
-		<wordhead>皀<note>皮及切。五下。四。</note>
-		</wordhead>
+		<wordhead>習<note>似入切。四上。十。</note></wordhead>
+		<wordhead>？<note>秦入切。五下。七。</note></wordhead>
+		<wordhead>十<note>是執切。三上。十。</note></wordhead>
+		<wordhead>入<note>人汁切。五下。十。</note></wordhead>
+		<wordhead>㗊<note>阻力切。三上。一。</note></wordhead>
+		<wordhead>立<note>力及切。十下。二十。</note></wordhead>
+		<wordhead>邑<note>於汲切。六下。二十。</note></wordhead>
+		<wordhead>皀<note>皮及切。五下。四。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>二十七合</rhythmic_entry>
-		<wordhead>𠦃<note>蘇沓切。三上。十一。</note>
-		</wordhead>
-		<wordhead>帀<note>子荅切。六下。三。</note>
-		</wordhead>
-		<wordhead>雥<note>徂合切。四上。二十一。</note>
-		</wordhead>
+		<wordhead>𠦃<note>蘇沓切。三上。十一。</note></wordhead>
+		<wordhead>帀<note>子荅切。六下。三。</note></wordhead>
+		<wordhead>雥<note>徂合切。四上。二十一。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>二十九葉</rhythmic_entry>
-		<wordhead>？<note>尼輒切。十下。十三。</note>
-		</wordhead>
-		<wordhead>？<note>尼輒切。三下。十一。</note>
-		</wordhead>
+		<wordhead>？<note>尼輒切。十下。十三。</note></wordhead>
+		<wordhead>？<note>尼輒切。三下。十一。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>三十怗</rhythmic_entry>
-		<wordhead>劦<note>胡頰切。十三下。十八、止。</note>
-		</wordhead>
+		<wordhead>劦<note>胡頰切。十三下。十八、止。</note></wordhead>
 	</rhyme>
 	<rhyme>
 		<rhythmic_entry>三十二狎</rhythmic_entry>
-		<wordhead>甲<note>古狎切。十四下。十四。</note>
-		</wordhead>
+		<wordhead>甲<note>古狎切。十四下。十四。</note></wordhead>
 	</rhyme>
-	<endtitle>說文部目分韵<note>終</note>
-	</endtitle>
+	<endtitle>說文部目分韵<note>終</note></endtitle>
 </book>

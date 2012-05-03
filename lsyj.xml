@@ -1319,7 +1319,7 @@
 				<partial_tone id="臦聲">臦聲</partial_tone>
 				<partial_tone id="鬯聲">鬯聲</partial_tone>
 				<partial_tone id="竝聲">竝聲</partial_tone>
-				<partial_tone><!--⿱𠆢儿-->聲</partial_tone>
+				<partial_tone>？<!--⿱𠆢儿-->聲</partial_tone>
 				<partial_tone id="匚聲">匚聲</partial_tone>
 				<explanation>右諧聲偏旁見於今韵他部內者、皆從弟十部轉入。</explanation>
 			</tone_part>
@@ -1880,7 +1880,7 @@
 				<partial_tone id="兀聲">兀聲</partial_tone>
 				<partial_tone id="自聲">自聲</partial_tone>
 				<partial_tone id="臬聲">臬聲</partial_tone>
-				<partial_tone id="白聲">白聲<note>亦自字、與五部白別。</note></partial_tone><!--符号区別なし？-->
+				<partial_tone id="白聲15">白聲<note>亦自字、與五部白別。</note></partial_tone><!--符号区別なし？-->
 				<partial_tone id="矞聲">矞聲</partial_tone>
 				<partial_tone id="术聲">术聲<note>秫省作术。</note></partial_tone>
 				<partial_tone id="曳聲">曳聲</partial_tone>
