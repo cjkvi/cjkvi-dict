@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!--
 本データは日本学術振興会科学研究費・基盤研究C「次世代古典文献データベー
-ス構築の基礎的研究」（平成14〜16年度、課題番号：14510494、研究代表者：
+ス構築の基礎的研究」（平成14～16年度、課題番号：14510494、研究代表者：
 村越貴代美）による成果の一部に基づく。
 -->
 <?xml-stylesheet href="sbgy.xsl" type="text/xsl"?>
@@ -298,7 +298,7 @@
 				</word_head>
 				<word_head id="w108b0904">翀<note>直上飛也</note>
 				</word_head>
-				<added_word id="w108b0904a">浺<added_note>本韻敕中切又音蟲</added_note>
+				<added_word id="w108b0904a">浺<note>本韻敕中切又音蟲</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="tɕĭuŋ˥˩" onyomi="シュウ">
@@ -776,7 +776,7 @@
 				</word_head>
 				<word_head id="w112a0105">𥵫<note>籠𥵫取魚器俗</note>
 				</word_head>
-				<added_word id="w112a0105a">㤨<added_note>腫韻居悚切又戸工切</added_note>
+				<added_word id="w112a0105a">㤨<note>腫韻居悚切又戸工切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ʔuŋ˥˩" onyomi="オウ">
@@ -849,7 +849,7 @@
 				</word_head>
 				<word_head id="w112a0807">𨀜<note>走皃</note>
 				</word_head>
-				<added_word id="w112a0807a">潼<added_note>本韻徒紅切又音通</added_note>
+				<added_word id="w112a0807a">潼<note>本韻徒紅切又音通</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="tsuŋ˥˩" onyomi="ソウ">
@@ -1406,7 +1406,7 @@
 				</word_head>
 				<word_head id="w114b0703">蝩<note>蠶晩生者</note>
 				</word_head>
-				<added_word id="w114b0703a">𨤩<added_note>本韻丑凶切又直容切</added_note>
+				<added_word id="w114b0703a">𨤩<note>本韻丑凶切又直容切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="dzʰĭwoŋ˩" onyomi="ショウ">
@@ -1484,7 +1484,7 @@
 				</word_head>
 				<word_head id="w115a0306">㸼<note>㸼牛</note>
 				</word_head>
-				<added_word id="w115a0306a">夆<added_note>本韻符容切又敷恭切</added_note>
+				<added_word id="w115a0306a">夆<note>本韻符容切又敷恭切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="tsĭwoŋ˥˩" onyomi="ショウ">
@@ -1598,7 +1598,7 @@
 				</word_head>
 				<word_head id="w115b0302">䳍<note>鳥似雉鳴自呼</note>
 				</word_head>
-				<added_word id="w115b0302a">龏<added_note>用韻居用切又九容切</added_note>
+				<added_word id="w115b0302a">龏<note>用韻居用切又九容切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="sĭwoŋ˥˩" onyomi="ショウ">
@@ -2349,7 +2349,7 @@
 				</word_head>
 				<word_head id="w118b0605">𠁭<note>參差也</note>
 				</word_head>
-				<added_word id="w118b0605a">碕<added_note>紙韻墟彼切又巨支切</added_note>
+				<added_word id="w118b0605a">碕<note>紙韻墟彼切又巨支切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="xĭe˥˩" onyomi="キ">
@@ -2500,7 +2500,7 @@
 				</word_head>
 				<word_head id="w119a0704">𣏚<note>碓衡</note>
 				</word_head>
-				<added_word id="w119a0704a">鯷<added_note>寘韻是義切又音㮛</added_note>
+				<added_word id="w119a0704a">鯷<note>寘韻是義切又音㮛</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="nʑĭe˩" onyomi="ジ">
@@ -2612,7 +2612,7 @@
 				</word_head>
 				<word_head id="w119b0604">鴜<note>𪇳鴜水鳥似魚虎蒼黑色又即知切</note>
 				</word_head>
-				<added_word id="w119b0604a">姕<added_note>本韻即移切又疾支切本韻此移切又疾移切</added_note>
+				<added_word id="w119b0604a">姕<note>本韻即移切又疾支切本韻此移切又疾移切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="tsĭe˥˩" onyomi="シ">
@@ -2848,7 +2848,7 @@
 				</word_head>
 				<word_head id="w120b0703">彲<note>獸名文王卜獵于渭陽所獲非龍非彲</note>
 				</word_head>
-				<added_word id="w120b0703a">曬<added_note>卦韻所賣切又丑離切</added_note>
+				<added_word id="w120b0703a">曬<note>卦韻所賣切又丑離切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="mĭe˩" onyomi="ビ">
@@ -2973,7 +2973,7 @@
 				</word_head>
 				<word_head id="w121a0803">䞾<note>輕薄皃</note>
 				</word_head>
-				<added_word id="w121a0803a">猇<added_note>肴韻胡茅切又直支切</added_note>
+				<added_word id="w121a0803a">猇<note>肴韻胡茅切又直支切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="sĭwe˥˩" onyomi="スイ">
@@ -3680,7 +3680,7 @@
 				</word_head>
 				<word_head id="w124b0305">纝<note>網絡論語注云黑索也亦作縲</note>
 				</word_head>
-				<added_word id="w124b0305a">𨻌<added_note>賄韻落猥切又力追切</added_note>
+				<added_word id="w124b0305a">𨻌<note>賄韻落猥切又力追切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="swi˥˩" onyomi="スイ">
@@ -3794,7 +3794,7 @@
 					</original_word>
 					<note>水芰名也</note>
 				</word_head>
-				<added_word id="w125a0504a">娓<added_note>至韻明秘切又音眉</added_note>
+				<added_word id="w125a0504a">娓<note>至韻明秘切又音眉</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="pi˥˩" onyomi="ヒ">
@@ -3960,7 +3960,7 @@
 				</word_head>
 				<word_head id="w125b0703">屎<note>上同</note>
 				</word_head>
-				<added_word id="w125b0703a">嫢<added_note>旨韻求癸切又聚帷切</added_note>
+				<added_word id="w125b0703a">嫢<note>旨韻求癸切又聚帷切</note>
 				</added_word>
 			</voice_part>
 		</rhyme>
@@ -4425,7 +4425,7 @@
 				</word_head>
 				<word_head id="w127b0904">噫<note>恨聲</note>
 				</word_head>
-				<added_word id="w127b0904a">唉<added_note>咍韻烏開切又於其切</added_note>
+				<added_word id="w127b0904a">唉<note>咍韻烏開切又於其切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ţʰĭə˥˩" onyomi="チ">
@@ -4571,7 +4571,7 @@
 				</word_head>
 				<word_head id="w128a1004">𤟤<note>山𤟤獸名似犬見人則𥬇行疾如風又胡昆切</note>
 				</word_head>
-				<added_word id="w128a1004a">幃<added_note>本韻雨非切又許歸切</added_note>
+				<added_word id="w128a1004a">幃<note>本韻雨非切又許歸切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ĭwəi˩" onyomi="ヰ">
@@ -4686,7 +4686,7 @@
 				</word_head>
 				<word_head id="w128b0903">裴<note>即裴縣名案漢書地理志在魏郡應劭音非本又音陪</note>
 				</word_head>
-				<added_word id="w128b0903a">黂<added_note>未韻扶沸切又音肥</added_note>
+				<added_word id="w128b0903a">黂<note>未韻扶沸切又音肥</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ʔĭwəi˥˩" onyomi="ヰ">
@@ -4747,7 +4747,7 @@
 				</word_head>
 				<word_head id="w129a0502">𪙧<note>齒危</note>
 				</word_head>
-				<added_word id="w129a0502a">蘄<added_note>欣韻巨斤切又巨希切</added_note>
+				<added_word id="w129a0502a">蘄<note>欣韻巨斤切又巨希切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="kĭəi˥˩" onyomi="キ">
@@ -5334,7 +5334,7 @@
 				</word_head>
 				<word_head id="w132a0503">茹<note>恣也相牽引皃也易曰拔茅連茹又虜複姓後魏書普陋茹氏後改爲茹氏又如慮切又而與切</note>
 				</word_head>
-				<added_word id="w132a0503a">袽<added_note>本韻女余切又音如</added_note>
+				<added_word id="w132a0503a">袽<note>本韻女余切又音如</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="tsĭo˥˩" onyomi="ショ">
@@ -5346,7 +5346,7 @@
 				</word_head>
 				<word_head id="w132a0702">沮<note>虜複姓有沮渠氏其先丗爲匈奴左沮渠遂以官爲氏沮渠蒙遜以後魏天興四年僭號於張掖稱北涼</note>
 				</word_head>
-				<added_word id="w132a0702a"><added_note>本韻七余切又子余切</added_note>
+				<added_word id="w132a0702a"><note>本韻七余切又子余切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="kʰĭo˥˩" onyomi="キョ">
@@ -5951,7 +5951,7 @@
 				</word_head>
 				<word_head id="w135a0701">鯫<note>淺鯫小人不耐事皃又士后切</note>
 				</word_head>
-				<added_word id="w135a0701a">趣<added_note>遇韻七句切又七俱切</added_note>
+				<added_word id="w135a0701a">趣<note>遇韻七句切又七俱切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="lĭu˩" onyomi="ル">
@@ -6295,7 +6295,7 @@
 				</word_head>
 				<word_head id="w136b0602">𥗫<note>磫𥗫礪石</note>
 				</word_head>
-				<added_word id="w136b0602a">⿻𥈸一<added_note>本韻況于切又矩于切</added_note>
+				<added_word id="w136b0602a">⿻𥈸一<note>本韻況于切又矩于切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ʃĭu˥˩" onyomi="シュ">
@@ -6484,7 +6484,7 @@
 				</word_head>
 				<word_head id="w137b0503">㼋<note>𤓰也</note>
 				</word_head>
-				<added_word id="w137b0503a">⿹𠄎夕<added_note>姥韻公戸切又古乎切</added_note>
+				<added_word id="w137b0503a">⿹𠄎夕<note>姥韻公戸切又古乎切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="dʰu˩" onyomi="ト">
@@ -6755,7 +6755,7 @@
 				</word_head>
 				<word_head id="w139a0105">𣨐<note>古文</note>
 				</word_head>
-				<added_word id="w139a0105a">虘<added_note>歌韻昨何切又才都切</added_note>
+				<added_word id="w139a0105a">虘<note>歌韻昨何切又才都切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ʔu˥˩" onyomi="オ">
@@ -6869,7 +6869,7 @@
 				</word_head>
 				<word_head id="w139b0105">𤿚<note>皮皵惡也</note>
 				</word_head>
-				<added_word id="w139b0105a">粗<added_note>姥韻徂古切又千胡切</added_note>
+				<added_word id="w139b0105a">粗<note>姥韻徂古切又千胡切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="tʰu˥˩" onyomi="ト">
@@ -7083,7 +7083,7 @@
 				</word_head>
 				<word_head id="w140a1001">䬫<note>䬫餬</note>
 				</word_head>
-				<added_word id="w140a1001a">騠<added_note>本韻杜奚切又丁奚切</added_note>
+				<added_word id="w140a1001a">騠<note>本韻杜奚切又丁奚切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="dʰiei˩" onyomi="テイ">
@@ -7249,7 +7249,7 @@
 				</word_head>
 				<word_head id="w141a0104">䚜<note>横角牛名</note>
 				</word_head>
-				<added_word id="w141a0104a">㮰<added_note>脂韻房脂切又方奚切</added_note>
+				<added_word id="w141a0104a">㮰<note>脂韻房脂切又方奚切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="kiei˥˩" onyomi="ケイ">
@@ -7529,7 +7529,7 @@
 				<word_head id="w142a0404">啙<note>弱也又<original_text>兹<rewrite_text>此</rewrite_text>
 						</original_text>比切</note>
 				</word_head>
-				<added_word id="w142a0404a">䶒<added_note>本韻徂奚切又子兮切</added_note>
+				<added_word id="w142a0404a">䶒<note>本韻徂奚切又子兮切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="miei˩" onyomi="ベイ">
@@ -7572,7 +7572,7 @@
 				</word_head>
 				<word_head id="w142a0802">𤳤<note>小畚</note>
 				</word_head>
-				<added_word id="w142a0802a">繫<added_note>霽韻古詣切又口奚切</added_note>
+				<added_word id="w142a0802a">繫<note>霽韻古詣切又口奚切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="kiwei˥˩" onyomi="クヱイ">
@@ -7879,7 +7879,7 @@
 				</word_head>
 				<word_head id="w143a1002">𩂢<note>雨聲</note>
 				</word_head>
-				<added_word id="w143a1002a">睚<added_note>卦韻五獬切又五佳切</added_note>
+				<added_word id="w143a1002a">睚<note>卦韻五獬切又五佳切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ʔai˥˩" onyomi="アイ">
@@ -8097,7 +8097,7 @@
 			<voice_part ipa="ʧɐi˥˩" onyomi="サイ">
 				<word_head id="w144a0604">齋<note>齋潔也亦莊也敬也經典通用齊也<fanqie>側皆切</fanqie>一</note>
 				</word_head>
-				<added_word id="w144a0604a">䶒<added_note>齊韻徂奚切又側皆切</added_note>
+				<added_word id="w144a0604a">䶒<note>齊韻徂奚切又側皆切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ʔwɐi˥˩" onyomi="ワイ">
@@ -8116,7 +8116,7 @@
 				</word_head>
 				<word_head id="w144a0801">榸<note>枯木根出聲類</note>
 				</word_head>
-				<added_word id="w144a0801a">梩<added_note>之韻里之切又都皆切</added_note>
+				<added_word id="w144a0801a">梩<note>之韻里之切又都皆切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="lɐi˩" onyomi="ライ">
@@ -8674,7 +8674,7 @@
 				</word_head>
 				<word_head id="w146a0806">䐩<note>肥也</note>
 				</word_head>
-				<added_word id="w146a0806a">𧰙<added_note>微韻渠希切又公哀切</added_note>
+				<added_word id="w146a0806a">𧰙<note>微韻渠希切又公哀切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="dzʰɒi˩" onyomi="サイ">
@@ -8939,7 +8939,7 @@
 				</word_head>
 				<word_head id="w147a0703">縝<note>縝紛</note>
 				</word_head>
-				<added_word id="w147a0703a">辴<added_note>脂韻丑飢切又敕辰切</added_note>
+				<added_word id="w147a0703a">辴<note>脂韻丑飢切又敕辰切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ʔĭĕn˥˩" onyomi="イン">
@@ -9734,7 +9734,7 @@
 				</word_head>
 				<word_head id="w150b0608">䖲<note>蟲名</note>
 				</word_head>
-				<added_word id="w150b0608a">𣖼<added_note>本韻相倫切又祥勻切</added_note>
+				<added_word id="w150b0608a">𣖼<note>本韻相倫切又祥勻切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="kĭuĕn˥˩" onyomi="キン">
@@ -9758,7 +9758,7 @@
 				</word_head>
 				<word_head id="w150b0902">虨<note>虎文也俗作？</note>
 				</word_head>
-				<added_word id="w150b0902a">囷<added_note>眞韻去倫切又咎倫切</added_note>
+				<added_word id="w150b0902a">囷<note>眞韻去倫切又咎倫切</note>
 				</added_word>
 			</voice_part>
 		</rhyme>
@@ -10179,7 +10179,7 @@
 				</word_head>
 				<word_head id="w152b0706">蘄<note>草也又巨希切</note>
 				</word_head>
-				<added_word id="w152b0706a">堇<added_note>隱韻居隱切又音芹</added_note>
+				<added_word id="w152b0706a">堇<note>隱韻居隱切又音芹</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="kĭən˥˩" onyomi="キン">
@@ -10412,7 +10412,7 @@
 				</word_head>
 				<word_head id="w153b0906">反<note>斷獄平反又方晩切</note>
 				</word_head>
-				<added_word id="w153b0906a">藩<added_note>本韻附𡋡切又音翻</added_note>
+				<added_word id="w153b0906a">藩<note>本韻附𡋡切又音翻</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="xĭwɐn˥˩" onyomi="クヱン">
@@ -11337,7 +11337,7 @@
 				</word_head>
 				<word_head id="w158b0204">捖<note>揳刮摩也</note>
 				</word_head>
-				<added_word id="w158b0204a">𦺊<added_note>魂韻戸昆切又胡官切</added_note>
+				<added_word id="w158b0204a">𦺊<note>魂韻戸昆切又胡官切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ŋuɑn˩" onyomi="グヮン">
@@ -11361,7 +11361,7 @@
 				</word_head>
 				<word_head id="w158b0305">𠒢<note>？䨲</note>
 				</word_head>
-				<added_word id="w158b0305a">䬧<added_note>元韻愚袁切又五丸切</added_note>
+				<added_word id="w158b0305a">䬧<note>元韻愚袁切又五丸切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="tuɑn˥˩" onyomi="タン">
@@ -11403,9 +11403,9 @@
 				</word_head>
 				<word_head id="w158b0701">婠<note>德好皃又古旦切</note>
 				</word_head>
-				<added_word id="w158b0701a">䘼<added_note>阮韻於阮切又安院切</added_note>
+				<added_word id="w158b0701a">䘼<note>阮韻於阮切又安院切</note>
 				</added_word>
-				<added_word id="w158b0701b">涴<added_note>遇韻烏卧切又烏官切</added_note>
+				<added_word id="w158b0701b">涴<note>遇韻烏卧切又烏官切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="tʰuɑn˥˩" onyomi="タン">
@@ -11639,7 +11639,7 @@
 				</word_head>
 				<word_head id="w159b0805">𤠍<note>？狐大也</note>
 				</word_head>
-				<added_word id="w159b0805a">碆<added_note>戈韻薄波切又音盤</added_note>
+				<added_word id="w159b0805a">碆<note>戈韻薄波切又音盤</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="muɑn˩" onyomi="バン">
@@ -12359,7 +12359,7 @@
 				</word_head>
 				<word_head id="w202b0104">㘋<note>難也</note>
 				</word_head>
-				<added_word id="w202b0104a">䭴<added_note>刪韻戸闕切又音〾弦</added_note>
+				<added_word id="w202b0104a">䭴<note>刪韻戸闕切又音〾弦</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ʔien˥˩" onyomi="エン">
@@ -12449,7 +12449,7 @@
 				</word_head>
 				<word_head id="w202b0903">搷<note>擊也</note>
 				</word_head>
-				<added_word id="w202b0903a">瑱<added_note>霰韻他甸切又音田</added_note>
+				<added_word id="w202b0903a">瑱<note>霰韻他甸切又音田</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="nien˩" onyomi="ネン">
@@ -12512,7 +12512,7 @@
 				</word_head>
 				<word_head id="w203a0403">雃<note>〾說文曰石鳥一名雝𪆂一曰精𠛱又秦公子名士？</note>
 				</word_head>
-				<added_word id="w203a0403a">幵<added_note>本韻古賢切又音牽</added_note>
+				<added_word id="w203a0403a">幵<note>本韻古賢切又音牽</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ŋien˩" onyomi="ゲン">
@@ -12833,7 +12833,7 @@
 				</word_head>
 				<word_head id="w204b0202">𩔣<note>江湘閒人謂額也</note>
 				</word_head>
-				<added_word id="w204b0202a">亶<added_note>旱韻多旱切又遮連切</added_note>
+				<added_word id="w204b0202a">亶<note>旱韻多旱切又遮連切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="kĭɛn˥˩" onyomi="ケン">
@@ -12939,7 +12939,7 @@
 				</word_head>
 				<word_head id="w205a0102">㙻<note>上同</note>
 				</word_head>
-				<added_word id="w205a0102a">澶<added_note>本韻市連切又音</added_note>
+				<added_word id="w205a0102a">澶<note>本韻市連切又音</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="xĭɛn˥˩" onyomi="ケン">
@@ -13094,7 +13094,7 @@
 						<original_text>⿰宣頁<rewrite_text>𩤡</rewrite_text>
 						</original_text>額</note>
 				</word_head>
-				<added_word id="w205b0504a">吅<added_note>元韻况𡋡切又私全切用韻似用切又音宣</added_note>
+				<added_word id="w205b0504a">吅<note>元韻况𡋡切又私全切用韻似用切又音宣</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="tsĭwɛn˥˩" onyomi="セン">
@@ -13927,7 +13927,7 @@
 				</word_head>
 				<word_head id="w209a0301">𦩻<note>古文</note>
 				</word_head>
-				<added_word id="w209a0301a">⿱日黽<added_note>本韻直遥切又遥陟切</added_note>
+				<added_word id="w209a0301a">⿱日黽<note>本韻直遥切又遥陟切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ɖʰĭɛu˩" onyomi="テウ">
@@ -14569,7 +14569,7 @@
 				</word_head>
 				<word_head id="w211b0602">𩎔<note>囊也</note>
 				</word_head>
-				<added_word id="w211b0602a">𡥈<added_note>效韻古孝切又音交</added_note>
+				<added_word id="w211b0602a">𡥈<note>效韻古孝切又音交</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="dʒʰau˩" onyomi="サウ">
@@ -14702,7 +14702,7 @@
 				</word_head>
 				<word_head id="w212a0504">㹲<note>豕驚</note>
 				</word_head>
-				<added_word id="w212a0504a">烋<added_note>幽韻香幽切又火交切</added_note>
+				<added_word id="w212a0504a">烋<note>幽韻香幽切又火交切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="pau˥˩" onyomi="ハウ">
@@ -14774,7 +14774,7 @@
 				</word_head>
 				<word_head id="w212b0102">𢿣<note>蒼頡篇云擊也</note>
 				</word_head>
-				<added_word id="w212b0102a">磽<added_note>效韻五敎切又五交切</added_note>
+				<added_word id="w212b0102a">磽<note>效韻五敎切又五交切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ʧau˥˩" onyomi="サウ">
@@ -16851,7 +16851,7 @@
 				</word_head>
 				<word_head id="w222a0105">𤳈<note>上同</note>
 				</word_head>
-				<added_word id="w222a0105a">蠰<added_note>本韻色莊切又音傷</added_note>
+				<added_word id="w222a0105a">蠰<note>本韻色莊切又音傷</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="bʰĭwaŋ˩" onyomi="ヒャウ">
@@ -17137,7 +17137,7 @@
 				</word_head>
 				<word_head id="w223b0104">朢<note>弦朢又音妄</note>
 				</word_head>
-				<added_word id="w223b0104a">忘<added_note>漾韻巫放切又音亡</added_note>
+				<added_word id="w223b0104a">忘<note>漾韻巫放切又音亡</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ɳĭaŋ˩" onyomi="ヂャウ">
@@ -18465,7 +18465,7 @@
 				</word_head>
 				<word_head id="w229b0107">羥<note>羊名</note>
 				</word_head>
-				<added_word id="w229b0107a">？<added_note>山韻苦閑切又口耕切</added_note>
+				<added_word id="w229b0107a">？<note>山韻苦閑切又口耕切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="mæŋ˩" onyomi="バウ">
@@ -18563,7 +18563,7 @@
 				</word_head>
 				<word_head id="w229b0804">䆸<note>䆸宏闊大皃</note>
 				</word_head>
-				<added_word id="w229b0804a">憕<added_note>蒸韻直陵切又竹萌切</added_note>
+				<added_word id="w229b0804a">憕<note>蒸韻直陵切又竹萌切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ʔæŋ˥˩" onyomi="アウ">
@@ -19786,7 +19786,7 @@
 				</word_head>
 				<word_head id="w235b0205">㭁<note>木名</note>
 				</word_head>
-				<added_word id="w235b0205a">陾<added_note>之韻如之切又音仍</added_note>
+				<added_word id="w235b0205a">陾<note>之韻如之切又音仍</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="kĭəŋ˥˩" onyomi="キョウ">
@@ -19827,7 +19827,7 @@
 				<word_head id="w235b0505">興<note>盛也舉也善也〾說文曰起也从舁从同同力也亦州名戰國時爲白馬<original_text>玄<rewrite_text>氐</rewrite_text>
 						</original_text>之地漢置武都郡魏立東益州梁爲興州因武興山而名<fanqie>虛陵切</fanqie>又許應切三</note>
 				</word_head>
-				<added_word id="w235b0505a">嬹<added_note>女字</added_note>
+				<added_word id="w235b0505a">嬹<note>女字</note>
 				</added_word>
 				<word_head id="w235b0601">𨞾<note>〾說文曰地名也</note>
 				</word_head>
@@ -20370,7 +20370,7 @@
 				</word_head>
 				<word_head id="w238a0401">𦵵<note>〾說文草也</note>
 				</word_head>
-				<added_word id="w238a0401a">苬<added_note>本韻似由切又音由</added_note>
+				<added_word id="w238a0401a">苬<note>本韻似由切又音由</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ŋĭəu˩" onyomi="ギウ">
@@ -20400,7 +20400,7 @@
 				</word_head>
 				<word_head id="w238a0706">𣟼<note>聚也又束枲也</note>
 				</word_head>
-				<added_word id="w238a0706a">噍<added_note>𥬇韻才𥬇切又子由切</added_note>
+				<added_word id="w238a0706a">噍<note>𥬇韻才𥬇切又子由切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="dzʰĭəu˩" onyomi="シウ">
@@ -20519,7 +20519,7 @@
 				</word_head>
 				<word_head id="w238b1002">𨞪<note>蜀江原地又音儔</note>
 				</word_head>
-				<added_word id="w238b1002a">𠹝<added_note>𠋫韻鳥切又市由切</added_note>
+				<added_word id="w238b1002a">𠹝<note>𠋫韻鳥切又市由切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="nʑĭəu˩" onyomi="ジウ">
@@ -20716,7 +20716,7 @@
 				</word_head>
 				<word_head id="w240a0303">黀<note>聚麻</note>
 				</word_head>
-				<added_word id="w240a0303a">棸<added_note>本韻直由切又側鳩切</added_note>
+				<added_word id="w240a0303a">棸<note>本韻直由切又側鳩切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="dʒʰĭəu˩" onyomi="シウ">
@@ -20826,7 +20826,7 @@
 				</word_head>
 				<word_head id="w240b0101">𥲅<note>〾說文云籌箸也</note>
 				</word_head>
-				<added_word id="w240b0101a">䯾<added_note>蕭韻徙聊切又音綢</added_note>
+				<added_word id="w240b0101a">䯾<note>蕭韻徙聊切又音綢</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ţĭəu˥˩" onyomi="チウ">
@@ -21047,7 +21047,7 @@
 				</word_head>
 				<word_head id="w241b0104">繆<note>絲干累</note>
 				</word_head>
-				<added_word id="w241b0104a">哹<added_note>本韻縛謀切又拂謀切</added_note>
+				<added_word id="w241b0104a">哹<note>本韻縛謀切又拂謀切</note>
 				</added_word>
 			</voice_part>
 		</rhyme>
@@ -21269,7 +21269,7 @@
 				<word_head id="w242b0402">掫<note>〾說文云夜戒守有所<original_text>繫<rewrite_text>擊</rewrite_text>
 						</original_text>也</note>
 				</word_head>
-				<added_word id="w242b0402a">諏<added_note>虞韻子于切又子侯切</added_note>
+				<added_word id="w242b0402a">諏<note>虞韻子于切又子侯切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="tʰəu˥˩" onyomi="トウ">
@@ -21420,7 +21420,7 @@
 			<voice_part ipa="məu˩" onyomi="ボウ">
 				<word_head id="w243a0801">呣<note>慮也<fanqie>亡侯切</fanqie>一</note>
 				</word_head>
-				<added_word id="w243a0801a">棷<added_note>厚韻倉切苟切又側溝切</added_note>
+				<added_word id="w243a0801a">棷<note>厚韻倉切苟切又側溝切</note>
 				</added_word>
 			</voice_part>
 		</rhyme>
@@ -21465,7 +21465,7 @@
 				</word_head>
 				<word_head id="w243b0205">驫<note>馬走皃又音標</note>
 				</word_head>
-				<added_word id="w243b0205a">飍<added_note>本韻香幽切又風幽切</added_note>
+				<added_word id="w243b0205a">飍<note>本韻香幽切又風幽切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="liəu˩" onyomi="リウ">
@@ -21489,7 +21489,7 @@
 				</word_head>
 				<word_head id="w243b0403">㽱<note>腹急病也</note>
 				</word_head>
-				<added_word id="w243b0403a">虯<added_note>本韻渠幽切又居幽切</added_note>
+				<added_word id="w243b0403a">虯<note>本韻渠幽切又居幽切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="bʰiəu˩" onyomi="ヒウ">
@@ -21929,7 +21929,7 @@
 				</word_head>
 				<word_head id="w245b0302">𪑙<note>淺黃色說文云黃黒也又古咸切</note>
 				</word_head>
-				<added_word id="w245b0302a">僸<added_note>沁韻居䕃切又居林切</added_note>
+				<added_word id="w245b0302a">僸<note>沁韻居䕃切又居林切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ʔĭĕm˥˩" onyomi="イム">
@@ -22073,9 +22073,9 @@
 				</word_head>
 				<word_head id="w246a0503">㽑<note>長味又徒紞切</note>
 				</word_head>
-				<added_word id="w246a0503a">𧡪<added_note>本韻他含切又大含切</added_note>
+				<added_word id="w246a0503a">𧡪<note>本韻他含切又大含切</note>
 				</added_word>
-				<added_word id="w246a0503b">瞫<added_note>勘韻徒紺切又徒南切</added_note>
+				<added_word id="w246a0503b">瞫<note>勘韻徒紺切又徒南切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="tsʰɒm˥˩" onyomi="サム">
@@ -22202,7 +22202,7 @@
 				</word_head>
 				<word_head id="w246b0703">𨅔<note>上也</note>
 				</word_head>
-				<added_word id="w246b0703a">鏨<added_note>闞韻藏濫切又音蠶</added_note>
+				<added_word id="w246b0703a">鏨<note>闞韻藏濫切又音蠶</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="tsɒm˥˩" onyomi="サム">
@@ -22229,7 +22229,7 @@
 				</word_head>
 				<word_head id="w246b0804">貪<note>貪婪也𥼶名曰貪探也探入他分也</note>
 				</word_head>
-				<added_word id="w246b0804a">抩<added_note>本那含切又他含切</added_note>
+				<added_word id="w246b0804a">抩<note>本那含切又他含切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="tɒm˥˩" onyomi="タム">
@@ -22963,7 +22963,7 @@
 				</word_head>
 				<word_head id="w250a0104">燫<note>火不絕皃</note>
 				</word_head>
-				<added_word id="w250a0104a">稴<added_note>本韻戸兼切又力兼切</added_note>
+				<added_word id="w250a0104a">稴<note>本韻戸兼切又力兼切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="kʰiem˥˩" onyomi="ケム">
@@ -23063,7 +23063,7 @@
 				</word_head>
 				<word_head id="w250a0903">𪒹<note>說文曰雖晳而黒也古人名？字晳</note>
 				</word_head>
-				<added_word id="w250a0903a">𪑙<added_note>侵韻居吟切又古咸切</added_note>
+				<added_word id="w250a0903a">𪑙<note>侵韻居吟切又古咸切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ʃɐm˥˩" onyomi="サム">
@@ -23189,9 +23189,9 @@
 				</word_head>
 				<word_head id="w250b0804">𠔺<note>？䫡長面</note>
 				</word_head>
-				<added_word id="w250b0804a">歉<added_note>陷韻口陷切又口咸切</added_note>
+				<added_word id="w250b0804a">歉<note>陷韻口陷切又口咸切</note>
 				</added_word>
-				<added_word id="w250b0804b">嚵<added_note>琰韻慈染切又初咸切</added_note>
+				<added_word id="w250b0804b">嚵<note>琰韻慈染切又初咸切</note>
 				</added_word>
 			</voice_part>
 		</rhyme>
@@ -23220,7 +23220,7 @@
 				</word_head>
 				<word_head id="w251a0101">嚵<note>嚵氣說文曰小？也一曰？也又音懺</note>
 				</word_head>
-				<added_word id="w251a0101a">讒<added_note>咸韻士咸切又士銜切鑑韻士懴切又士衫切</added_note>
+				<added_word id="w251a0101a">讒<note>咸韻士咸切又士銜切鑑韻士懴切又士衫切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ŋam˩" onyomi="ガム">
@@ -23948,7 +23948,7 @@
 			<voice_part ipa="tsĭwoŋ˥" onyomi="ショウ">
 				<word_head id="w304b0104">䙕<note><fanqie>子冢切</fanqie>襌衣又息拱切</note>
 				</word_head>
-				<added_word id="w304b0104a">𢃓<added_note>本韻職勇切又且勇切</added_note>
+				<added_word id="w304b0104a">𢃓<note>本韻職勇切又且勇切</note>
 				</added_word>
 			</voice_part>
 		</rhyme>
@@ -24015,7 +24015,7 @@
 				</word_head>
 				<word_head id="w304b0604">𢞡<note>慃？</note>
 				</word_head>
-				<added_word id="w304b0604a">傱<added_note>腫韻息悚切又先項切</added_note>
+				<added_word id="w304b0604a">傱<note>腫韻息悚切又先項切</note>
 				</added_word>
 			</voice_part>
 		</rhyme>
@@ -24083,7 +24083,7 @@
 				</word_head>
 				<word_head id="w305a0404">䟗<note>䟗尌也謂立也積聚也</note>
 				</word_head>
-				<added_word id="w305a0404a">鯷<added_note>寘韻是義切又音是</added_note>
+				<added_word id="w305a0404a">鯷<note>寘韻是義切又音是</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="mĭe˥" onyomi="ビ">
@@ -24433,7 +24433,7 @@
 				</word_head>
 				<word_head id="w306b0802">孈<note>多態</note>
 				</word_head>
-				<added_word id="w306b0802a">栘<added_note>齊韻成臡切又余氏切</added_note>
+				<added_word id="w306b0802a">栘<note>齊韻成臡切又余氏切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="lĭe˥" onyomi="リ">
@@ -24718,9 +24718,9 @@
 			<voice_part ipa="ţʰĭe˥" onyomi="チ">
 				<word_head id="w307b1001">褫<note><fanqie>敕豸切</fanqie>衣絮偏也又池豸二音一</note>
 				</word_head>
-				<added_word id="w307b1001a">杝<added_note>本韻池爾切又敕氏切</added_note>
+				<added_word id="w307b1001a">杝<note>本韻池爾切又敕氏切</note>
 				</added_word>
-				<added_word id="w307b1001b">肔<added_note>本韻移爾切又敕紙切</added_note>
+				<added_word id="w307b1001b">肔<note>本韻移爾切又敕紙切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ţĭe˥" onyomi="チ">
@@ -25059,7 +25059,7 @@
 				</word_head>
 				<word_head id="w309b0501">踓<note>走也又千水切</note>
 				</word_head>
-				<added_word id="w309b0501a">鷕<added_note>小韻以沼切又羊水切</added_note>
+				<added_word id="w309b0501a">鷕<note>小韻以沼切又羊水切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ʔi˥" onyomi="イ">
@@ -25117,9 +25117,9 @@
 				</word_head>
 				<word_head id="w309b0801">蘬<note>蘢古大者曰蘬</note>
 				</word_head>
-				<added_word id="w309b0801a">𦭄<added_note>止韻阻史切又側几切</added_note>
+				<added_word id="w309b0801a">𦭄<note>止韻阻史切又側几切</note>
 				</added_word>
-				<added_word id="w309b0801b">𪖥<added_note>尾韻虛豈切又虛几切</added_note>
+				<added_word id="w309b0801b">𪖥<note>尾韻虛豈切又虛几切</note>
 				</added_word>
 			</voice_part>
 		</rhyme>
@@ -26128,7 +26128,7 @@
 				</word_head>
 				<word_head id="w315a0404">郙<note>亭名也在上蔡</note>
 				</word_head>
-				<added_word id="w315a0404a">旊<added_note>養韻分网切又音甫</added_note>
+				<added_word id="w315a0404a">旊<note>養韻分网切又音甫</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="mĭu˥" onyomi="ブ">
@@ -26990,9 +26990,9 @@
 				</word_head>
 				<word_head id="w319a0802">皉<note>白色</note>
 				</word_head>
-				<added_word id="w319a0802a">淒<added_note>齊韻七稽切又干弟切</added_note>
+				<added_word id="w319a0802a">淒<note>齊韻七稽切又干弟切</note>
 				</added_word>
-				<added_word id="w319a0802b">𢇌<added_note>紙韻斯氏切又干禮切</added_note>
+				<added_word id="w319a0802b">𢇌<note>紙韻斯氏切又干禮切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="kʰiei˥" onyomi="ケイ">
@@ -27224,9 +27224,9 @@
 				</word_head>
 				<word_head id="w320a0503">拐<note>手腳之物枝也</note>
 				</word_head>
-				<added_word id="w320a0503a">跐<added_note>紙韻雌氏切又阻買切</added_note>
+				<added_word id="w320a0503a">跐<note>紙韻雌氏切又阻買切</note>
 				</added_word>
-				<added_word id="w320a0503b">㧗<added_note>紙韻將此切又側買切薺韻子禮切又側買切</added_note>
+				<added_word id="w320a0503b">㧗<note>紙韻將此切又側買切薺韻子禮切又側買切</note>
 				</added_word>
 			</voice_part>
 		</rhyme>
@@ -27348,9 +27348,9 @@
 				</word_head>
 				<word_head id="w320b0401">櫑<note>櫑劒古木劒也</note>
 				</word_head>
-				<added_word id="w320b0401a">𡿔<added_note>脂韻力追切又力罪切</added_note>
+				<added_word id="w320b0401a">𡿔<note>脂韻力追切又力罪切</note>
 				</added_word>
-				<added_word id="w320b0401b">儽<added_note>脂韻力追切又力罪切</added_note>
+				<added_word id="w320b0401b">儽<note>脂韻力追切又力罪切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="dʰuɒi˥" onyomi="タイ">
@@ -27905,7 +27905,7 @@
 				</word_head>
 				<word_head id="w322b0602">蜠<note>爾雅曰貝大而險者曰蜠又音囷</note>
 				</word_head>
-				<added_word id="w322b0602a">囷<added_note>真韻去倫切又渠殞切</added_note>
+				<added_word id="w322b0602a">囷<note>真韻去倫切又渠殞切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="jĭĕn˥" onyomi="イン">
@@ -28075,7 +28075,7 @@
 					</original_word>
 					<note>亦同又作栒</note>
 				</word_head>
-				<added_word id="w323b0103a">奞<added_note>宵韻相邀切又先準切</added_note>
+				<added_word id="w323b0103a">奞<note>宵韻相邀切又先準切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="nʑĭuĕn˥" onyomi="ジュン">
@@ -28340,7 +28340,7 @@
 						</original_text>
 					</note>
 				</word_head>
-				<added_word id="w324b0103a">𠞱<added_note>震韻渠遴切又去槿切</added_note>
+				<added_word id="w324b0103a">𠞱<note>震韻渠遴切又去槿切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="kʰĭən˥" onyomi="キン">
@@ -28539,9 +28539,9 @@
 				</word_head>
 				<word_head id="w325a0803">䛄<note>慰也又於万切</note>
 				</word_head>
-				<added_word id="w325a0803a">鄢<added_note>仙韻於乾切又於晩切</added_note>
+				<added_word id="w325a0803a">鄢<note>仙韻於乾切又於晩切</note>
 				</added_word>
-				<added_word id="w325a0803b">涴<added_note>過韻烏卧切又於阮切</added_note>
+				<added_word id="w325a0803b">涴<note>過韻烏卧切又於阮切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="kʰĭwɐn˥" onyomi="クヱン">
@@ -29069,7 +29069,7 @@
 				</word_head>
 				<word_head id="w327a0606">篹<note>籮屬</note>
 				</word_head>
-				<added_word id="w327a0606a">選<added_note>獮韻思兖切又思管切</added_note>
+				<added_word id="w327a0606a">選<note>獮韻思兖切又思管切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="kuɑn˥" onyomi="クヮン">
@@ -29729,13 +29729,13 @@
 				</word_head>
 				<word_head id="w329b0403">蜸<note>蜸蚕蚯蚓</note>
 				</word_head>
-				<added_word id="w329b0403a">㹂<added_note>㞕韻胡結切又口殄切</added_note>
+				<added_word id="w329b0403a">㹂<note>㞕韻胡結切又口殄切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ŋien˥" onyomi="ゲン">
 				<word_head id="w329b0404">齞<note>開口見齒<fanqie>研峴切</fanqie>一</note>
 				</word_head>
-				<added_word id="w329b0404a">蜎<added_note>先韻烏𤣥切又毆〾泫切</added_note>
+				<added_word id="w329b0404a">蜎<note>先韻烏𤣥切又毆〾泫切</note>
 				</added_word>
 			</voice_part>
 		</rhyme>
@@ -30241,7 +30241,7 @@
 				</word_head>
 				<word_head id="w331b0203">緛<note>衣縫也</note>
 				</word_head>
-				<added_word id="w331b0203a">堧<added_note>過韻乃卧切又如兖切</added_note>
+				<added_word id="w331b0203a">堧<note>過韻乃卧切又如兖切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="tɕʰĭwɛn˥" onyomi="セン">
@@ -30411,7 +30411,7 @@
 			<voice_part ipa="dʒʰĭɛn˥" onyomi="セン">
 				<word_head id="w332a0502">棧<note><fanqie>士免切</fanqie>棚也一</note>
 				</word_head>
-				<added_word id="w332a0502a">吮<added_note>本韻徂兖切又徐兖切</added_note>
+				<added_word id="w332a0502a">吮<note>本韻徂兖切又徐兖切</note>
 				</added_word>
 			</voice_part>
 		</rhyme>
@@ -30478,7 +30478,7 @@
 				</word_head>
 				<word_head id="w332a1004">𠄏<note>懸皃</note>
 				</word_head>
-				<added_word id="w332a1004a">㠀<added_note>晧韻都晧切又音鳥</added_note>
+				<added_word id="w332a1004a">㠀<note>晧韻都晧切又音鳥</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="lieu˥" onyomi="レウ">
@@ -31121,7 +31121,7 @@
 				<word_head id="w335a0202">𢾐<note>擊也一云<original_text>攬<rewrite_text>攪</rewrite_text>
 						</original_text>也亦作？<fanqie>山巧切</fanqie>一</note>
 				</word_head>
-				<added_word id="w335a0202a">賿<added_note>肴韻力嘲切又力絞切</added_note>
+				<added_word id="w335a0202a">賿<note>肴韻力嘲切又力絞切</note>
 				</added_word>
 			</voice_part>
 		</rhyme>
@@ -32365,7 +32365,7 @@
 				</word_head>
 				<word_head id="w340a0402">卬<note>望也欲有所度</note>
 				</word_head>
-				<added_word id="w340a0402a">弶<added_note>漾韻其亮切又魚兩切</added_note>
+				<added_word id="w340a0402a">弶<note>漾韻其亮切又魚兩切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ʧʰĭaŋ˥" onyomi="シャウ">
@@ -32631,7 +32631,7 @@
 				</word_head>
 				<word_head id="w341a0605">傸<note>惡也</note>
 				</word_head>
-				<added_word id="w341a0605a">䉃<added_note>本韻即兩切又秦杖切</added_note>
+				<added_word id="w341a0605a">䉃<note>本韻即兩切又秦杖切</note>
 				</added_word>
 			</voice_part>
 		</rhyme>
@@ -32840,7 +32840,7 @@
 				</word_head>
 				<word_head id="w342a0205">懬<note>大也又丘廣切說文又口謗切</note>
 				</word_head>
-				<added_word id="w342a0205a">炕<added_note>唐韻呼朗切又苦朗切</added_note>
+				<added_word id="w342a0205a">炕<note>唐韻呼朗切又苦朗切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ʔuɑŋ˥" onyomi="ワウ">
@@ -33501,7 +33501,7 @@
 					</original_word>
 					<note>門上關</note>
 				</word_head>
-				<added_word id="w344b0203a">訂<added_note>靑韻他丁切又他頂切</added_note>
+				<added_word id="w344b0203a">訂<note>靑韻他丁切又他頂切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="dzʰieŋ˥" onyomi="セイ">
@@ -34389,7 +34389,7 @@
 				</word_head>
 				<word_head id="w348a0802">襡<note>短衣</note>
 				</word_head>
-				<added_word id="w348a0802a">缿<added_note>講韻胡溝切又大口切</added_note>
+				<added_word id="w348a0802a">缿<note>講韻胡溝切又大口切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="dʒʰəu˥" onyomi="ソウ">
@@ -34404,7 +34404,7 @@
 				</word_head>
 				<word_head id="w348a0902">棷<note>棨也又側溝切</note>
 				</word_head>
-				<added_word id="w348a0902a">棷<added_note>尤韻側鳩切又？苟切</added_note>
+				<added_word id="w348a0902a">棷<note>尤韻側鳩切又？苟切</note>
 				</added_word>
 			</voice_part>
 		</rhyme>
@@ -35016,7 +35016,7 @@
 				</word_head>
 				<word_head id="w350b0602">䇞<note>竹名實中</note>
 				</word_head>
-				<added_word id="w350b0602a">嚂<added_note>關韻苦濫切又工覽切</added_note>
+				<added_word id="w350b0602a">嚂<note>關韻苦濫切又工覽切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ɕɑm˥" onyomi="サム">
@@ -36641,7 +36641,7 @@
 				</word_head>
 				<word_head id="w405a1001">敡<note>輕𥳑爲⿰易攵</note>
 				</word_head>
-				<added_word id="w405a1001a">施<added_note>支韻式支切又以䈯切</added_note>
+				<added_word id="w405a1001a">施<note>支韻式支切又以䈯切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ŋĭe˩˥" onyomi="ギ">
@@ -37589,7 +37589,7 @@
 				</word_head>
 				<word_head id="w409a0401">睢<note>恣睢暴戾又許葵切</note>
 				</word_head>
-				<added_word id="w409a0401a">妣<added_note>旨韻卑履切又甫至切</added_note>
+				<added_word id="w409a0401a">妣<note>旨韻卑履切又甫至切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="pi˩˥" onyomi="ヒ">
@@ -37608,7 +37608,7 @@
 				</word_head>
 				<word_head id="w409a0501">比<note>近也倂也</note>
 				</word_head>
-				<added_word id="w409a0501a">箅<added_note>霽韻博計切又必至切</added_note>
+				<added_word id="w409a0501a">箅<note>霽韻博計切又必至切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="dzʰwi˩˥" onyomi="スイ">
@@ -37648,7 +37648,7 @@
 				</word_head>
 				<word_head id="w409a0802">䨳<note>〾說文云見雨而止息曰䨳</note>
 				</word_head>
-				<added_word id="w409a0802a">咥<added_note>？韻徒結切又火至切</added_note>
+				<added_word id="w409a0802a">咥<note>？韻徒結切又火至切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ji˩˥" onyomi="イ">
@@ -37773,7 +37773,7 @@
 				</word_head>
 				<word_head id="w409b0703">識<note>標識見禮本音式</note>
 				</word_head>
-				<added_word id="w409b0703a">幟<added_note>本韻昌志切又音志</added_note>
+				<added_word id="w409b0703a">幟<note>本韻昌志切又音志</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ɖʰĭə˩˥" onyomi="チ">
@@ -38044,7 +38044,7 @@
 				</word_head>
 				<word_head id="w410b0701">嬉<note>可嬉美姿顏也又音熙</note>
 				</word_head>
-				<added_word id="w410b0701a">喜<added_note>止韻虚里切又香忌切</added_note>
+				<added_word id="w410b0701a">喜<note>止韻虚里切又香忌切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ŋĭə˩˥" onyomi="ギ">
@@ -38445,7 +38445,7 @@
 				</word_head>
 				<word_head id="w412b0301">蜡<note>周禮有蜡氏又音乍</note>
 				</word_head>
-				<added_word id="w412b0301a">狙<added_note>魚韻七余切丘又七預切</added_note>
+				<added_word id="w412b0301a">狙<note>魚韻七余切丘又七預切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="kʰĭo˩˥" onyomi="キョ">
@@ -38567,7 +38567,7 @@
 				</word_head>
 				<word_head id="w413a0102">澽<note>乾澽</note>
 				</word_head>
-				<added_word id="w413a0102a">懅<added_note>魚韻強魚切又音滹</added_note>
+				<added_word id="w413a0102a">懅<note>魚韻強魚切又音滹</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="sĭo˩˥" onyomi="ショ">
@@ -38722,7 +38722,7 @@
 				</word_head>
 				<word_head id="w413b0401">𠊪<note>上同</note>
 				</word_head>
-				<added_word id="w413b0401a">贖<added_note>燭韻神蜀切又音樹</added_note>
+				<added_word id="w413b0401a">贖<note>燭韻神蜀切又音樹</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ɖʰĭu˩˥" onyomi="チュウ">
@@ -38732,7 +38732,7 @@
 				</word_head>
 				<word_head id="w413b0404">逗<note>姓也出何承天纂文又音豆</note>
 				</word_head>
-				<added_word id="w413b0404a">尌<added_note>本韻常句切又音住</added_note>
+				<added_word id="w413b0404a">尌<note>本韻常句切又音住</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="bʰĭu˩˥" onyomi="フ">
@@ -39490,7 +39490,7 @@
 				</word_head>
 				<word_head id="w417a0303">渧<note>埤蒼云渧？漉也</note>
 				</word_head>
-				<added_word id="w417a0303a">遰<added_note>本韻特計切又底隸切</added_note>
+				<added_word id="w417a0303a">遰<note>本韻特計切又底隸切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="dzʰiei˩˥" onyomi="セイ">
@@ -40067,7 +40067,7 @@
 				</word_head>
 				<word_head id="w419a0402">繐<note>上同</note>
 				</word_head>
-				<added_word id="w419a0402a">彗<added_note>至韻徐醉切又音歳</added_note>
+				<added_word id="w419a0402a">彗<note>至韻徐醉切又音歳</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ĭwɛi˩˥" onyomi="エイ">
@@ -40124,7 +40124,7 @@
 			<voice_part ipa="ʃĭwɛi˩˥" onyomi="セイ">
 				<word_head id="w419a0904">𠻜<note>小歠也<fanqie>山芮切</fanqie>一</note>
 				</word_head>
-				<added_word id="w419a0904a">𧑎<added_note>泰韻祖外切又山芮切</added_note>
+				<added_word id="w419a0904a">𧑎<note>泰韻祖外切又山芮切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="tsʰĭwɛi˩˥" onyomi="セイ">
@@ -40658,7 +40658,7 @@
 			<voice_part ipa="pʰĭɛi˩˥" onyomi="ヘイ">
 				<word_head id="w421a0705">潎<note>魚游水也<fanqie>匹蔽切</fanqie>一</note>
 				</word_head>
-				<added_word id="w421a0705a">㡀<added_note>本韻毗祭切又匹丗切</added_note>
+				<added_word id="w421a0705a">㡀<note>本韻毗祭切又匹丗切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="kʰĭwɐi˩˥" onyomi="クヱイ">
@@ -40668,7 +40668,7 @@
 			<voice_part ipa="xĭwɐi˩˥" onyomi="クヱイ">
 				<word_head id="w421a0802">䂕<note>短皃<fanqie>呼吠切</fanqie>一</note>
 				</word_head>
-				<added_word id="w421a0802a">喙<added_note>廢韻許穢切又昌芮切</added_note>
+				<added_word id="w421a0802a">喙<note>廢韻許穢切又昌芮切</note>
 				</added_word>
 			</voice_part>
 		</rhyme>
@@ -41062,7 +41062,7 @@
 				</word_head>
 				<word_head id="w423a0301">𩹄<note>魚名</note>
 				</word_head>
-				<added_word id="w423a0301a">𩡔<added_note>曷韻許葛切又呼蓋切</added_note>
+				<added_word id="w423a0301a">𩡔<note>曷韻許葛切又呼蓋切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="tʰuɑi˩˥" onyomi="タイ">
@@ -41469,7 +41469,7 @@
 				</word_head>
 				<word_head id="w424b0104">蘾<note>？烏薞草</note>
 				</word_head>
-				<added_word id="w424b0104a">蘳<added_note>馬韻胡瓦切又音壤</added_note>
+				<added_word id="w424b0104a">蘳<note>馬韻胡瓦切又音壤</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ŋwɐi˩˥" onyomi="グヮイ">
@@ -42018,7 +42018,7 @@
 				</word_head>
 				<word_head id="w426a1001">靆<note>靉靆雲狀</note>
 				</word_head>
-				<added_word id="w426a1001a">隶<added_note>至韻羊至切又音代</added_note>
+				<added_word id="w426a1001a">隶<note>至韻羊至切又音代</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="tsɒi˩˥" onyomi="サイ">
@@ -42414,7 +42414,7 @@
 				</word_head>
 				<word_head id="w427b0605">𨋙<note>車名</note>
 				</word_head>
-				<added_word id="w427b0605a">蚓<added_note>軫韻余忍切又余刃切</added_note>
+				<added_word id="w427b0605a">蚓<note>軫韻余忍切又余刃切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="lĭĕn˩˥" onyomi="リン">
@@ -42688,7 +42688,7 @@
 				</word_head>
 				<word_head id="w428b0705">𧥺<note>欺言</note>
 				</word_head>
-				<added_word id="w428b0705a">賮<added_note>本韻徐刃切又疾刃切</added_note>
+				<added_word id="w428b0705a">賮<note>本韻徐刃切又疾刃切</note>
 				</added_word>
 			</voice_part>
 		</rhyme>
@@ -42737,7 +42737,7 @@
 				</word_head>
 				<word_head id="w429a0101">迿<note>出表詞出</note>
 				</word_head>
-				<added_word id="w429a0101a">駿<added_note>本韻子峻切又音峻</added_note>
+				<added_word id="w429a0101a">駿<note>本韻子峻切又音峻</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="zĭuĕn˩˥" onyomi="シュン">
@@ -43205,7 +43205,7 @@
 			<voice_part ipa="ĭwɐn˩˥" onyomi="エン">
 				<word_head id="w430b1004">逺<note>離也<fanqie>于願切</fanqie>一</note>
 				</word_head>
-				<added_word id="w430b1004a">瑗<added_note>線韻王眷切又于願切</added_note>
+				<added_word id="w430b1004a">瑗<note>線韻王眷切又于願切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ŋĭɐn˩˥" onyomi="ゲン">
@@ -43472,7 +43472,7 @@
 				</word_head>
 				<word_head id="w431b1004">𩹼<note>魚名</note>
 				</word_head>
-				<added_word id="w431b1004a">靬<added_note>元韻居言切又下憚切</added_note>
+				<added_word id="w431b1004a">靬<note>元韻居言切又下憚切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="tʰɑn˩˥" onyomi="タン">
@@ -43562,9 +43562,9 @@
 				</word_head>
 				<word_head id="w432a0604">矸<note>石淨</note>
 				</word_head>
-				<added_word id="w432a0604a">皯<added_note>旱韻古旱切又工旦切</added_note>
+				<added_word id="w432a0604a">皯<note>旱韻古旱切又工旦切</note>
 				</added_word>
-				<added_word id="w432a0604b">衦<added_note>旱韻古旱切又音幹</added_note>
+				<added_word id="w432a0604b">衦<note>旱韻古旱切又音幹</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ŋɑn˩˥" onyomi="ガン">
@@ -43907,7 +43907,7 @@
 				</word_head>
 				<word_head id="w433b0104">湪<note>水名</note>
 				</word_head>
-				<added_word id="w433b0104a">鶨<added_note>線韻丑戀切又音彖</added_note>
+				<added_word id="w433b0104a">鶨<note>線韻丑戀切又音彖</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="xuɑn˩˥" onyomi="クヮン">
@@ -44047,7 +44047,7 @@
 				</word_head>
 				<word_head id="w433b1003">鐗<note>車？鐵也</note>
 				</word_head>
-				<added_word id="w433b1003a">閒<added_note>山韻古閑切又音㵎</added_note>
+				<added_word id="w433b1003a">閒<note>山韻古閑切又音㵎</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ŋan˩˥" onyomi="ガン">
@@ -44092,7 +44092,7 @@
 				</word_head>
 				<word_head id="w434a0401">䴮<note>餅麴</note>
 				</word_head>
-				<added_word id="w434a0401a">刪<added_note>刪韻所姦切又所晏切</added_note>
+				<added_word id="w434a0401a">刪<note>刪韻所姦切又所晏切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ɣan˩˥" onyomi="カン">
@@ -44603,7 +44603,7 @@
 				</word_head>
 				<word_head id="w435b0701">𧲛<note>畜食</note>
 				</word_head>
-				<added_word id="w435b0701a">濺<added_note>線韻子濺切又作甸切</added_note>
+				<added_word id="w435b0701a">濺<note>線韻子濺切又作甸切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="mien˩˥" onyomi="ベン">
@@ -44720,7 +44720,7 @@
 				</word_head>
 				<word_head id="w436a0601">嬗<note>說文緩也一曰傳也漢書霍去病子名嬗</note>
 				</word_head>
-				<added_word id="w436a0601a">㠭<added_note>獮韻知演切又視戰切</added_note>
+				<added_word id="w436a0601a">㠭<note>獮韻知演切又視戰切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ŋĭɛn˩˥" onyomi="ゲン">
@@ -44803,7 +44803,7 @@
 					</original_word>
 					<note>再揚穀又小風也</note>
 				</word_head>
-				<added_word id="w436b0107a">𥆊<added_note>本韻七絹切又弋絹切</added_note>
+				<added_word id="w436b0107a">𥆊<note>本韻七絹切又弋絹切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ţĭɛn˩˥" onyomi="テン">
@@ -44866,7 +44866,7 @@
 				</word_head>
 				<word_head id="w436b0505">堰<note>堰埭</note>
 				</word_head>
-				<added_word id="w436b0505a">䞁<added_note>願韻於建切又於面切</added_note>
+				<added_word id="w436b0505a">䞁<note>願韻於建切又於面切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="kĭwɛn˩˥" onyomi="クヱン">
@@ -44917,7 +44917,7 @@
 				</word_head>
 				<word_head id="w436b0903">淃<note>水名</note>
 				</word_head>
-				<added_word id="w436b0903a">𥆗<added_note>仙韻巨員切又音倦</added_note>
+				<added_word id="w436b0903a">𥆗<note>仙韻巨員切又音倦</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="lĭwɛn˩˥" onyomi="レン">
@@ -45447,7 +45447,7 @@
 				</word_head>
 				<word_head id="w438b0403">慓<note>急疾</note>
 				</word_head>
-				<added_word id="w438b0403a">驃<added_note>本韻毗召切又匹召切</added_note>
+				<added_word id="w438b0403a">驃<note>本韻毗召切又匹召切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="dzʰĭɛu˩˥" onyomi="セウ">
@@ -45572,7 +45572,7 @@
 				</word_head>
 				<word_head id="w439a0301">俵<note>俵散</note>
 				</word_head>
-				<added_word id="w439a0301a">驃<added_note>本韻毗召切又卑𥬇切</added_note>
+				<added_word id="w439a0301a">驃<note>本韻毗召切又卑𥬇切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="gʰĭɛu˩˥" onyomi="ケウ">
@@ -45584,7 +45584,7 @@
 				</word_head>
 				<word_head id="w439a0304">繞<note>卷取物皃</note>
 				</word_head>
-				<added_word id="w439a0304a">䬰<added_note>本韻寔照切又尺邵切</added_note>
+				<added_word id="w439a0304a">䬰<note>本韻寔照切又尺邵切</note>
 				</added_word>
 			</voice_part>
 		</rhyme>
@@ -45631,7 +45631,7 @@
 				</word_head>
 				<word_head id="w439a0704">珓<note>杯珓古者以玉爲之</note>
 				</word_head>
-				<added_word id="w439a0704a">𡦳<added_note>本韻呼敎切又音敎</added_note>
+				<added_word id="w439a0704a">𡦳<note>本韻呼敎切又音敎</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="xau˩˥" onyomi="カウ">
@@ -45661,7 +45661,7 @@
 				</word_head>
 				<word_head id="w439a1001">鵫<note>鵫雉今白雉也</note>
 				</word_head>
-				<added_word id="w439a1001a">菿<added_note>覺韻竹角切又陟孝切</added_note>
+				<added_word id="w439a1001a">菿<note>覺韻竹角切又陟孝切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="pau˩˥" onyomi="ハウ">
@@ -46553,7 +46553,7 @@
 				</word_head>
 				<word_head id="w442b0405">𨶃<note>上同</note>
 				</word_head>
-				<added_word id="w442b0405a">矺<added_note>盍韻都榼切又竹亞切</added_note>
+				<added_word id="w442b0405a">矺<note>盍韻都榼切又竹亞切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ʧa˩˥" onyomi="サ">
@@ -46643,7 +46643,7 @@
 				<word_head id="w442b1004">厈<note>山名爾雅曰東<original_text>方<rewrite_text>北</rewrite_text>
 						</original_text>之美者有厈山之文皮焉又音尺</note>
 				</word_head>
-				<added_word id="w442b1004a">厙<added_note>本韻始夜切又昌舎切</added_note>
+				<added_word id="w442b1004a">厙<note>本韻始夜切又昌舎切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="sĭa˩˥" onyomi="シャ">
@@ -46858,7 +46858,7 @@
 				</word_head>
 				<word_head id="w443b0707">瀁<note>水溢蕩皃</note>
 				</word_head>
-				<added_word id="w443b0707a">䵮<added_note>陽韻式年切又餘諒切</added_note>
+				<added_word id="w443b0707a">䵮<note>陽韻式年切又餘諒切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="lĭaŋ˩˥" onyomi="リャウ">
@@ -46966,7 +46966,7 @@
 				</word_head>
 				<word_head id="w444a0601">𥇔<note>失志</note>
 				</word_head>
-				<added_word id="w444a0601a">瑒<added_note>梗韻徒杏切又音暢</added_note>
+				<added_word id="w444a0601a">瑒<note>梗韻徒杏切又音暢</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="xĭaŋ˩˥" onyomi="キャウ">
@@ -47022,7 +47022,7 @@
 				</word_head>
 				<word_head id="w444a1004">瘴<note>熱病</note>
 				</word_head>
-				<added_word id="w444a1004a">裳<added_note>養韻昌兩切又主尚切</added_note>
+				<added_word id="w444a1004a">裳<note>養韻昌兩切又主尚切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ʑĭaŋ˩˥" onyomi="シャウ">
@@ -47449,7 +47449,7 @@
 			<voice_part ipa="kʰĭɐŋ˩˥" onyomi="ケイ">
 				<word_head id="w446a0307">慶<note>賀也福也亦州名周之先不窋之所居春秋爲義渠戎國城本漢郁郅縣魏文置朔州隋爲慶州州立嘉名也亦姓左傳齊大夫慶封又漢複姓有慶師慶忌慶父三氏出姓苑<fanqie>丘敬切</fanqie>一</note>
 				</word_head>
-				<added_word id="w446a0307a">窉<added_note>梗韻兵永切又區詠切</added_note>
+				<added_word id="w446a0307a">窉<note>梗韻兵永切又區詠切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="kɐŋ˩˥" onyomi="カウ">
@@ -47597,7 +47597,7 @@
 					</original_word><!--⿰言羍-->
 					<note>瞋語<fanqie>許更切</fanqie>一</note>
 				</word_head>
-				<added_word id="w446b0402a">窉<added_note>梗韻兵永切又兄病切</added_note>
+				<added_word id="w446b0402a">窉<note>梗韻兵永切又兄病切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ʔwɐŋ˩˥" onyomi="ワウ">
@@ -47905,7 +47905,7 @@
 				</word_head>
 				<word_head id="w447b0802">令<note>令支縣在遼西郡</note>
 				</word_head>
-				<added_word id="w447b0802a">偋<added_note>勁韻防正切又蒲徑切</added_note>
+				<added_word id="w447b0802a">偋<note>勁韻防正切又蒲徑切</note>
 				</added_word>
 			</voice_part>
 		</rhyme>
@@ -48006,7 +48006,7 @@
 			<voice_part ipa="xĭəŋ˩˥" onyomi="キョウ">
 				<word_head id="w448a0505">𩜁<note>馬食穀多氣流四下也<fanqie>里甑切</fanqie>一</note>
 				</word_head>
-				<added_word id="w448a0505a">掕<added_note>蒸韻力膺切又力證切</added_note>
+				<added_word id="w448a0505a">掕<note>蒸韻力膺切又力證切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="bʰĭəŋ˩˥" onyomi="ヒョウ">
@@ -48077,7 +48077,7 @@
 				</word_head>
 				<word_head id="w448a1002">𥔂<note>石連皃</note>
 				</word_head>
-				<added_word id="w448a1002a">暅<added_note>阮韻況晩切又古鄧切</added_note>
+				<added_word id="w448a1002a">暅<note>阮韻況晩切又古鄧切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="tsʰəŋ˩˥" onyomi="ソウ">
@@ -48121,7 +48121,7 @@
 				</word_head>
 				<word_head id="w448b0306">堋<note>上同又壅江水灌漑曰堋</note>
 				</word_head>
-				<added_word id="w448b0306a">窆<added_note>豔韻方驗切又方亘切</added_note>
+				<added_word id="w448b0306a">窆<note>豔韻方驗切又方亘切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="bʰəŋ˩˥" onyomi="ホウ">
@@ -48368,7 +48368,7 @@
 				</word_head>
 				<word_head id="w449b0201">俞<note>姓漢有司徒椽俞連又羊朱切</note>
 				</word_head>
-				<added_word id="w449b0201a">不<added_note>九韻甬鳩切又甫救切有韻方久切又甫救切</added_note>
+				<added_word id="w449b0201a">不<note>九韻甬鳩切又甫救切有韻方久切又甫救切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="lĭəu˩˥" onyomi="リウ">
@@ -48423,7 +48423,7 @@
 				</word_head>
 				<word_head id="w449b0603">宿<note>星宿亦宿留又音夙</note>
 				</word_head>
-				<added_word id="w449b0603a">玉<added_note>燭韻相玉切又香救切</added_note>
+				<added_word id="w449b0603a">玉<note>燭韻相玉切又香救切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="tsĭəu˩˥" onyomi="シウ">
@@ -48538,7 +48538,7 @@
 				</word_head>
 				<word_head id="w450a0408">鞣<note>柔皮又音柔</note>
 				</word_head>
-				<added_word id="w450a0408a">揉<added_note>尤韻耳由切又汝又切</added_note>
+				<added_word id="w450a0408a">揉<note>尤韻耳由切又汝又切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="mĭəu˩˥" onyomi="ビウ">
@@ -48843,7 +48843,7 @@
 				</word_head>
 				<word_head id="w451a0806">𧱪<note>温豕</note>
 				</word_head>
-				<added_word id="w451a0806a">陋<added_note>屋韻蒲木切又倉𠋫切</added_note>
+				<added_word id="w451a0806a">陋<note>屋韻蒲木切又倉𠋫切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ləu˩˥" onyomi="ロウ">
@@ -49212,7 +49212,7 @@
 						</original_text>
 					</note>
 				</word_head>
-				<added_word id="w452b0503a">帎<added_note>冠近幘前</added_note>
+				<added_word id="w452b0503a">帎<note>冠近幘前</note>
 				</added_word>
 				<word_head id="w452b0504">𩈉<note>頑劣皃</note>
 				</word_head>
@@ -50191,7 +50191,7 @@
 				</word_head>
 				<word_head id="w502b0802">涑<note>水名在河東</note>
 				</word_head>
-				<added_word id="w502b0802a">數<added_note>遇韻色句切又音速</added_note>
+				<added_word id="w502b0802a">數<note>遇韻色句切又音速</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="luk" onyomi="ロク">
@@ -50825,7 +50825,7 @@
 				</word_head>
 				<word_head id="w505b0106">蘛<note>茂也</note>
 				</word_head>
-				<added_word id="w505b0106a">虪<added_note>本韻式竹切又音育</added_note>
+				<added_word id="w505b0106a">虪<note>本韻式竹切又音育</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="gʰĭuk" onyomi="キク">
@@ -50946,7 +50946,7 @@
 				</word_head>
 				<word_head id="w506a0501">茿<note>萹茿也似藜赤莖生道傍可食</note>
 				</word_head>
-				<added_word id="w506a0501a">𡮞<added_note>職韻丁力切又丁六切</added_note>
+				<added_word id="w506a0501a">𡮞<note>職韻丁力切又丁六切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="tsĭuk" onyomi="シュク">
@@ -51346,7 +51346,7 @@
 				</word_head>
 				<word_head id="w507b0901">萺<note>草也</note>
 				</word_head>
-				<added_word id="w507b0901a">蓩<added_note>皓韻武道切辛又亡毒切</added_note>
+				<added_word id="w507b0901a">蓩<note>皓韻武道切辛又亡毒切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="xuok" onyomi="コク">
@@ -51691,7 +51691,7 @@
 				</word_head>
 				<word_head id="w509a0607">㹱<note>宋良大又七雀切</note>
 				</word_head>
-				<added_word id="w509a0607a">趣<added_note>遇韻七句切又親足切</added_note>
+				<added_word id="w509a0607a">趣<note>遇韻七句切又親足切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="zĭwok" onyomi="ショク">
@@ -52040,7 +52040,7 @@
 				</word_head>
 				<word_head id="w510b0306">𧴤<note>盈財</note>
 				</word_head>
-				<added_word id="w510b0306a">嚗<added_note>本韻北角切又孚邈切</added_note>
+				<added_word id="w510b0306a">嚗<note>本韻北角切又孚邈切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="kʰɔk" onyomi="カク">
@@ -52185,7 +52185,7 @@
 				</word_head>
 				<word_head id="w511a0306">㪬<note>授也刺也㪬敊痛也敊丑六切</note>
 				</word_head>
-				<added_word id="w511a0306a">擉<added_note>本韻測角切又音踔</added_note>
+				<added_word id="w511a0306a">擉<note>本韻測角切又音踔</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="lɔk" onyomi="ラク">
@@ -52712,7 +52712,7 @@
 				</word_head>
 				<word_head id="w513a0604">狤<note>狤狂</note>
 				</word_head>
-				<added_word id="w513a0604a">咭<added_note>本韻許吉又巨吉切</added_note>
+				<added_word id="w513a0604a">咭<note>本韻許吉又巨吉切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="bʰĭĕt" onyomi="ヒツ">
@@ -53145,7 +53145,7 @@
 				</word_head>
 				<word_head id="w514b0704">𦦖<note>雞兒出殼聲</note>
 				</word_head>
-				<added_word id="w514b0704a">茁<added_note>質韻徴筆切又鄒律切</added_note>
+				<added_word id="w514b0704a">茁<note>質韻徴筆切又鄒律切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="xĭuĕt" onyomi="キツ">
@@ -53368,7 +53368,7 @@
 				</word_head>
 				<word_head id="w515b0804">烼<note>火煨起皃</note>
 				</word_head>
-				<added_word id="w515b0804a">㾁<added_note>没韻呼骨揘切又音欻</added_note>
+				<added_word id="w515b0804a">㾁<note>没韻呼骨揘切又音欻</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ĭuət" onyomi="ウツ">
@@ -53462,7 +53462,7 @@
 				</word_head>
 				<word_head id="w516a0404">仡<note>壯勇皃</note>
 				</word_head>
-				<added_word id="w516a0404a">釳<added_note>本韻計訖切又魚訖切</added_note>
+				<added_word id="w516a0404a">釳<note>本韻計訖切又魚訖切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="gʰĭət" onyomi="キツ">
@@ -53661,7 +53661,7 @@
 				</word_head>
 				<word_head id="w517a0101">𦁐<note>𦁐狄衣周禮作闕禮記作屈</note>
 				</word_head>
-				<added_word id="w517a0101a">朅<added_note>薛韻丘竭切又去謁切</added_note>
+				<added_word id="w517a0101a">朅<note>薛韻丘竭切又去謁切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="pĭwɐt" onyomi="ハツ">
@@ -53763,7 +53763,7 @@
 			<voice_part ipa="ŋĭɐt" onyomi="ゲツ">
 				<word_head id="w517a0804">钀<note>馬勒旁鐵<fanqie>語訐切</fanqie>一</note>
 				</word_head>
-				<added_word id="w517a0804a">茁<added_note>質韻徴筆切又莊月切</added_note>
+				<added_word id="w517a0804a">茁<note>質韻徴筆切又莊月切</note>
 				</added_word>
 			</voice_part>
 		</rhyme>
@@ -54578,7 +54578,7 @@
 				</word_head>
 				<word_head id="w520a0802">筏<note>箄筏</note>
 				</word_head>
-				<added_word id="w520a0802a">般<added_note>刪韻布還切又音鉢</added_note>
+				<added_word id="w520a0802a">般<note>刪韻布還切又音鉢</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="tsuɑt" onyomi="サツ">
@@ -54781,7 +54781,7 @@
 				</word_head>
 				<word_head id="w521a0203">梲<note>大棒亦木梲又音拙</note>
 				</word_head>
-				<added_word id="w521a0203a">裞<added_note>祭韻舒芮切又他活切</added_note>
+				<added_word id="w521a0203a">裞<note>祭韻舒芮切又他活切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="luɑt" onyomi="ラツ">
@@ -54905,7 +54905,7 @@
 				</word_head>
 				<word_head id="w521b0105">扎<note>扎拔也出家語</note>
 				</word_head>
-				<added_word id="w521b0105a">𧖀<added_note>薛韻陟劣切又壯殺切</added_note>
+				<added_word id="w521b0105a">𧖀<note>薛韻陟劣切又壯殺切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="bʰæt" onyomi="ハツ">
@@ -55630,7 +55630,7 @@
 				</word_head>
 				<word_head id="w524a0203">䆢<note>〾說文曰深抉也</note>
 				</word_head>
-				<added_word id="w524a0203a">鈌<added_note>本韻古穴切又乙穴切</added_note>
+				<added_word id="w524a0203a">鈌<note>本韻古穴切又乙穴切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="dʰiet" onyomi="テツ">
@@ -56527,7 +56527,7 @@
 				</word_head>
 				<word_head id="w527b0201">𠻜<note>小飲</note>
 				</word_head>
-				<added_word id="w527b0201a">鋝<added_note>本韻力輟切又音刷</added_note>
+				<added_word id="w527b0201a">鋝<note>本韻力輟切又音刷</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="kĭɛt" onyomi="ケツ">
@@ -56749,7 +56749,7 @@
 				</word_head>
 				<word_head id="w528a0509">䖃<note>䖃䖃風吹水皃</note>
 				</word_head>
-				<added_word id="w528a0509a">濼<added_note>錫韻郞擊切又音藥</added_note>
+				<added_word id="w528a0509a">濼<note>錫韻郞擊切又音藥</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="lĭak" onyomi="リャク">
@@ -56978,7 +56978,7 @@
 				</word_head>
 				<word_head id="w529a0601">䱜<note>魚名出東海</note>
 				</word_head>
-				<added_word id="w529a0601a">庴<added_note>昔韻秦昔切又七削切</added_note>
+				<added_word id="w529a0601a">庴<note>昔韻秦昔切又七削切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="gʰĭak" onyomi="キャク">
@@ -57468,7 +57468,7 @@
 				</word_head>
 				<word_head id="w531a0703">䭦<note>䭦餅亦作𪎄</note>
 				</word_head>
-				<added_word id="w531a0703a">𦐦<added_note>本韻匹各切步各切</added_note>
+				<added_word id="w531a0703a">𦐦<note>本韻匹各切步各切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="xɑk" onyomi="カク">
@@ -57721,7 +57721,7 @@
 				</word_head>
 				<word_head id="w532a0901">噋<note>敲噋噋聲也亦作㗥</note>
 				</word_head>
-				<added_word id="w532a0901a">彉<added_note>本韻虚郭切又音廓</added_note>
+				<added_word id="w532a0901a">彉<note>本韻虚郭切又音廓</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ŋuɑk" onyomi="クヮク">
@@ -57780,7 +57780,7 @@
 				</word_head>
 				<word_head id="w532b0205">銆<note>銆刀軍器</note>
 				</word_head>
-				<added_word id="w532b0205a">皛<added_note>本韻善伯切又莫百切</added_note>
+				<added_word id="w532b0205a">皛<note>本韻善伯切又莫百切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ţɐk" onyomi="タク">
@@ -57961,7 +57961,7 @@
 				</word_head>
 				<word_head id="w533a0505">䩹<note>補履</note>
 				</word_head>
-				<added_word id="w533a0505a">鮥<added_note>鐸韻盧各切又五格切</added_note>
+				<added_word id="w533a0505a">鮥<note>鐸韻盧各切又五格切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ŋĭɐk" onyomi="ゲキ">
@@ -58040,7 +58040,7 @@
 				</word_head>
 				<word_head id="w533a1005">洦<note>淺水</note>
 				</word_head>
-				<added_word id="w533a1005a">㿟<added_note>篠韻古了切又匹白切</added_note>
+				<added_word id="w533a1005a">㿟<note>篠韻古了切又匹白切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="xɐk" onyomi="カク">
@@ -58576,7 +58576,7 @@
 				</word_head>
 				<word_head id="w535b0101">糪<note>飯半生熟爾雅云米者謂之糪</note>
 				</word_head>
-				<added_word id="w535b0101a">繴<added_note>錫韻北激切又敷核切</added_note>
+				<added_word id="w535b0101a">繴<note>錫韻北激切又敷核切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ŋæk" onyomi="ガク">
@@ -58616,7 +58616,7 @@
 				</word_head>
 				<word_head id="w535b0304">眲<note>耳目不相信出列子</note>
 				</word_head>
-				<added_word id="w535b0304a">蹢<added_note>本韻陟革切又寸厄切</added_note>
+				<added_word id="w535b0304a">蹢<note>本韻陟革切又寸厄切</note>
 				</added_word>
 			</voice_part>
 		</rhyme>
@@ -59118,7 +59118,7 @@
 				</word_head>
 				<word_head id="w537b0605">㱤<note>㱸㱤欲死之皃</note>
 				</word_head>
-				<added_word id="w537b0605a">蚚<added_note>隊韻胡輩切又音析</added_note>
+				<added_word id="w537b0605a">蚚<note>隊韻胡輩切又音析</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="kiek" onyomi="ケキ">
@@ -59797,7 +59797,7 @@
 				</word_head>
 				<word_head id="w540a0206">㽚<note>田器又地名</note>
 				</word_head>
-				<added_word id="w540a0206a">㱋<added_note>錫韻丑歷切又丑力切</added_note>
+				<added_word id="w540a0206a">㱋<note>錫韻丑歷切又丑力切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ţĭək" onyomi="チョク">
@@ -60306,7 +60306,7 @@
 				</word_head>
 				<word_head id="w541b0901">鶝<note>鶝𪂉鳥</note>
 				</word_head>
-				<added_word id="w541b0901a">僰<added_note>德韻蒲北切又符逼切</added_note>
+				<added_word id="w541b0901a">僰<note>德韻蒲北切又符逼切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="ŋĭək" onyomi="ギョク">
@@ -60753,9 +60753,9 @@
 				</word_head>
 				<word_head id="w543b0502">㠍<note>負秦山名</note>
 				</word_head>
-				<added_word id="w543b0502a">亼<added_note>本韻秦入切又子入切</added_note>
+				<added_word id="w543b0502a">亼<note>本韻秦入切又子入切</note>
 				</added_word>
-				<added_word id="w543b0502b">箿<added_note>本韻秦入切又子立切</added_note>
+				<added_word id="w543b0502b">箿<note>本韻秦入切又子立切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="gʰĭĕp" onyomi="キフ">
@@ -61030,7 +61030,7 @@
 			<voice_part ipa="tɕʰĭĕp" onyomi="シフ">
 				<word_head id="w544b0204">卙<note>字統云會聚也<fanqie>昌汁切</fanqie>一</note>
 				</word_head>
-				<added_word id="w544b0204a">偛<added_note>洽韻側洽切又楚立切</added_note>
+				<added_word id="w544b0204a">偛<note>洽韻側洽切又楚立切</note>
 				</added_word>
 			</voice_part>
 		</rhyme>
@@ -61236,7 +61236,7 @@
 				</word_head>
 				<word_head id="w545a0707">䈋<note>竹名</note>
 				</word_head>
-				<added_word id="w545a0707a">鞳<added_note>盍韻吐盍切又他荅切</added_note>
+				<added_word id="w545a0707a">鞳<note>盍韻吐盍切又他荅切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="dzʰɒp" onyomi="サフ">
@@ -61903,7 +61903,7 @@
 				</word_head>
 				<word_head id="w547b0104">𦣀<note>動𦣀</note>
 				</word_head>
-				<added_word id="w547b0104a">𦔼<added_note>怗韻蘇協切又人耴切</added_note>
+				<added_word id="w547b0104a">𦔼<note>怗韻蘇協切又人耴切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="tɕĭɛp" onyomi="セフ">
@@ -62286,7 +62286,7 @@
 				</word_head>
 				<word_head id="w548b0508">𦩌<note>？舟行也</note>
 				</word_head>
-				<added_word id="w548b0508a">揲<added_note>薛韻食列切又思頰切</added_note>
+				<added_word id="w548b0508a">揲<note>薛韻食列切又思頰切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="liep" onyomi="レフ">
@@ -62324,7 +62324,7 @@
 				</word_head>
 				<word_head id="w548b0707">涉<note>血流皃又時懾切</note>
 				</word_head>
-				<added_word id="w548b0707a">䶬<added_note>薛韻魚列切又丁篋切</added_note>
+				<added_word id="w548b0707a">䶬<note>薛韻魚列切又丁篋切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="dzʰiep" onyomi="セフ">
@@ -62665,7 +62665,7 @@
 				</word_head>
 				<word_head id="w550a0107">𧻵<note>行𧻵𧻵</note>
 				</word_head>
-				<added_word id="w550a0107a">䈉<added_note>葉韻即葉切又所甲切</added_note>
+				<added_word id="w550a0107a">䈉<note>葉韻即葉切又所甲切</note>
 				</added_word>
 			</voice_part>
 			<voice_part ipa="xap" onyomi="カフ">
@@ -62677,7 +62677,7 @@
 				</word_head>
 				<word_head id="w550a0203">𣢗<note>𣢗𣢗鼻息</note>
 				</word_head>
-				<added_word id="w550a0203a">炠<added_note>本韻胡甲切又呼甲切</added_note>
+				<added_word id="w550a0203a">炠<note>本韻胡甲切又呼甲切</note>
 				</added_word>
 			</voice_part>
 		</rhyme>
@@ -63066,7 +63066,7 @@
 					</word_head>
 					<word_head>朝<note>知遥反朝旦也</note>
 					</word_head>
-					<added_word>紬<added_note>直流反紬布也</added_note>
+					<added_word>紬<note>直流反紬布也</note>
 					</added_word>
 					<word_head>幽<note>於虬反幽冥也</note>
 					</word_head>
