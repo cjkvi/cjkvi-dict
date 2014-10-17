@@ -1,3 +1,5 @@
+# Copyright (c) 2014 CJKVI Database
+# based on Asian Character Tables (http://http://east-chr-data.sourceforge.net/)
 sawd-00101	a	⿰丫鳥*
 sawd-00102	a	鵶
 sawd-00103	a	⿰丫烏
@@ -215,7 +217,7 @@ sawd-00806	baenq	⿰扌⿱竹㚓
 sawd-00807	baenq	𢫆
 sawd-00808	baenq	躰
 sawd-00809	baenq	𪮐
-sawd-00810	baenq	⿰本
+sawd-00810	baenq	⿰本&CDP-8CCE;
 sawd-00811	baenz	⿰虫盆*
 sawd-00812	baenz	貧*
 sawd-00813	baenz	𡗯
@@ -369,7 +371,7 @@ sawd-01228	bamq	⿰扌犯
 sawd-01229	bamq	⿰面办
 sawd-01230	bamq	⿰𧾷办
 sawd-01301	bamz	𤴭*
-sawd-01302	bamz	⿰口
+sawd-01302	bamz	⿰口&CDP-88EC;
 sawd-01303	bamz	⿲王虫王
 sawd-01304	ban	班*
 sawd-01305	ban	⿱班日*
@@ -672,7 +674,7 @@ sawd-02502	bingz	⿰石⿱䒑⿻几三
 sawd-02503	bingz	⿰石品
 sawd-02504	bingz	砙
 sawd-02505	bingz	屏
-sawd-02506	binq	*
+sawd-02506	binq	&CDP-8BF5;*
 sawd-02507	binz	⿰貧𠃑*
 sawd-02508	binz	⿺辶⿰力𠃑
 sawd-02509	biq	⿺辶卑*
@@ -1519,8 +1521,8 @@ sawd-06006	cangq	上
 sawd-06007	cangq	⿰歹葬
 sawd-06008	cangq	⿱上廾*
 sawd-06009	cangq	⿱丷㘸
-sawd-06010	cangz	*
-sawd-06011	cangz	⿲丿丿
+sawd-06010	cangz	&CDP-89FA;*
+sawd-06011	cangz	⿲丿&CDP-89FA;丿
 sawd-06012	cangq	倀*
 sawd-06013	cangz	⿰口⿱𠂉力*
 sawd-06014	cangz	𠼔
@@ -1562,7 +1564,7 @@ sawd-06209	cat	𢩩
 sawd-06210	cat	喳
 sawd-06211	cat	殺
 sawd-06212	cat	窄
-sawd-06213	cau	⿰召⿱冖*
+sawd-06213	cau	⿰召⿱冖&CDP-8DBF;*
 sawd-06214	cau	⿰虫牢*
 sawd-06215	cau	昭*
 sawd-06216	cau	懆
@@ -1638,7 +1640,7 @@ sawd-06511	cawx	䝬*
 sawd-06512	cawx	柱
 sawd-06513	cawx	⿰買志
 sawd-06514	cawx	主
-sawd-06515	cawx	⿳⿰〢一八
+sawd-06515	cawx	⿳⿰〢&CDP-8BF1;一八
 sawd-06516	cawz	𫪅*
 sawd-06517	cawz	寺
 sawd-06518	cawz	𡃴
@@ -1707,7 +1709,7 @@ sawd-06704	ceix	最*
 sawd-06705	ceiz	⿰米埀*
 sawd-06706	ceiz	⿰米遀
 sawd-06707	ceiz	𥻵
-sawd-06708	ceiz	⿰米
+sawd-06708	ceiz	⿰米&CDP-8CA9;
 sawd-06709	ceiz	⿰米七
 sawd-06710	ceiz	⿰飠七
 sawd-06711	ceiz	⿰米斉
@@ -2270,9 +2272,9 @@ sawd-08901	cuk	⿰米足*
 sawd-08902	cuk	哫*
 sawd-08903	cum	𬴫*
 sawd-08904	cumh	𪭤*
-sawd-08905	cumz	⿲十𠃑*
+sawd-08905	cumz	⿲&CDP-8968;十𠃑*
 sawd-08906	cun	𬁟*
-sawd-08907	cun	⿱⿹⺄日
+sawd-08907	cun	⿱&CDP-8C78;⿹⺄日
 sawd-08908	cung	⿰冲甬*
 sawd-08909	cung	𡉥*
 sawd-08910	cung	中
@@ -2445,7 +2447,7 @@ sawd-09618	daemj	⿲糹豋丁
 sawd-09619	daemj	𦅰
 sawd-09620	daemj	⿰布等
 sawd-09621	daemj	屯
-sawd-09701	daemj	⿰𧾷⿱⿰丁*
+sawd-09701	daemj	⿰𧾷⿱⿰&CDP-8B5E;&CDP-88D5;丁*
 sawd-09702	daemj	䟓
 sawd-09703	daemj	𧿬
 sawd-09704	daemj	撏*
@@ -2512,13 +2514,13 @@ sawd-09910	daengq	⿺辶等
 sawd-09911	daengq	譄
 sawd-09912	daengq	𣛆*
 sawd-09913	daengq	⿰木⿱豋丁
-sawd-09914	daengq	⿱⿰丁
+sawd-09914	daengq	⿱⿰&CDP-8B5E;&CDP-88D5;丁
 sawd-09915	daengq	橙
 sawd-09916	daengq	朾
 sawd-09917	daengq	耓*
 sawd-09918	daengx	⿰丁止*
 sawd-09919	daengx	腾
-sawd-09920	daengx	⿰立⿱⿰亍
+sawd-09920	daengx	⿰立⿱⿰&CDP-8B5E;&CDP-88D5;亍
 sawd-09921	daengx	⿰立定
 sawd-09922	daengx	𧿬
 sawd-10001	daengx	㩐*
@@ -2819,7 +2821,7 @@ sawd-11320	danz	⿰扌彈*
 sawd-11321	danz	⿰手单
 sawd-11322	danz	⿰手旦
 sawd-11323	danz	担
-sawd-11401	danz	⿰糹⿱䒑*
+sawd-11401	danz	⿰糹⿱䒑&CDP-8BE8;*
 sawd-11402	dap	⿰手荅*
 sawd-11403	dat	𡐿*
 sawd-11404	dat	⿰阝逹
@@ -3438,7 +3440,7 @@ sawd-13905	doz	⿰糹图
 sawd-13906	doz	⿰刀屠*
 sawd-13907	doz	⿰屠刂
 sawd-13908	doz	⿰扌⿱查𠃌*
-sawd-13909	doz	⿸⺀⿸寸*
+sawd-13909	doz	⿸⺀⿸&CDP-88F1;寸*
 sawd-13910	du	𫮐*
 sawd-13911	du	⿰土頁
 sawd-13912	du	⿵門须*
@@ -3661,7 +3663,7 @@ sawd-15006	fa	⿱宀巴
 sawd-15007	fa	⿱竹他
 sawd-15008	fa	𦭟
 sawd-15009	fa	⿰骨发*
-sawd-15010	fab	⿰口⿱开*
+sawd-15010	fab	⿰口⿱&CDP-8C4F;开*
 sawd-15011	fab	⿰口发
 sawd-15012	fad	⿱罒法*
 sawd-15013	fad	⿰糹发*
@@ -3802,7 +3804,7 @@ sawd-15340	faiz	𥯒*
 sawd-15341	faiz	𬔷
 sawd-15342	faiz	⿱竹⿱正⿰正正
 sawd-15343	fak	撥*
-sawd-15344	fak	⿰扌⿱开
+sawd-15344	fak	⿰扌⿱&CDP-8C4F;开
 sawd-15345	fak	𢫯
 sawd-15346	fak	⿰口发
 sawd-15401	fak	𢫯*
@@ -4032,8 +4034,8 @@ sawd-16110	fouq	𫲷
 sawd-16111	foux	倵*
 sawd-16112	foux	⿰付武
 sawd-16113	foux	武
-sawd-16114	fouz	⿱一*
-sawd-16115	fouz	⿱㇉
+sawd-16114	fouz	⿱&CDP-8BBE;一*
+sawd-16115	fouz	⿱&CDP-8BBE;㇉
 sawd-16116	fouz	浮
 sawd-16117	fouz	孚
 sawd-16118	fouz	⿱孚灬*
@@ -4172,7 +4174,7 @@ sawd-16432	fwz	俳
 sawd-16433	fwz	⿺荒無
 sawd-16434	fwz	伙
 sawd-16435	fwz	茯
-sawd-16436	fwz	⿱艹⿱厶
+sawd-16436	fwz	⿱艹⿱&CDP-8BBE;厶
 sawd-16437	fwz	⿰又弗*
 sawd-16501	ga	⿰卡鸟*
 sawd-16502	ga	𪀣
@@ -4437,7 +4439,7 @@ sawd-17414	gai	皆
 sawd-17415	gai	該
 sawd-17416	gai	开
 sawd-17417	gai	⿰开卖
-sawd-17418	gai	⿱夫
+sawd-17418	gai	⿱夫&CDP-8BF5;
 sawd-17419	gai	⿰出卖
 sawd-17420	gai	⿰卖该
 sawd-17421	gai	？开？*
@@ -4699,7 +4701,7 @@ sawd-18419	geiz	期
 sawd-18420	gej	𢶷*
 sawd-18421	gej	⿰手既
 sawd-18422	gej	玘
-sawd-18501	gej	⿲角吉*
+sawd-18501	gej	⿲角吉&CDP-8C68;*
 sawd-18502	gek	⿵門極*
 sawd-18503	gem	鈐*
 sawd-18504	gem	⿰𧾷坚*
@@ -4911,7 +4913,7 @@ sawd-19215	gik	⿰其手
 sawd-19216	gik	⿰不居
 sawd-19217	gik	㥍
 sawd-19218	gik	恄
-sawd-19219	gik	⿱心
+sawd-19219	gik	⿱&CDP-8B72;心
 sawd-19220	gik	⿱吉心
 sawd-19221	gik	极
 sawd-19222	gik	吉
@@ -5281,7 +5283,7 @@ sawd-20623	guh	⿰金故
 sawd-20624	guh	𠸋
 sawd-20625	guh	𫩏*
 sawd-20626	guh	⿰丨口
-sawd-20627	guh	
+sawd-20627	guh	&CDP-8BE2;
 sawd-20628	guh	骨
 sawd-20629	guh	哭
 sawd-20630	guh	𢫈
@@ -5477,7 +5479,7 @@ sawd-21329	gvan	⿰男关
 sawd-21330	gvan	⿰女关
 sawd-21331	gvan	関
 sawd-21401	gvan	（丹-丶）
-sawd-21402	gvan	⿰亻⿱𠂤*
+sawd-21402	gvan	⿰亻⿱&CDP-8BB8;𠂤*
 sawd-21403	gvang	侊*
 sawd-21404	gvang	况
 sawd-21405	gvang	⿰亻户
@@ -6416,7 +6418,7 @@ sawd-24515	hau	䒵
 sawd-24516	hau	⿺辶好
 sawd-24517	hau	皓
 sawd-24518	hau	皎
-sawd-24519	hau	⿱白
+sawd-24519	hau	⿱&CDP-8C4D;白
 sawd-24520	hau	⿺色孝
 sawd-24521	hau	耗*
 sawd-24522	hauh	⿰忄豪*
@@ -6556,7 +6558,7 @@ sawd-25004	henj	⿰黄艮
 sawd-25005	henj	⿰糹显
 sawd-25006	henj	显
 sawd-25007	henj	⿰黄闲
-sawd-25008	henx	⿰口⿱貝*
+sawd-25008	henx	⿰口⿱&CDP-85A7;貝*
 sawd-25009	henx	⿰口显
 sawd-25010	henx	现
 sawd-25011	henx	𠻷
@@ -7029,14 +7031,14 @@ sawd-26810	laej	⿰利鳥
 sawd-26811	laej	⿰李鳥
 sawd-26812	laej	累
 sawd-26813	laej	𪆼
-sawd-26814	laemh	⿰扌⿰*
+sawd-26814	laemh	⿰扌⿰&CDP-8968;&CDP-8CFD;*
 sawd-26815	laemh	撛
 sawd-26816	laemh	⿰侖鳥*
 sawd-26817	laemh	埜*
 sawd-26901	laemj	⿺辶覧*
 sawd-26902	laemj	䢞
 sawd-26903	laemx	⿰𧾷𢊬*
-sawd-26904	laemx	⿰𧾷⿰
+sawd-26904	laemx	⿰𧾷⿰&CDP-8968;&CDP-8CFD;
 sawd-26905	laemx	𨂕
 sawd-26906	laemx	⿰𧾷監
 sawd-26907	laemx	壏
@@ -7070,7 +7072,7 @@ sawd-27006	laeng	能
 sawd-27007	laeng	⿰冫𬙙
 sawd-27008	laeng	凌
 sawd-27009	laeng	⿰背𬙙
-sawd-27010	laeng	⿸丶
+sawd-27010	laeng	⿸&CDP-88E1;丶
 sawd-27011	laeng	⿰令背*
 sawd-27012	laeng	朎
 sawd-27013	laeng	⿱夭令
@@ -7213,10 +7215,10 @@ sawd-27523	lak	洛
 sawd-27524	lak	⿰扌垃
 sawd-27525	lak	硠
 sawd-27526	lak	⿰土畧
-sawd-27527	lamh	⿰扌⿱⿰〢見*
+sawd-27527	lamh	⿰扌⿱⿰〢&CDP-89BC;見*
 sawd-27528	lamh	⿰扌⿱⺍金
 sawd-27529	lamh	⿰扌篮
-sawd-27530	lamh	⿰糹⿱⿰〢見
+sawd-27530	lamh	⿰糹⿱⿰〢&CDP-89BC;見
 sawd-27531	lamh	⿰糹兰
 sawd-27532	lamh	⿰糹⿵门东
 sawd-27533	lamh	⿰糹兰*
@@ -7230,9 +7232,9 @@ sawd-27606	lan	⿰子山
 sawd-27607	lan	⿰子⿵门东
 sawd-27608	lan	⿰子丹
 sawd-27609	lan	⿰亻兰
-sawd-27610	lan	⿰子⿱⿰〢見
+sawd-27610	lan	⿰子⿱⿰〢&CDP-89BC;見
 sawd-27611	lan	⿰女兰
-sawd-27612	lan	⿺⿱⿰〢見子
+sawd-27612	lan	⿺⿱⿰〢&CDP-89BC;見子
 sawd-27613	lan	𬞕
 sawd-27614	lan	⿰子𬞕*
 sawd-27615	lan	⿰子⿱䒑内
@@ -7418,13 +7420,13 @@ sawd-28502	liengj	⿱雨伞
 sawd-28503	liengj	掚
 sawd-28504	liengj	⿰衤亮
 sawd-28505	liengj	⿱𠆢亮
-sawd-28506	liengj	⿱禸
+sawd-28506	liengj	⿱&CDP-8AFC;禸
 sawd-28507	liengj	⿱𠆢两*
 sawd-28508	liengq	⿰目亮*
 sawd-28509	liengq	⿰看亮
 sawd-28510	liengq	⿰目量
 sawd-28511	liengq	量
-sawd-28512	liengx	*
+sawd-28512	liengx	&CDP-89FA;*
 sawd-28513	liengz	桹*
 sawd-28514	liengz	⿺瓜良*
 sawd-28515	liengz	凉
@@ -7457,8 +7459,8 @@ sawd-28619	limq	⿰口廪
 sawd-28620	limq	朾
 sawd-28621	limq	⿰米廪
 sawd-28622	limq	⿰𠁣林
-sawd-28623	limq	⿲𠁣
-sawd-28624	limz	⿰扌⿱𫩏*
+sawd-28623	limq	⿲𠁣&CDP-8968;&CDP-8CFD;
+sawd-28624	limz	⿰扌⿱&CDP-89BC;𫩏*
 sawd-28625	limz	臨
 sawd-28701	lingh	伶*
 sawd-28702	lingh	令
@@ -7591,7 +7593,7 @@ sawd-29120	loek	𣏥
 sawd-29201	loek	楽*
 sawd-29202	loek	⿰亻乐
 sawd-29203	loek	乐
-sawd-29204	loem	⿰穿⿱⿰〢見*
+sawd-29204	loem	⿰穿⿱⿰〢&CDP-89BC;見*
 sawd-29205	loem	㨆
 sawd-29206	loem	冧
 sawd-29207	loemq	𫏄*
@@ -8118,7 +8120,7 @@ sawd-31116	mbaenq	⿰木闷
 sawd-31117	mbaenq	⿹飞品
 sawd-31118	mbaenq	⿹飞节
 sawd-31119	mbaenq	⿺乙敏
-sawd-31120	mbaenq	⿹飞⿱⿰〢系
+sawd-31120	mbaenq	⿹飞⿱⿰〢&CDP-89BC;系
 sawd-31121	mbaenq	⿰木办
 sawd-31122	mbaenq	𢪖*
 sawd-31123	mbaenq	⿰手今
@@ -8505,7 +8507,7 @@ sawd-32503	mengz	盳*
 sawd-32504	mengz	⿰虫名*
 sawd-32505	mengz	⿰虫⿱䒑明
 sawd-32506	mengz	𬠝
-sawd-32507	mengz	⿰虫⿱𠆢⿸丶
+sawd-32507	mengz	⿰虫⿱𠆢⿸&CDP-8DDD;丶
 sawd-32508	menh	⿺辶曼*
 sawd-32509	menh	曼
 sawd-32510	menh	僈
@@ -8984,7 +8986,7 @@ sawd-34330	naeq	宜
 sawd-34331	naeq	呐
 sawd-34332	naeq	𠵌
 sawd-34333	naeq	内
-sawd-34334	naeq	⿺⿱血乃（？）*
+sawd-34334	naeq	⿺⿱血&CDP-8D46;乃（？）*
 sawd-34335	naet	⿸疒𬛸*
 sawd-34401	naet	⿰累乜*
 sawd-34402	naet	⿰𧾷乜
@@ -9071,7 +9073,7 @@ sawd-34611	naj	⿰月拿
 sawd-34612	naj	⿰𠂝丿
 sawd-34613	naj	𩈩
 sawd-34614	naj	⿰面下
-sawd-34615	naj	⿹丿*
+sawd-34615	naj	⿹&CDP-88E1;丿*
 sawd-34616	naj	那
 sawd-34617	naj	⿱那𫩑
 sawd-34618	nam	喃*
@@ -9107,7 +9109,7 @@ sawd-34716	naq	𥭵*
 sawd-34717	naq	𥭵*
 sawd-34718	naq	⿰金那
 sawd-34719	naq	𫸶
-sawd-34720	naq	⿲弓阝
+sawd-34720	naq	⿲&CDP-89FA;弓阝
 sawd-34721	naq	⿰箭那
 sawd-34722	nat	蒳*
 sawd-34723	nat	𣘆
@@ -9369,7 +9371,7 @@ sawd-35511	ndau	叨*
 sawd-35512	ndau	⿰口闹
 sawd-35513	ndau	刀
 sawd-35514	ndauh	𤴬*
-sawd-35515	ndauz	⿺辶⿰夕*
+sawd-35515	ndauz	⿺辶⿰夕&CDP-866E;*
 sawd-35516	ndauz	逃
 sawd-35517	ndaw	𨳙*
 sawd-35518	ndaw	⿰門尔
@@ -10099,7 +10101,7 @@ sawd-38206	ngwz	𧈭
 sawd-38207	ngwz	⿱厄心*
 sawd-38208	ngwz	厄
 sawd-38209	ni	汝*
-sawd-38210	nied	⿱耒*
+sawd-38210	nied	⿱&CDP-85A7;耒*
 sawd-38211	niemh	唸*
 sawd-38212	niemh	⿰忄年
 sawd-38213	niemh	惗*
@@ -10471,7 +10473,7 @@ sawd-39539	nyib	任
 sawd-39540	nyib	䌏
 sawd-39541	nyib	紝
 sawd-39542	nyib	𧘑
-sawd-39543	nyieg	⿰白*
+sawd-39543	nyieg	⿰&CDP-8CC4;白*
 sawd-39544	nyieg	⿰弱白
 sawd-39601	nyiengh	𬣼*
 sawd-39602	nyienh	㥳*
@@ -10575,7 +10577,7 @@ sawd-39914	nywj	⿰草耳
 sawd-39915	nywj	⿰草干
 sawd-39916	nywnx	𦛟*
 sawd-39917	nywnx	𦠇
-sawd-39918	nywnz	⿱⺊⿸寅*
+sawd-39918	nywnz	⿱⺊⿸&CDP-88E2;寅*
 sawd-40001	o	⿰目荷*
 sawd-40002	o	嗬*
 sawd-40003	o	荷
@@ -11355,7 +11357,7 @@ sawd-42809	rok	⿰衤六
 sawd-42810	rok	⿰乐布
 sawd-42811	rok	⿰糹乐
 sawd-42812	rom	⿰手留*
-sawd-42813	rom	⿰亻⿱⿰〢見
+sawd-42813	rom	⿰亻⿱⿰〢&CDP-89BC;見
 sawd-42814	romh	⿰日兰*
 sawd-42815	romh	洸
 sawd-42816	romh	⿰早亮
@@ -11529,7 +11531,7 @@ sawd-43421	rungh	弄
 sawd-43422	rungh	陇
 sawd-43423	rungh	⿴囗弄
 sawd-43424	rungj	胧*
-sawd-43425	rungq	⿰容*
+sawd-43425	rungq	⿰&CDP-8CC4;容*
 sawd-43426	rungq	⿰弱用
 sawd-43427	rungx	⿺龍朋*
 sawd-43428	rungx	𥦌*
@@ -11598,7 +11600,7 @@ sawd-43721	saeb	⿰立𠃑*
 sawd-43722	saeb	⿰口拾*
 sawd-43801	saeb	湿*
 sawd-43802	saeb	佚*
-sawd-43803	saeb	⿹𠃌
+sawd-43803	saeb	⿹𠃌&CDP-89A6;
 sawd-43804	saeb	摺*
 sawd-43805	saeb	拾
 sawd-43806	saed	⿰金㚖*
@@ -12067,7 +12069,7 @@ sawd-45817	sienz	前*
 sawd-45901	siet	彐*
 sawd-45902	siet	雪*
 sawd-45903	siet	彐
-sawd-45904	sij	⿰⿳冖血史*
+sawd-45904	sij	⿰⿳冖血&CDP-8C40;史*
 sawd-45905	sij	⿰扌史*
 sawd-45906	sij	⿰舍史*
 sawd-45907	sij	⿰扌些
@@ -12372,7 +12374,7 @@ sawd-47126	sug	俗
 sawd-47127	sug	凁
 sawd-47128	suh	𫥨*
 sawd-47201	suh	𨒣*
-sawd-47202	suix	⿱石⿰𠃑*
+sawd-47202	suix	⿱石⿰&CDP-8DEA;𠃑*
 sawd-47203	suix	磊
 sawd-47204	suix	唯
 sawd-47205	suj	⿰巾楚*
@@ -12651,7 +12653,7 @@ sawd-48221	vak	⿰忄放*
 sawd-48222	vak	⿰丢化
 sawd-48223	vamh	⿰石王*
 sawd-48224	vamz	⿰口环*
-sawd-48225	vamz	⿰口⿳口一
+sawd-48225	vamz	⿰口⿳口一&CDP-8845;
 sawd-48226	vamz	⿰口晚
 sawd-48227	vamz	⿰句⿳罒土𧘇
 sawd-48228	van	⿰舌万*
@@ -12804,7 +12806,7 @@ sawd-48807	vet	圪
 sawd-48808	vet	𫰞*
 sawd-48809	vet	⿰番勿*
 sawd-48810	vet	吻
-sawd-48811	vet	*
+sawd-48811	vet	&CDP-88C0;*
 sawd-48812	vet	⿺乙义
 sawd-48813	vez	掝*
 sawd-48814	vez	⿰矢或*
