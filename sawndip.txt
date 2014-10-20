@@ -2657,7 +2657,7 @@ sawd-10515	dah	䭾
 sawd-10516	dah	𡛕*
 sawd-10517	dah	𡚻*
 sawd-10518	dah	⿰女达
-sawd-10519	dah	𡚻
+sawd-10519	dah	𫰋
 sawd-10520	dah	驮
 sawd-10521	dah	妖
 sawd-10522	dah	哒*
@@ -2803,11 +2803,11 @@ sawd-11302	danh	掸*
 sawd-11303	danh	𡊨*
 sawd-11304	danj	⿱刹旦*
 sawd-11305	danj	⿱坦刀
-sawd-11306	danj	刞
+sawd-11306	danj	𠛣
 sawd-11307	danj	坦
 sawd-11308	danj	⿰刀旦*
 sawd-11309	danj	粗
-sawd-11310	danj	刞
+sawd-11310	danj	𠛣
 sawd-11311	danj	傘*
 sawd-11312	danq	呾*
 sawd-11313	danq	詚
@@ -3144,7 +3144,7 @@ sawd-12720	dinj	⿱短天
 sawd-12721	dinj	⿰短斤
 sawd-12722	dinj	𤤆
 sawd-12723	dinj	𨱥
-sawd-12724	dinq	扷*
+sawd-12724	dinq	⿰扌天*
 sawd-12725	dinq	⿱切电
 sawd-12801	dinz	虰*
 sawd-12802	dinz	⿰虫田
@@ -3600,7 +3600,7 @@ sawd-14703	eiq	𠲖*
 sawd-14704	eiq	意
 sawd-14705	eiq	臆*
 sawd-14706	ej	⿰韋倚*
-sawd-14707	ej	⿱丨二
+sawd-14707	ej	⿱丄一
 sawd-14708	ej	⿸尸且*
 sawd-14709	ej	⿵门且
 sawd-14710	ek	𢘁*
@@ -4382,7 +4382,7 @@ sawd-17221	gaeuj	咪
 sawd-17222	gaeuj	口
 sawd-17223	gaeuj	⿱叩入*
 sawd-17224	gaeuj	叩
-sawd-17225	gaeuj	𧈮*
+sawd-17225	gaeuj	⿰虫九*
 sawd-17226	gaeuj	芶*
 sawd-17227	gaeuj	芶*
 sawd-17228	gaeuj	⿰看九*
@@ -4393,7 +4393,7 @@ sawd-17232	gaeuj	⿰看句
 sawd-17233	gaeuj	苟
 sawd-17234	gaeuj	𠸚
 sawd-17235	gaeuj	耉
-sawd-17236	gaeuj	䀓
+sawd-17236	gaeuj	⿰目九
 sawd-17237	gaeuj	𥈧
 sawd-17238	gaeuj	⿰目勾*
 sawd-17239	gaeuj	⿰目夠
@@ -4402,7 +4402,7 @@ sawd-17301	gaeuq	⿰多九*
 sawd-17302	gaeuq	⿰糹勾
 sawd-17303	gaeuq	⿱上旧
 sawd-17304	gaeuq	⿰叩多*
-sawd-17305	gaeuq	𧈮
+sawd-17305	gaeuq	叩
 sawd-17306	gaeuq	舊
 sawd-17307	gaeuq	⿰多足
 sawd-17308	gaeux	⿰舅九*
@@ -5043,7 +5043,7 @@ sawd-19829	goemq	㩒
 sawd-19830	goemq	⿰手甚
 sawd-19831	goemq	葢
 sawd-19832	goemz	⿰苦今*
-sawd-19833	goemz	坖*
+sawd-19833	goemz	⿱亢土*
 sawd-19834	goemz	𡄎
 sawd-19835	goemz	𪡗
 sawd-19836	goemz	⿰曲今*
@@ -5532,7 +5532,7 @@ sawd-21601	gvej	𧊅*
 sawd-21602	gvej	螝
 sawd-21603	gvej	蛌
 sawd-21604	gvej	蝰
-sawd-21605	gvej	䱇
+sawd-21605	gvej	䱉
 sawd-21606	gvej	蛆
 sawd-21607	gvej	⿰虫杰
 sawd-21608	gvej	蝫
@@ -6816,7 +6816,7 @@ sawd-25902	hung	㐫*
 sawd-25903	hung	𫯞*
 sawd-25904	hung	𪩣
 sawd-25905	hung	⿰工大
-sawd-25906	hung	𠒆
+sawd-25906	hung	𠒋
 sawd-25907	hung	⿰兇大
 sawd-25908	hung	⿰口兇
 sawd-25909	hung	宏
@@ -8145,8 +8145,8 @@ sawd-31216	mbaet	⿰乜省
 sawd-31217	mbaet	⿺乙丙
 sawd-31218	mbaet	⿺乙系
 sawd-31219	mbaet	𨳒
-sawd-31220	mbaet	氼*
-sawd-31221	mbaet	卞*
+sawd-31220	mbaet	𣱸*
+sawd-31221	mbaet	⿱丶不*
 sawd-31222	mbaet	⿰米灭*
 sawd-31223	mbaet	⿱灭心
 sawd-31224	mbaet	𢘻
@@ -8175,7 +8175,7 @@ sawd-31314	mbaiz	棑*
 sawd-31315	mbaj	𧈢*
 sawd-31316	mbaj	蚆
 sawd-31317	mbaj	螞
-sawd-31318	mbaj	x
+sawd-31318	mbaj	？
 sawd-31319	mbaj	⿱巴口*
 sawd-31401	mbaj	⿰忄八*
 sawd-31402	mbaj	⿰忄馬
@@ -8207,7 +8207,7 @@ sawd-31427	mbaq	⿰肩怕
 sawd-31428	mbaq	⿰肩罢
 sawd-31429	mbaq	𬁳
 sawd-31430	mbaq	𦟟
-sawd-31431	mbaq	𣍞
+sawd-31431	mbaq	𦘲
 sawd-31432	mbaq	⿰肩发
 sawd-31433	mbaq	⿲月罢肩
 sawd-31501	mbat	丿*
@@ -9170,7 +9170,7 @@ sawd-34918	ndad	逹*
 sawd-34919	ndaej	𫩵*
 sawd-34920	ndaej	礼
 sawd-34921	ndaej	𫩶
-sawd-34922	ndaej	戻
+sawd-34922	ndaej	戾
 sawd-34923	ndaej	捩
 sawd-34924	ndaej	累
 sawd-34925	ndaej	帝
@@ -10262,16 +10262,17 @@ sawd-38803	nw	⿰米肉
 sawd-38804	nwj	𥫭*
 sawd-38805	nwj	弩
 sawd-38806	nwj	⿰耳尼*
-sawd-38807	nwj	𪥤*
-sawd-38808	nwk	痆*
-sawd-38809	nwngh	𫧇*
-sawd-38810	nwngh	能
-sawd-38811	nwnj	⿸疒嫩*
-sawd-38812	nwnj	⿰引尼
-sawd-38813	nya	枼*
-sawd-38814	nya	⿰斗隹*
-sawd-38815	nyaed	抇*
-sawd-38816	nyaed	捝
+sawd-38807	nwj	咱*
+sawd-38808	nwj	𪥤*
+sawd-38809	nwk	痆*
+sawd-38810	nwngh	𫧇*
+sawd-38811	nwngh	能
+sawd-38812	nwnj	⿸疒嫩*
+sawd-38813	nwnj	⿰引尼
+sawd-38814	nya	枼*
+sawd-38815	nya	⿰斗隹*
+sawd-38816	nyaed	抇*
+sawd-38817	nyaed	捝
 sawd-38901	nyaeg	⿰刀勺*
 sawd-38902	nyaek	⿰忄約*
 sawd-38903	nyaek	𨵫
@@ -11242,7 +11243,7 @@ sawd-42404	ringx	⿰灵令
 sawd-42405	ringx	⿰𧾷景
 sawd-42406	ringx	⿱转令
 sawd-42407	ringx	令
-sawd-42408	ringx	磙
+sawd-42408	ringx	𥕦
 sawd-42409	ringz	⿰米灵*
 sawd-42410	ringz	⿰米行
 sawd-42411	ringz	𩜁
@@ -11484,7 +11485,7 @@ sawd-43232	ruj	⿰魯若
 sawd-43301	ruj	澛*
 sawd-43302	ruk	𫼚*
 sawd-43303	ruk	𥫰*
-sawd-43304	ruk	箓
+sawd-43304	ruk	𥭼
 sawd-43305	ruk	⿱竹绿
 sawd-43306	ruk	⿱竹竹
 sawd-43307	rum	菻*
@@ -11655,7 +11656,7 @@ sawd-44006	saemq	孙
 sawd-44007	saemq	甚
 sawd-44008	saemq	⿱竹審*
 sawd-44009	saemx	禀*
-sawd-44010	saemx	澟*
+sawd-44010	saemx	𪷤*
 sawd-44011	saemx	𪮨*
 sawd-44012	saemz	凛*
 sawd-44013	saemz	⿰岑刂*
@@ -12338,7 +12339,7 @@ sawd-47021	soux	㖟
 sawd-47022	su	𬝚*
 sawd-47023	su	素
 sawd-47024	sub	⿱朿一*
-sawd-47025	sub	叺
+sawd-47025	sub	㕥
 sawd-47026	sub	習
 sawd-47027	sueb	餂*
 sawd-47028	suek	搠*
@@ -12559,7 +12560,7 @@ sawd-47912	vaeng	⿰米王*
 sawd-47913	vaeng	⿰米曾
 sawd-47914	vaeng	𥹷
 sawd-47915	vaeng	⿰禾㐬
-sawd-47916	vaeng	𥠸
+sawd-47916	vaeng	𥡃
 sawd-47917	vaeng	穔
 sawd-47918	vaeng	⿱艹撗
 sawd-47919	vaeng	芠
@@ -13329,7 +13330,7 @@ sawd-51114	youx	酉
 sawd-51115	youx	伷
 sawd-51116	youx	友
 sawd-51117	youx	⿰男友*
-sawd-51118	youx	妭*
+sawd-51118	youx	𡛀*
 sawd-51119	youz	沋*
 sawd-51120	youz	沈
 sawd-51121	youz	⿱由灬
