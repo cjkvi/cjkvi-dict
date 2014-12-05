@@ -24,7 +24,7 @@ twedu-a00006-002
 twedu-a00006-003	支
 twedu-a00007	上
 twedu-a00007-001	丄
-twedu-a00007-002	
+twedu-a00007-002	二
 twedu-a00008	丑
 twedu-a00008-001	𠃠
 twedu-a00008-002	
@@ -63,7 +63,7 @@ twedu-a00012-002	卋
 twedu-a00012-003	㔺
 twedu-a00012-004	𠦔
 twedu-a00012-005	
-twedu-a00012-006	
+twedu-a00012-006	芔
 twedu-a00012-007	
 twedu-a00012-008	
 twedu-a00012-009	
@@ -87,7 +87,7 @@ twedu-a00013-006	㶨
 twedu-a00014	且
 twedu-a00014-001	𠀃
 twedu-a00014-002	𠀇
-twedu-a00014-003	
+twedu-a00014-003	𣅂
 twedu-a00015	丘
 twedu-a00015-001	𠀈
 twedu-a00015-002	㐀
@@ -99,7 +99,7 @@ twedu-a00015-007	𤤘
 twedu-a00015-008	𠀉
 twedu-a00015-009	
 twedu-a00015-010	
-twedu-a00015-011	
+twedu-a00015-011	业
 twedu-a00015-011-1	坵
 twedu-a00015-011-2	
 twedu-a00015-013	
@@ -290,7 +290,7 @@ twedu-a00037-040
 twedu-a00038	乙
 twedu-a00038-001	乚
 twedu-a00038-002	
-twedu-a00038-003	
+twedu-a00038-003	𠃊
 twedu-a00039	九
 twedu-a00039-001	𢌬
 twedu-a00039-002	𣲄
@@ -568,7 +568,7 @@ twedu-a00062-010
 twedu-a00062-011	
 twedu-a00062-012	
 twedu-a00062-014	
-twedu-a00062-015	
+twedu-a00062-015	㐪
 twedu-a00062-016	
 twedu-a00062-019	𧰧
 twedu-a00062-020	
@@ -940,7 +940,7 @@ twedu-a00127	伶
 twedu-a00127-001	
 twedu-a00127-002	
 twedu-a00128	余
-twedu-a00128-001	
+twedu-a00128-001	𪜬
 twedu-a00128-002	𠎳
 twedu-a00129	佝
 twedu-a00130	佯
@@ -1375,7 +1375,7 @@ twedu-a00203-007
 twedu-a00203-008	
 twedu-a00203-009	
 twedu-a00203-010	
-twedu-a00203-011	
+twedu-a00203-011	𪝒
 twedu-a00203-012	
 twedu-a00203-013	
 twedu-a00203-014	
@@ -1540,7 +1540,7 @@ twedu-a00220-021
 twedu-a00220-022	
 twedu-a00220-023	
 twedu-a00220-024	
-twedu-a00220-025	
+twedu-a00220-025	㑲
 twedu-a00220-026	
 twedu-a00220-027	
 twedu-a00220-028	
@@ -1645,8 +1645,8 @@ twedu-a00227-015
 twedu-a00228	傳
 twedu-a00228-001	
 twedu-a00228-002	
-twedu-a00228-003	
-twedu-a00228-004	
+twedu-a00228-003	𫝊
+twedu-a00228-004	𪫖
 twedu-a00228-005	
 twedu-a00228-006	
 twedu-a00228-007	
@@ -1887,7 +1887,7 @@ twedu-a00246-031
 twedu-a00246-032	
 twedu-a00246-033	
 twedu-a00246-034	
-twedu-a00246-035	
+twedu-a00246-035	𪜧
 twedu-a00246-036	
 twedu-a00246-037	
 twedu-a00246-038	
@@ -2023,7 +2023,7 @@ twedu-a00263-002	㐳
 twedu-a00264	元
 twedu-a00265	允
 twedu-a00265-001	㽙
-twedu-a00265-002	
+twedu-a00265-002	𠃔
 twedu-a00265-003	
 twedu-a00266	充
 twedu-a00266-001	𠘺
@@ -2283,9 +2283,9 @@ twedu-a00284-004
 twedu-a00284-005	
 twedu-a00284-006	
 twedu-a00284-007	
-twedu-a00284-008	刃
-twedu-a00284-009	
-twedu-a00284-010	
+twedu-a00284-008	刃(刃)
+twedu-a00284-009	刅
+twedu-a00284-010	𢎏
 twedu-a00284-011	
 twedu-a00284-012	刄
 twedu-a00284-013	
@@ -2338,8 +2338,8 @@ twedu-a00290-010
 twedu-a00290-011	
 twedu-a00290-012	
 twedu-a00290-013	
-twedu-a00290-014	
-twedu-a00290-015	
+twedu-a00290-014	𠊏	# 画像変更
+twedu-a00290-015	𡲍
 twedu-a00290-016	
 twedu-a00290-017	
 twedu-a00290-018	
@@ -2714,7 +2714,7 @@ twedu-a00309-003	氷
 twedu-a00309-004	𣲝
 twedu-a00309-005	冫
 twedu-a00309-006	
-twedu-a00309-008	
+twedu-a00309-008	𣲙
 twedu-a00309-008-1	𨻱
 twedu-a00310	冶
 twedu-a00310-001-1	
@@ -3416,10 +3416,10 @@ twedu-a00384	助
 twedu-a00384-001	𤋰
 twedu-a00384-002	
 twedu-a00384-003	
-twedu-a00384-004	
+twedu-a00384-004	𧴧
 twedu-a00384-005	㫑
 twedu-a00384-007	
-twedu-a00384-008	
+twedu-a00384-008	𦔳
 twedu-a00385	努
 twedu-a00385-001	伮
 twedu-a00385-002	
@@ -3721,14 +3721,14 @@ twedu-a00415-002	𠤎
 twedu-a00415-003	𠯒
 twedu-a00415-004	
 twedu-a00415-005	
-twedu-a00415-006	
+twedu-a00415-006	匕
 twedu-a00415-007	
 twedu-a00415-007-1	
-twedu-a00415-007-2	
-twedu-a00415-008	
+twedu-a00415-007-2	𫁉	# 画像変更
+twedu-a00415-008	㐶
 twedu-a00415-009	
 twedu-a00415-010	
-twedu-a00415-011	
+twedu-a00415-011	𠆧
 twedu-a00415-012	
 twedu-a00415-014	
 twedu-a00416	北
@@ -3844,7 +3844,7 @@ twedu-a00431	午
 twedu-a00431-001	
 twedu-a00431-002	
 twedu-a00432	升
-twedu-a00432-001	
+twedu-a00432-001	㚈
 twedu-a00432-002	
 twedu-a00432-003	
 twedu-a00432-004	
@@ -3975,7 +3975,7 @@ twedu-a00448-008
 twedu-a00448-009	夘
 twedu-a00448-010	丣
 twedu-a00448-011	𩇦
-twedu-a00448-012	
+twedu-a00448-012	𠨍
 twedu-a00448-013	
 twedu-a00448-014	
 twedu-a00448-015	
@@ -3993,7 +3993,7 @@ twedu-a00448-027
 twedu-a00448-028	
 twedu-a00448-030	
 twedu-a00448-031	
-twedu-a00448-032	
+twedu-a00448-032	邜
 twedu-a00448-033	
 twedu-a00449	卮
 twedu-a00449-001	𠂬
@@ -4052,7 +4052,7 @@ twedu-a00453-002
 twedu-a00453-002-1	卝
 twedu-a00453-003	
 twedu-a00453-004	
-twedu-a00453-005	
+twedu-a00453-005	𡖉
 twedu-a00453-006	
 twedu-a00454	卷
 twedu-a00454-001	𠨟
@@ -4118,7 +4118,7 @@ twedu-a00459-004
 twedu-a00459-005	
 twedu-a00459-006	戹
 twedu-a00459-007	𠂬
-twedu-a00459-008	
+twedu-a00459-008	𠨬
 twedu-a00459-009	𢨤
 twedu-a00459-010	
 twedu-a00459-011	
@@ -4317,7 +4317,7 @@ twedu-a00470-011
 twedu-a00470-012	
 twedu-a00470-013	
 twedu-a00470-014	
-twedu-a00470-015	
+twedu-a00470-015	发
 twedu-a00470-016	
 twedu-a00470-017	
 twedu-a00470-018	
@@ -4528,7 +4528,7 @@ twedu-a00495-002
 twedu-a00495-003	𠻟
 twedu-a00496	台
 twedu-a00496-001	㣍
-twedu-a00496-002	
+twedu-a00496-002	𠘭
 twedu-a00496-003	𠮯
 twedu-a00497	句
 twedu-a00497-001	𤖮
@@ -4678,7 +4678,7 @@ twedu-a00524-001	呈
 twedu-a00525	呂
 twedu-a00525-001	吕
 twedu-a00525-002	膂
-twedu-a00525-003	
+twedu-a00525-003	𦛗
 twedu-a00526	君
 twedu-a00526-001	𠱩
 twedu-a00526-002	𠱭
@@ -4926,7 +4926,7 @@ twedu-a00564-026
 twedu-a00564-027	
 twedu-a00565	咨
 twedu-a00565-001	
-twedu-a00565-002	
+twedu-a00565-002	𪡌
 twedu-a00565-003	
 twedu-a00565-004	諮
 twedu-a00565-006	
@@ -5301,13 +5301,13 @@ twedu-a00628-007	𢐭
 twedu-a00628-008	憘
 twedu-a00628-010	
 twedu-a00628-011	
-twedu-a00628-012	
+twedu-a00628-012	𢝫
 twedu-a00628-013	
 twedu-a00628-015	
 twedu-a00628-016	
 twedu-a00628-017	
 twedu-a00628-020	
-twedu-a00628-022	
+twedu-a00628-022	𦬅
 twedu-a00628-023	
 twedu-a00628-024	
 twedu-a00628-026	
@@ -6132,7 +6132,7 @@ twedu-a00724-002	𠁤
 twedu-a00724-003	𦉭
 twedu-a00724-004	皿
 twedu-a00724-005	
-twedu-a00724-007	
+twedu-a00724-007	龱
 twedu-a00724-008	
 twedu-a00724-009	
 twedu-a00724-010	
@@ -6226,15 +6226,15 @@ twedu-a00734-031-1
 twedu-a00734-031-2	𡆸
 twedu-a00734-031-3	
 twedu-a00734-032	
-twedu-a00734-032-1	
+twedu-a00734-032-1	𠰧
 twedu-a00734-032-2	戜
-twedu-a00734-033	
+twedu-a00734-033	𢧰
 twedu-a00735	圍
 twedu-a00735-001	
 twedu-a00735-002	
 twedu-a00735-003	
 twedu-a00735-004	囲
-twedu-a00735-005	
+twedu-a00735-005	𪢫
 twedu-a00736	園
 twedu-a00736-001	薗
 twedu-a00736-002	
@@ -6336,7 +6336,7 @@ twedu-a00739-062
 twedu-a00740	土
 twedu-a00740-001	圡
 twedu-a00740-002	士
-twedu-a00740-003	
+twedu-a00740-003	𡗓
 twedu-a00740-005	
 twedu-a00740-006	
 twedu-a00741	圳
@@ -7782,12 +7782,12 @@ twedu-a00851-002	𣡳
 twedu-a00851-003	
 twedu-a00851-005	
 twedu-a00852	夭
-twedu-a00852-001	
+twedu-a00852-001	𫯛
 twedu-a00852-002	
 twedu-a00852-003	𡕟
 twedu-a00852-004	𡰭
 twedu-a00852-005	
-twedu-a00852-006	
+twedu-a00852-006	叐
 twedu-a00852-007	
 twedu-a00852-008	
 twedu-a00852-009	
@@ -7836,7 +7836,7 @@ twedu-a00855-032
 twedu-a00855-033	
 twedu-a00855-034	
 twedu-a00855-035	
-twedu-a00855-036	
+twedu-a00855-036	𡖴
 twedu-a00855-037	
 twedu-a00855-038	
 twedu-a00856	夸
@@ -10335,7 +10335,7 @@ twedu-a01107-037
 twedu-a01107-040	
 twedu-a01107-041	
 twedu-a01107-042	
-twedu-a01107-045	
+twedu-a01107-045	𡹤
 twedu-a01107-046	
 twedu-a01107-046-1	
 twedu-a01107-046-2	
@@ -10667,7 +10667,7 @@ twedu-a01146-015-1
 twedu-a01146-015-2	
 twedu-a01146-015-3	
 twedu-a01146-015-4	刕
-twedu-a01146-016	
+twedu-a01146-016	𢏝
 twedu-a01146-017	
 twedu-a01146-018	
 twedu-a01147	巢
@@ -10711,7 +10711,7 @@ twedu-a01151-005
 twedu-a01151-009	
 twedu-a01151-010	
 twedu-a01151-011	𠂇
-twedu-a01151-012	
+twedu-a01151-012	屮
 twedu-a01152	巫
 twedu-a01152-001	𠮎
 twedu-a01152-002	𢍮
@@ -11081,7 +11081,7 @@ twedu-a01196-011
 twedu-a01196-012	
 twedu-a01196-013	
 twedu-a01196-014	
-twedu-a01196-015	
+twedu-a01196-015	䯎
 twedu-a01196-016	
 twedu-a01196-017	
 twedu-a01196-018	
@@ -11917,7 +11917,7 @@ twedu-a01267-004
 twedu-a01268	形
 twedu-a01268-001	形
 twedu-a01268-002	𢒈
-twedu-a01268-004	
+twedu-a01268-004	𠀦
 twedu-a01268-005	
 twedu-a01269	彥
 twedu-a01269-001	彦
@@ -15696,7 +15696,7 @@ twedu-a01724	敖
 twedu-a01724-001	𢾍
 twedu-a01724-002	
 twedu-a01724-003	
-twedu-a01724-004	
+twedu-a01724-004	𢾕
 twedu-a01724-005	
 twedu-a01724-006	
 twedu-a01725	救
@@ -15800,7 +15800,7 @@ twedu-a01730	敘
 twedu-a01730-001	叙
 twedu-a01730-002	𣁏
 twedu-a01730-003	敍
-twedu-a01730-005	
+twedu-a01730-005	𪠩
 twedu-a01730-006	
 twedu-a01731	敞
 twedu-a01731-001	
@@ -16525,7 +16525,7 @@ twedu-a01771-004	𡆸
 twedu-a01771-005	𡇗
 twedu-a01771-006	𡈎
 twedu-a01772	旦
-twedu-a01772-001	
+twedu-a01772-001	𣅂
 twedu-a01772-002	且
 twedu-a01772-003	
 twedu-a01772-004	
@@ -17080,7 +17080,7 @@ twedu-a01831-004
 twedu-a01831-005	
 twedu-a01831-006	
 twedu-a01831-007	
-twedu-a01831-008	
+twedu-a01831-008	𡆪
 twedu-a01831-009	
 twedu-a01831-010	
 twedu-a01831-011	
@@ -17095,7 +17095,7 @@ twedu-a01831-015
 twedu-a01832	曳
 twedu-a01832-001	曵
 twedu-a01832-002	𦥙
-twedu-a01832-003	
+twedu-a01832-003	电
 twedu-a01832-004	
 twedu-a01832-005	
 twedu-a01832-006	
@@ -17971,7 +17971,7 @@ twedu-a01947-007	坆
 twedu-a01947-008	
 twedu-a01947-009	
 twedu-a01947-010	
-twedu-a01947-012	
+twedu-a01947-012	呆
 twedu-a01947-013	𣒫
 twedu-a01947-014	𣏁
 twedu-a01947-015	
@@ -19096,7 +19096,7 @@ twedu-a02074-004	𡿌
 twedu-a02074-005	𢊆
 twedu-a02074-006	
 twedu-a02074-007	
-twedu-a02074-008	
+twedu-a02074-008	𡻤
 twedu-a02074-009	
 twedu-a02074-010	
 twedu-a02074-011	
@@ -19224,7 +19224,7 @@ twedu-a02078-013
 twedu-a02078-015	
 twedu-a02078-017	
 twedu-a02078-018	
-twedu-a02078-019	
+twedu-a02078-019	𪠲
 twedu-a02078-020	
 twedu-a02078-023	圽
 twedu-a02079	殃
@@ -20822,7 +20822,7 @@ twedu-a02289	溺
 twedu-a02289-001	𡲳
 twedu-a02289-002	氼
 twedu-a02289-003	㲻
-twedu-a02289-005	
+twedu-a02289-005	𣲙
 twedu-a02290	溫
 twedu-a02290-001	温
 twedu-a02290-002	
@@ -21732,7 +21732,7 @@ twedu-a02390	炎
 twedu-a02390-001	炏
 twedu-a02390-002	
 twedu-a02390-003	
-twedu-a02390-004	
+twedu-a02390-004	𡗩
 twedu-a02391	炒
 twedu-a02391-003-1	㶤
 twedu-a02391-004	𤊛
@@ -22597,7 +22597,7 @@ twedu-a02468-006
 twedu-a02468-007	
 twedu-a02468-008	
 twedu-a02468-009	
-twedu-a02468-010	
+twedu-a02468-010	𪜃
 twedu-a02468-011	
 twedu-a02468-011-1	
 twedu-a02468-011-2	
@@ -23407,7 +23407,7 @@ twedu-a02552-005	壬
 twedu-a02552-006	𥝍
 twedu-a02552-007	
 twedu-a02552-008	
-twedu-a02552-009	
+twedu-a02552-009	𢏝
 twedu-a02552-010	
 twedu-a02552-011	𡈼
 twedu-a02552-012	
@@ -23716,7 +23716,7 @@ twedu-a02597-014-2
 twedu-a02597-014-3	
 twedu-a02598	瑩
 twedu-a02598-001	
-twedu-a02598-002	
+twedu-a02598-002	𤫎
 twedu-a02598-003	
 twedu-a02598-004	
 twedu-a02599	璋
@@ -23978,7 +23978,7 @@ twedu-a02622-009	𩚣
 twedu-a02623	生
 twedu-a02623-001	𤯓
 twedu-a02623-002	𠤵
-twedu-a02623-003	
+twedu-a02623-003	龶
 twedu-a02623-004	𠥱
 twedu-a02624	產
 twedu-a02624-001	産
@@ -24848,7 +24848,7 @@ twedu-a02726-010
 twedu-a02726-014	
 twedu-a02726-015	
 twedu-a02726-016	
-twedu-a02726-017	
+twedu-a02726-017	䍿
 twedu-a02726-018	
 twedu-a02726-019	
 twedu-a02726-019-1	
@@ -24945,7 +24945,7 @@ twedu-a02735-027	𩋓
 twedu-a02735-028	
 twedu-a02735-029	
 twedu-a02736	皿
-twedu-a02736-001	
+twedu-a02736-001	𠀜
 twedu-a02737	盂
 twedu-a02737-001	𥁄
 twedu-a02737-003	𥁄
@@ -26121,7 +26121,7 @@ twedu-a02890-015
 twedu-a02890-016	
 twedu-a02890-017	
 twedu-a02890-018	
-twedu-a02890-019	
+twedu-a02890-019	𫋵
 twedu-a02890-020	
 twedu-a02890-021	
 twedu-a02890-022	
@@ -26240,7 +26240,7 @@ twedu-a02900-005
 twedu-a02901	福
 twedu-a02901-002	福
 twedu-a02901-003	畗
-twedu-a02901-004-1	
+twedu-a02901-004-1	稫
 twedu-a02901-005	
 twedu-a02901-006	
 twedu-a02901-007	
@@ -27056,7 +27056,7 @@ twedu-a02962-005
 twedu-a02962-007	
 twedu-a02962-008	
 twedu-a02962-009	
-twedu-a02962-011	
+twedu-a02962-011	𥧽
 twedu-a02962-012	
 twedu-a02962-012-1	𡣡
 twedu-a02962-013	
@@ -27333,7 +27333,7 @@ twedu-a02983-019
 twedu-a02984	竹
 twedu-a02984-001	
 twedu-a02984-003	廾
-twedu-a02984-004	
+twedu-a02984-004	艸
 twedu-a02984-006	
 twedu-a02985	竺
 twedu-a02985-001	
@@ -30173,7 +30173,7 @@ twedu-a03282-015
 twedu-a03282-016	
 twedu-a03282-017	
 twedu-a03282-018	
-twedu-a03282-019	
+twedu-a03282-019	𪢧
 twedu-a03282-019-1	
 twedu-a03282-020	
 twedu-a03283	聿
@@ -31299,7 +31299,7 @@ twedu-a03397-003	𦦊
 twedu-a03397-003-1	
 twedu-a03397-004	
 twedu-a03397-005	
-twedu-a03397-006	
+twedu-a03397-006	𤽲
 twedu-a03397-007	
 twedu-a03397-008	
 twedu-a03397-009	
@@ -31763,7 +31763,7 @@ twedu-a03442-006	𦱻
 twedu-a03442-007	𦷝
 twedu-a03442-008	
 twedu-a03442-009	
-twedu-a03442-010	
+twedu-a03442-010	茤
 twedu-a03442-011	
 twedu-a03442-012	
 twedu-a03442-013	
@@ -32098,7 +32098,7 @@ twedu-a03485-009-1
 twedu-a03485-010	
 twedu-a03485-012	
 twedu-a03485-013	
-twedu-a03485-013-1	
+twedu-a03485-013-1	𢳠
 twedu-a03485-016	𦯨
 twedu-a03486	莫
 twedu-a03486-001	𦱤
@@ -32265,8 +32265,8 @@ twedu-a03503-066
 twedu-a03503-067	
 twedu-a03503-068	
 twedu-a03503-069	
-twedu-a03503-070	
-twedu-a03503-071	
+twedu-a03503-070	𫈐
+twedu-a03503-071	𦮴
 twedu-a03503-072	
 twedu-a03503-073	
 twedu-a03503-075	
@@ -32284,12 +32284,12 @@ twedu-a03503-088
 twedu-a03503-090	
 twedu-a03503-092	
 twedu-a03503-093	
-twedu-a03503-094	
+twedu-a03503-094	𦶎
 twedu-a03503-095	
 twedu-a03503-096	
 twedu-a03503-097	
 twedu-a03503-097-3	𡾀
-twedu-a03503-098	
+twedu-a03503-098	蘤
 twedu-a03504	菱
 twedu-a03504-001	𧅊
 twedu-a03504-002	𧃮
@@ -32599,7 +32599,7 @@ twedu-a03537-011
 twedu-a03537-013	
 twedu-a03537-015	
 twedu-a03537-018	
-twedu-a03537-019	
+twedu-a03537-019	䝉
 twedu-a03537-020	
 twedu-a03537-021	
 twedu-a03538	蒞
@@ -33473,7 +33473,7 @@ twedu-a03613-031
 twedu-a03614	虫
 twedu-a03614-001	
 twedu-a03614-002	𧈰
-twedu-a03614-003	
+twedu-a03614-003	䖝
 twedu-a03614-004	
 twedu-a03614-005	
 twedu-a03615	虱
@@ -33876,7 +33876,7 @@ twedu-a03682-008	蟺
 twedu-a03683	蟲
 twedu-a03683-001	虫
 twedu-a03683-002	
-twedu-a03683-003	
+twedu-a03683-003	䖝
 twedu-a03683-004	
 twedu-a03684	蟻
 twedu-a03684-001	螘
@@ -34554,7 +34554,7 @@ twedu-a03752	褶
 twedu-a03752-001	
 twedu-a03752-002	
 twedu-a03752-003	
-twedu-a03752-004	
+twedu-a03752-004	𧚻
 twedu-a03752-004-1	
 twedu-a03753	襄
 twedu-a03753-001	㐮
@@ -36237,10 +36237,10 @@ twedu-a03925-004	𧳒
 twedu-a03925-005	𧳖
 twedu-a03925-008	𨓅
 twedu-a03925-009	䫉
-twedu-a03925-010	
+twedu-a03925-010	皀
 twedu-a03925-011	
 twedu-a03925-012	貇
-twedu-a03925-013	
+twedu-a03925-013	𧳓
 twedu-a03925-014	狠
 twedu-a03925-015	
 twedu-a03925-016	
@@ -38351,7 +38351,7 @@ twedu-a04161-004
 twedu-a04161-005	
 twedu-a04161-006	
 twedu-a04161-007	达
-twedu-a04161-008	
+twedu-a04161-008	𫐳
 twedu-a04161-009	
 twedu-a04161-010	
 twedu-a04162	逼
@@ -39665,7 +39665,7 @@ twedu-a04274-007
 twedu-a04274-009	
 twedu-a04275	鈍
 twedu-a04275-001	𨆛
-twedu-a04275-002	
+twedu-a04275-002	𫒇
 twedu-a04275-003	
 twedu-a04275-004	䤜
 twedu-a04276	鈐
@@ -40383,7 +40383,7 @@ twedu-a04373-013
 twedu-a04373-014	𨵰
 twedu-a04373-015	
 twedu-a04373-017	
-twedu-a04373-019	
+twedu-a04373-019	𨳓
 twedu-a04374	閔
 twedu-a04374-001	㥸
 twedu-a04374-002	
@@ -40423,7 +40423,7 @@ twedu-a04376-019	𨶷
 twedu-a04377	閑
 twedu-a04377-001	
 twedu-a04377-002	䦥
-twedu-a04377-003	
+twedu-a04377-003	閖
 twedu-a04377-005-1	
 twedu-a04378	間
 twedu-a04378-001	閒
@@ -40588,7 +40588,7 @@ twedu-a04398-021
 twedu-a04398-022	关
 twedu-a04398-024	
 twedu-a04398-025	
-twedu-a04398-026	
+twedu-a04398-026	𫔢
 twedu-a04398-027	
 twedu-a04398-028	𨵈
 twedu-a04398-028-1	
@@ -41083,7 +41083,7 @@ twedu-a04445-002
 twedu-a04445-003	嶮
 twedu-a04445-004	
 twedu-a04445-005	
-twedu-a04445-007	
+twedu-a04445-007	𡽃
 twedu-a04445-008	
 twedu-a04445-009	
 twedu-a04446	隱
@@ -41406,7 +41406,7 @@ twedu-a04468-011
 twedu-a04468-012	
 twedu-a04468-013	
 twedu-a04468-015	
-twedu-a04468-015-1	
+twedu-a04468-015-1	𡷎
 twedu-a04469	雪
 twedu-a04469-001	䨮
 twedu-a04469-002	
@@ -41497,7 +41497,7 @@ twedu-a04475-008	𤅫
 twedu-a04475-009	𩅶
 twedu-a04475-010	
 twedu-a04475-011	
-twedu-a04475-012	
+twedu-a04475-012	𥥋
 twedu-a04475-013	
 twedu-a04475-014	
 twedu-a04475-016-1	
@@ -42520,7 +42520,7 @@ twedu-a04572-026
 twedu-a04572-027	
 twedu-a04572-028	
 twedu-a04572-029	
-twedu-a04572-030	
+twedu-a04572-030	风
 twedu-a04572-031	
 twedu-a04572-032	
 twedu-a04572-033	
@@ -43491,21 +43491,21 @@ twedu-a04678-006	𩰖
 twedu-a04678-007	鬬
 twedu-a04678-008	鬭
 twedu-a04678-009	
-twedu-a04678-010	
-twedu-a04678-011	
+twedu-a04678-010	𨴜
+twedu-a04678-011	𫔡
 twedu-a04678-012	
-twedu-a04678-013	
+twedu-a04678-013	𨷖
 twedu-a04678-014	𨶜
 twedu-a04678-015	
 twedu-a04678-018	
-twedu-a04678-019	
+twedu-a04678-019	𩰚
 twedu-a04678-020	斗
 twedu-a04678-021	
 twedu-a04678-022	
-twedu-a04678-023	
-twedu-a04678-024	
+twedu-a04678-023	𫔯
+twedu-a04678-024	𨷵
 twedu-a04678-028	
-twedu-a04678-028-1	
+twedu-a04678-028-1	閗
 twedu-a04678-028-2	
 twedu-a04679	鬧
 twedu-a04679-001	𠆴
@@ -43967,7 +43967,7 @@ twedu-a04716-003
 twedu-a04716-004	
 twedu-a04716-005	
 twedu-a04716-006	
-twedu-a04716-007	
+twedu-a04716-007	鸟
 twedu-a04716-010	𪈼
 twedu-a04717	鳩
 twedu-a04717-001	䧱
@@ -44015,7 +44015,7 @@ twedu-a04720-024
 twedu-a04720-025	
 twedu-a04720-026	
 twedu-a04720-027	
-twedu-a04720-028	
+twedu-a04720-028	风
 twedu-a04720-031	
 twedu-a04720-032	
 twedu-a04720-034	
@@ -44457,11 +44457,11 @@ twedu-a04765-001	尛
 twedu-a04765-002	𡭯
 twedu-a04765-003	𡮡
 twedu-a04765-004	𤹳
-twedu-a04765-006	
+twedu-a04765-006	庅
 twedu-a04765-007	
 twedu-a04765-008	么
 twedu-a04765-009	
-twedu-a04765-010	
+twedu-a04765-010	𡻤
 twedu-a04765-011	𡭚
 twedu-a04765-012	
 twedu-a04765-013	𢇝
@@ -44923,12 +44923,12 @@ twedu-a04796-036
 twedu-a04796-041-1	
 twedu-a04796-044	
 twedu-a04796-045	
-twedu-a04796-046	
+twedu-a04796-046	齿
 twedu-a04796-047	
 twedu-a04796-049	
 twedu-a04796-050	
 twedu-a04796-051	
-twedu-a04796-052	
+twedu-a04796-052	𠚄
 twedu-a04796-053	
 twedu-a04796-054	
 twedu-a04796-055	
@@ -44944,7 +44944,7 @@ twedu-a04799-001	𪗲
 twedu-a04799-002	
 twedu-a04799-003	
 twedu-a04799-004	
-twedu-a04799-005	
+twedu-a04799-005	龄
 twedu-a04799-006	
 twedu-a04799-007	
 twedu-a04799-009	
@@ -44974,7 +44974,7 @@ twedu-a04800-001	𪗶
 twedu-a04800-002	𪘿
 twedu-a04800-003	
 twedu-a04800-004	
-twedu-a04800-006	
+twedu-a04800-006	龇
 twedu-a04801	齦
 twedu-a04801-001	㸧
 twedu-a04801-002	𪙲
@@ -45027,7 +45027,7 @@ twedu-a04806-025
 twedu-a04806-026	
 twedu-a04806-027	
 twedu-a04806-028	
-twedu-a04806-029	
+twedu-a04806-029	靇
 twedu-a04806-030	
 twedu-a04806-031	
 twedu-a04806-032	
@@ -45042,7 +45042,7 @@ twedu-a04806-041
 twedu-a04806-042	
 twedu-a04806-043	
 twedu-a04806-044	
-twedu-a04806-045	
+twedu-a04806-045	𢄫
 twedu-a04806-046	
 twedu-a04806-047	
 twedu-a04806-048	
@@ -45203,7 +45203,7 @@ twedu-b00012-004
 twedu-b00012-005	卞
 twedu-b00013	亢
 twedu-b00013-001	頏
-twedu-b00013-002	
+twedu-b00013-002	𪜠
 twedu-b00013-003	
 twedu-b00013-004	
 twedu-b00013-005	
@@ -46082,7 +46082,7 @@ twedu-b00277-001	厈
 twedu-b00278	厎
 twedu-b00278-001	
 twedu-b00278-002	㕄
-twedu-b00278-003	
+twedu-b00278-003	𠨿
 twedu-b00279	厒
 twedu-b00279-001	𠩂
 twedu-b00279-002	𠩧
@@ -46742,7 +46742,7 @@ twedu-b00481-004	𩒦
 twedu-b00481-005	䪿
 twedu-b00481-006	𩔨
 twedu-b00481-007	顖
-twedu-b00481-008	
+twedu-b00481-008	龱
 twedu-b00481-009	
 twedu-b00481-010	𩔙
 twedu-b00481-011	
@@ -48326,7 +48326,7 @@ twedu-b00896-001
 twedu-b00896-002	
 twedu-b00896-003	
 twedu-b00897	嶮
-twedu-b00897-001	
+twedu-b00897-001	𡽃	# 字形変更
 twedu-b00898	嶪
 twedu-b00898-001	嶫
 twedu-b00898-002	
@@ -48900,7 +48900,7 @@ twedu-b01031-001	倈
 twedu-b01031-002	
 twedu-b01031-003	勑
 twedu-b01031-003-1	逨
-twedu-b01031-004	
+twedu-b01031-004	俫
 twedu-b01032	徛
 twedu-b01032-001	𢕗
 twedu-b01032-002	
@@ -50344,7 +50344,7 @@ twedu-b01471-002	勅
 twedu-b01471-003	勑
 twedu-b01471-004	𢽈
 twedu-b01471-005	𢽟
-twedu-b01471-006	
+twedu-b01471-006	敇
 twedu-b01471-007	
 twedu-b01471-009	
 twedu-b01471-011	
@@ -55349,7 +55349,7 @@ twedu-b02918	矂
 twedu-b02919	瞼
 twedu-b02919-001	
 twedu-b02919-002	
-twedu-b02919-003	
+twedu-b02919-003	𥇥
 twedu-b02920	矉
 twedu-b02920-001	
 twedu-b02920-002	
@@ -64467,10 +64467,10 @@ twedu-b05516-001	𩰙
 twedu-b05516-002	
 twedu-b05517	闥
 twedu-b05517-001	
-twedu-b05517-002	
+twedu-b05517-002	闼
 twedu-b05517-003	
 twedu-b05517-004	
-twedu-b05517-005	
+twedu-b05517-005	𨵉
 twedu-b05518	闤
 twedu-b05518-001	𨷤
 twedu-b05518-002	
@@ -65918,7 +65918,7 @@ twedu-b05859-001	𩦿
 twedu-b05860	驠
 twedu-b05861	驤
 twedu-b05861-001	
-twedu-b05861-002	
+twedu-b05861-002	𩦪
 twedu-b05861-003	
 twedu-b05861-004	
 twedu-b05861-005	
@@ -66691,7 +66691,7 @@ twedu-b06003	鰩
 twedu-b06003-001	
 twedu-b06004	鱆
 twedu-b06005	鱈
-twedu-b06005-001	
+twedu-b06005-001	鳕
 twedu-b06006	鰿
 twedu-b06006-001	𧐐
 twedu-b06006-002	𩼜
@@ -66802,7 +66802,7 @@ twedu-b06034-002
 twedu-b06034-003	
 twedu-b06035	鳦
 twedu-b06035-001	
-twedu-b06035-002	
+twedu-b06035-002	𩾐
 twedu-b06035-003	乙
 twedu-b06035-004	𠃉
 twedu-b06036	鳪
@@ -68148,7 +68148,7 @@ twedu-b06305-001	齓
 twedu-b06305-002	𪗕
 twedu-b06305-003	𪗠
 twedu-b06305-004	𪗥
-twedu-b06305-005	
+twedu-b06305-005	龀
 twedu-b06305-006	
 twedu-b06305-007	
 twedu-b06305-008	
@@ -70756,7 +70756,7 @@ twedu-c01435-001
 twedu-c01435-002	
 twedu-c01435-003	𠭵
 twedu-c01435-004	𠷎
-twedu-c01435-005	
+twedu-c01435-005	𠼡
 twedu-c01436	𠿆
 twedu-c01437	𠾥
 twedu-c01438	嘼
@@ -70785,7 +70785,7 @@ twedu-c01452	𡀺
 twedu-c01452-001	
 twedu-c01453	𠿺
 twedu-c01454	㗿
-twedu-c01454-001	
+twedu-c01454-001	𠽫
 twedu-c01455	噧
 twedu-c01455-001	
 twedu-c01455-002	䜕
@@ -72110,7 +72110,7 @@ twedu-c02221	𡞯
 twedu-c02222	媌
 twedu-c02222-001	㑤
 twedu-c02222-002	㚹
-twedu-c02222-003	
+twedu-c02222-003	𪝌
 twedu-c02223	媖
 twedu-c02224	媜
 twedu-c02225	𡟠
@@ -76496,7 +76496,7 @@ twedu-c04560	𢼆
 twedu-c04560-001	
 twedu-c04560-002	𢻵
 twedu-c04560-003	𢺷
-twedu-c04560-004	
+twedu-c04560-004	𢂤
 twedu-c04561	𢻷
 twedu-c04561-001	
 twedu-c04561-002	
@@ -81411,7 +81411,7 @@ twedu-c07156-001-1	𤝂
 twedu-c07156-002	𤜲
 twedu-c07156-003	
 twedu-c07156-004	
-twedu-c07156-005	
+twedu-c07156-005	𢂤
 twedu-c07157	𤜻
 twedu-c07158	犼
 twedu-c07159	狇
@@ -82475,7 +82475,7 @@ twedu-c07725	𤰅
 twedu-c07726	𤰈
 twedu-c07726-001	𤰇
 twedu-c07726-002	𦯞
-twedu-c07726-003	
+twedu-c07726-003	备
 twedu-c07726-004	𠃰
 twedu-c07726-005	
 twedu-c07726-006	
@@ -87967,7 +87967,7 @@ twedu-c10672-002	𦒸
 twedu-c10672-003	
 twedu-c10672-004	
 twedu-c10673	𦒺
-twedu-c10673-001	
+twedu-c10673-001	𠺛
 twedu-c10673-002	𡄒
 twedu-c10673-003	𦓃
 twedu-c10673-004	
@@ -92060,11 +92060,11 @@ twedu-c12844	䙲
 twedu-c12844-001	𦦉
 twedu-c12844-002	𦧂
 twedu-c12844-003	𧟨
-twedu-c12844-004	
-twedu-c12844-005	
+twedu-c12844-004	䙴
+twedu-c12844-005	𠨧
 twedu-c12844-006	
 twedu-c12844-009	
-twedu-c12844-011	
+twedu-c12844-011	𦦒
 twedu-c12844-012	
 twedu-c12845	𧟧
 twedu-c12845-001	
@@ -92257,7 +92257,7 @@ twedu-c12931-014
 twedu-c12932	𧢭
 twedu-c12932-001	
 twedu-c12933	𧢯
-twedu-c12933-002	
+twedu-c12933-002	𧢰
 twedu-c12934	𧢵
 twedu-c12935	𧢷
 twedu-c12935-001-1	
@@ -103356,7 +103356,7 @@ twedu-c18360	龓
 twedu-c18360-001	𪚞
 twedu-c18361	𪚠
 twedu-c18362	龖
-twedu-c18362-001	
+twedu-c18362-001	龘
 twedu-c18363	龗
 twedu-c18363-001	𪚙
 twedu-c18363-002	𩆇
@@ -103826,7 +103826,7 @@ twedu-n00171	𧟨
 twedu-n00171-001	
 twedu-n00171-002	
 twedu-n00171-003	
-twedu-n00171-004	
+twedu-n00171-004	𧟤
 twedu-n00172	䐊
 twedu-n00173	嵤
 twedu-n00174	婹
