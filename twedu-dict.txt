@@ -1,9 +1,10 @@
 twedu-a00001	一
 twedu-a00001-001	𠤪
 twedu-a00001-002	弌
-twedu-a00001-003	
+twedu-a00001-003	⿹戈一
 twedu-a00001-004	
 twedu-a00001-005	壹
+twedu-a00001-006	
 twedu-a00002	丁
 twedu-a00002-001	𠆤
 twedu-a00003	七
@@ -2189,7 +2190,7 @@ twedu-a00277-001	児
 twedu-a00277-002	𠒆
 twedu-a00277-003	𧠇
 twedu-a00277-004	
-twedu-a00277-005	
+twedu-a00277-005	𫤗
 twedu-a00277-006	
 twedu-a00277-007	
 twedu-a00277-008	
@@ -2338,7 +2339,7 @@ twedu-a00290-010
 twedu-a00290-011	
 twedu-a00290-012	
 twedu-a00290-013	
-twedu-a00290-014	𠊏	# 画像変更
+twedu-a00290-014	𠊏
 twedu-a00290-015	𡲍
 twedu-a00290-016	
 twedu-a00290-017	
@@ -3724,7 +3725,7 @@ twedu-a00415-005
 twedu-a00415-006	匕
 twedu-a00415-007	
 twedu-a00415-007-1	
-twedu-a00415-007-2	𫁉	# 画像変更
+twedu-a00415-007-2	𫁉
 twedu-a00415-008	㐶
 twedu-a00415-009	
 twedu-a00415-010	
@@ -17125,7 +17126,7 @@ twedu-a01835-007
 twedu-a01836	曹
 twedu-a01836-001	𣍘
 twedu-a01836-002	𣌼
-twedu-a01836-003	
+twedu-a01836-003	曺
 twedu-a01836-004	𣊛
 twedu-a01836-006	
 twedu-a01836-007	
@@ -27489,7 +27490,7 @@ twedu-a03006	筷
 twedu-a03007	節
 twedu-a03007-001	𢎟
 twedu-a03007-002	
-twedu-a03007-003	
+twedu-a03007-003	节
 twedu-a03007-004	
 twedu-a03007-005	
 twedu-a03007-006	
@@ -27848,7 +27849,7 @@ twedu-a03050-006
 twedu-a03050-007	
 twedu-a03050-008	
 twedu-a03050-009	
-twedu-a03050-010	
+twedu-a03050-010	笼
 twedu-a03050-011	𪚖
 twedu-a03051	籟
 twedu-a03051-001	
@@ -48326,7 +48327,7 @@ twedu-b00896-001
 twedu-b00896-002	
 twedu-b00896-003	
 twedu-b00897	嶮
-twedu-b00897-001	𡽃	# 字形変更
+twedu-b00897-001	𡽃
 twedu-b00898	嶪
 twedu-b00898-001	嶫
 twedu-b00898-002	
