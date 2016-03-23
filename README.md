@@ -21,4 +21,4 @@ For anyone interested in developing these data, please fork the data.
 
 ## Licence
 
-  These data are distributed under (GPLv2)[http://www.gnu.org/licenses/gpl-2.0.html].
+  These data are distributed under [GPLv2](http://www.gnu.org/licenses/gpl-2.0.html).
